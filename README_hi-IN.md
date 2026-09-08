@@ -179,7 +179,7 @@ Aspect Ratio: 9:16 vertical
 
 <a name="prompt-2097168437957263851"></a>
 
-### 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
+### एक विशाल केक फैक्ट्री के अंदर के लघु दृश्य को दर्शाने वाला 10-सेकंड का अति-यथार्थवादी सिनेमाई वीडियो प्रॉम्प्ट, जहाँ नन्हे बेकर्स मिलकर एक विशाल बहुस्तरीय जन्मदिन का केक सजा रहे हैं।
 
 लेखक：[@AiwithBloodline](https://x.com/AiwithBloodline) · [मूल पोस्ट](https://x.com/AiwithBloodline/status/2097168437957263851)
 
@@ -187,18 +187,18 @@ Aspect Ratio: 9:16 vertical
 
 मूल पोस्ट：[@AiwithBloodline](https://x.com/AiwithBloodline) · [मूल पोस्ट](https://x.com/AiwithBloodline/status/2096937365260624328)
 
-**सारांश:** 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
+**सारांश:** एक विशाल केक फैक्ट्री के अंदर के लघु दृश्य को दर्शाने वाला 10-सेकंड का अति-यथार्थवादी सिनेमाई वीडियो प्रॉम्प्ट, जहाँ नन्हे बेकर्स मिलकर एक विशाल बहुस्तरीय जन्मदिन का केक सजा रहे हैं।
 
 <img src="covers/2097168437957263851.jpg" alt="चित्र 1" width="480" />
 
 **प्रॉम्प्ट**
 
 ```text
-Create a 10-second ultra-realistic cinematic miniature video set inside a gigantic, whimsical cake factory. Tiny bakers wearing white chef uniforms and small baker hats work together to decorate a massive multi-layer birthday cake that towers over them.
-0–3 sec: Wide establishing shot of the enormous cake on a factory table, with tiny bakers climbing ladders and carrying colorful frosting tools.
-3–7 sec: Close-up tracking shot as the bakers pipe thick swirls of cream, add strawberries and sprinkles, and carefully place giant colorful candles.
-7–10 sec: Dramatic cinematic pull-back revealing the fully decorated birthday cake, glowing warmly under factory lights as the tiny bakers celebrate around it.
-Highly detailed miniature scale, realistic human movement, creamy frosting textures, colorful decorations, warm bakery lighting, shallow depth of field, cinematic camera movement, macro photography look, playful but photorealistic, 4K, 16:9, no text, no logos, no music, only natural ASMR bakery sounds such as frosting being piped, footsteps, tools clinking, and soft factory ambience.
+एक विशाल, जादुई केक फैक्ट्री के अंदर सेट किया गया 10-सेकंड का अति-यथार्थवादी सिनेमाई मिनिएचर (लघु) वीडियो बनाएं। सफेद शेफ की वर्दी और छोटी बेकर टोपी पहने नन्हे बेकर्स एक विशाल बहुस्तरीय जन्मदिन के केक को सजाने के लिए मिलकर काम कर रहे हैं, जो उनके ऊपर बहुत ऊँचा खड़ा है।
+0–3 सेकंड: फैक्ट्री की मेज पर विशाल केक का विस्तृत इस्टैब्लिशिंग शॉट, जिसमें नन्हे बेकर्स सीढ़ियों पर चढ़ रहे हैं और रंग-बिरंगे फ्रॉस्टिंग उपकरण ले जा रहे हैं।
+3–7 सेकंड: क्लोज़-अप ट्रैकिंग शॉट जिसमें बेकर्स गाढ़ी क्रीम के घुमावदार पैटर्न बना रहे हैं, स्ट्रॉबेरी और स्प्रिंकल्स जोड़ रहे हैं, और सावधानी से विशाल रंगीन मोमबत्तियाँ लगा रहे हैं।
+7–10 सेकंड: नाटकीय सिनेमाई पुल-बैक शॉट जो पूरी तरह से सजे हुए जन्मदिन के केक को उजागर करता है, जो फैक्ट्री की रोशनी में गर्मजोशी से चमक रहा है और नन्हे बेकर्स इसके चारों ओर जश्न मना रहे हैं।
+अत्यधिक विस्तृत मिनिएचर स्केल, यथार्थवादी मानवीय हलचल, मलाईदार फ्रॉस्टिंग बनावट, रंग-बिरंगी सजावट, बेकरी की गर्म रोशनी, उथली डेप्थ ऑफ फील्ड, सिनेमाई कैमरा मूवमेंट, मैक्रो फोटोग्राफी लुक, चंचल लेकिन फोटोरियलिस्टिक, 4K, 16:9, कोई टेक्स्ट नहीं, कोई लोगो नहीं, कोई संगीत नहीं, केवल प्राकृतिक ASMR बेकरी ध्वनियाँ जैसे क्रीम पाइप करने की आवाज़, कदमों की आहट, औजारों की खनक और फैक्ट्री का शांत परिवेश।
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)

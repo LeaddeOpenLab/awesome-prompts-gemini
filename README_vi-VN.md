@@ -179,7 +179,7 @@ Aspect Ratio: 9:16 vertical
 
 <a name="prompt-2097168437957263851"></a>
 
-### 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
+### Lời nhắc video điện ảnh thu nhỏ siêu thực dài 10 giây mô tả khung cảnh bên trong một xưởng bánh kem khổng lồ, nơi những người thợ làm bánh tí hon đang cùng nhau trang trí chiếc bánh sinh nhật nhiều tầng khổng lồ.
 
 Tác giả：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](https://x.com/AiwithBloodline/status/2097168437957263851)
 
@@ -187,18 +187,18 @@ Tác giả：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](h
 
 Bài gốc：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](https://x.com/AiwithBloodline/status/2096937365260624328)
 
-**Tóm tắt:** 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
+**Tóm tắt:** Lời nhắc video điện ảnh thu nhỏ siêu thực dài 10 giây mô tả khung cảnh bên trong một xưởng bánh kem khổng lồ, nơi những người thợ làm bánh tí hon đang cùng nhau trang trí chiếc bánh sinh nhật nhiều tầng khổng lồ.
 
 <img src="covers/2097168437957263851.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Create a 10-second ultra-realistic cinematic miniature video set inside a gigantic, whimsical cake factory. Tiny bakers wearing white chef uniforms and small baker hats work together to decorate a massive multi-layer birthday cake that towers over them.
-0–3 sec: Wide establishing shot of the enormous cake on a factory table, with tiny bakers climbing ladders and carrying colorful frosting tools.
-3–7 sec: Close-up tracking shot as the bakers pipe thick swirls of cream, add strawberries and sprinkles, and carefully place giant colorful candles.
-7–10 sec: Dramatic cinematic pull-back revealing the fully decorated birthday cake, glowing warmly under factory lights as the tiny bakers celebrate around it.
-Highly detailed miniature scale, realistic human movement, creamy frosting textures, colorful decorations, warm bakery lighting, shallow depth of field, cinematic camera movement, macro photography look, playful but photorealistic, 4K, 16:9, no text, no logos, no music, only natural ASMR bakery sounds such as frosting being piped, footsteps, tools clinking, and soft factory ambience.
+Tạo một video điện ảnh thu nhỏ siêu thực dài 10 giây lấy bối cảnh bên trong một nhà máy bánh kem khổng lồ, kỳ ảo. Những người thợ làm bánh tí hon mặc đồng phục đầu bếp màu trắng và đội mũ thợ làm bánh nhỏ đang cùng nhau trang trí một chiếc bánh sinh nhật nhiều tầng khổng lồ cao sừng sững bên trên họ.
+0–3 giây: Cảnh quay toàn cảnh thiết lập chiếc bánh khổng lồ trên bàn xưởng, với những người thợ làm bánh tí hon đang leo thang và mang theo các dụng cụ phủ kem nhiều màu sắc.
+3–7 giây: Cảnh quay cận cảnh bám theo khi các thợ làm bánh bắt những xoáy kem dày, thêm dâu tây cùng cốm rắc nhiều màu, và cẩn thận cắm những cây nến khổng lồ rực rỡ sắc màu.
+7–10 giây: Cú kéo máy lùi lại đầy kịch tính theo phong cách điện ảnh để lộ chiếc bánh sinh nhật đã được trang trí hoàn thiện, tỏa sáng ấm áp dưới ánh đèn nhà xưởng trong khi những người thợ làm bánh tí hon ăn mừng xung quanh.
+Tỷ lệ thu nhỏ cực kỳ chi tiết, chuyển động con người chân thực, kết cấu kem phủ béo ngậy, đồ trang trí rực rỡ sắc màu, ánh sáng tiệm bánh ấm áp, độ sâu trường ảnh nông, chuyển động máy quay chuẩn điện ảnh, góc nhìn nhiếp ảnh macro, vui tươi nhưng chân thực như ảnh chụp, 4K, 16:9, không chữ, không logo, không âm nhạc, chỉ có âm thanh ASMR tự nhiên của tiệm bánh như tiếng bóp kem, tiếng bước chân, tiếng dụng cụ lách cách và âm thanh môi trường nhà máy êm dịu.
 ```
 
 [↑ Về danh mục](#catalog)

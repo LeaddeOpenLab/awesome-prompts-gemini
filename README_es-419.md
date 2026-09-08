@@ -179,7 +179,7 @@ Aspect Ratio: 9:16 vertical
 
 <a name="prompt-2097168437957263851"></a>
 
-### 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
+### Un prompt para un video cinematográfico ultrarrealista de 10 segundos que retrata una escena en miniatura dentro de una gigantesca fábrica de pasteles, donde pasteleros diminutos colaboran para decorar un enorme pastel de cumpleaños de varios pisos.
 
 Autor：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publicación original](https://x.com/AiwithBloodline/status/2097168437957263851)
 
@@ -187,18 +187,18 @@ Cine / Fotograma · Pendiente de distribución
 
 Publicación original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publicación original](https://x.com/AiwithBloodline/status/2096937365260624328)
 
-**Resumen:** 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
+**Resumen:** Un prompt para un video cinematográfico ultrarrealista de 10 segundos que retrata una escena en miniatura dentro de una gigantesca fábrica de pasteles, donde pasteleros diminutos colaboran para decorar un enorme pastel de cumpleaños de varios pisos.
 
 <img src="covers/2097168437957263851.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Create a 10-second ultra-realistic cinematic miniature video set inside a gigantic, whimsical cake factory. Tiny bakers wearing white chef uniforms and small baker hats work together to decorate a massive multi-layer birthday cake that towers over them.
-0–3 sec: Wide establishing shot of the enormous cake on a factory table, with tiny bakers climbing ladders and carrying colorful frosting tools.
-3–7 sec: Close-up tracking shot as the bakers pipe thick swirls of cream, add strawberries and sprinkles, and carefully place giant colorful candles.
-7–10 sec: Dramatic cinematic pull-back revealing the fully decorated birthday cake, glowing warmly under factory lights as the tiny bakers celebrate around it.
-Highly detailed miniature scale, realistic human movement, creamy frosting textures, colorful decorations, warm bakery lighting, shallow depth of field, cinematic camera movement, macro photography look, playful but photorealistic, 4K, 16:9, no text, no logos, no music, only natural ASMR bakery sounds such as frosting being piped, footsteps, tools clinking, and soft factory ambience.
+Crea un video cinematográfico en miniatura ultrarrealista de 10 segundos ambientado dentro de una gigantesca y fantástica fábrica de pasteles. Diminutos pasteleros con uniformes blancos de chef y pequeños gorros de panadero trabajan juntos para decorar un enorme pastel de cumpleaños de varios pisos que se eleva sobre ellos.
+0–3 s: Toma abierta de establecimiento del enorme pastel sobre una mesa de fábrica, con diminutos pasteleros subiendo por escaleras y cargando coloridas herramientas de glaseado.
+3–7 s: Toma de seguimiento en primer plano mientras los pasteleros aplican gruesas espirales de crema con manga, agregan fresas y chispas de colores, y colocan cuidadosamente velas gigantes multicolores.
+7–10 s: Retroceso de cámara cinematográfico y dramático que revela el pastel de cumpleaños completamente decorado, resplandeciendo cálidamente bajo las luces de la fábrica mientras los diminutos pasteleros celebran a su alrededor.
+Escala en miniatura sumamente detallada, movimiento humano realista, texturas cremosas de glaseado, decoraciones coloridas, iluminación cálida de pastelería, profundidad de campo reducida, movimiento cinematográfico de cámara, aspecto de fotografía macro, juguetón pero fotorrealista, 4K, 16:9, sin texto, sin logotipos, sin música, únicamente sonidos ASMR naturales de pastelería como la crema saliendo de la manga, pisadas, tintineo de herramientas y un suave ambiente de fábrica.
 ```
 
 [↑ Volver a categorías](#catalog)

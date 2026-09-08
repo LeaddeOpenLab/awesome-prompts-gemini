@@ -179,7 +179,7 @@ Aspect Ratio: 9:16 vertical
 
 <a name="prompt-2097168437957263851"></a>
 
-### 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
+### Devasa bir pasta fabrikasının içindeki minyatür bir sahneyi tasvir eden, minik fırıncıların çok katlı devasa bir doğum günü pastasını süslemek için birlikte çalıştığı 10 saniyelik ultra gerçekçi sinematik bir video istemi.
 
 Yazar：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi](https://x.com/AiwithBloodline/status/2097168437957263851)
 
@@ -187,18 +187,18 @@ Sinematik / Film Karesi · Dağıtım bekliyor
 
 Orijinal gönderi：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi](https://x.com/AiwithBloodline/status/2096937365260624328)
 
-**Özet:** 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
+**Özet:** Devasa bir pasta fabrikasının içindeki minyatür bir sahneyi tasvir eden, minik fırıncıların çok katlı devasa bir doğum günü pastasını süslemek için birlikte çalıştığı 10 saniyelik ultra gerçekçi sinematik bir video istemi.
 
 <img src="covers/2097168437957263851.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Create a 10-second ultra-realistic cinematic miniature video set inside a gigantic, whimsical cake factory. Tiny bakers wearing white chef uniforms and small baker hats work together to decorate a massive multi-layer birthday cake that towers over them.
-0–3 sec: Wide establishing shot of the enormous cake on a factory table, with tiny bakers climbing ladders and carrying colorful frosting tools.
-3–7 sec: Close-up tracking shot as the bakers pipe thick swirls of cream, add strawberries and sprinkles, and carefully place giant colorful candles.
-7–10 sec: Dramatic cinematic pull-back revealing the fully decorated birthday cake, glowing warmly under factory lights as the tiny bakers celebrate around it.
-Highly detailed miniature scale, realistic human movement, creamy frosting textures, colorful decorations, warm bakery lighting, shallow depth of field, cinematic camera movement, macro photography look, playful but photorealistic, 4K, 16:9, no text, no logos, no music, only natural ASMR bakery sounds such as frosting being piped, footsteps, tools clinking, and soft factory ambience.
+Devasa ve masalsı bir pasta fabrikasının içinde geçen 10 saniyelik ultra gerçekçi, sinematik bir minyatür video oluşturun. Beyaz şef üniformaları ve küçük fırıncı şapkaları giymiş minik fırıncılar, üzerlerinde heybetle yükselen çok katlı devasa bir doğum günü pastasını süslemek için birlikte çalışıyor.
+0–3 sn: Bir fabrika masası üzerindeki devasa pastanın geniş açılı tanıtım çekimi; minik fırıncılar merdivenlere tırmanıyor ve renkli krema aletleri taşıyor.
+3–7 sn: Fırıncıların kalın krema kıvrımları sıktığı, çilekler ile pasta süsleri eklediği ve devasa renkli mumları özenle yerleştirdiği yakın takip çekimi.
+7–10 sn: Fabrika ışıkları altında sıcak bir şekilde parıldayan ve tamamen süslenmiş doğum günü pastasını ortaya çıkaran dramatik sinematik geri çekilme çekimi; minik fırıncılar etrafında kutlama yapıyor.
+Yüksek derecede ayrıntılı minyatür ölçek, gerçekçi insan hareketi, kremsi krema dokuları, rengarenk süslemeler, sıcak fırın aydınlatması, sığ alan derinliği, sinematik kamera hareketi, makro fotoğrafçılık görünümü, neşeli ama fotogerçekçi, 4K, 16:9, metin yok, logo yok, müzik yok, yalnızca sıkılan krema, ayak sesleri, şıngırdayan aletler ve yumuşak fabrika ambiyansı gibi doğal ASMR fırın sesleri.
 ```
 
 [↑ Kategorilere dön](#catalog)

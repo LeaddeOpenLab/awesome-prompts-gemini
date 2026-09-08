@@ -179,7 +179,7 @@ Aspect Ratio: 9:16 vertical
 
 <a name="prompt-2097168437957263851"></a>
 
-### 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
+### Un prompt pour une vidéo cinématographique ultra-réaliste de 10 secondes dépeignant une scène miniature à l'intérieur d'une usine de gâteaux géante, où de minuscules pâtissiers collaborent pour décorer un énorme gâteau d'anniversaire à plusieurs étages.
 
 Auteur：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publication originale](https://x.com/AiwithBloodline/status/2097168437957263851)
 
@@ -187,18 +187,18 @@ Image cinématographique / Photogramme de film · Diffusion en attente
 
 Publication originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publication originale](https://x.com/AiwithBloodline/status/2096937365260624328)
 
-**Résumé:** 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
+**Résumé:** Un prompt pour une vidéo cinématographique ultra-réaliste de 10 secondes dépeignant une scène miniature à l'intérieur d'une usine de gâteaux géante, où de minuscules pâtissiers collaborent pour décorer un énorme gâteau d'anniversaire à plusieurs étages.
 
 <img src="covers/2097168437957263851.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Create a 10-second ultra-realistic cinematic miniature video set inside a gigantic, whimsical cake factory. Tiny bakers wearing white chef uniforms and small baker hats work together to decorate a massive multi-layer birthday cake that towers over them.
-0–3 sec: Wide establishing shot of the enormous cake on a factory table, with tiny bakers climbing ladders and carrying colorful frosting tools.
-3–7 sec: Close-up tracking shot as the bakers pipe thick swirls of cream, add strawberries and sprinkles, and carefully place giant colorful candles.
-7–10 sec: Dramatic cinematic pull-back revealing the fully decorated birthday cake, glowing warmly under factory lights as the tiny bakers celebrate around it.
-Highly detailed miniature scale, realistic human movement, creamy frosting textures, colorful decorations, warm bakery lighting, shallow depth of field, cinematic camera movement, macro photography look, playful but photorealistic, 4K, 16:9, no text, no logos, no music, only natural ASMR bakery sounds such as frosting being piped, footsteps, tools clinking, and soft factory ambience.
+Créez une vidéo cinématographique miniature ultra-réaliste de 10 secondes se déroulant à l'intérieur d'une fabrique de gâteaux gigantesque et féerique. De minuscules pâtissiers vêtus d'uniformes blancs de chef et de petites toques travaillent ensemble pour décorer un immense gâteau d'anniversaire à plusieurs étages qui les domine de toute sa hauteur.
+0–3 s : Plan d'ensemble d'exposition de l'énorme gâteau sur une table d'usine, avec de minuscules pâtissiers grimpant sur des échelles et transportant des outils de glaçage colorés.
+3–7 s : Plan de suivi rapproché pendant que les pâtissiers déposent à la poche d'épaisses volutes de crème, ajoutent des fraises et des vermicelles, et disposent soigneusement de géantes bougies colorées.
+7–10 s : Travelling arrière cinématographique et spectaculaire révélant le gâteau d'anniversaire entièrement décoré, rayonnant chaleureusement sous les lumières de l'usine tandis que les minuscules pâtissiers célèbrent autour de lui.
+Échelle miniature extrêmement détaillée, mouvements humains réalistes, textures de glaçage crémeuses, décorations colorées, éclairage chaud de boulangerie-pâtisserie, faible profondeur de champ, mouvements de caméra cinématographiques, rendu de macrophotographie, espiègle mais photoréaliste, 4K, 16:9, aucun texte, aucun logo, aucune musique, uniquement des sons ASMR naturels de pâtisserie tels que le pochage du glaçage, des bruits de pas, l'entrechoquement des outils et une douce ambiance d'usine.
 ```
 
 [↑ Retour aux catégories](#catalog)

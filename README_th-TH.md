@@ -179,7 +179,7 @@ Aspect Ratio: 9:16 vertical
 
 <a name="prompt-2097168437957263851"></a>
 
-### 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
+### พรอมต์วิดีโอภาพยนตร์แนวจำลองขนาดจิ๋วสุดสมจริงความยาว 10 วินาที แสดงภาพฉากจำลองขนาดจิ๋วภายในโรงงานเค้กขนาดยักษ์ ที่เหล่าคนทำขนมปังตัวจิ๋วกำลังร่วมมือกันตกแต่งเค้กวันเกิดหลายชั้นขนาดยักษ์
 
 ผู้เขียน：[@AiwithBloodline](https://x.com/AiwithBloodline) · [โพสต์ต้นฉบับ](https://x.com/AiwithBloodline/status/2097168437957263851)
 
@@ -187,18 +187,18 @@ Aspect Ratio: 9:16 vertical
 
 โพสต์ต้นฉบับ：[@AiwithBloodline](https://x.com/AiwithBloodline) · [โพสต์ต้นฉบับ](https://x.com/AiwithBloodline/status/2096937365260624328)
 
-**สรุป:** 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
+**สรุป:** พรอมต์วิดีโอภาพยนตร์แนวจำลองขนาดจิ๋วสุดสมจริงความยาว 10 วินาที แสดงภาพฉากจำลองขนาดจิ๋วภายในโรงงานเค้กขนาดยักษ์ ที่เหล่าคนทำขนมปังตัวจิ๋วกำลังร่วมมือกันตกแต่งเค้กวันเกิดหลายชั้นขนาดยักษ์
 
 <img src="covers/2097168437957263851.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-Create a 10-second ultra-realistic cinematic miniature video set inside a gigantic, whimsical cake factory. Tiny bakers wearing white chef uniforms and small baker hats work together to decorate a massive multi-layer birthday cake that towers over them.
-0–3 sec: Wide establishing shot of the enormous cake on a factory table, with tiny bakers climbing ladders and carrying colorful frosting tools.
-3–7 sec: Close-up tracking shot as the bakers pipe thick swirls of cream, add strawberries and sprinkles, and carefully place giant colorful candles.
-7–10 sec: Dramatic cinematic pull-back revealing the fully decorated birthday cake, glowing warmly under factory lights as the tiny bakers celebrate around it.
-Highly detailed miniature scale, realistic human movement, creamy frosting textures, colorful decorations, warm bakery lighting, shallow depth of field, cinematic camera movement, macro photography look, playful but photorealistic, 4K, 16:9, no text, no logos, no music, only natural ASMR bakery sounds such as frosting being piped, footsteps, tools clinking, and soft factory ambience.
+สร้างวิดีโอภาพยนตร์แนวจำลองขนาดจิ๋ว (miniature) ความยาว 10 วินาทีที่สมจริงขั้นสุด โดยมีฉากอยู่ภายในโรงงานเค้กขนาดยักษ์สุดแฟนตาซี เหล่าคนทำขนมปังตัวจิ๋วสวมชุดเชฟสีขาวและหมวกคนทำขนมปังใบเล็กกำลังร่วมมือกันตกแต่งเค้กวันเกิดหลายชั้นขนาดยักษ์ที่สูงตระหง่านเหนือพวกเขา
+0–3 วินาที: ช็อตกว้างเปิดฉากของเค้กขนาดยักษ์บนโต๊ะโรงงาน โดยมีคนทำขนมปังตัวจิ๋วปีนบันไดและถืออุปกรณ์บีบครีมหลากสีสัน
+3–7 วินาที: ช็อตโคลสอัปเคลื่อนที่ตาม ขณะที่คนทำขนมปังบีบครีมเป็นเกลียวหนานุ่ม ใส่สตรอว์เบอร์รีและเกล็ดน้ำตาลหลากสี และวางเทียนสีสันสดใสขนาดยักษ์อย่างระมัดระวัง
+7–10 วินาที: ช็อตดึงกล้องถอยหลังแบบภาพยนตร์อันน่าทึ่ง เผยให้เห็นเค้กวันเกิดที่ตกแต่งอย่างสมบูรณ์แบบ ส่องประกายอย่างอบอุ่นใต้แสงไฟโรงงาน ขณะที่คนทำขนมปังตัวจิ๋วร่วมเฉลิมฉลองอยู่รอบๆ
+สเกลขนาดจิ๋วที่มีรายละเอียดสูงมาก การเคลื่อนไหวของมนุษย์ที่สมจริง พื้นผิวฟรอสติ้งครีมข้นเนียน การตกแต่งที่เต็มไปด้วยสีสัน แสงไฟร้านเบเกอรี่ที่อบอุ่น ระยะชัดตื้น การเคลื่อนไหวของกล้องแบบภาพยนตร์ ลุคการถ่ายภาพมาโคร ขี้เล่นแต่สมจริงเหมือนภาพถ่าย 4K, 16:9, ไม่มีข้อความ, ไม่มีโลโก้, ไม่มีดนตรี, มีเพียงเสียง ASMR ร้านเบเกอรี่ตามธรรมชาติ เช่น เสียงบีบครีม เสียงฝีเท้า เสียงกระทบกันของเครื่องมือ และเสียงบรรยากาศในโรงงานอันนุ่มนวล
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

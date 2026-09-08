@@ -179,7 +179,7 @@ Aspect Ratio: 9:16 vertical
 
 <a name="prompt-2097168437957263851"></a>
 
-### 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
+### 거대한 케이크 공장 내부의 미니어처 장면을 묘사하는 10초 분량의 초현실적 시네마틱 비디오 프롬프트로, 작은 제빵사들이 함께 힘을 합쳐 거대한 다단 생일 케이크를 장식합니다.
 
 작성자：[@AiwithBloodline](https://x.com/AiwithBloodline) · [원본 게시물](https://x.com/AiwithBloodline/status/2097168437957263851)
 
@@ -187,18 +187,18 @@ Aspect Ratio: 9:16 vertical
 
 원본 게시물：[@AiwithBloodline](https://x.com/AiwithBloodline) · [원본 게시물](https://x.com/AiwithBloodline/status/2096937365260624328)
 
-**요약:** 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
+**요약:** 거대한 케이크 공장 내부의 미니어처 장면을 묘사하는 10초 분량의 초현실적 시네마틱 비디오 프롬프트로, 작은 제빵사들이 함께 힘을 합쳐 거대한 다단 생일 케이크를 장식합니다.
 
 <img src="covers/2097168437957263851.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-Create a 10-second ultra-realistic cinematic miniature video set inside a gigantic, whimsical cake factory. Tiny bakers wearing white chef uniforms and small baker hats work together to decorate a massive multi-layer birthday cake that towers over them.
-0–3 sec: Wide establishing shot of the enormous cake on a factory table, with tiny bakers climbing ladders and carrying colorful frosting tools.
-3–7 sec: Close-up tracking shot as the bakers pipe thick swirls of cream, add strawberries and sprinkles, and carefully place giant colorful candles.
-7–10 sec: Dramatic cinematic pull-back revealing the fully decorated birthday cake, glowing warmly under factory lights as the tiny bakers celebrate around it.
-Highly detailed miniature scale, realistic human movement, creamy frosting textures, colorful decorations, warm bakery lighting, shallow depth of field, cinematic camera movement, macro photography look, playful but photorealistic, 4K, 16:9, no text, no logos, no music, only natural ASMR bakery sounds such as frosting being piped, footsteps, tools clinking, and soft factory ambience.
+거대하고 환상적인 케이크 공장 내부를 배경으로 한 10초 분량의 초현실적인 시네마틱 미니어처 비디오를 제작해 주세요. 흰색 셰프 유니폼과 작은 제빵사 모자를 쓴 작은 제빵사들이 함께 힘을 합쳐 자신들 위로 우뚝 솟은 거대한 다단 생일 케이크를 장식합니다.
+0–3초: 공장 테이블 위의 거대한 케이크를 담은 와이드 오프닝 숏으로, 작은 제빵사들이 사다리를 오르고 다채로운 프로스팅 도구를 나르는 모습.
+3–7초: 제빵사들이 두꺼운 소용돌이 모양의 크림을 짜내고, 딸기와 스프링클을 얹으며, 거대하고 다채로운 양초를 조심스럽게 놓는 클로즈업 트래킹 숏.
+7–10초: 공장 조명 아래 따스하게 빛나는 완벽히 장식된 생일 케이크가 드러나며, 그 주변에서 작은 제빵사들이 축하하는 드라마틱한 시네마틱 풀백 숏.
+고도로 디테일한 미니어처 스케일, 사실적인 인물 움직임, 부드러운 프로스팅 질감, 다채로운 장식, 따뜻한 베이커리 조명, 얕은 심도, 시네마틱한 카메라 워크, 접사 사진 느낌, 장난스러우면서도 극사실적인 연출, 4K, 16:9, 텍스트 없음, 로고 없음, 음악 없음, 크림 짜는 소리, 발소리, 도구 부딪히는 소리, 부드러운 공장 환경음 등 자연스러운 베이커리 ASMR 사운드만 포함.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

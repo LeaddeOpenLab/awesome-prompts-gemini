@@ -179,7 +179,7 @@ Aspect Ratio: 9:16 vertical
 
 <a name="prompt-2097168437957263851"></a>
 
-### 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
+### 巨大なケーキ工場内のミニチュア風景を描いた10秒の超リアルでシネマティックな動画プロンプト。小さなパン職人たちが協力して巨大な多段バースデーケーキを飾り付けます。
 
 作者：[@AiwithBloodline](https://x.com/AiwithBloodline) · [元の投稿](https://x.com/AiwithBloodline/status/2097168437957263851)
 
@@ -187,18 +187,18 @@ Aspect Ratio: 9:16 vertical
 
 元の投稿：[@AiwithBloodline](https://x.com/AiwithBloodline) · [元の投稿](https://x.com/AiwithBloodline/status/2096937365260624328)
 
-**概要:** 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
+**概要:** 巨大なケーキ工場内のミニチュア風景を描いた10秒の超リアルでシネマティックな動画プロンプト。小さなパン職人たちが協力して巨大な多段バースデーケーキを飾り付けます。
 
 <img src="covers/2097168437957263851.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-Create a 10-second ultra-realistic cinematic miniature video set inside a gigantic, whimsical cake factory. Tiny bakers wearing white chef uniforms and small baker hats work together to decorate a massive multi-layer birthday cake that towers over them.
-0–3 sec: Wide establishing shot of the enormous cake on a factory table, with tiny bakers climbing ladders and carrying colorful frosting tools.
-3–7 sec: Close-up tracking shot as the bakers pipe thick swirls of cream, add strawberries and sprinkles, and carefully place giant colorful candles.
-7–10 sec: Dramatic cinematic pull-back revealing the fully decorated birthday cake, glowing warmly under factory lights as the tiny bakers celebrate around it.
-Highly detailed miniature scale, realistic human movement, creamy frosting textures, colorful decorations, warm bakery lighting, shallow depth of field, cinematic camera movement, macro photography look, playful but photorealistic, 4K, 16:9, no text, no logos, no music, only natural ASMR bakery sounds such as frosting being piped, footsteps, tools clinking, and soft factory ambience.
+巨大で幻想的なケーキ工場の中を舞台にした、10秒間の超リアルなシネマティック・ミニチュア動画を作成してください。白いコックコートと小さなコック帽を身に着けた小さなパン職人たちが協力して、自分たちを見下ろすほど巨大な多段バースデーケーキを飾り付けます。
+0〜3秒：工場の作業台の上にある巨大なケーキを捉えたワイドな状況設定ショット。小さなパン職人たちが梯子を登り、カラフルなアイシングの道具を運んでいます。
+3〜7秒：職人たちが厚い渦巻き状のクリームを絞り出し、イチゴやスプリンクルをトッピングし、巨大でカラフルなキャンドルを慎重に設置するクローズアップのトラッキングショット。
+7〜10秒：工場の照明の下で温かく輝く完成したバースデーケーキが明らかになり、その周りで小さな職人たちが祝福するドラマチックなシネマティック・プルバックショット。
+極めて精細なミニチュアスケール、リアルな人間の動き、クリーミーなフロスティングの質感、カラフルなデコレーション、温かみのあるベーカリーの照明、浅い被写界深度、シネマティックなカメラワーク、マクロ写真の質感、遊び心がありながらもフォトリアル、4K、16:9、テキストなし、ロゴなし、音楽なし、クリームを絞る音、足音、道具のカチャカチャという音、柔らかな工場の環境音などの自然なASMRベーカリーサウンドのみ。
 ```
 
 [↑ カテゴリに戻る](#catalog)

@@ -179,7 +179,7 @@ Aspect Ratio: 9:16 vertical
 
 <a name="prompt-2097168437957263851"></a>
 
-### A prompt for a 10-second ultra-realistic cinematic miniature video set inside a gigantic cake factory, featuring tiny bakers decorating a massive birthday cake.
+### A prompt for a 10-second ultra-realistic cinematic video depicting a miniature scene inside a gigantic cake factory, where tiny bakers work together to decorate a massive multi-layer birthday cake.
 
 Author：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x.com/AiwithBloodline/status/2097168437957263851)
 
@@ -187,7 +187,7 @@ Cinematic / Film Still · Pending distribution
 
 Source：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x.com/AiwithBloodline/status/2096937365260624328)
 
-**Summary:** A prompt for a 10-second ultra-realistic cinematic miniature video set inside a gigantic cake factory, featuring tiny bakers decorating a massive birthday cake.
+**Summary:** A prompt for a 10-second ultra-realistic cinematic video depicting a miniature scene inside a gigantic cake factory, where tiny bakers work together to decorate a massive multi-layer birthday cake.
 
 <img src="covers/2097168437957263851.jpg" alt="Image 1" width="480" />
 

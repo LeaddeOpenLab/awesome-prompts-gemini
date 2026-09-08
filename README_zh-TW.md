@@ -179,7 +179,7 @@ Aspect Ratio: 9:16 vertical
 
 <a name="prompt-2097168437957263851"></a>
 
-### 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
+### 一段描繪巨大蛋糕工廠內部微觀場景的10秒超逼真電影感影片提示詞，微型烘焙師們正合力裝飾巨大的多層生日蛋糕。
 
 作者：[@AiwithBloodline](https://x.com/AiwithBloodline) · [查看 X 原帖](https://x.com/AiwithBloodline/status/2097168437957263851)
 
@@ -187,18 +187,18 @@ Aspect Ratio: 9:16 vertical
 
 查看 X 原帖：[@AiwithBloodline](https://x.com/AiwithBloodline) · [查看 X 原帖](https://x.com/AiwithBloodline/status/2096937365260624328)
 
-**概括:** 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
+**概括:** 一段描繪巨大蛋糕工廠內部微觀場景的10秒超逼真電影感影片提示詞，微型烘焙師們正合力裝飾巨大的多層生日蛋糕。
 
 <img src="covers/2097168437957263851.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-Create a 10-second ultra-realistic cinematic miniature video set inside a gigantic, whimsical cake factory. Tiny bakers wearing white chef uniforms and small baker hats work together to decorate a massive multi-layer birthday cake that towers over them.
-0–3 sec: Wide establishing shot of the enormous cake on a factory table, with tiny bakers climbing ladders and carrying colorful frosting tools.
-3–7 sec: Close-up tracking shot as the bakers pipe thick swirls of cream, add strawberries and sprinkles, and carefully place giant colorful candles.
-7–10 sec: Dramatic cinematic pull-back revealing the fully decorated birthday cake, glowing warmly under factory lights as the tiny bakers celebrate around it.
-Highly detailed miniature scale, realistic human movement, creamy frosting textures, colorful decorations, warm bakery lighting, shallow depth of field, cinematic camera movement, macro photography look, playful but photorealistic, 4K, 16:9, no text, no logos, no music, only natural ASMR bakery sounds such as frosting being piped, footsteps, tools clinking, and soft factory ambience.
+創作一段10秒超逼真的微縮模型電影感影片，背景設定在一座巨大而奇幻的蛋糕工廠內。身穿白色廚師制服、戴著小烘焙帽的微型烘焙師們正合力裝飾一座高聳矗立的巨大多層生日蛋糕。
+0–3秒：工廠台面上巨大蛋糕的全景建立鏡頭，微型烘焙師們爬著梯子，搬運著色彩繽紛的糖霜工具。
+3–7秒：特寫跟拍鏡頭，烘焙師們擠出濃稠的漩渦狀鮮奶油，添加草莓和彩色糖粒，並小心翼翼地放置巨大的彩色蠟燭。
+7–10秒：戲劇性的電影感拉遠鏡頭，展現裝飾完整的生日蛋糕在工廠燈光下散發著溫暖的光芒，微型烘焙師們在蛋糕周圍歡慶。
+高度精細的微縮比例，逼真的人物動作，綿密濃郁的鮮奶油質地，色彩豐富的裝飾，溫暖的烘焙坊燈光，淺景深，電影級運鏡，微距攝影質感，充滿童趣卻逼真寫實，4K，16:9，無文字，無標誌，無音樂，僅有自然的烘焙坊ASMR聲音，例如擠鮮奶油聲、腳步聲、工具碰撞聲與柔和的工廠環境音。
 ```
 
 [↑ 返回分類目錄](#catalog)
