@@ -1,44 +1,44 @@
-# gemini · Prompt Library
+# gemini · Prompt 資料庫
 
-[![English](https://img.shields.io/badge/English-Current-brightgreen)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
+[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-Current-brightgreen)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
 
-> Navigation is translated; entry titles use Gemini summaries. Prompts retain their original wording.
+> 導覽隨語言切換，條目標題沿用 Gemini 摘要，Prompt 保留原文。
 
-**3** Prompts
+**3** 筆內容
 
 <a name="catalog"></a>
 
-## Browse by Category
+## 分類目錄
 
-[All Prompts](#all-prompts)
+[所有提示詞](#all-prompts)
 
-### Use Cases
+### 使用情境
 
 
 
-- Profile / Avatar · 0
-- Social Media Post · 0
-- Infographic / Edu Visual · 0
-- YouTube Thumbnail · 0
-- Comic / Storyboard · 0
-- Product Marketing · 0
-- E-commerce Main Image · 0
-- Game Asset · 0
-- Poster / Flyer · 0
-- App / Web Design · 0
+- 個人檔案 / 頭像 · 0
+- 社群媒體貼文 · 0
+- 資訊圖表 / 教育視覺化內容 · 0
+- YouTube 縮圖 · 0
+- 漫畫 / 分鏡腳本 · 0
+- 產品行銷 · 0
+- 電子商務主圖 · 0
+- 遊戲素材 · 0
+- 海報／傳單 · 0
+- App / 網站設計 · 0
 
-### Style
+### 風格
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [3D Render](#category-3d-render)
+[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [3D 渲染](#category-3d-render)
 
 
 <a name="category-photography"></a>
 
 <details open>
-<summary>Photography · 3</summary>
+<summary>攝影 · 3</summary>
 
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [A prompt for a 10-second ultra-realistic cinematic miniature video set inside a gigantic cake factory, featuring tiny bakers decorating a massive birthday cake.](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
+- [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 - [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
 </details>
@@ -47,62 +47,62 @@
 <a name="category-cinematic-film-still"></a>
 
 <details open>
-<summary>Cinematic / Film Still · 3</summary>
+<summary>電影感 / 電影劇照 · 3</summary>
 
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [A prompt for a 10-second ultra-realistic cinematic miniature video set inside a gigantic cake factory, featuring tiny bakers decorating a massive birthday cake.](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
+- [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 - [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
 </details>
 
-- Anime / Manga · 0
-- Illustration · 0
-- Sketch / Line Art · 0
-- Comic / Graphic Novel · 0
+- 動畫 / 漫畫 · 0
+- 插圖 · 0
+- 草圖 / 線稿 · 0
+- 漫畫 / 圖像小說 · 0
 
 <a name="category-3d-render"></a>
 
 <details open>
-<summary>3D Render · 1</summary>
+<summary>3D 渲染 · 1</summary>
 
 - [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
 </details>
 
-- Chibi / Q-Style · 0
-- Isometric · 0
-- Pixel Art · 0
-- Oil Painting · 0
-- Watercolor · 0
-- Ink / Chinese Style · 0
-- Retro / Vintage · 0
-- Cyberpunk / Sci-Fi · 0
-- Minimalism · 0
+- Q 版風格 · 0
+- 等距視角 · 0
+- 像素藝術 · 0
+- 油畫 · 0
+- 水彩 · 0
+- 水墨 / 中式風格 · 0
+- 復古 / 懷舊 · 0
+- 賽博龐克 / 科幻 · 0
+- 極簡主義 · 0
 
-### Subjects
+### 主體
 
-[Character](#category-character) · [Food / Drink](#category-food-drink) · [Fashion Item](#category-fashion-item)
+[角色](#category-character) · [食物 / 飲品](#category-food-drink) · [時尚單品](#category-fashion-item)
 
-- Portrait / Selfie · 0
-- Influencer / Model · 0
+- 人像 / 自拍 · 0
+- 網紅 / 模特兒 · 0
 
 <a name="category-character"></a>
 
 <details open>
-<summary>Character · 2</summary>
+<summary>角色 · 2</summary>
 
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
 - [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
 </details>
 
-- Group / Couple · 0
-- Product · 0
+- 團體 / 情侶 · 0
+- 產品 · 0
 
 <a name="category-food-drink"></a>
 
 <details open>
-<summary>Food / Drink · 1</summary>
+<summary>食物 / 飲品 · 1</summary>
 
 - [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
@@ -112,34 +112,34 @@
 <a name="category-fashion-item"></a>
 
 <details open>
-<summary>Fashion Item · 1</summary>
+<summary>時尚單品 · 1</summary>
 
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
 
 </details>
 
-- Animal / Creature · 0
-- Vehicle · 0
-- Architecture / Interior · 0
-- Landscape / Nature · 0
-- Cityscape / Street · 0
-- Diagram / Chart · 0
-- Text / Typography · 0
-- Abstract / Background · 0
+- 動物 / 生物 · 0
+- 車輛 · 0
+- 建築 / 室內設計 · 0
+- 風景 / 大自然 · 0
+- 城市景觀 / 街道 · 0
+- 圖表 · 0
+- 文字 / 字體排版 · 0
+- 摘要 / 背景 · 0
 
 <a name="all-prompts"></a>
 
-## All Prompts
+## 所有提示詞
 
 <a name="prompt-2097242290859241833"></a>
 
 ### Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
-Author：[@abs\_uiux](https://x.com/abs_uiux) · [Source](https://x.com/abs_uiux/status/2097242290859241833)
+作者：[@abs\_uiux](https://x.com/abs_uiux) · [查看 X 原帖](https://x.com/abs_uiux/status/2097242290859241833)
 
-Photography · Cinematic / Film Still · Character · Fashion Item · Pending distribution
+攝影 · 電影感 / 電影劇照 · 角色 · 時尚單品 · 待推送
 
-**Summary:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
+**概括:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
 <img src="covers/2097242290859241833.jpg" alt="封面" width="480" />
 
@@ -224,21 +224,21 @@ No extra on-screen text.
 Aspect Ratio: 9:16 vertical
 ```
 
-[↑ Back to categories](#catalog)
+[↑ 返回分類目錄](#catalog)
 
 ---
 
 <a name="prompt-2097168437957263851"></a>
 
-### A prompt for a 10-second ultra-realistic cinematic miniature video set inside a gigantic cake factory, featuring tiny bakers decorating a massive birthday cake.
+### 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
 
-Author：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x.com/AiwithBloodline/status/2097168437957263851)
+作者：[@AiwithBloodline](https://x.com/AiwithBloodline) · [查看 X 原帖](https://x.com/AiwithBloodline/status/2097168437957263851)
 
-Photography · Cinematic / Film Still · Pending distribution
+攝影 · 電影感 / 電影劇照 · 待推送
 
 引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096937365260624328)
 
-**Summary:** A prompt for a 10-second ultra-realistic cinematic miniature video set inside a gigantic cake factory, featuring tiny bakers decorating a massive birthday cake.
+**概括:** 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
 
 <img src="covers/2097168437957263851.jpg" alt="封面" width="480" />
 
@@ -252,7 +252,7 @@ Create a 10-second ultra-realistic cinematic miniature video set inside a gigant
 Highly detailed miniature scale, realistic human movement, creamy frosting textures, colorful decorations, warm bakery lighting, shallow depth of field, cinematic camera movement, macro photography look, playful but photorealistic, 4K, 16:9, no text, no logos, no music, only natural ASMR bakery sounds such as frosting being piped, footsteps, tools clinking, and soft factory ambience.
 ```
 
-[↑ Back to categories](#catalog)
+[↑ 返回分類目錄](#catalog)
 
 ---
 
@@ -260,13 +260,13 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 ### A 3D animated sequence of miniature construction workers assembling a giant pizza.
 
-Author：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x.com/AiwithBloodline/status/2096885269270237431)
+作者：[@AiwithBloodline](https://x.com/AiwithBloodline) · [查看 X 原帖](https://x.com/AiwithBloodline/status/2096885269270237431)
 
-Photography · Cinematic / Film Still · 3D Render · Character · Food / Drink · Pending distribution
+攝影 · 電影感 / 電影劇照 · 3D 渲染 · 角色 · 食物 / 飲品 · 待推送
 
 引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096811796074311791)
 
-**Summary:** A 3D animated sequence of miniature construction workers assembling a giant pizza.
+**概括:** A 3D animated sequence of miniature construction workers assembling a giant pizza.
 
 <img src="covers/2096885269270237431.jpg" alt="封面" width="480" />
 
@@ -326,7 +326,7 @@ Photography · Cinematic / Film Still · 3D Render · Character · Food / Drink 
 }
 ```
 
-[↑ Back to categories](#catalog)
+[↑ 返回分類目錄](#catalog)
 
 ---
 
