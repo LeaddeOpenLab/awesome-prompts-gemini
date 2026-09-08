@@ -33,35 +33,35 @@
 **Prompt**
 
 ```text
-Commercial film.
+कमर्शियल फिल्म।
 
-Maintain the initial background color throughout the sequence.
+पूरे सीक्वेंस के दौरान शुरुआती बैकग्राउंड रंग बनाए रखें।
 
-The camera smoothly tracks the character with a continuous horizontal scrolling movement, moving alongside them as they walk.
+कैमरा लगातार क्षैतिज स्क्रॉलिंग (horizontal scrolling) मूवमेंट के साथ कैरेक्टर को सहजता से ट्रैक करता है, और उनके चलने के साथ-साथ उनके बगल में चलता है।
 
-Text and connecting lines progressively appear across the screen, forming a continuous visual pathway.
+टेक्स्ट और जोड़ने वाली रेखाएं स्क्रीन पर धीरे-धीरे दिखाई देती हैं, जिससे एक निरंतर विज़ुअल पाथवे बनता है।
 
-As the character walks, they recognize the text and graphic elements appearing around them as physical objects that actually exist within the same space. They naturally interact with these elements as they move forward: occasionally tapping nearby text with a fingertip, looking up at words above them, glancing sideways at graphics, slightly stepping aside to avoid an element, ducking underneath one, or briefly stopping to observe something.
+जैसे-जैसे कैरेक्टर चलता है, वे अपने आस-पास दिखाई देने वाले टेक्स्ट और ग्राफिक एलिमेंट्स को उसी स्पेस में वास्तव में मौजूद भौतिक वस्तुओं के रूप में पहचानते हैं। आगे बढ़ते हुए वे स्वाभाविक रूप से इन एलिमेंट्स के साथ इंटरैक्ट करते हैं: कभी उंगलियों से पास के टेक्स्ट को छूना, अपने ऊपर के शब्दों को देखना, ग्राफिक्स को तिरछी नज़र से देखना, किसी एलिमेंट से बचने के लिए थोड़ा किनारे होना, किसी के नीचे झुकना, या किसी चीज़ को देखने के लिए संक्षेप में रुकना।
 
-A continuous line, resembling a railway track or visual route, connects one text element to the next. The text from the reference image appears sequentially along this connected path, following the original order.
+रेलवे ट्रैक या विज़ुअल रूट जैसी दिखने वाली एक निरंतर रेखा एक टेक्स्ट एलिमेंट को अगले से जोड़ती है। संदर्भ छवि (reference image) का टेक्स्ट मूल क्रम का पालन करते हुए, इस जुड़े हुए रास्ते पर क्रमिक रूप से दिखाई देता है।
 
-The text and graphic elements must not feel like flat background decorations. They should feel physically present in the same three-dimensional space as the character, with convincing spatial relationships and interaction.
+टेक्स्ट और ग्राफिक एलिमेंट्स को सपाट बैकग्राउंड सजावट जैसा नहीं लगना चाहिए। उन्हें कैरेक्टर के साथ उसी त्रि-आयामी (three-dimensional) स्पेस में भौतिक रूप से मौजूद महसूस होना चाहिए, जिसमें विश्वसनीय स्थानिक संबंध और इंटरैक्शन हों।
 
-Do not repeat or duplicate any text.
+किसी भी टेक्स्ट को दोहराएं या डुप्लिकेट न करें।
 
-Keep the overall pacing fast, rhythmic, and fluid. The horizontal scrolling movement should remain continuous and uninterrupted throughout the sequence.
+समग्र गति को तेज़, लयबद्ध और सुगम रखें। पूरे सीक्वेंस के दौरान क्षैतिज स्क्रॉलिंग मूवमेंट निरंतर और निर्बाध रहना चाहिए।
 
-Faithfully reproduce all text from the reference image without garbled characters, corrupted typography, misspellings, or altered wording.
+बिना किसी विकृत अक्षरों, बिगड़ी हुई टाइपोग्राफी, गलत वर्तनी या बदले हुए शब्दों के, संदर्भ छवि से सभी टेक्स्ट को ईमानदारी से पुन: प्रस्तुत करें।
 
-For the final transition, a large foreground object or graphic element passes very close in front of the camera, completely covering the entire frame and creating a natural foreground-blur wipe transition.
+अंतिम ट्रांज़िशन के लिए, एक बड़ा अग्रभूमि (foreground) ऑब्जेक्ट या ग्राफिक एलिमेंट कैमरे के बेहद करीब से गुज़रता है, जिससे पूरा फ्रेम पूरी तरह से ढक जाता है और एक प्राकृतिक फ़ोरग्राउंड-ब्लर वाइप ट्रांज़िशन बनता है।
 
-As the foreground object clears the frame, seamlessly reveal the final logo screen.
+जैसे ही अग्रभूमि ऑब्जेक्ट फ्रेम से हटता है, अंतिम लोगो स्क्रीन को सहजता से प्रकट करें।
 
-Camera movement should be smooth, dynamic, and cinematic.
+कैमरे की गति सहज, गतिशील और सिनेमाई होनी चाहिए।
 
-Prioritize the interaction between the character and the text / graphic elements above everything else.
+कैरेक्टर और टेक्स्ट / ग्राफिक एलिमेंट्स के बीच के इंटरैक्शन को बाकी सब चीज़ों से ऊपर प्राथमिकता दें।
 
-BGM: Up-tempo, rhythmic music with a strong beat.
+BGM: तेज़ गति वाला, मज़बूत बीट के साथ लयबद्ध संगीत।
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)
