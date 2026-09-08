@@ -33,35 +33,35 @@ Sinematik / Film Karesi · 3D Modelleme · Karakter · Metin / Tipografi · Dağ
 **Prompt**
 
 ```text
-Commercial film.
+Ticari reklam filmi.
 
-Maintain the initial background color throughout the sequence.
+Sekans boyunca başlangıçtaki arka plan rengini koruyun.
 
-The camera smoothly tracks the character with a continuous horizontal scrolling movement, moving alongside them as they walk.
+Kamera, karakter yürürken onun yanında hareket ederek, kesintisiz bir yatay kaydırma hareketiyle karakteri pürüzsüzce takip eder.
 
-Text and connecting lines progressively appear across the screen, forming a continuous visual pathway.
+Metinler ve bağlantı çizgileri ekranda kademeli olarak belirerek kesintisiz bir görsel yol oluşturur.
 
-As the character walks, they recognize the text and graphic elements appearing around them as physical objects that actually exist within the same space. They naturally interact with these elements as they move forward: occasionally tapping nearby text with a fingertip, looking up at words above them, glancing sideways at graphics, slightly stepping aside to avoid an element, ducking underneath one, or briefly stopping to observe something.
+Karakter yürürken, etrafında beliren metinleri ve grafik unsurları aynı mekanda gerçekten var olan fiziksel nesneler olarak algılar. İlerlerken bu unsurlarla doğal bir şekilde etkileşime girer: zaman zaman yakındaki bir metne parmak ucuyla dokunur, başını kaldırıp yukarısındaki kelimelere bakar, grafiklere yan gözle bakar, bir unsurdan kaçınmak için hafifçe yana çekilir, birinin altından eğilerek geçer veya bir şeyi incelemek için kısa süreliğine durur.
 
-A continuous line, resembling a railway track or visual route, connects one text element to the next. The text from the reference image appears sequentially along this connected path, following the original order.
+Bir demiryolu rayını veya görsel bir rotayı andıran kesintisiz bir çizgi, bir metin unsurunu bir sonrakine bağlar. Referans görseldeki metin, orijinal sırayı takip ederek bu bağlantılı yol boyunca sırayla görünür.
 
-The text and graphic elements must not feel like flat background decorations. They should feel physically present in the same three-dimensional space as the character, with convincing spatial relationships and interaction.
+Metin ve grafik unsurlar düz arka plan süslemeleri gibi hissettirmemelidir. Karakterle aynı üç boyutlu mekanda fiziksel olarak mevcut gibi hissettirmeli, inandırıcı mekansal ilişkilere ve etkileşime sahip olmalıdır.
 
-Do not repeat or duplicate any text.
+Hiçbir metni tekrarlamayın veya çoğaltmayın.
 
-Keep the overall pacing fast, rhythmic, and fluid. The horizontal scrolling movement should remain continuous and uninterrupted throughout the sequence.
+Genel tempoyu hızlı, ritmik ve akıcı tutun. Yatay kaydırma hareketi sekans boyunca sürekli ve kesintisiz kalmalıdır.
 
-Faithfully reproduce all text from the reference image without garbled characters, corrupted typography, misspellings, or altered wording.
+Bozuk karakterler, hasarlı tipografi, yazım hataları veya değiştirilmiş ifadeler olmadan, referans görseldeki tüm metinleri aslına sadık kalarak yeniden oluşturun.
 
-For the final transition, a large foreground object or graphic element passes very close in front of the camera, completely covering the entire frame and creating a natural foreground-blur wipe transition.
+Son geçiş için, büyük bir ön plan nesnesi veya grafik unsuru kameranın çok yakınından geçerek tüm kareyi tamamen kaplar ve doğal bir ön plan bulanıklığıyla silme geçişi oluşturur.
 
-As the foreground object clears the frame, seamlessly reveal the final logo screen.
+Ön plandaki nesne kareden çıkarken, son logo ekranını sorunsuzca açığa çıkarın.
 
-Camera movement should be smooth, dynamic, and cinematic.
+Kamera hareketi pürüzsüz, dinamik ve sinematik olmalıdır.
 
-Prioritize the interaction between the character and the text / graphic elements above everything else.
+Karakter ile metin / grafik unsurları arasındaki etkileşime her şeyin üstünde öncelik verin.
 
-BGM: Up-tempo, rhythmic music with a strong beat.
+BGM: Güçlü bir ritme sahip, yüksek tempolu, ritmik müzik.
 ```
 
 [↑ Kategorilere dön](#catalog)
