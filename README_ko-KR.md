@@ -2,9 +2,7 @@
 
 [![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-Current-brightgreen)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
 
-> 탐색 메뉴는 번역됩니다. 제목은 Gemini 요약을 사용하며 프롬프트 원문은 유지됩니다.
-
-**3** 개
+**4** 개
 
 <a name="catalog"></a>
 
@@ -36,8 +34,9 @@
 <a name="category-cinematic-film-still"></a>
 
 <details open>
-<summary>시네마틱 / 영화 스틸컷 · 2</summary>
+<summary>시네마틱 / 영화 스틸컷 · 3</summary>
 
+- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
 - [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
@@ -51,8 +50,9 @@
 <a name="category-3d-render"></a>
 
 <details open>
-<summary>3D 렌더링 · 1</summary>
+<summary>3D 렌더링 · 2</summary>
 
+- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
 - [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
 </details>
@@ -69,7 +69,7 @@
 
 ### 본문
 
-[캐릭터](#category-character) · [음식 / 음료](#category-food-drink)
+[캐릭터](#category-character) · [음식 / 음료](#category-food-drink) · [텍스트 / 타이포그래피](#category-text-typography)
 
 - 인물 사진 / 셀카 · 0
 - 인플루언서 / 모델 · 0
@@ -77,8 +77,9 @@
 <a name="category-character"></a>
 
 <details open>
-<summary>캐릭터 · 1</summary>
+<summary>캐릭터 · 2</summary>
 
+- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
 
 </details>
@@ -102,12 +103,73 @@
 - 풍경 / 자연 · 0
 - 도시 풍경 / 거리 · 0
 - 다이어그램 / 차트 · 0
-- 텍스트 / 타이포그래피 · 0
+
+<a name="category-text-typography"></a>
+
+<details open>
+<summary>텍스트 / 타이포그래피 · 1</summary>
+
+- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
+
+</details>
+
 - 초록 / 배경 · 0
 
 <a name="all-prompts"></a>
 
 ## 모든 프롬프트
+
+<a name="prompt-2096612096003965254"></a>
+
+### Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.
+
+작성자：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [원본 게시물](https://x.com/taya_mama_AI/status/2096612096003965254)
+
+시네마틱 / 영화 스틸컷 · 3D 렌더링 · 캐릭터 · 텍스트 / 타이포그래피 · 배포 대기
+
+引用来源：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [引用原帖](https://x.com/taya_mama_AI/status/2095076567416451105)
+
+**요약:** Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.
+
+<img src="covers/2096612096003965254.jpg" alt="封面" width="480" />
+
+**Prompt**
+
+```text
+Commercial film.
+
+Maintain the initial background color throughout the sequence.
+
+The camera smoothly tracks the character with a continuous horizontal scrolling movement, moving alongside them as they walk.
+
+Text and connecting lines progressively appear across the screen, forming a continuous visual pathway.
+
+As the character walks, they recognize the text and graphic elements appearing around them as physical objects that actually exist within the same space. They naturally interact with these elements as they move forward: occasionally tapping nearby text with a fingertip, looking up at words above them, glancing sideways at graphics, slightly stepping aside to avoid an element, ducking underneath one, or briefly stopping to observe something.
+
+A continuous line, resembling a railway track or visual route, connects one text element to the next. The text from the reference image appears sequentially along this connected path, following the original order.
+
+The text and graphic elements must not feel like flat background decorations. They should feel physically present in the same three-dimensional space as the character, with convincing spatial relationships and interaction.
+
+Do not repeat or duplicate any text.
+
+Keep the overall pacing fast, rhythmic, and fluid. The horizontal scrolling movement should remain continuous and uninterrupted throughout the sequence.
+
+Faithfully reproduce all text from the reference image without garbled characters, corrupted typography, misspellings, or altered wording.
+
+For the final transition, a large foreground object or graphic element passes very close in front of the camera, completely covering the entire frame and creating a natural foreground-blur wipe transition.
+
+As the foreground object clears the frame, seamlessly reveal the final logo screen.
+
+Camera movement should be smooth, dynamic, and cinematic.
+
+Prioritize the interaction between the character and the text / graphic elements above everything else.
+
+BGM: Up-tempo, rhythmic music with a strong beat.
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2097242290859241833"></a>
 
