@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-08T11:04:26.153Z",
+  "model": "gemini",
+  "prompt": "Commercial film.\n\nMaintain the initial background color throughout the sequence.\n\nThe camera smoothly tracks the character with a continuous horizontal scrolling movement, moving alongside them as they walk.\n\nText and connecting lines progressively appear across the screen, forming a continuous visual pathway.\n\nAs the character walks, they recognize the text and graphic elements appearing around them as physical objects that actually exist within the same space. They naturally interact with these elements as they move forward: occasionally tapping nearby text with a fingertip, looking up at words above them, glancing sideways at graphics, slightly stepping aside to avoid an element, ducking underneath one, or briefly stopping to observe something.\n\nA continuous line, resembling a railway track or visual route, connects one text element to the next. The text from the reference image appears sequentially along this connected path, following the original order.\n\nThe text and graphic elements must not feel like flat background decorations. They should feel physically present in the same three-dimensional space as the character, with convincing spatial relationships and interaction.\n\nDo not repeat or duplicate any text.\n\nKeep the overall pacing fast, rhythmic, and fluid. The horizontal scrolling movement should remain continuous and uninterrupted throughout the sequence.\n\nFaithfully reproduce all text from the reference image without garbled characters, corrupted typography, misspellings, or altered wording.\n\nFor the final transition, a large foreground object or graphic element passes very close in front of the camera, completely covering the entire frame and creating a natural foreground-blur wipe transition.\n\nAs the foreground object clears the frame, seamlessly reveal the final logo screen.\n\nCamera movement should be smooth, dynamic, and cinematic.\n\nPrioritize the interaction between the character and the text / graphic elements above everything else.\n\nBGM: Up-tempo, rhythmic music with a strong beat.",
+  "promptTranslations": {
+    "en": "Commercial film.\n\nMaintain the initial background color throughout the sequence.\n\nThe camera smoothly tracks the character with a continuous horizontal scrolling movement, moving alongside them as they walk.\n\nText and connecting lines progressively appear across the screen, forming a continuous visual pathway.\n\nAs the character walks, they recognize the text and graphic elements appearing around them as physical objects that actually exist within the same space. They naturally interact with these elements as they move forward: occasionally tapping nearby text with a fingertip, looking up at words above them, glancing sideways at graphics, slightly stepping aside to avoid an element, ducking underneath one, or briefly stopping to observe something.\n\nA continuous line, resembling a railway track or visual route, connects one text element to the next. The text from the reference image appears sequentially along this connected path, following the original order.\n\nThe text and graphic elements must not feel like flat background decorations. They should feel physically present in the same three-dimensional space as the character, with convincing spatial relationships and interaction.\n\nDo not repeat or duplicate any text.\n\nKeep the overall pacing fast, rhythmic, and fluid. The horizontal scrolling movement should remain continuous and uninterrupted throughout the sequence.\n\nFaithfully reproduce all text from the reference image without garbled characters, corrupted typography, misspellings, or altered wording.\n\nFor the final transition, a large foreground object or graphic element passes very close in front of the camera, completely covering the entire frame and creating a natural foreground-blur wipe transition.\n\nAs the foreground object clears the frame, seamlessly reveal the final logo screen.\n\nCamera movement should be smooth, dynamic, and cinematic.\n\nPrioritize the interaction between the character and the text / graphic elements above everything else.\n\nBGM: Up-tempo, rhythmic music with a strong beat."
+  },
+  "summary": "Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.",
+  "summaryEn": "Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2095076567416451105",
+      "canonicalUrl": "https://x.com/taya_mama_AI/status/2095076567416451105",
+      "author": {
+        "username": "taya_mama_AI",
+        "displayName": "た〜や｜スキマ時間×AI副業ママ",
+        "profileUrl": "https://x.com/taya_mama_AI"
+      },
+      "originalText": "ヘッダーバナー変えたら好きな青緑色のポスターが生成されて嬉しい🥰\n\nMiniMAX H5 MAX で動画化してみたけど\n文字量多いとどうしても破綻しちゃうな。\n\nなかなか難しい🤔\n\n画像プロンプトはミヤマさんの⇩ https://t.co/VRPaydvNoq"
+    },
+    "id": "2096612096003965254",
+    "canonicalUrl": "https://x.com/taya_mama_AI/status/2096612096003965254",
+    "author": {
+      "username": "taya_mama_AI",
+      "displayName": "た〜や｜スキマ時間×AI副業ママ",
+      "profileUrl": "https://x.com/taya_mama_AI"
+    },
+    "publishedAt": "2026-09-06T14:50:51.000Z",
+    "collectedAt": "2026-09-08T10:41:21.753Z",
+    "language": "ja",
+    "originalText": "╲動画プロンプト公開／\n\n問い合わせが多数あったので公開します。\n\n再現性はあまりないのでガチャ要素が強いですが\nそれも含めて楽しんでいただければ…😊\n\n←MiniMax H3 Max turbo（falで生成）\n　Gemini Omni 1.1 flash（Flowで生成）→\n\nMiniMaxの方が好きだな♡\n\n▼プロンプト\nCommercial film.\n\nMaintain the initial background color throughout the sequence.\n\nThe camera smoothly tracks the character with a continuous horizontal scrolling movement, moving alongside them as they walk.\n\nText and connecting lines progressively appear across the screen, forming a continuous visual pathway.\n\nAs the character walks, they recognize the text and graphic elements appearing around them as physical objects that actually exist within the same space. They naturally interact with these elements as they move forward: occasionally tapping nearby text with a fingertip, looking up at words above them, glancing sideways at graphics, slightly stepping aside to avoid an element, ducking underneath one, or briefly stopping to observe something.\n\nA continuous line, resembling a railway track or visual route, connects one text element to the next. The text from the reference image appears sequentially along this connected path, following the original order.\n\nThe text and graphic elements must not feel like flat background decorations. They should feel physically present in the same three-dimensional space as the character, with convincing spatial relationships and interaction.\n\nDo not repeat or duplicate any text.\n\nKeep the overall pacing fast, rhythmic, and fluid. The horizontal scrolling movement should remain continuous and uninterrupted throughout the sequence.\n\nFaithfully reproduce all text from the reference image without garbled characters, corrupted typography, misspellings, or altered wording.\n\nFor the final transition, a large foreground object or graphic element passes very close in front of the camera, completely covering the entire frame and creating a natural foreground-blur wipe transition.\n\nAs the foreground object clears the frame, seamlessly reveal the final logo screen.\n\nCamera movement should be smooth, dynamic, and cinematic.\n\nPrioritize the interaction between the character and the text / graphic elements above everything else.\n\nBGM: Up-tempo, rhythmic music with a strong beat.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/taya_mama_AI/status/2096612096003965254",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096611422797283328/img/C8LAesMcDr9ILny6.jpg",
+        "analysisUrl": "https://x.com/taya_mama_AI/status/2096612096003965254"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/taya_mama_AI/status/2096612096003965254",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096611819968401409/img/Txc9L_i50jMSBs6l.jpg",
+        "analysisUrl": "https://x.com/taya_mama_AI/status/2096612096003965254"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRMyiP3bgAAP3ak.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRMyiP3bgAAP3ak.jpg",
+        "sourcePostId": "2095076567416451105"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/taya_mama_AI/status/2096612096003965254",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2095076076519366656/img/kG4tLyMw4-JI7IXH.jpg",
+        "analysisUrl": "https://x.com/taya_mama_AI/status/2096612096003965254",
+        "sourcePostId": "2095076567416451105"
+      }
+    ],
+    "metrics": {
+      "likeCount": 407,
+      "repostCount": 47,
+      "replyCount": 9,
+      "quoteCount": 12,
+      "viewCount": 50289
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/taya_mama_AI/status/2096612096003965254",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2096611422797283328/img/C8LAesMcDr9ILny6.jpg",
+  "coverPath": "covers/2096612096003965254.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pending_push"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2096611422797283328",
+    "x-video:2096611819968401409",
+    "x-image:/media/HRMyiP3bgAAP3ak",
+    "x-video:2095076076519366656",
+    "x-post:2096612096003965254",
+    "x-post:2095076567416451105"
+  ],
+  "analysis": {
+    "summary": "Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.",
+    "summaryEn": "Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "仅审核正文 Prompt；媒体效果与一致性待人工核对。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Commercial film.\n\nMaintain the initial background color throughout the sequence.\n\nThe camera smoothly tracks the character with a continuous horizontal scrolling movement, moving alongside them as they walk.\n\nText and connecting lines progressively appear across the screen, forming a continuous visual pathway.\n\nAs the character walks, they recognize the text and graphic elements appearing around them as physical objects that actually exist within the same space. They naturally interact with these elements as they move forward: occasionally tapping nearby text with a fingertip, looking up at words above them, glancing sideways at graphics, slightly stepping aside to avoid an element, ducking underneath one, or briefly stopping to observe something.\n\nA continuous line, resembling a railway track or visual route, connects one text element to the next. The text from the reference image appears sequentially along this connected path, following the original order.\n\nThe text and graphic elements must not feel like flat background decorations. They should feel physically present in the same three-dimensional space as the character, with convincing spatial relationships and interaction.\n\nDo not repeat or duplicate any text.\n\nKeep the overall pacing fast, rhythmic, and fluid. The horizontal scrolling movement should remain continuous and uninterrupted throughout the sequence.\n\nFaithfully reproduce all text from the reference image without garbled characters, corrupted typography, misspellings, or altered wording.\n\nFor the final transition, a large foreground object or graphic element passes very close in front of the camera, completely covering the entire frame and creating a natural foreground-blur wipe transition.\n\nAs the foreground object clears the frame, seamlessly reveal the final logo screen.\n\nCamera movement should be smooth, dynamic, and cinematic.\n\nPrioritize the interaction between the character and the text / graphic elements above everything else.\n\nBGM: Up-tempo, rhythmic music with a strong beat.",
+    "sourceRange": {
+      "start": 165,
+      "end": 2200
+    },
+    "translations": {
+      "zh": "商业宣传片。\n\n在整个序列中保持初始背景颜色。\n\n镜头以连续的横向平移平滑追踪角色，与行走中的角色保持并排行进。\n\n文字与连接线在屏幕上逐步出现，构成一条连贯的视觉路径。\n\n角色行走时，将周围出现的文字和图形元素视为存在于同一物理空间中的实体对象。他们在前进过程中与这些元素自然互动：偶尔用指尖轻敲身旁的文字，抬头注视上方的字词，侧目看向图形，稍微侧身避开某元素，俯身穿过某一元素下方，或短暂驻足观察某物。\n\n一条类似铁轨或视觉路线的连续线条将各个文字元素依次连接起来。参考图像中的文本沿着这条连通路径按原始顺序依次出现。\n\n文字与图形元素不得给人扁平背景装饰的感觉。它们应与角色共存于同一三维空间中，具有逼真的空间关系与交互感。\n\n请勿重复或出现重叠文本。\n\n整体节奏保持明快、富有韵律且流畅。横向平移运动在整个序列中应保持连续不间断。\n\n忠实复现参考图中的所有文本，不得出现乱码、字体破损、拼写错误或字词变动。\n\n最终转场时，一个大型前景物体或图形元素贴近镜头前方掠过，完全遮挡整个画面，形成自然的前景模糊擦除转场。\n\n随着前景物体移出画面，无缝呈现最终的 Logo 画面。\n\n运镜平稳、动态且富有电影质感。\n\n将角色与文字/图形元素之间的互动置于最高优先级。\n\nBGM：节奏明快、律动感强、节拍鲜明的音乐。",
+      "en": "Commercial film.\n\nMaintain the initial background color throughout the sequence.\n\nThe camera smoothly tracks the character with a continuous horizontal scrolling movement, moving alongside them as they walk.\n\nText and connecting lines progressively appear across the screen, forming a continuous visual pathway.\n\nAs the character walks, they recognize the text and graphic elements appearing around them as physical objects that actually exist within the same space. They naturally interact with these elements as they move forward: occasionally tapping nearby text with a fingertip, looking up at words above them, glancing sideways at graphics, slightly stepping aside to avoid an element, ducking underneath one, or briefly stopping to observe something.\n\nA continuous line, resembling a railway track or visual route, connects one text element to the next. The text from the reference image appears sequentially along this connected path, following the original order.\n\nThe text and graphic elements must not feel like flat background decorations. They should feel physically present in the same three-dimensional space as the character, with convincing spatial relationships and interaction.\n\nDo not repeat or duplicate any text.\n\nKeep the overall pacing fast, rhythmic, and fluid. The horizontal scrolling movement should remain continuous and uninterrupted throughout the sequence.\n\nFaithfully reproduce all text from the reference image without garbled characters, corrupted typography, misspellings, or altered wording.\n\nFor the final transition, a large foreground object or graphic element passes very close in front of the camera, completely covering the entire frame and creating a natural foreground-blur wipe transition.\n\nAs the foreground object clears the frame, seamlessly reveal the final logo screen.\n\nCamera movement should be smooth, dynamic, and cinematic.\n\nPrioritize the interaction between the character and the text / graphic elements above everything else.\n\nBGM: Up-tempo, rhythmic music with a strong beat."
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "image-to-video",
+    "useCase": "commercial_promo",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "manual",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
