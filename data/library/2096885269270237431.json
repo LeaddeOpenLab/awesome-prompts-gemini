@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-08T09:26:27.258Z",
+  "model": "gemini",
+  "prompt": "{\n  \"video_duration\": \"10 seconds\",\n  \"aspect_ratio\": \"16:9\",\n  \"sequence\": [\n    {\n      \"time\": \"0-2 sec\",\n      \"scene\": \"Grand Setup\",\n      \"camera\": \"Wide cinematic aerial push-in\",\n      \"action\": \"A huge freshly baked pizza rests on a wooden table like a massive construction site. Dozens of tiny workers rush in with miniature loaders, cranes, delivery trucks, and equipment, preparing to build the perfect pizza.\",\n      \"sound_design\": \"Bright playful music, tiny engine noises, rolling wheels, subtle construction activity.\"\n    },\n    {\n      \"time\": \"2-4 sec\",\n      \"scene\": \"Sauce and Cheese Layer\",\n      \"camera\": \"Medium side-tracking shot\",\n      \"action\": \"A miniature food truck pumps rich red tomato sauce across the pizza while tiny workers spread it smoothly with small spatulas. Another team follows behind, covering the surface with a thick layer of shredded mozzarella.\",\n      \"sound_design\": \"Soft sauce pouring, spatula scraping, cheese rustling, cheerful rhythmic music.\"\n    },\n    {\n      \"time\": \"4-6 sec\",\n      \"scene\": \"Toppings in Motion\",\n      \"camera\": \"Macro close-up with gentle slow motion\",\n      \"action\": \"Tiny conveyor belts transport colorful ingredients including pepperoni, mushrooms, bell peppers, olives, and fresh basil. The miniature workers carefully arrange each topping across the cheesy surface with precision.\",\n      \"sound_design\": \"Conveyor belt movement, tiny ingredient drops, delicate magical chimes, upbeat musical accents.\"\n    },\n    {\n      \"time\": \"6-8 sec\",\n      \"scene\": \"Final Ingredient Lift\",\n      \"camera\": \"Low-angle dramatic cinematic shot\",\n      \"action\": \"A miniature crane raises an oversized pepperoni slice toward the center of the pizza. Workers below pull guide ropes and signal to one another as the topping is slowly positioned into place.\",\n      \"sound_design\": \"Small crane motor, rope tension sounds, mechanical clicks, rising cinematic orchestral music.\"\n    },\n    {\n      \"time\": \"8-10 sec\",\n      \"scene\": \"Pizza Grand Finale\",\n      \"camera\": \"Smooth 360-degree orbit close-up\",\n      \"action\": \"The final topping drops perfectly into position. A burst of colorful confetti fills the miniature world as the tiny workers cheer and celebrate. The camera sweeps around the finished pizza, revealing its glossy melted cheese, colorful toppings, and golden crust before ending on a satisfying hero shot.\",\n      \"sound_design\": \"Celebratory pop, joyful cheering, tiny whistles, uplifting orchestral finish.\"\n    }\n  ],\n  \"visual_style\": {\n    \"animation_quality\": \"Pixar-inspired premium 3D animation\",\n    \"world_design\": \"Charming miniature construction world built around an oversized pizza\",\n    \"color_palette\": \"Warm reds, golden browns, creamy cheese tones, and bright colorful toppings\",\n    \"lighting\": \"Soft warm golden illumination with gentle cinematic highlights\",\n    \"detail\": \"Highly detailed food textures, miniature machinery, realistic cheese melt, crisp toppings, and expressive tiny characters\",\n    \"camera\": \"Fluid cinematic motion, macro photography feel, smooth transitions, shallow depth of field\",\n    \"overall_feel\": \"Cute, playful, visually satisfying, polished, premium, and whimsical\",\n    \"resolution\": \"720p\"\n  }\n}",
+  "summary": "A 3D animated sequence of miniature construction workers assembling a giant pizza.",
+  "summaryEn": "A 3D animated sequence of miniature construction workers assembling a giant pizza.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2096811796074311791",
+      "canonicalUrl": "https://x.com/AiwithBloodline/status/2096811796074311791",
+      "author": {
+        "username": "AiwithBloodline",
+        "displayName": "Dr Bloodline | AI",
+        "profileUrl": "https://x.com/AiwithBloodline"
+      },
+      "originalText": "Generated with Gemini Flash lite on @GeminiApp\n\nVIDEO PROMPT ⤵️:\n\nUse the uploaded photo as the ONLY character identity reference. Transform the person into a realistic miniature human approximately 5 cm tall, preserving the exact face, glasses, hairstyle, skin tone, facial proportions and recognizable identity throughout the entire video.\nCreate an ultra-realistic miniature summer comedy adventure inside a gigantic watermelon field. The environment feels enormous because the character is only 5 cm tall.\nThe miniature character wears a light beige T-shirt, blue jeans and white sneakers, carries a tiny suitcase and wears a wristwatch.\nLOCATION: A vast rural watermelon farm during bright summer afternoon. Giant watermelons are scattered across the ground, enormous green leaves surround the character, wooden farm crates and a tiny rustic roadside juice stall create a believable miniature world. Warm sunlight, realistic dust, natural shadows and cinematic macro depth of field.\n0–2s: The miniature character stands beside a giant watermelon at a tiny wooden juice stall, holding his suitcase. He looks impatient, checks his wristwatch and looks toward the empty farm road as if waiting for transportation.\n2–4s: A giant realistic dragonfly suddenly flies into frame and hovers directly beside him at eye level. Its four transparent wings beat rapidly and independently with accurate dragonfly flight mechanics. The character looks shocked, then realizes it could be his unexpected flying ride and happily waves toward it.\n4–6s: He carefully climbs onto the dragonfly's broad thorax area and settles into a believable riding position, holding securely while keeping his tiny suitcase close to his body. The giant dragonfly remains stable while hovering, with its transparent wings continuously vibrating and catching the sunlight.\n6–8s: The dragonfly rapidly increases its wingbeat and smoothly lifts the miniature rider above the watermelon field. The character looks amazed and excited as the enormous leaves, watermelons and wooden crates gradually become smaller below.\n8–10s: The giant dragonfly flies gracefully through the enormous watermelon farm, passing close to giant leaves, watermelons and wooden crates. The camera follows with a dynamic cinematic macro tracking shot. End with the miniature character looking directly toward the camera, smiling and giving a cheerful thumbs-up while flying through the warm summer sunlight.\nVISUAL STYLE: Ultra-realistic macro cinematography, photorealistic dragonfly anatomy, four transparent veined wings with realistic rapid movement, detailed compound eyes, realistic legs and body structure, highly detailed watermelon textures, natural leaf movement, warm summer sunlight, believable miniature scale, realistic shadows and physical contact, shallow depth of field, smooth cinematic camera movement, premium Hollywood comedy-adventure aesthetic, highly detailed 4K, vertical 9:16.\nCONTINUITY: Same miniature character, exact identity, face, glasses, hairstyle, clothing, suitcase and wristwatch throughout. Maintain consistent 5-cm scale, realistic human anatomy, same dragonfly appearance, realistic dragonfly proportions, environment, lighting, camera geography and physical interaction from beginning to end.\nNEGATIVE PROMPT: No mosquito, no insect morphing, no CGI look, no cartoon style, no humanoid insect, no extra characters, no extra animals, no face changes, no identity drift, no clothing changes, no suitcase changes, no deformed anatomy, no oversized human body, no unrealistic wing mechanics, no floating without physical interaction, no sudden environment changes, no text, no watermark."
+    },
+    "id": "2096885269270237431",
+    "canonicalUrl": "https://x.com/AiwithBloodline/status/2096885269270237431",
+    "author": {
+      "username": "AiwithBloodline",
+      "displayName": "Dr Bloodline | AI",
+      "profileUrl": "https://x.com/AiwithBloodline"
+    },
+    "publishedAt": "2026-09-07T08:56:21.000Z",
+    "collectedAt": "2026-09-08T09:03:00.812Z",
+    "language": "en",
+    "originalText": "Generated with Gemini Flash lite on @GeminiApp\n\n\"From toppings to heavy lifting — pizza construction is underway.\" 😂\n\nPrompt ⤵️ :\n{\n  \"video_duration\": \"10 seconds\",\n  \"aspect_ratio\": \"16:9\",\n  \"sequence\": [\n    {\n      \"time\": \"0-2 sec\",\n      \"scene\": \"Grand Setup\",\n      \"camera\": \"Wide cinematic aerial push-in\",\n      \"action\": \"A huge freshly baked pizza rests on a wooden table like a massive construction site. Dozens of tiny workers rush in with miniature loaders, cranes, delivery trucks, and equipment, preparing to build the perfect pizza.\",\n      \"sound_design\": \"Bright playful music, tiny engine noises, rolling wheels, subtle construction activity.\"\n    },\n    {\n      \"time\": \"2-4 sec\",\n      \"scene\": \"Sauce and Cheese Layer\",\n      \"camera\": \"Medium side-tracking shot\",\n      \"action\": \"A miniature food truck pumps rich red tomato sauce across the pizza while tiny workers spread it smoothly with small spatulas. Another team follows behind, covering the surface with a thick layer of shredded mozzarella.\",\n      \"sound_design\": \"Soft sauce pouring, spatula scraping, cheese rustling, cheerful rhythmic music.\"\n    },\n    {\n      \"time\": \"4-6 sec\",\n      \"scene\": \"Toppings in Motion\",\n      \"camera\": \"Macro close-up with gentle slow motion\",\n      \"action\": \"Tiny conveyor belts transport colorful ingredients including pepperoni, mushrooms, bell peppers, olives, and fresh basil. The miniature workers carefully arrange each topping across the cheesy surface with precision.\",\n      \"sound_design\": \"Conveyor belt movement, tiny ingredient drops, delicate magical chimes, upbeat musical accents.\"\n    },\n    {\n      \"time\": \"6-8 sec\",\n      \"scene\": \"Final Ingredient Lift\",\n      \"camera\": \"Low-angle dramatic cinematic shot\",\n      \"action\": \"A miniature crane raises an oversized pepperoni slice toward the center of the pizza. Workers below pull guide ropes and signal to one another as the topping is slowly positioned into place.\",\n      \"sound_design\": \"Small crane motor, rope tension sounds, mechanical clicks, rising cinematic orchestral music.\"\n    },\n    {\n      \"time\": \"8-10 sec\",\n      \"scene\": \"Pizza Grand Finale\",\n      \"camera\": \"Smooth 360-degree orbit close-up\",\n      \"action\": \"The final topping drops perfectly into position. A burst of colorful confetti fills the miniature world as the tiny workers cheer and celebrate. The camera sweeps around the finished pizza, revealing its glossy melted cheese, colorful toppings, and golden crust before ending on a satisfying hero shot.\",\n      \"sound_design\": \"Celebratory pop, joyful cheering, tiny whistles, uplifting orchestral finish.\"\n    }\n  ],\n  \"visual_style\": {\n    \"animation_quality\": \"Pixar-inspired premium 3D animation\",\n    \"world_design\": \"Charming miniature construction world built around an oversized pizza\",\n    \"color_palette\": \"Warm reds, golden browns, creamy cheese tones, and bright colorful toppings\",\n    \"lighting\": \"Soft warm golden illumination with gentle cinematic highlights\",\n    \"detail\": \"Highly detailed food textures, miniature machinery, realistic cheese melt, crisp toppings, and expressive tiny characters\",\n    \"camera\": \"Fluid cinematic motion, macro photography feel, smooth transitions, shallow depth of field\",\n    \"overall_feel\": \"Cute, playful, visually satisfying, polished, premium, and whimsical\",\n    \"resolution\": \"720p\"\n  }\n}",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AiwithBloodline/status/2096885269270237431",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096885204132769793/img/lBxvvI5cR1E1kXM_.jpg",
+        "analysisUrl": "https://x.com/AiwithBloodline/status/2096885269270237431"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/AiwithBloodline/status/2096885269270237431",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096811754928132096/img/Y35qSlOB_JmismRj.jpg",
+        "analysisUrl": "https://x.com/AiwithBloodline/status/2096885269270237431",
+        "sourcePostId": "2096811796074311791"
+      }
+    ],
+    "metrics": {
+      "likeCount": 54,
+      "repostCount": 3,
+      "replyCount": 36,
+      "quoteCount": 1,
+      "viewCount": 2709
+    },
+    "matchedRuleIds": [
+      "custom:and:[\"prompt\",\"3d\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AiwithBloodline/status/2096885269270237431",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2096885204132769793/img/lBxvvI5cR1E1kXM_.jpg",
+  "coverPath": "covers/2096885269270237431.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pending_push"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2096885204132769793",
+    "x-video:2096811754928132096",
+    "x-post:2096885269270237431",
+    "x-post:2096811796074311791"
+  ],
+  "analysis": {
+    "summary": "A 3D animated sequence of miniature construction workers assembling a giant pizza.",
+    "summaryEn": "A 3D animated sequence of miniature construction workers assembling a giant pizza.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches video sequences: 0-2s aerial setup with tiny trucks, 2-4s sauce pumping truck and cheese, 4-6s topping conveyors, 6-8s crane lifting pepperoni slice, and 8-10s final confetti celebration."
+    },
+    "videoQuality": {
+      "clarity": 88,
+      "motionStability": 86,
+      "visualConsistency": 90,
+      "artifacts": 86,
+      "overall": 88,
+      "notes": "Smooth 3D animation with clean textures, stable miniature mechanics, and consistent lighting across sequences."
+    },
+    "originalPrompt": "{\n  \"video_duration\": \"10 seconds\",\n  \"aspect_ratio\": \"16:9\",\n  \"sequence\": [\n    {\n      \"time\": \"0-2 sec\",\n      \"scene\": \"Grand Setup\",\n      \"camera\": \"Wide cinematic aerial push-in\",\n      \"action\": \"A huge freshly baked pizza rests on a wooden table like a massive construction site. Dozens of tiny workers rush in with miniature loaders, cranes, delivery trucks, and equipment, preparing to build the perfect pizza.\",\n      \"sound_design\": \"Bright playful music, tiny engine noises, rolling wheels, subtle construction activity.\"\n    },\n    {\n      \"time\": \"2-4 sec\",\n      \"scene\": \"Sauce and Cheese Layer\",\n      \"camera\": \"Medium side-tracking shot\",\n      \"action\": \"A miniature food truck pumps rich red tomato sauce across the pizza while tiny workers spread it smoothly with small spatulas. Another team follows behind, covering the surface with a thick layer of shredded mozzarella.\",\n      \"sound_design\": \"Soft sauce pouring, spatula scraping, cheese rustling, cheerful rhythmic music.\"\n    },\n    {\n      \"time\": \"4-6 sec\",\n      \"scene\": \"Toppings in Motion\",\n      \"camera\": \"Macro close-up with gentle slow motion\",\n      \"action\": \"Tiny conveyor belts transport colorful ingredients including pepperoni, mushrooms, bell peppers, olives, and fresh basil. The miniature workers carefully arrange each topping across the cheesy surface with precision.\",\n      \"sound_design\": \"Conveyor belt movement, tiny ingredient drops, delicate magical chimes, upbeat musical accents.\"\n    },\n    {\n      \"time\": \"6-8 sec\",\n      \"scene\": \"Final Ingredient Lift\",\n      \"camera\": \"Low-angle dramatic cinematic shot\",\n      \"action\": \"A miniature crane raises an oversized pepperoni slice toward the center of the pizza. Workers below pull guide ropes and signal to one another as the topping is slowly positioned into place.\",\n      \"sound_design\": \"Small crane motor, rope tension sounds, mechanical clicks, rising cinematic orchestral music.\"\n    },\n    {\n      \"time\": \"8-10 sec\",\n      \"scene\": \"Pizza Grand Finale\",\n      \"camera\": \"Smooth 360-degree orbit close-up\",\n      \"action\": \"The final topping drops perfectly into position. A burst of colorful confetti fills the miniature world as the tiny workers cheer and celebrate. The camera sweeps around the finished pizza, revealing its glossy melted cheese, colorful toppings, and golden crust before ending on a satisfying hero shot.\",\n      \"sound_design\": \"Celebratory pop, joyful cheering, tiny whistles, uplifting orchestral finish.\"\n    }\n  ],\n  \"visual_style\": {\n    \"animation_quality\": \"Pixar-inspired premium 3D animation\",\n    \"world_design\": \"Charming miniature construction world built around an oversized pizza\",\n    \"color_palette\": \"Warm reds, golden browns, creamy cheese tones, and bright colorful toppings\",\n    \"lighting\": \"Soft warm golden illumination with gentle cinematic highlights\",\n    \"detail\": \"Highly detailed food textures, miniature machinery, realistic cheese melt, crisp toppings, and expressive tiny characters\",\n    \"camera\": \"Fluid cinematic motion, macro photography feel, smooth transitions, shallow depth of field\",\n    \"overall_feel\": \"Cute, playful, visually satisfying, polished, premium, and whimsical\",\n    \"resolution\": \"720p\"\n  }\n}",
+    "sourceRange": {
+      "start": 130,
+      "end": 3373
+    },
+    "translations": {
+      "zh": "{\n  \"video_duration\": \"10 秒\",\n  \"aspect_ratio\": \"16:9\",\n  \"sequence\": [\n    {\n      \"time\": \"0-2 秒\",\n      \"scene\": \"宏大布景\",\n      \"camera\": \"宽画幅电影级空中推进镜头\",\n      \"action\": \"一张巨大的新鲜烘焙披萨摆在木桌上，宛如一个大型施工现场。数十名微缩工人带着小型装载机、起重机、运输卡车和设备赶来，准备建造完美的披萨。\",\n      \"sound_design\": \"欢快活泼的音乐、微小的引擎轰鸣、车轮滚动声与细微的施工声。\"\n    },\n    {\n      \"time\": \"2-4 秒\",\n      \"scene\": \"涂酱与铺芝士层\",\n      \"camera\": \"中景侧向追踪镜头\",\n      \"action\": \"一辆微型餐车在披萨上泵出浓郁的红番茄酱，微型工人用小铲子将其平整铺开。另一支队伍紧随其后，在表面铺上一层厚厚的马苏里拉芝士碎。\",\n      \"sound_design\": \"柔和的酱汁倒落声、刮铲声、芝士摩擦沙沙声与欢快的节奏音乐。\"\n    },\n    {\n      \"time\": \"4-6 秒\",\n      \"scene\": \"传送配料\",\n      \"camera\": \"带柔和慢动作的微距特写\",\n      \"action\": \"微型传送带运送包括意大利辣香肠、蘑菇、青椒、橄榄和新鲜罗勒在内的丰富配料。工人们精准地将配料整齐码放在芝士表面。\",\n      \"sound_design\": \"传送带运转声、细小配料掉落声、清脆魔幻的风铃声与轻快的音乐点缀。\"\n    },\n    {\n      \"time\": \"6-8 秒\",\n      \"scene\": \"吊装最后配料\",\n      \"camera\": \"低角度戏剧性电影镜头\",\n      \"action\": \"微型起重机将一片超大尺寸的辣香肠吊向披萨中心。下方的工人们拉动牵引绳并相互示意，配料被缓缓定位到位。\",\n      \"sound_design\": \"微型起重机电机声、绳索拉力声、机械咔嗒声与逐渐高昂的电影管弦乐。\"\n    },\n    {\n      \"time\": \"8-10 秒\",\n      \"scene\": \"披萨大功告成\",\n      \"camera\": \"平滑的 360 度环绕特写镜头\",\n      \"action\": \"最后一块配料完美落位。彩纸礼花洒满微观世界，微型工人们欢呼庆祝。镜头环绕成品披萨旋转，展示融化的光泽芝士、鲜艳配料与金黄饼皮，最终定格在令人满意的特写。\",\n      \"sound_design\": \"庆祝礼花爆炸声、欢快喝彩、微小口哨声与激昂管弦收尾。\"\n    }\n  ],\n  \"visual_style\": {\n    \"animation_quality\": \"皮克斯风格高品质 3D 动画\",\n    \"world_design\": \"围绕超大披萨打造的迷人微型施工世界\",\n    \"color_palette\": \"暖红、金黄褐、奶油芝士色调及色彩缤纷的配料\",\n    \"lighting\": \"带有柔和电影高光的暖金柔光\",\n    \"detail\": \"高度精细的食物纹理、微型机械、逼真的芝士融化效果、爽脆的配料和生动的微缩角色\",\n    \"camera\": \"流畅的电影级运镜、微距摄影感、平滑过渡、浅景深\",\n    \"overall_feel\": \"可爱、有趣、视觉解压、精致高级与天马行空\",\n    \"resolution\": \"720p\"\n  }\n}",
+      "en": "{\n  \"video_duration\": \"10 seconds\",\n  \"aspect_ratio\": \"16:9\",\n  \"sequence\": [\n    {\n      \"time\": \"0-2 sec\",\n      \"scene\": \"Grand Setup\",\n      \"camera\": \"Wide cinematic aerial push-in\",\n      \"action\": \"A huge freshly baked pizza rests on a wooden table like a massive construction site. Dozens of tiny workers rush in with miniature loaders, cranes, delivery trucks, and equipment, preparing to build the perfect pizza.\",\n      \"sound_design\": \"Bright playful music, tiny engine noises, rolling wheels, subtle construction activity.\"\n    },\n    {\n      \"time\": \"2-4 sec\",\n      \"scene\": \"Sauce and Cheese Layer\",\n      \"camera\": \"Medium side-tracking shot\",\n      \"action\": \"A miniature food truck pumps rich red tomato sauce across the pizza while tiny workers spread it smoothly with small spatulas. Another team follows behind, covering the surface with a thick layer of shredded mozzarella.\",\n      \"sound_design\": \"Soft sauce pouring, spatula scraping, cheese rustling, cheerful rhythmic music.\"\n    },\n    {\n      \"time\": \"4-6 sec\",\n      \"scene\": \"Toppings in Motion\",\n      \"camera\": \"Macro close-up with gentle slow motion\",\n      \"action\": \"Tiny conveyor belts transport colorful ingredients including pepperoni, mushrooms, bell peppers, olives, and fresh basil. The miniature workers carefully arrange each topping across the cheesy surface with precision.\",\n      \"sound_design\": \"Conveyor belt movement, tiny ingredient drops, delicate magical chimes, upbeat musical accents.\"\n    },\n    {\n      \"time\": \"6-8 sec\",\n      \"scene\": \"Final Ingredient Lift\",\n      \"camera\": \"Low-angle dramatic cinematic shot\",\n      \"action\": \"A miniature crane raises an oversized pepperoni slice toward the center of the pizza. Workers below pull guide ropes and signal to one another as the topping is slowly positioned into place.\",\n      \"sound_design\": \"Small crane motor, rope tension sounds, mechanical clicks, rising cinematic orchestral music.\"\n    },\n    {\n      \"time\": \"8-10 sec\",\n      \"scene\": \"Pizza Grand Finale\",\n      \"camera\": \"Smooth 360-degree orbit close-up\",\n      \"action\": \"The final topping drops perfectly into position. A burst of colorful confetti fills the miniature world as the tiny workers cheer and celebrate. The camera sweeps around the finished pizza, revealing its glossy melted cheese, colorful toppings, and golden crust before ending on a satisfying hero shot.\",\n      \"sound_design\": \"Celebratory pop, joyful cheering, tiny whistles, uplifting orchestral finish.\"\n    }\n  ],\n  \"visual_style\": {\n    \"animation_quality\": \"Pixar-inspired premium 3D animation\",\n    \"world_design\": \"Charming miniature construction world built around an oversized pizza\",\n    \"color_palette\": \"Warm reds, golden browns, creamy cheese tones, and bright colorful toppings\",\n    \"lighting\": \"Soft warm golden illumination with gentle cinematic highlights\",\n    \"detail\": \"Highly detailed food textures, miniature machinery, realistic cheese melt, crisp toppings, and expressive tiny characters\",\n    \"camera\": \"Fluid cinematic motion, macro photography feel, smooth transitions, shallow depth of field\",\n    \"overall_feel\": \"Cute, playful, visually satisfying, polished, premium, and whimsical\",\n    \"resolution\": \"720p\"\n  }\n}"
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "text-to-video",
+    "useCase": "creative-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
