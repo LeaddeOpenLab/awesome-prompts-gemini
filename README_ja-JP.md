@@ -33,35 +33,35 @@
 **Prompt**
 
 ```text
-Commercial film.
+コマーシャルフィルム。
 
-Maintain the initial background color throughout the sequence.
+シークエンス全体を通して、初期の背景色を維持すること。
 
-The camera smoothly tracks the character with a continuous horizontal scrolling movement, moving alongside them as they walk.
+カメラはキャラクターが歩くのに合わせて横に並んで移動し、途切れることのない水平スクロールの動きでキャラクターを滑らかにトラッキングする。
 
-Text and connecting lines progressively appear across the screen, forming a continuous visual pathway.
+テキストとそれらを繋ぐラインが画面上に順次現れ、連続した視覚的な経路を形成する。
 
-As the character walks, they recognize the text and graphic elements appearing around them as physical objects that actually exist within the same space. They naturally interact with these elements as they move forward: occasionally tapping nearby text with a fingertip, looking up at words above them, glancing sideways at graphics, slightly stepping aside to avoid an element, ducking underneath one, or briefly stopping to observe something.
+キャラクターは歩きながら、周囲に現れるテキストやグラフィック要素を、同じ空間内に実際に存在する物理的なオブジェクトとして認識している。前進しながらこれらの要素と自然にインタラクションを行う：近くにあるテキストを指先で軽く叩いたり、頭上の単語を見上げたり、横にあるグラフィックをちらりと見たり、要素を避けるために少し横へステップしたり、要素の下をくぐったり、立ち止まって何かを観察したりする。
 
-A continuous line, resembling a railway track or visual route, connects one text element to the next. The text from the reference image appears sequentially along this connected path, following the original order.
+線路や視覚的なルートのような一本の連続したラインが、あるテキスト要素から次のテキスト要素へと繋がっている。参照画像のテキストは、元の順序に従ってこの繋がったパスに沿って順次現れる。
 
-The text and graphic elements must not feel like flat background decorations. They should feel physically present in the same three-dimensional space as the character, with convincing spatial relationships and interaction.
+テキストやグラフィック要素は、平坦な背景の装飾のように感じられてはならない。説得力のある空間的関係性とインタラクションを持ち、キャラクターと同じ三次元空間内に物理的に存在しているように感じられる必要がある。
 
-Do not repeat or duplicate any text.
+テキストを繰り返したり重複させたりしないこと。
 
-Keep the overall pacing fast, rhythmic, and fluid. The horizontal scrolling movement should remain continuous and uninterrupted throughout the sequence.
+全体のテンポは速く、リズミカルで流れるように保つこと。水平スクロールの動きは、シークエンス全体を通して途切れることなく連続していなければならない。
 
-Faithfully reproduce all text from the reference image without garbled characters, corrupted typography, misspellings, or altered wording.
+文字化け、崩れたタイポグラフィ、スペルミス、文言の変更なしに、参照画像のすべてのテキストを忠実に再現すること。
 
-For the final transition, a large foreground object or graphic element passes very close in front of the camera, completely covering the entire frame and creating a natural foreground-blur wipe transition.
+最後のトランジションでは、手前にある大きなオブジェクトまたはグラフィック要素がカメラのすぐ目の前を通過し、フレーム全体を完全に覆い尽くすことで、自然な前ボケのワイプ・トランジションを作り出す。
 
-As the foreground object clears the frame, seamlessly reveal the final logo screen.
+手前のオブジェクトがフレームから外れると、シームレスに最終的なロゴ画面が現れる。
 
-Camera movement should be smooth, dynamic, and cinematic.
+カメラワークは滑らかでダイナミック、かつシネマティックであること。
 
-Prioritize the interaction between the character and the text / graphic elements above everything else.
+何よりもキャラクターとテキスト／グラフィック要素とのインタラクションを最優先すること。
 
-BGM: Up-tempo, rhythmic music with a strong beat.
+BGM：アップテンポでリズミカル、力強いビートのある音楽。
 ```
 
 [↑ カテゴリに戻る](#catalog)
