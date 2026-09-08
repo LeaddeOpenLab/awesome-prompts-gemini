@@ -33,35 +33,35 @@ Tác giả：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Bài gốc](https
 **Prompt**
 
 ```text
-Commercial film.
+Phim quảng cáo.
 
-Maintain the initial background color throughout the sequence.
+Duy trì màu nền ban đầu trong suốt toàn bộ chuỗi cảnh.
 
-The camera smoothly tracks the character with a continuous horizontal scrolling movement, moving alongside them as they walk.
+Máy quay theo dõi nhân vật một cách mượt mà với chuyển động cuộn ngang liên tục, di chuyển song song cùng họ khi họ bước đi.
 
-Text and connecting lines progressively appear across the screen, forming a continuous visual pathway.
+Văn bản và các đường nối dần dần xuất hiện trên khắp màn hình, tạo thành một lối đi trực quan liên tục.
 
-As the character walks, they recognize the text and graphic elements appearing around them as physical objects that actually exist within the same space. They naturally interact with these elements as they move forward: occasionally tapping nearby text with a fingertip, looking up at words above them, glancing sideways at graphics, slightly stepping aside to avoid an element, ducking underneath one, or briefly stopping to observe something.
+Khi nhân vật bước đi, họ nhận biết các yếu tố văn bản và đồ họa xuất hiện xung quanh mình như những vật thể vật lý thực sự tồn tại trong cùng một không gian. Họ tương tác một cách tự nhiên với các yếu tố này khi tiến về phía trước: thỉnh thoảng chạm đầu ngón tay vào văn bản gần đó, ngước nhìn các từ ngữ phía trên họ, liếc nhìn sang các yếu tố đồ họa, hơi bước né sang một bên để tránh một vật thể, cúi người luồn xuống bên dưới, hoặc dừng lại trong chốc lát để quan sát điều gì đó.
 
-A continuous line, resembling a railway track or visual route, connects one text element to the next. The text from the reference image appears sequentially along this connected path, following the original order.
+Một đường thẳng liên tục, giống như đường ray xe lửa hoặc lộ trình trực quan, kết nối phần tử văn bản này với phần tử tiếp theo. Văn bản từ hình ảnh tham chiếu xuất hiện tuần tự dọc theo con đường kết nối này, theo đúng thứ tự ban đầu.
 
-The text and graphic elements must not feel like flat background decorations. They should feel physically present in the same three-dimensional space as the character, with convincing spatial relationships and interaction.
+Các yếu tố văn bản và đồ họa không được mang lại cảm giác như các chi tiết trang trí nền phẳng. Chúng cần tạo cảm giác hiện diện vật lý trong cùng một không gian ba chiều với nhân vật, với các mối quan hệ không gian và sự tương tác đầy thuyết phục.
 
-Do not repeat or duplicate any text.
+Không lặp lại hoặc nhân bản bất kỳ văn bản nào.
 
-Keep the overall pacing fast, rhythmic, and fluid. The horizontal scrolling movement should remain continuous and uninterrupted throughout the sequence.
+Giữ nhịp độ tổng thể nhanh, nhịp nhàng và mượt mà. Chuyển động cuộn ngang phải luôn liên tục và không bị gián đoạn trong suốt toàn bộ chuỗi cảnh.
 
-Faithfully reproduce all text from the reference image without garbled characters, corrupted typography, misspellings, or altered wording.
+Tái hiện trung thực toàn bộ văn bản từ hình ảnh tham chiếu mà không có ký tự bị lỗi, phông chữ bị hỏng, lỗi chính tả hoặc từ ngữ bị thay đổi.
 
-For the final transition, a large foreground object or graphic element passes very close in front of the camera, completely covering the entire frame and creating a natural foreground-blur wipe transition.
+Đối với chuyển cảnh cuối cùng, một vật thể tiền cảnh lớn hoặc một yếu tố đồ họa đi qua rất sát trước máy quay, che kín hoàn toàn toàn bộ khung hình và tạo ra một hiệu ứng chuyển cảnh xóa mờ tiền cảnh tự nhiên.
 
-As the foreground object clears the frame, seamlessly reveal the final logo screen.
+Khi vật thể tiền cảnh biến mất khỏi khung hình, để lộ màn hình logo cuối cùng một cách liền mạch.
 
-Camera movement should be smooth, dynamic, and cinematic.
+Chuyển động của máy quay cần mượt mà, sống động và đậm chất điện ảnh.
 
-Prioritize the interaction between the character and the text / graphic elements above everything else.
+Ưu tiên sự tương tác giữa nhân vật và các yếu tố văn bản / đồ họa lên trên hết.
 
-BGM: Up-tempo, rhythmic music with a strong beat.
+BGM: Nhạc có tiết tấu nhanh, nhịp nhàng với nhịp điệu mạnh mẽ.
 ```
 
 [↑ Về danh mục](#catalog)
