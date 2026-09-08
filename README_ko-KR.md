@@ -211,7 +211,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 <a name="prompt-2096885269270237431"></a>
 
-### A 3D animated sequence of miniature construction workers assembling a giant pizza.
+### 거대한 피자를 조립하는 미니어처 건설 노동자들의 3D 애니메이션 시퀀스.
 
 작성자：[@AiwithBloodline](https://x.com/AiwithBloodline) · [원본 게시물](https://x.com/AiwithBloodline/status/2096885269270237431)
 
@@ -219,7 +219,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 원본 게시물：[@AiwithBloodline](https://x.com/AiwithBloodline) · [원본 게시물](https://x.com/AiwithBloodline/status/2096811796074311791)
 
-**요약:** A 3D animated sequence of miniature construction workers assembling a giant pizza.
+**요약:** 거대한 피자를 조립하는 미니어처 건설 노동자들의 3D 애니메이션 시퀀스.
 
 <img src="covers/2096885269270237431.jpg" alt="이미지 1" width="480" />
 
@@ -227,53 +227,53 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 ```text
 {
-  "video_duration": "10 seconds",
+  "video_duration": "10초",
   "aspect_ratio": "16:9",
   "sequence": [
     {
-      "time": "0-2 sec",
-      "scene": "Grand Setup",
-      "camera": "Wide cinematic aerial push-in",
-      "action": "A huge freshly baked pizza rests on a wooden table like a massive construction site. Dozens of tiny workers rush in with miniature loaders, cranes, delivery trucks, and equipment, preparing to build the perfect pizza.",
-      "sound_design": "Bright playful music, tiny engine noises, rolling wheels, subtle construction activity."
+      "time": "0-2초",
+      "scene": "웅장한 준비",
+      "camera": "와이드 시네마틱 에어리얼 푸시인",
+      "action": "거대한 갓 구운 피자가 거대한 공사장처럼 나무 테이블 위에 놓여 있습니다. 수십 명의 작은 일꾼들이 완벽한 피자를 만들 준비를 하며 소형 로더, 크레인, 배달 트럭, 장비를 가지고 몰려옵니다.",
+      "sound_design": "밝고 경쾌한 음악, 작은 모터 소리, 굴러가는 바퀴 소리, 은은한 공사 소음."
     },
     {
-      "time": "2-4 sec",
-      "scene": "Sauce and Cheese Layer",
-      "camera": "Medium side-tracking shot",
-      "action": "A miniature food truck pumps rich red tomato sauce across the pizza while tiny workers spread it smoothly with small spatulas. Another team follows behind, covering the surface with a thick layer of shredded mozzarella.",
-      "sound_design": "Soft sauce pouring, spatula scraping, cheese rustling, cheerful rhythmic music."
+      "time": "2-4초",
+      "scene": "소스 및 치즈 레이어",
+      "camera": "미디엄 사이드 트래킹 샷",
+      "action": "소형 푸드트럭이 진한 붉은색 토마토소스를 피자 위에 뿌리고, 작은 일꾼들이 작은 주걱으로 이를 매끄럽게 폅니다. 또 다른 팀이 뒤따라가며 표면을 잘게 썬 모차렐라 치즈의 두꺼운 층으로 덮습니다.",
+      "sound_design": "부드러운 소스 붓는 소리, 주걱 긁는 소리, 치즈 바스락거리는 소리, 경쾌하고 리드미컬한 음악."
     },
     {
-      "time": "4-6 sec",
-      "scene": "Toppings in Motion",
-      "camera": "Macro close-up with gentle slow motion",
-      "action": "Tiny conveyor belts transport colorful ingredients including pepperoni, mushrooms, bell peppers, olives, and fresh basil. The miniature workers carefully arrange each topping across the cheesy surface with precision.",
-      "sound_design": "Conveyor belt movement, tiny ingredient drops, delicate magical chimes, upbeat musical accents."
+      "time": "4-6초",
+      "scene": "토핑의 움직임",
+      "camera": "부드러운 슬로우 모션이 가미된 매크로 클로즈업",
+      "action": "작은 컨베이어 벨트가 페퍼로니, 버섯, 피망, 올리브, 신선한 바질 등 다채로운 재료를 운반합니다. 작은 일꾼들은 정밀하게 치즈 표면 전체에 각 토핑을 조심스럽게 배치합니다.",
+      "sound_design": "컨베이어 벨트 작동음, 작은 재료 떨어지는 소리, 섬세하고 마법 같은 차임벨 소리, 경쾌한 음악적 악센트."
     },
     {
-      "time": "6-8 sec",
-      "scene": "Final Ingredient Lift",
-      "camera": "Low-angle dramatic cinematic shot",
-      "action": "A miniature crane raises an oversized pepperoni slice toward the center of the pizza. Workers below pull guide ropes and signal to one another as the topping is slowly positioned into place.",
-      "sound_design": "Small crane motor, rope tension sounds, mechanical clicks, rising cinematic orchestral music."
+      "time": "6-8초",
+      "scene": "마지막 재료 인양",
+      "camera": "로우앵글 드라마틱 시네마틱 샷",
+      "action": "소형 크레인이 대형 페퍼로니 조각을 피자 중앙을 향해 들어 올립니다. 아래의 일꾼들은 가이드 로프를 당기고 토핑이 천천히 제자리를 잡아가자 서로에게 신호를 보냅니다.",
+      "sound_design": "작은 크레인 모터 소리, 로프 장력 소리, 기계적 딸깍거림, 고조되는 시네마틱 오케스트라 음악."
     },
     {
-      "time": "8-10 sec",
-      "scene": "Pizza Grand Finale",
-      "camera": "Smooth 360-degree orbit close-up",
-      "action": "The final topping drops perfectly into position. A burst of colorful confetti fills the miniature world as the tiny workers cheer and celebrate. The camera sweeps around the finished pizza, revealing its glossy melted cheese, colorful toppings, and golden crust before ending on a satisfying hero shot.",
-      "sound_design": "Celebratory pop, joyful cheering, tiny whistles, uplifting orchestral finish."
+      "time": "8-10초",
+      "scene": "피자 그랜드 피날레",
+      "camera": "부드러운 360도 오빗 클로즈업",
+      "action": "마지막 토핑이 제자리에 완벽하게 안착합니다. 다채로운 색상의 꽃가루가 미니어처 세계를 가득 채우고 작은 일꾼들이 환호하며 축하합니다. 카메라는 완성된 피자 주위를 부드럽게 돌며 윤기 나는 녹은 치즈, 다채로운 토핑, 황금빛 크러스트를 보여준 후 만족스러운 히어로 샷으로 마무리됩니다.",
+      "sound_design": "축하 폭죽 소리, 즐거운 환호성, 작은 호루라기 소리, 고양되는 오케스트라 피날레."
     }
   ],
   "visual_style": {
-    "animation_quality": "Pixar-inspired premium 3D animation",
-    "world_design": "Charming miniature construction world built around an oversized pizza",
-    "color_palette": "Warm reds, golden browns, creamy cheese tones, and bright colorful toppings",
-    "lighting": "Soft warm golden illumination with gentle cinematic highlights",
-    "detail": "Highly detailed food textures, miniature machinery, realistic cheese melt, crisp toppings, and expressive tiny characters",
-    "camera": "Fluid cinematic motion, macro photography feel, smooth transitions, shallow depth of field",
-    "overall_feel": "Cute, playful, visually satisfying, polished, premium, and whimsical",
+    "animation_quality": "픽사 스타일의 프리미엄 3D 애니메이션",
+    "world_design": "거대한 피자를 중심으로 지어진 매력적인 미니어처 공사 세계",
+    "color_palette": "따뜻한 붉은색, 황금빛 갈색, 크리미한 치즈 톤, 밝고 다채로운 토핑",
+    "lighting": "부드러운 시네마틱 하이라이트가 있는 부드럽고 따뜻한 황금빛 조명",
+    "detail": "매우 정교한 음식 질감, 미니어처 중장비, 사실적으로 녹아내린 치즈, 신선한 토핑, 표정이 살아있는 작은 캐릭터들",
+    "camera": "유려한 시네마틱 움직임, 접사 촬영의 느낌, 부드러운 전환, 얕은 심도",
+    "overall_feel": "귀엽고, 장난기 넘치며, 시각적으로 만족스럽고, 세련되며, 프리미엄하고 기발한 분위기",
     "resolution": "720p"
   }
 }

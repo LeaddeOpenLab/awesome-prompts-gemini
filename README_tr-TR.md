@@ -211,7 +211,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 <a name="prompt-2096885269270237431"></a>
 
-### A 3D animated sequence of miniature construction workers assembling a giant pizza.
+### Devasa bir pizzayı bir araya getiren minyatür inşaat işçilerinin 3D animasyonlu bir sekansı.
 
 Yazar：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi](https://x.com/AiwithBloodline/status/2096885269270237431)
 
@@ -219,7 +219,7 @@ Yazar：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi]
 
 Orijinal gönderi：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi](https://x.com/AiwithBloodline/status/2096811796074311791)
 
-**Özet:** A 3D animated sequence of miniature construction workers assembling a giant pizza.
+**Özet:** Devasa bir pizzayı bir araya getiren minyatür inşaat işçilerinin 3D animasyonlu bir sekansı.
 
 <img src="covers/2096885269270237431.jpg" alt="Görsel 1" width="480" />
 
@@ -227,53 +227,53 @@ Orijinal gönderi：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijin
 
 ```text
 {
-  "video_duration": "10 seconds",
+  "video_duration": "10 saniye",
   "aspect_ratio": "16:9",
   "sequence": [
     {
-      "time": "0-2 sec",
-      "scene": "Grand Setup",
-      "camera": "Wide cinematic aerial push-in",
-      "action": "A huge freshly baked pizza rests on a wooden table like a massive construction site. Dozens of tiny workers rush in with miniature loaders, cranes, delivery trucks, and equipment, preparing to build the perfect pizza.",
-      "sound_design": "Bright playful music, tiny engine noises, rolling wheels, subtle construction activity."
+      "time": "0-2 sn",
+      "scene": "Büyük Kurulum",
+      "camera": "Geniş sinematik havadan yaklaşma (push-in)",
+      "action": "Taze pişmiş devasa bir pizza, devasa bir şantiye alanı gibi ahşap bir masanın üzerinde duruyor. Düzinelerce minik işçi minyatür yükleyiciler, vinçler, teslimat kamyonları ve ekipmanlarla mükemmel pizzayı inşa etmeye hazırlanarak içeri koşuyor.",
+      "sound_design": "Neşeli, hareketli müzik, minik motor sesleri, dönen tekerlekler, hafif inşaat hareketliliği."
     },
     {
-      "time": "2-4 sec",
-      "scene": "Sauce and Cheese Layer",
-      "camera": "Medium side-tracking shot",
-      "action": "A miniature food truck pumps rich red tomato sauce across the pizza while tiny workers spread it smoothly with small spatulas. Another team follows behind, covering the surface with a thick layer of shredded mozzarella.",
-      "sound_design": "Soft sauce pouring, spatula scraping, cheese rustling, cheerful rhythmic music."
+      "time": "2-4 sn",
+      "scene": "Sos ve Peynir Katmanı",
+      "camera": "Orta çekim yandan takip",
+      "action": "Minyatür bir yemek kamyonu pizzanın üzerine zengin kırmızı domates sosu pompalarken, minik işçiler küçük spatulalarla sosu pürüzsüzce yayıyor. Başka bir ekip arkadan gelerek yüzeyi kalın bir rendelenmiş mozzarella katmanıyla kaplıyor.",
+      "sound_design": "Hafif sos dökülme sesi, spatula kazıma sesi, peynir hışırtısı, neşeli ritmik müzik."
     },
     {
-      "time": "4-6 sec",
-      "scene": "Toppings in Motion",
-      "camera": "Macro close-up with gentle slow motion",
-      "action": "Tiny conveyor belts transport colorful ingredients including pepperoni, mushrooms, bell peppers, olives, and fresh basil. The miniature workers carefully arrange each topping across the cheesy surface with precision.",
-      "sound_design": "Conveyor belt movement, tiny ingredient drops, delicate magical chimes, upbeat musical accents."
+      "time": "4-6 sn",
+      "scene": "Hareket Halindeki Malzemeler",
+      "camera": "Hafif ağır çekimli makro yakın çekim",
+      "action": "Minik taşıma bantları sucuk, mantar, dolmalık biber, zeytin ve taze fesleğen gibi renkli malzemeleri taşıyor. Minyatür işçiler her malzemeyi peynirli yüzeye titizlikle ve özenle yerleştiriyor.",
+      "sound_design": "Taşıma bandı hareketi, minik malzeme düşüşleri, narin büyülü çan sesleri, enerjik müzikal vurgular."
     },
     {
-      "time": "6-8 sec",
-      "scene": "Final Ingredient Lift",
-      "camera": "Low-angle dramatic cinematic shot",
-      "action": "A miniature crane raises an oversized pepperoni slice toward the center of the pizza. Workers below pull guide ropes and signal to one another as the topping is slowly positioned into place.",
-      "sound_design": "Small crane motor, rope tension sounds, mechanical clicks, rising cinematic orchestral music."
+      "time": "6-8 sn",
+      "scene": "Son Malzemenin Kaldırılması",
+      "camera": "Düşük açılı dramatik sinematik çekim",
+      "action": "Minyatür bir vinç, devasa bir sucuk dilimini pizzanın merkezine doğru kaldırıyor. Aşağıdaki işçiler kılavuz halatları çekiyor ve malzeme yavaşça yerine yerleştirilirken birbirlerine işaret veriyor.",
+      "sound_design": "Küçük vinç motoru sesi, gerilen halat sesleri, mekanik tıkırtılar, yükselen sinematik orkestral müzik."
     },
     {
-      "time": "8-10 sec",
-      "scene": "Pizza Grand Finale",
-      "camera": "Smooth 360-degree orbit close-up",
-      "action": "The final topping drops perfectly into position. A burst of colorful confetti fills the miniature world as the tiny workers cheer and celebrate. The camera sweeps around the finished pizza, revealing its glossy melted cheese, colorful toppings, and golden crust before ending on a satisfying hero shot.",
-      "sound_design": "Celebratory pop, joyful cheering, tiny whistles, uplifting orchestral finish."
+      "time": "8-10 sn",
+      "scene": "Pizza Büyük Finali",
+      "camera": "Pürüzsüz 360 derece dönen yakın plan",
+      "action": "Son malzeme mükemmel bir şekilde yerine düşüyor. Minik işçiler tezahürat yapıp kutlarken minyatür dünyayı rengarenk bir konfeti patlaması dolduruyor. Kamera, tamamlanan pizzanın etrafında dönerek parlak erimiş peynirini, renkli malzemelerini ve altın sarısı kenarını gözler önüne seriyor ve tatmin edici bir kahraman çekimiyle sona eriyor.",
+      "sound_design": "Kutlama patlaması, neşeli tezahüratlar, minik ıslıklar, coşkulu orkestral kapanış."
     }
   ],
   "visual_style": {
-    "animation_quality": "Pixar-inspired premium 3D animation",
-    "world_design": "Charming miniature construction world built around an oversized pizza",
-    "color_palette": "Warm reds, golden browns, creamy cheese tones, and bright colorful toppings",
-    "lighting": "Soft warm golden illumination with gentle cinematic highlights",
-    "detail": "Highly detailed food textures, miniature machinery, realistic cheese melt, crisp toppings, and expressive tiny characters",
-    "camera": "Fluid cinematic motion, macro photography feel, smooth transitions, shallow depth of field",
-    "overall_feel": "Cute, playful, visually satisfying, polished, premium, and whimsical",
+    "animation_quality": "Pixar esintili birinci sınıf 3D animasyon",
+    "world_design": "Büyük boy bir pizzanın etrafına kurulmuş büyüleyici minyatür inşaat dünyası",
+    "color_palette": "Sıcak kırmızılar, altın kahveler, kremsi peynir tonları ve parlak renkli malzemeler",
+    "lighting": "Hafif sinematik parıltılarla yumuşak sıcak altın aydınlatma",
+    "detail": "Son derece ayrıntılı yiyecek dokuları, minyatür makineler, gerçekçi peynir erimesi, çıtır malzemeler ve etkileyici minik karakterler",
+    "camera": "Akıcı sinematik hareket, makro fotoğrafçılık hissi, yumuşak geçişler, sığ alan derinliği",
+    "overall_feel": "Sevimli, eğlenceli, görsel olarak tatmin edici, kusursuz, kaliteli ve masalsı",
     "resolution": "720p"
   }
 }

@@ -211,7 +211,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 <a name="prompt-2096885269270237431"></a>
 
-### A 3D animated sequence of miniature construction workers assembling a giant pizza.
+### ミニチュアの建設作業員たちが巨大なピザを組み立てる3Dアニメーションシーケンス。
 
 作者：[@AiwithBloodline](https://x.com/AiwithBloodline) · [元の投稿](https://x.com/AiwithBloodline/status/2096885269270237431)
 
@@ -219,7 +219,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 元の投稿：[@AiwithBloodline](https://x.com/AiwithBloodline) · [元の投稿](https://x.com/AiwithBloodline/status/2096811796074311791)
 
-**概要:** A 3D animated sequence of miniature construction workers assembling a giant pizza.
+**概要:** ミニチュアの建設作業員たちが巨大なピザを組み立てる3Dアニメーションシーケンス。
 
 <img src="covers/2096885269270237431.jpg" alt="画像 1" width="480" />
 
@@ -227,53 +227,53 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 ```text
 {
-  "video_duration": "10 seconds",
+  "video_duration": "10秒",
   "aspect_ratio": "16:9",
   "sequence": [
     {
-      "time": "0-2 sec",
-      "scene": "Grand Setup",
-      "camera": "Wide cinematic aerial push-in",
-      "action": "A huge freshly baked pizza rests on a wooden table like a massive construction site. Dozens of tiny workers rush in with miniature loaders, cranes, delivery trucks, and equipment, preparing to build the perfect pizza.",
-      "sound_design": "Bright playful music, tiny engine noises, rolling wheels, subtle construction activity."
+      "time": "0-2秒",
+      "scene": "壮大なセットアップ",
+      "camera": "映画的なワイドアングルの俯瞰プッシュイン",
+      "action": "まるで巨大な建設現場のように、焼きたての巨大なピザが木製テーブルの上に置かれている。完璧なピザを作り上げようと、小型ローダー、クレーン、配達トラック、機材を持った何十人ものミニチュア作業員たちが駆けつけてくる。",
+      "sound_design": "明るく遊び心のある音楽、小さなエンジン音、車輪の回転音、微かな建設作業の音。"
     },
     {
-      "time": "2-4 sec",
-      "scene": "Sauce and Cheese Layer",
-      "camera": "Medium side-tracking shot",
-      "action": "A miniature food truck pumps rich red tomato sauce across the pizza while tiny workers spread it smoothly with small spatulas. Another team follows behind, covering the surface with a thick layer of shredded mozzarella.",
-      "sound_design": "Soft sauce pouring, spatula scraping, cheese rustling, cheerful rhythmic music."
+      "time": "2-4秒",
+      "scene": "ソースとチーズの層",
+      "camera": "ミディアムのサイドトラッキングショット",
+      "action": "ミニチュアのフードトラックが濃厚な赤いトマトソースをピザ全体に注ぎ込み、小さな作業員たちが小さなヘラで滑らかに塗り広げる。その後ろから別のチームが続き、表面をたっぷりの刻みモッツァレラチーズで覆っていく。",
+      "sound_design": "柔らかなソースを注ぐ音、ヘラでこする音、チーズのカサカサという音、リズミカルで陽気な音楽。"
     },
     {
-      "time": "4-6 sec",
-      "scene": "Toppings in Motion",
-      "camera": "Macro close-up with gentle slow motion",
-      "action": "Tiny conveyor belts transport colorful ingredients including pepperoni, mushrooms, bell peppers, olives, and fresh basil. The miniature workers carefully arrange each topping across the cheesy surface with precision.",
-      "sound_design": "Conveyor belt movement, tiny ingredient drops, delicate magical chimes, upbeat musical accents."
+      "time": "4-6秒",
+      "scene": "トッピングの進行",
+      "camera": "緩やかなスローモーションを交えたマクロクローズアップ",
+      "action": "小さなベルトコンベアが、ペパロニ、マッシュルーム、ピーマン、オリーブ、フレッシュバジルなど色鮮やかな具材を運ぶ。ミニチュア作業員たちがチーズの表面に各トッピングを正確かつ丁寧に配置していく。",
+      "sound_design": "コンベアベルトの稼働音、具材が落ちる小さな音、繊細で魔法のようなチャイム音、軽快な音楽のアクセント。"
     },
     {
-      "time": "6-8 sec",
-      "scene": "Final Ingredient Lift",
-      "camera": "Low-angle dramatic cinematic shot",
-      "action": "A miniature crane raises an oversized pepperoni slice toward the center of the pizza. Workers below pull guide ropes and signal to one another as the topping is slowly positioned into place.",
-      "sound_design": "Small crane motor, rope tension sounds, mechanical clicks, rising cinematic orchestral music."
+      "time": "6-8秒",
+      "scene": "最後の具材の吊り上げ",
+      "camera": "ローアングルのドラマチックなシネマティックショット",
+      "action": "ミニチュアのクレーンが、特大のペパロニスライスをピザの中央に向けて持ち上げる。下の作業員たちがガイドロープを引っ張り合図を送り合いながら、トッピングがゆっくりと所定の位置に収まる。",
+      "sound_design": "小型クレーンのモーター音、ロープの張力音、機械的なカチカチ音、盛り上がる映画的なオーケストラ音楽。"
     },
     {
-      "time": "8-10 sec",
-      "scene": "Pizza Grand Finale",
-      "camera": "Smooth 360-degree orbit close-up",
-      "action": "The final topping drops perfectly into position. A burst of colorful confetti fills the miniature world as the tiny workers cheer and celebrate. The camera sweeps around the finished pizza, revealing its glossy melted cheese, colorful toppings, and golden crust before ending on a satisfying hero shot.",
-      "sound_design": "Celebratory pop, joyful cheering, tiny whistles, uplifting orchestral finish."
+      "time": "8-10秒",
+      "scene": "ピザのグランドフィナーレ",
+      "camera": "滑らかな360度オービットクローズアップ",
+      "action": "最後のトッピングが完璧な位置に収まる。ミニチュアの世界に色とりどりの紙吹雪が舞い散り、小さな作業員たちが歓声をあげて祝う。カメラは完成したピザの周りを回り、つややかにとろけたチーズ、色鮮やかなトッピング、こんがりと黄金色に焼き上がった生地を映し出し、満足感あふれるヒーローショットで締めくくる。",
+      "sound_design": "お祝いのクラッカーの破裂音、楽しげな歓声、小さなホイッスルの音、気分を高揚させるオーケストラのフィナーレ。"
     }
   ],
   "visual_style": {
-    "animation_quality": "Pixar-inspired premium 3D animation",
-    "world_design": "Charming miniature construction world built around an oversized pizza",
-    "color_palette": "Warm reds, golden browns, creamy cheese tones, and bright colorful toppings",
-    "lighting": "Soft warm golden illumination with gentle cinematic highlights",
-    "detail": "Highly detailed food textures, miniature machinery, realistic cheese melt, crisp toppings, and expressive tiny characters",
-    "camera": "Fluid cinematic motion, macro photography feel, smooth transitions, shallow depth of field",
-    "overall_feel": "Cute, playful, visually satisfying, polished, premium, and whimsical",
+    "animation_quality": "ピクサーにインスパイアされた高品質な3Dアニメーション",
+    "world_design": "特大ピザを取り囲む魅力的なミニチュア建設世界",
+    "color_palette": "温かみのある赤、ゴールデンブラウン、クリーミーなチーズの色合い、鮮やかでカラフルな具材",
+    "lighting": "柔らかなシネマティックハイライトを伴う温かみのある柔らかな金色のライティング",
+    "detail": "細部まで作り込まれた食品の質感、ミニチュア機械、リアルにとろけるチーズ、シャキッとしたトッピング、表情豊かな小さなキャラクター",
+    "camera": "流れるようなシネマティックなカメラワーク、マクロ写真のような質感、スムーズなトランジション、浅い被写界深度",
+    "overall_feel": "キュート、遊び心、視覚的な満足感、洗練された高級感、そして幻想的な雰囲気",
     "resolution": "720p"
   }
 }

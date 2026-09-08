@@ -211,7 +211,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 <a name="prompt-2096885269270237431"></a>
 
-### A 3D animated sequence of miniature construction workers assembling a giant pizza.
+### Một chuỗi hoạt hình 3D về các công nhân xây dựng tí hon đang lắp ráp một chiếc bánh pizza khổng lồ.
 
 Tác giả：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](https://x.com/AiwithBloodline/status/2096885269270237431)
 
@@ -219,7 +219,7 @@ Kết xuất 3D · Thực phẩm / Đồ uống · Chờ phân phối
 
 Bài gốc：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](https://x.com/AiwithBloodline/status/2096811796074311791)
 
-**Tóm tắt:** A 3D animated sequence of miniature construction workers assembling a giant pizza.
+**Tóm tắt:** Một chuỗi hoạt hình 3D về các công nhân xây dựng tí hon đang lắp ráp một chiếc bánh pizza khổng lồ.
 
 <img src="covers/2096885269270237431.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -227,53 +227,53 @@ Bài gốc：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](h
 
 ```text
 {
-  "video_duration": "10 seconds",
+  "video_duration": "10 giây",
   "aspect_ratio": "16:9",
   "sequence": [
     {
-      "time": "0-2 sec",
-      "scene": "Grand Setup",
-      "camera": "Wide cinematic aerial push-in",
-      "action": "A huge freshly baked pizza rests on a wooden table like a massive construction site. Dozens of tiny workers rush in with miniature loaders, cranes, delivery trucks, and equipment, preparing to build the perfect pizza.",
-      "sound_design": "Bright playful music, tiny engine noises, rolling wheels, subtle construction activity."
+      "time": "0-2 giây",
+      "scene": "Thiết lập hoành tráng",
+      "camera": "Góc quay từ trên không phong cách điện ảnh rộng đẩy vào",
+      "action": "Một chiếc bánh pizza khổng lồ mới nướng nằm trên bàn gỗ như một công trường xây dựng đồ sộ. Hàng chục công nhân tí hon lao vào với những chiếc máy xúc, cần cẩu, xe tải giao hàng và thiết bị thu nhỏ, chuẩn bị tạo nên chiếc pizza hoàn hảo.",
+      "sound_design": "Âm nhạc tươi vui rộn rã, tiếng động cơ tí hon, tiếng bánh xe lăn, tiếng hoạt động xây dựng tinh tế."
     },
     {
-      "time": "2-4 sec",
-      "scene": "Sauce and Cheese Layer",
-      "camera": "Medium side-tracking shot",
-      "action": "A miniature food truck pumps rich red tomato sauce across the pizza while tiny workers spread it smoothly with small spatulas. Another team follows behind, covering the surface with a thick layer of shredded mozzarella.",
-      "sound_design": "Soft sauce pouring, spatula scraping, cheese rustling, cheerful rhythmic music."
+      "time": "2-4 giây",
+      "scene": "Lớp sốt và phô mai",
+      "camera": "Cảnh quay theo dõi ngang cự ly trung bình",
+      "action": "Một chiếc xe tải bán đồ ăn thu nhỏ bơm nước sốt cà chua đỏ đậm đà khắp chiếc pizza trong khi các công nhân tí hon dùng bay nhỏ phết đều mịn màng. Một đội khác theo sau, phủ lên bề mặt một lớp phô mai mozzarella bào sợi dày dặn.",
+      "sound_design": "Tiếng rót nước sốt êm dịu, tiếng cạo của bay, tiếng sột soạt của phô mai, âm nhạc có nhịp điệu vui tươi."
     },
     {
-      "time": "4-6 sec",
-      "scene": "Toppings in Motion",
-      "camera": "Macro close-up with gentle slow motion",
-      "action": "Tiny conveyor belts transport colorful ingredients including pepperoni, mushrooms, bell peppers, olives, and fresh basil. The miniature workers carefully arrange each topping across the cheesy surface with precision.",
-      "sound_design": "Conveyor belt movement, tiny ingredient drops, delicate magical chimes, upbeat musical accents."
+      "time": "4-6 giây",
+      "scene": "Chuyển động của các loại nhân topping",
+      "camera": "Cận cảnh macro với chuyển động chậm nhẹ nhàng",
+      "action": "Các băng chuyền tí hon vận chuyển các nguyên liệu đầy màu sắc bao gồm xúc xích pepperoni, nấm, ớt chuông, ô liu và húng quế tươi. Các công nhân thu nhỏ cẩn thận sắp xếp từng miếng nhân trên bề mặt phủ đầy phô mai một cách chuẩn xác.",
+      "sound_design": "Tiếng băng chuyền chuyển động, tiếng nguyên liệu nhỏ rơi xuống, tiếng chuông gió huyền ảo tinh tế, các điểm nhấn âm nhạc sôi nổi."
     },
     {
-      "time": "6-8 sec",
-      "scene": "Final Ingredient Lift",
-      "camera": "Low-angle dramatic cinematic shot",
-      "action": "A miniature crane raises an oversized pepperoni slice toward the center of the pizza. Workers below pull guide ropes and signal to one another as the topping is slowly positioned into place.",
-      "sound_design": "Small crane motor, rope tension sounds, mechanical clicks, rising cinematic orchestral music."
+      "time": "6-8 giây",
+      "scene": "Cẩu nguyên liệu cuối cùng",
+      "camera": "Góc máy thấp đầy kịch tính mang phong cách điện ảnh",
+      "action": "Một chiếc cần cẩu thu nhỏ nhấc một lát pepperoni cỡ lớn lên cao về phía trung tâm chiếc pizza. Các công nhân bên dưới kéo dây dẫn hướng và ra hiệu cho nhau khi miếng nhân từ từ được đưa vào vị trí.",
+      "sound_design": "Tiếng động cơ cần cẩu nhỏ, âm thanh dây căng, tiếng lách cách cơ học, nhạc giao hưởng phong cách điện ảnh dâng trào."
     },
     {
-      "time": "8-10 sec",
-      "scene": "Pizza Grand Finale",
-      "camera": "Smooth 360-degree orbit close-up",
-      "action": "The final topping drops perfectly into position. A burst of colorful confetti fills the miniature world as the tiny workers cheer and celebrate. The camera sweeps around the finished pizza, revealing its glossy melted cheese, colorful toppings, and golden crust before ending on a satisfying hero shot.",
-      "sound_design": "Celebratory pop, joyful cheering, tiny whistles, uplifting orchestral finish."
+      "time": "8-10 giây",
+      "scene": "Đại cảnh kết thúc chiếc pizza",
+      "camera": "Quay cận cảnh quỹ đạo xoay 360 độ mượt mà",
+      "action": "Miếng nhân cuối cùng rơi vào đúng vị trí một cách hoàn hảo. Một đợt pháo giấy rực rỡ sắc màu phủ khắp thế giới tí hon khi các công nhân nhỏ bé reo hò ăn mừng. Máy quay lướt quanh chiếc pizza đã hoàn thành, để lộ lớp phô mai tan chảy bóng bẩy, các loại nhân đầy màu sắc và lớp vỏ vàng ruộm trước khi kết thúc bằng một cảnh quay ấn tượng thỏa mãn thị giác.",
+      "sound_design": "Tiếng nổ ăn mừng, tiếng hò reo vui vẻ, tiếng còi tí hon, khúc nhạc giao hưởng kết thúc đầy phấn khởi."
     }
   ],
   "visual_style": {
-    "animation_quality": "Pixar-inspired premium 3D animation",
-    "world_design": "Charming miniature construction world built around an oversized pizza",
-    "color_palette": "Warm reds, golden browns, creamy cheese tones, and bright colorful toppings",
-    "lighting": "Soft warm golden illumination with gentle cinematic highlights",
-    "detail": "Highly detailed food textures, miniature machinery, realistic cheese melt, crisp toppings, and expressive tiny characters",
-    "camera": "Fluid cinematic motion, macro photography feel, smooth transitions, shallow depth of field",
-    "overall_feel": "Cute, playful, visually satisfying, polished, premium, and whimsical",
+    "animation_quality": "Hoạt hình 3D cao cấp lấy cảm hứng từ Pixar",
+    "world_design": "Thế giới xây dựng tí hon đầy quyến rũ được xây dựng xung quanh một chiếc pizza khổng lồ",
+    "color_palette": "Sắc đỏ ấm áp, nâu vàng, tông màu phô mai béo ngậy và các loại nhân rực rỡ sắc màu",
+    "lighting": "Ánh sáng vàng ấm áp mềm mại với các điểm nhấn điện ảnh nhẹ nhàng",
+    "detail": "Họa tiết đồ ăn cực kỳ chi tiết, máy móc thu nhỏ, phô mai tan chảy chân thực, lớp nhân tươi ngon và các nhân vật tí hon giàu biểu cảm",
+    "camera": "Chuyển động điện ảnh mượt mà, cảm giác nhiếp ảnh macro, chuyển cảnh êm dịu, độ sâu trường ảnh nông",
+    "overall_feel": "Đáng yêu, tinh nghịch, mãn nhãn về mặt thị giác, trau chuốt, cao cấp và kỳ ảo",
     "resolution": "720p"
   }
 }

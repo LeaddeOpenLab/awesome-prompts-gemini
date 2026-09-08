@@ -211,7 +211,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 <a name="prompt-2096885269270237431"></a>
 
-### A 3D animated sequence of miniature construction workers assembling a giant pizza.
+### Une séquence animée en 3D d'ouvriers de chantier miniatures assemblant une pizza géante.
 
 Auteur：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publication originale](https://x.com/AiwithBloodline/status/2096885269270237431)
 
@@ -219,7 +219,7 @@ Rendu 3D · Alimentation / Boissons · Diffusion en attente
 
 Publication originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publication originale](https://x.com/AiwithBloodline/status/2096811796074311791)
 
-**Résumé:** A 3D animated sequence of miniature construction workers assembling a giant pizza.
+**Résumé:** Une séquence animée en 3D d'ouvriers de chantier miniatures assemblant une pizza géante.
 
 <img src="covers/2096885269270237431.jpg" alt="Image 1" width="480" />
 
@@ -227,53 +227,53 @@ Publication originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 
 ```text
 {
-  "video_duration": "10 seconds",
+  "video_duration": "10 secondes",
   "aspect_ratio": "16:9",
   "sequence": [
     {
-      "time": "0-2 sec",
-      "scene": "Grand Setup",
-      "camera": "Wide cinematic aerial push-in",
-      "action": "A huge freshly baked pizza rests on a wooden table like a massive construction site. Dozens of tiny workers rush in with miniature loaders, cranes, delivery trucks, and equipment, preparing to build the perfect pizza.",
-      "sound_design": "Bright playful music, tiny engine noises, rolling wheels, subtle construction activity."
+      "time": "0-2 s",
+      "scene": "Mise en place grandiose",
+      "camera": "Plan aérien cinématique large avec traveling avant",
+      "action": "Une immense pizza fraîchement cuite repose sur une table en bois comme un gigantesque chantier de construction. Des dizaines de minuscules ouvriers se précipitent avec des chargeuses miniatures, des grues, des camions de livraison et des équipements, se préparant à construire la pizza parfaite.",
+      "sound_design": "Musique vive et enjouée, petits bruits de moteur, roues qui roulent, subtile activité de chantier."
     },
     {
-      "time": "2-4 sec",
-      "scene": "Sauce and Cheese Layer",
-      "camera": "Medium side-tracking shot",
-      "action": "A miniature food truck pumps rich red tomato sauce across the pizza while tiny workers spread it smoothly with small spatulas. Another team follows behind, covering the surface with a thick layer of shredded mozzarella.",
-      "sound_design": "Soft sauce pouring, spatula scraping, cheese rustling, cheerful rhythmic music."
+      "time": "2-4 s",
+      "scene": "Couche de sauce et de fromage",
+      "camera": "Plan moyen en suivi latéral",
+      "action": "Un food truck miniature pompe une riche sauce tomate rouge sur toute la pizza pendant que de minuscules ouvriers l'étalent délicatement à l'aide de petites spatules. Une autre équipe suit derrière, recouvrant la surface d'une épaisse couche de mozzarella râpée.",
+      "sound_design": "Versement doux de sauce, raclement de spatule, froissement de fromage, musique entraînante et rythmée."
     },
     {
-      "time": "4-6 sec",
-      "scene": "Toppings in Motion",
-      "camera": "Macro close-up with gentle slow motion",
-      "action": "Tiny conveyor belts transport colorful ingredients including pepperoni, mushrooms, bell peppers, olives, and fresh basil. The miniature workers carefully arrange each topping across the cheesy surface with precision.",
-      "sound_design": "Conveyor belt movement, tiny ingredient drops, delicate magical chimes, upbeat musical accents."
+      "time": "4-6 s",
+      "scene": "Garnitures en mouvement",
+      "camera": "Gros plan macro avec léger ralenti",
+      "action": "De minuscules tapis roulants transportent des ingrédients colorés, notamment du pepperoni, des champignons, des poivrons, des olives et du basilic frais. Les ouvriers miniatures disposent soigneusement et avec précision chaque garniture sur la surface fromagée.",
+      "sound_design": "Mouvement de tapis roulant, petites chutes d'ingrédients, délicats carillons magiques, accents musicaux entraînants."
     },
     {
-      "time": "6-8 sec",
-      "scene": "Final Ingredient Lift",
-      "camera": "Low-angle dramatic cinematic shot",
-      "action": "A miniature crane raises an oversized pepperoni slice toward the center of the pizza. Workers below pull guide ropes and signal to one another as the topping is slowly positioned into place.",
-      "sound_design": "Small crane motor, rope tension sounds, mechanical clicks, rising cinematic orchestral music."
+      "time": "6-8 s",
+      "scene": "Levage de l'ingrédient final",
+      "camera": "Plan cinématographique dramatique en contre-plongée",
+      "action": "Une grue miniature soulève une tranche géante de pepperoni vers le centre de la pizza. En bas, les ouvriers tirent sur des cordes de guidage et se font des signes tandis que la garniture est lentement mise en place.",
+      "sound_design": "Moteur de petite grue, bruits de tension des cordes, cliquetis mécaniques, montée de musique orchestrale cinématographique."
     },
     {
-      "time": "8-10 sec",
-      "scene": "Pizza Grand Finale",
-      "camera": "Smooth 360-degree orbit close-up",
-      "action": "The final topping drops perfectly into position. A burst of colorful confetti fills the miniature world as the tiny workers cheer and celebrate. The camera sweeps around the finished pizza, revealing its glossy melted cheese, colorful toppings, and golden crust before ending on a satisfying hero shot.",
-      "sound_design": "Celebratory pop, joyful cheering, tiny whistles, uplifting orchestral finish."
+      "time": "8-10 s",
+      "scene": "Grand final de la pizza",
+      "camera": "Gros plan fluide en orbite à 360 degrés",
+      "action": "La dernière garniture retombe parfaitement à sa place. Une pluie de confettis multicolores emplit le monde miniature tandis que les petits ouvriers crient de joie et célèbrent l'événement. La caméra tourne autour de la pizza terminée, révélant son fromage fondu brillant, ses garnitures éclatantes et sa croûte dorée avant de se terminer sur un plan héroïque très gratifiant.",
+      "sound_design": "Détonation festive, acclamations joyeuses, minuscules coups de sifflet, conclusion orchestrale entraînante."
     }
   ],
   "visual_style": {
-    "animation_quality": "Pixar-inspired premium 3D animation",
-    "world_design": "Charming miniature construction world built around an oversized pizza",
-    "color_palette": "Warm reds, golden browns, creamy cheese tones, and bright colorful toppings",
-    "lighting": "Soft warm golden illumination with gentle cinematic highlights",
-    "detail": "Highly detailed food textures, miniature machinery, realistic cheese melt, crisp toppings, and expressive tiny characters",
-    "camera": "Fluid cinematic motion, macro photography feel, smooth transitions, shallow depth of field",
-    "overall_feel": "Cute, playful, visually satisfying, polished, premium, and whimsical",
+    "animation_quality": "Animation 3D haut de gamme inspirée de Pixar",
+    "world_design": "Monde de chantier miniature charmant bâti autour d'une pizza surdimensionnée",
+    "color_palette": "Rouges chauds, bruns dorés, tons de fromage crémeux et garnitures vives et colorées",
+    "lighting": "Éclairage doré doux et chaleureux avec de subtils reflets cinématographiques",
+    "detail": "Textures culinaires ultra-détaillées, machinerie miniature, fromage fondu réaliste, garnitures croquantes et petits personnages expressifs",
+    "camera": "Mouvement cinématographique fluide, aspect macrophotographie, transitions douces, faible profondeur de champ",
+    "overall_feel": "Mignon, ludique, visuellement gratifiant, soigné, haut de gamme et fantaisiste",
     "resolution": "720p"
   }
 }

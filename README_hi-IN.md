@@ -211,7 +211,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 <a name="prompt-2096885269270237431"></a>
 
-### A 3D animated sequence of miniature construction workers assembling a giant pizza.
+### एक विशाल पिज़्ज़ा को तैयार करते लघु निर्माण श्रमिकों का एक 3D एनिमेटेड दृश्य।
 
 लेखक：[@AiwithBloodline](https://x.com/AiwithBloodline) · [मूल पोस्ट](https://x.com/AiwithBloodline/status/2096885269270237431)
 
@@ -219,7 +219,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 मूल पोस्ट：[@AiwithBloodline](https://x.com/AiwithBloodline) · [मूल पोस्ट](https://x.com/AiwithBloodline/status/2096811796074311791)
 
-**सारांश:** A 3D animated sequence of miniature construction workers assembling a giant pizza.
+**सारांश:** एक विशाल पिज़्ज़ा को तैयार करते लघु निर्माण श्रमिकों का एक 3D एनिमेटेड दृश्य।
 
 <img src="covers/2096885269270237431.jpg" alt="चित्र 1" width="480" />
 
@@ -227,53 +227,53 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 ```text
 {
-  "video_duration": "10 seconds",
+  "video_duration": "10 सेकंड",
   "aspect_ratio": "16:9",
   "sequence": [
     {
-      "time": "0-2 sec",
-      "scene": "Grand Setup",
-      "camera": "Wide cinematic aerial push-in",
-      "action": "A huge freshly baked pizza rests on a wooden table like a massive construction site. Dozens of tiny workers rush in with miniature loaders, cranes, delivery trucks, and equipment, preparing to build the perfect pizza.",
-      "sound_design": "Bright playful music, tiny engine noises, rolling wheels, subtle construction activity."
+      "time": "0-2 सेकंड",
+      "scene": "भव्य सेटअप",
+      "camera": "वाइड सिनेमैटिक एरियल पुश-इन",
+      "action": "एक विशाल ताजा बेक किया हुआ पिज़्ज़ा लकड़ी की मेज पर किसी बड़े निर्माण स्थल की तरह रखा हुआ है। दर्जनों नन्हे मजदूर छोटे लोडर, क्रेन, डिलीवरी ट्रक और उपकरणों के साथ दौड़ते हुए आते हैं, जो एक बेहतरीन पिज़्ज़ा बनाने की तैयारी में जुटे हैं।",
+      "sound_design": "उज्ज्वल चंचल संगीत, नन्हे इंजनों की आवाजें, घूमते पहिए, निर्माण की हल्की गतिविधियां।"
     },
     {
-      "time": "2-4 sec",
-      "scene": "Sauce and Cheese Layer",
-      "camera": "Medium side-tracking shot",
-      "action": "A miniature food truck pumps rich red tomato sauce across the pizza while tiny workers spread it smoothly with small spatulas. Another team follows behind, covering the surface with a thick layer of shredded mozzarella.",
-      "sound_design": "Soft sauce pouring, spatula scraping, cheese rustling, cheerful rhythmic music."
+      "time": "2-4 सेकंड",
+      "scene": "सॉस और चीज़ की परत",
+      "camera": "मीडियम साइड-ट्रैकिंग शॉट",
+      "action": "एक छोटा फूड ट्रक पिज़्ज़ा पर गाढ़ा लाल टमाटर सॉस पंप करता है जबकि नन्हे मजदूर छोटे स्पैटुला से इसे आसानी से फैलाते हैं। दूसरी टीम उनके पीछे-पीछे आकर पूरी सतह को कद्दूकस किए हुए मोज़ेरेला की मोटी परत से ढक देती है।",
+      "sound_design": "सॉस के धीरे-धीरे गिरने की आवाज, स्पैटुला की रगड़, चीज़ की सरसराहट, खुशनुमा लयबद्ध संगीत।"
     },
     {
-      "time": "4-6 sec",
-      "scene": "Toppings in Motion",
-      "camera": "Macro close-up with gentle slow motion",
-      "action": "Tiny conveyor belts transport colorful ingredients including pepperoni, mushrooms, bell peppers, olives, and fresh basil. The miniature workers carefully arrange each topping across the cheesy surface with precision.",
-      "sound_design": "Conveyor belt movement, tiny ingredient drops, delicate magical chimes, upbeat musical accents."
+      "time": "4-6 सेकंड",
+      "scene": "गति में टॉपिंग्स",
+      "camera": "हल्के स्लो मोशन के साथ मैक्रो क्लोज़-अप",
+      "action": "छोटे कन्वेयर बेल्ट पेपरोनी, मशरूम, शिमला मिर्च, जैतून और ताज़ा तुलसी सहित रंग-बिरंगी सामग्रियों को लाते हैं। नन्हे मजदूर चीज़ की सतह पर पूरी सटीकता के साथ प्रत्येक टॉपिंग को सावधानीपूर्वक सजाते हैं।",
+      "sound_design": "कन्वेयर बेल्ट की गति, छोटी सामग्रियों के गिरने की आवाज, नाजुक जादुई झंकार, उत्साहित संगीतमय धुनें।"
     },
     {
-      "time": "6-8 sec",
-      "scene": "Final Ingredient Lift",
-      "camera": "Low-angle dramatic cinematic shot",
-      "action": "A miniature crane raises an oversized pepperoni slice toward the center of the pizza. Workers below pull guide ropes and signal to one another as the topping is slowly positioned into place.",
-      "sound_design": "Small crane motor, rope tension sounds, mechanical clicks, rising cinematic orchestral music."
+      "time": "6-8 सेकंड",
+      "scene": "अंतिम सामग्री को उठाना",
+      "camera": "लो-एंगल ड्रामैटिक सिनेमैटिक शॉट",
+      "action": "एक नन्ही क्रेन पेपरोनी के एक बड़े स्लाइस को पिज़्ज़ा के केंद्र की ओर उठाती है। नीचे मौजूद मजदूर गाइड रस्सियों को खींचते हैं और जब टॉपिंग धीरे-धीरे अपनी जगह पर आ जाती है, तो वे एक-दूसरे को इशारा करते हैं।",
+      "sound_design": "छोटी क्रेन की मोटर की आवाज, रस्सी के खिंचाव की आवाज, यांत्रिक क्लिक, बढ़ता हुआ सिनेमैटिक ऑर्केस्ट्रल संगीत।"
     },
     {
-      "time": "8-10 sec",
-      "scene": "Pizza Grand Finale",
-      "camera": "Smooth 360-degree orbit close-up",
-      "action": "The final topping drops perfectly into position. A burst of colorful confetti fills the miniature world as the tiny workers cheer and celebrate. The camera sweeps around the finished pizza, revealing its glossy melted cheese, colorful toppings, and golden crust before ending on a satisfying hero shot.",
-      "sound_design": "Celebratory pop, joyful cheering, tiny whistles, uplifting orchestral finish."
+      "time": "8-10 सेकंड",
+      "scene": "पिज़्ज़ा का भव्य समापन",
+      "camera": "स्मूथ 360-डिग्री ऑर्बिट क्लोज़-अप",
+      "action": "अंतिम टॉपिंग पूरी तरह से अपनी जगह पर बैठ जाती है। नन्हे मजदूरों के जश्न मनाने और खुशी से झूमने के साथ ही इस लघु संसार में रंग-बिरंगे कंफ़ेद्दी की बौछार हो जाती है। कैमरा तैयार पिज़्ज़ा के चारों ओर घूमता है, जो एक संतोषजनक हीरो शॉट पर समाप्त होने से पहले इसके चमकदार पिघले हुए चीज़, रंग-बिरंगी टॉपिंग्स और सुनहरे क्रस्ट को दिखाता है।",
+      "sound_design": "जश्न का पॉप, हर्षोल्लास भरी जयकार, नन्हीं सीटियां, प्रेरणादायक ऑर्केस्ट्रल समापन।"
     }
   ],
   "visual_style": {
-    "animation_quality": "Pixar-inspired premium 3D animation",
-    "world_design": "Charming miniature construction world built around an oversized pizza",
-    "color_palette": "Warm reds, golden browns, creamy cheese tones, and bright colorful toppings",
-    "lighting": "Soft warm golden illumination with gentle cinematic highlights",
-    "detail": "Highly detailed food textures, miniature machinery, realistic cheese melt, crisp toppings, and expressive tiny characters",
-    "camera": "Fluid cinematic motion, macro photography feel, smooth transitions, shallow depth of field",
-    "overall_feel": "Cute, playful, visually satisfying, polished, premium, and whimsical",
+    "animation_quality": "पिक्सर से प्रेरित प्रीमियम 3D एनीमेशन",
+    "world_design": "एक विशाल पिज़्ज़ा के इर्द-गिर्द बनाई गई आकर्षक लघु निर्माण की दुनिया",
+    "color_palette": "गर्म लाल, सुनहरे भूरे, मखमली चीज़ के रंग और उज्ज्वल रंगीन टॉपिंग्स",
+    "lighting": "हल्के सिनेमैटिक हाइलाइट्स के साथ सौम्य गर्म सुनहरी रोशनी",
+    "detail": "भोजन की अत्यधिक विस्तृत बनावट, लघु मशीनरी, वास्तविक रूप से पिघला हुआ चीज़, कुरकुरी टॉपिंग्स और अभिव्यंजक नन्हे पात्र",
+    "camera": "सहज सिनेमैटिक गति, मैक्रो फोटोग्राफी का अहसास, सुचारु बदलाव, कम गहराई वाला क्षेत्र (शैलो डेप्थ ऑफ फील्ड)",
+    "overall_feel": "प्यारा, चंचल, देखने में संतोषजनक, परिष्कृत, प्रीमियम और कल्पनाशील",
     "resolution": "720p"
   }
 }

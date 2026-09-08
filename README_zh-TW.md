@@ -211,7 +211,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 <a name="prompt-2096885269270237431"></a>
 
-### A 3D animated sequence of miniature construction workers assembling a giant pizza.
+### 微型建築工人組裝巨型披薩的 3D 動畫序列。
 
 作者：[@AiwithBloodline](https://x.com/AiwithBloodline) · [查看 X 原帖](https://x.com/AiwithBloodline/status/2096885269270237431)
 
@@ -219,7 +219,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 查看 X 原帖：[@AiwithBloodline](https://x.com/AiwithBloodline) · [查看 X 原帖](https://x.com/AiwithBloodline/status/2096811796074311791)
 
-**概括:** A 3D animated sequence of miniature construction workers assembling a giant pizza.
+**概括:** 微型建築工人組裝巨型披薩的 3D 動畫序列。
 
 <img src="covers/2096885269270237431.jpg" alt="圖片 1" width="480" />
 
@@ -227,53 +227,53 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 ```text
 {
-  "video_duration": "10 seconds",
+  "video_duration": "10 秒",
   "aspect_ratio": "16:9",
   "sequence": [
     {
-      "time": "0-2 sec",
-      "scene": "Grand Setup",
-      "camera": "Wide cinematic aerial push-in",
-      "action": "A huge freshly baked pizza rests on a wooden table like a massive construction site. Dozens of tiny workers rush in with miniature loaders, cranes, delivery trucks, and equipment, preparing to build the perfect pizza.",
-      "sound_design": "Bright playful music, tiny engine noises, rolling wheels, subtle construction activity."
+      "time": "0-2 秒",
+      "scene": "宏大開場佈置",
+      "camera": "廣角電影感航拍推進鏡頭",
+      "action": "一張巨大剛出爐的披薩宛如一座龐大的建築工地般置於木桌上。數十名微型工人開著微型裝載機、起重機、運送卡車和各式設備湧入，準備打造完美的披薩。",
+      "sound_design": "明亮歡快的音樂、細小的引擎聲、滾動的輪胎聲、細微的施工活動聲。"
     },
     {
-      "time": "2-4 sec",
-      "scene": "Sauce and Cheese Layer",
-      "camera": "Medium side-tracking shot",
-      "action": "A miniature food truck pumps rich red tomato sauce across the pizza while tiny workers spread it smoothly with small spatulas. Another team follows behind, covering the surface with a thick layer of shredded mozzarella.",
-      "sound_design": "Soft sauce pouring, spatula scraping, cheese rustling, cheerful rhythmic music."
+      "time": "2-4 秒",
+      "scene": "醬汁與起司層鋪設",
+      "camera": "中景側面跟拍鏡頭",
+      "action": "一輛微型餐車將濃郁的紅番茄醬泵送到披薩上，微型工人則用小抹刀平整地塗抹開來。另一支隊伍緊隨在後，在表面鋪上一層厚厚的莫札瑞拉起司絲。",
+      "sound_design": "柔和的醬汁澆淋聲、抹刀刮平聲、起司沙沙聲、歡快富有節奏感的音樂。"
     },
     {
-      "time": "4-6 sec",
-      "scene": "Toppings in Motion",
-      "camera": "Macro close-up with gentle slow motion",
-      "action": "Tiny conveyor belts transport colorful ingredients including pepperoni, mushrooms, bell peppers, olives, and fresh basil. The miniature workers carefully arrange each topping across the cheesy surface with precision.",
-      "sound_design": "Conveyor belt movement, tiny ingredient drops, delicate magical chimes, upbeat musical accents."
+      "time": "4-6 秒",
+      "scene": "輸送帶上的配料",
+      "camera": "帶有輕柔慢動作的微距特寫鏡頭",
+      "action": "微型輸送帶運送著色彩繽紛的食材，包括義式辣香腸、蘑菇、甜椒、橄欖和新鮮羅勒。微型工人們精準細緻地將每樣配料排列在起司表面上。",
+      "sound_design": "輸送帶運轉聲、微小食材掉落聲、精緻空靈的魔法風鈴聲、輕快上揚的音樂重音。"
     },
     {
-      "time": "6-8 sec",
-      "scene": "Final Ingredient Lift",
-      "camera": "Low-angle dramatic cinematic shot",
-      "action": "A miniature crane raises an oversized pepperoni slice toward the center of the pizza. Workers below pull guide ropes and signal to one another as the topping is slowly positioned into place.",
-      "sound_design": "Small crane motor, rope tension sounds, mechanical clicks, rising cinematic orchestral music."
+      "time": "6-8 秒",
+      "scene": "最後配料吊裝",
+      "camera": "低角度充滿戲劇張力的電影感鏡頭",
+      "action": "一輛微型起重機將一片超大號的辣香腸吊向披薩中心。下方的工人們拉動引繩並彼此打信號，配料被緩緩定位入座。",
+      "sound_design": "小型起重機馬達聲、繩索拉緊聲、機械喀嗒聲、漸趨磅礴的電影管弦樂。"
     },
     {
-      "time": "8-10 sec",
-      "scene": "Pizza Grand Finale",
-      "camera": "Smooth 360-degree orbit close-up",
-      "action": "The final topping drops perfectly into position. A burst of colorful confetti fills the miniature world as the tiny workers cheer and celebrate. The camera sweeps around the finished pizza, revealing its glossy melted cheese, colorful toppings, and golden crust before ending on a satisfying hero shot.",
-      "sound_design": "Celebratory pop, joyful cheering, tiny whistles, uplifting orchestral finish."
+      "time": "8-10 秒",
+      "scene": "披薩大功告成",
+      "camera": "平穩的 360 度環繞特寫鏡頭",
+      "action": "最後一片配料完美就位。微型世界中彩屑繽紛綻放，微型工人們歡呼慶祝。鏡頭環繞拍攝完成的披薩，展現其泛著光澤的融化起司、鮮豔多彩的配料與金黃焦香的餅皮，最後定格在令人滿足的主角特寫鏡頭。",
+      "sound_design": "慶祝彩花爆破聲、歡欣的歡呼聲、細小的哨子聲、振奮人心的管弦樂結尾。"
     }
   ],
   "visual_style": {
-    "animation_quality": "Pixar-inspired premium 3D animation",
-    "world_design": "Charming miniature construction world built around an oversized pizza",
-    "color_palette": "Warm reds, golden browns, creamy cheese tones, and bright colorful toppings",
-    "lighting": "Soft warm golden illumination with gentle cinematic highlights",
-    "detail": "Highly detailed food textures, miniature machinery, realistic cheese melt, crisp toppings, and expressive tiny characters",
-    "camera": "Fluid cinematic motion, macro photography feel, smooth transitions, shallow depth of field",
-    "overall_feel": "Cute, playful, visually satisfying, polished, premium, and whimsical",
+    "animation_quality": "皮克斯風格的高品質 3D 動畫",
+    "world_design": "圍繞著超大披薩打造的迷人微型施工世界",
+    "color_palette": "溫暖的紅色、金褐色、柔滑的起司色調與鮮豔亮麗的配料色彩",
+    "lighting": "柔和溫暖的金色光線搭配細膩的電影高光",
+    "detail": "高度精緻的食物質地、微型機械、逼真的起司融化拉絲感、爽脆的配料與神情生動的微型角色",
+    "camera": "流暢的電影感運鏡、微距攝影氛圍、平滑過渡、淺景深",
+    "overall_feel": "可愛、俏皮、視覺療癒滿足、精緻高級且充滿童趣奇想",
     "resolution": "720p"
   }
 }

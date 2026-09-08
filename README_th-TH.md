@@ -211,7 +211,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 <a name="prompt-2096885269270237431"></a>
 
-### A 3D animated sequence of miniature construction workers assembling a giant pizza.
+### ฉากแอนิเมชัน 3 มิติของคนงานก่อสร้างขนาดจิ๋วกำลังประกอบพิซซ่ายักษ์
 
 ผู้เขียน：[@AiwithBloodline](https://x.com/AiwithBloodline) · [โพสต์ต้นฉบับ](https://x.com/AiwithBloodline/status/2096885269270237431)
 
@@ -219,7 +219,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 โพสต์ต้นฉบับ：[@AiwithBloodline](https://x.com/AiwithBloodline) · [โพสต์ต้นฉบับ](https://x.com/AiwithBloodline/status/2096811796074311791)
 
-**สรุป:** A 3D animated sequence of miniature construction workers assembling a giant pizza.
+**สรุป:** ฉากแอนิเมชัน 3 มิติของคนงานก่อสร้างขนาดจิ๋วกำลังประกอบพิซซ่ายักษ์
 
 <img src="covers/2096885269270237431.jpg" alt="รูปภาพ 1" width="480" />
 
@@ -227,53 +227,53 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 ```text
 {
-  "video_duration": "10 seconds",
+  "video_duration": "10 วินาที",
   "aspect_ratio": "16:9",
   "sequence": [
     {
-      "time": "0-2 sec",
-      "scene": "Grand Setup",
-      "camera": "Wide cinematic aerial push-in",
-      "action": "A huge freshly baked pizza rests on a wooden table like a massive construction site. Dozens of tiny workers rush in with miniature loaders, cranes, delivery trucks, and equipment, preparing to build the perfect pizza.",
-      "sound_design": "Bright playful music, tiny engine noises, rolling wheels, subtle construction activity."
+      "time": "0-2 วินาที",
+      "scene": "การจัดฉากอันยิ่งใหญ่",
+      "camera": "การเคลื่อนกล้องมุมสูงแบบภาพยนตร์มุมกว้างดันเข้าหาสิ่งของ",
+      "action": "พิซซ่าอบใหม่ขนาดมหึมาวางอยู่บนโต๊ะไม้ราวกับไซต์ก่อสร้างขนาดใหญ่ คนงานตัวจิ๋วหลายสิบคนรีบวิ่งเข้ามาพร้อมกับรถตัก เครน รถบรรทุกส่งของ และอุปกรณ์ขนาดจิ๋วเพื่อเตรียมสร้างพิซซ่าที่สมบูรณ์แบบ",
+      "sound_design": "ดนตรีสดใสขี้เล่น เสียงเครื่องยนต์ขนาดจิ๋ว เสียงล้อหมุน เสียงกิจกรรมก่อสร้างเบาๆ"
     },
     {
-      "time": "2-4 sec",
-      "scene": "Sauce and Cheese Layer",
-      "camera": "Medium side-tracking shot",
-      "action": "A miniature food truck pumps rich red tomato sauce across the pizza while tiny workers spread it smoothly with small spatulas. Another team follows behind, covering the surface with a thick layer of shredded mozzarella.",
-      "sound_design": "Soft sauce pouring, spatula scraping, cheese rustling, cheerful rhythmic music."
+      "time": "2-4 วินาที",
+      "scene": "ชั้นซอสและชีส",
+      "camera": "ช็อตติดตามด้านข้างระยะปานกลาง",
+      "action": "รถขายอาหารขนาดจิ๋วสูบซอสมะเขือเทศสีแดงเข้มข้นลงบนพิซซ่า ขณะที่คนงานตัวจิ๋วช่วยกันปาดให้เรียบด้วยไม้พายขนาดเล็ก ทีมงานอีกกลุ่มตามหลังมาเพื่อโรยมอสซาเรลลาชีสขูดหนาแน่นทั่วพื้นผิว",
+      "sound_design": "เสียงเทซอสนุ่มนวล เสียงขูดของไม้พาย เสียงชีสกระทบกัน ดนตรีจังหวะสดใสและมีชีวิตชีวา"
     },
     {
-      "time": "4-6 sec",
-      "scene": "Toppings in Motion",
-      "camera": "Macro close-up with gentle slow motion",
-      "action": "Tiny conveyor belts transport colorful ingredients including pepperoni, mushrooms, bell peppers, olives, and fresh basil. The miniature workers carefully arrange each topping across the cheesy surface with precision.",
-      "sound_design": "Conveyor belt movement, tiny ingredient drops, delicate magical chimes, upbeat musical accents."
+      "time": "4-6 วินาที",
+      "scene": "ท็อปปิ้งกำลังเคลื่อนที่",
+      "camera": "โคลสอัปแบบมาโครพร้อมสโลว์โมชันอย่างนุ่มนวล",
+      "action": "สายพานลำเลียงขนาดจิ๋วขนส่งวัตถุดิบหลากสีสัน ทั้งเปปเปอโรนี เห็ด พริกหยวก มะกอก และโหระพาสด คนงานตัวจิ๋วจัดวางท็อปปิ้งแต่ละชิ้นบนพื้นผิวชีสอย่างประณีตและแม่นยำ",
+      "sound_design": "เสียงสายพานลำเลียงเคลื่อนไหว เสียงวัตถุดิบชิ้นเล็กๆ ตกกระทบ เสียงกระดิ่งเวทมนตร์อันละเอียดอ่อน ดนตรีเน้นจังหวะสดใส"
     },
     {
-      "time": "6-8 sec",
-      "scene": "Final Ingredient Lift",
-      "camera": "Low-angle dramatic cinematic shot",
-      "action": "A miniature crane raises an oversized pepperoni slice toward the center of the pizza. Workers below pull guide ropes and signal to one another as the topping is slowly positioned into place.",
-      "sound_design": "Small crane motor, rope tension sounds, mechanical clicks, rising cinematic orchestral music."
+      "time": "6-8 วินาที",
+      "scene": "การยกวัตถุดิบชิ้นสุดท้าย",
+      "camera": "ช็อตภาพยนตร์มุมต่ำสุดดรามาติก",
+      "action": "เครนขนาดจิ๋วยกชิ้นเปปเปอโรนีขนาดใหญ่เกินจริงขึ้นสู่จุดกึ่งกลางของพิซซ่า คนงานด้านล่างดึงเชือกนำทางและส่งสัญญาณหากันในขณะที่ท็อปปิ้งค่อยๆ ถูกวางลงตำแหน่ง",
+      "sound_design": "เสียงมอเตอร์เครนขนาดเล็ก เสียงความตึงของเชือก เสียงคลิกของกลไก ดนตรีออร์เคสตราแบบภาพยนตร์ที่ค่อยๆ ทวีความหนักแน่นขึ้น"
     },
     {
-      "time": "8-10 sec",
-      "scene": "Pizza Grand Finale",
-      "camera": "Smooth 360-degree orbit close-up",
-      "action": "The final topping drops perfectly into position. A burst of colorful confetti fills the miniature world as the tiny workers cheer and celebrate. The camera sweeps around the finished pizza, revealing its glossy melted cheese, colorful toppings, and golden crust before ending on a satisfying hero shot.",
-      "sound_design": "Celebratory pop, joyful cheering, tiny whistles, uplifting orchestral finish."
+      "time": "8-10 วินาที",
+      "scene": "ฉากจบสุดอลังการของพิซซ่า",
+      "camera": "การโคจรรอบ 360 องศาแบบโคลสอัปอย่างนุ่มนวล",
+      "action": "ท็อปปิ้งชิ้นสุดท้ายตกลงสู่ตำแหน่งได้อย่างสมบูรณ์แบบ กระดาษสายรุ้งหลากสีสันพวยพุ่งไปทั่วโลกย่อส่วนขณะที่คนงานตัวจิ๋วส่งเสียงเชียร์และเฉลิมฉลอง กล้องหมุนไปรอบๆ พิซซ่าที่เสร็จสมบูรณ์ เผยให้เห็นชีสเยิ้มเงางาม ท็อปปิ้งหลากสีสัน และขอบแป้งสีทอง ก่อนจะจบลงด้วยช็อตฮีโร่อันน่าพึงพอใจ",
+      "sound_design": "เสียงพลุดังเฉลิมฉลอง เสียงโห่ร้องยินดี เสียงนกหวีดเล็กๆ บทเพลงออร์เคสตราอันทรงพลังในช่วงจบ"
     }
   ],
   "visual_style": {
-    "animation_quality": "Pixar-inspired premium 3D animation",
-    "world_design": "Charming miniature construction world built around an oversized pizza",
-    "color_palette": "Warm reds, golden browns, creamy cheese tones, and bright colorful toppings",
-    "lighting": "Soft warm golden illumination with gentle cinematic highlights",
-    "detail": "Highly detailed food textures, miniature machinery, realistic cheese melt, crisp toppings, and expressive tiny characters",
-    "camera": "Fluid cinematic motion, macro photography feel, smooth transitions, shallow depth of field",
-    "overall_feel": "Cute, playful, visually satisfying, polished, premium, and whimsical",
+    "animation_quality": "แอนิเมชัน 3 มิติระดับพรีเมียมที่ได้รับแรงบันดาลใจจากพิกซาร์",
+    "world_design": "โลกการก่อสร้างขนาดจิ๋วอันเปี่ยมเสน่ห์ที่สร้างขึ้นรอบๆ พิซซ่าขนาดยักษ์",
+    "color_palette": "โทนสีแดงอบอุ่น สีน้ำตาลทอง โทนสีชีสเนื้อครีม และท็อปปิ้งสีสันสดใส",
+    "lighting": "แสงสีทองอบอุ่นนุ่มนวลพร้อมไฮไลต์แบบภาพยนตร์อย่างละมุนละไม",
+    "detail": "พื้นผิวอาหารที่มีรายละเอียดสูง เครื่องจักรขนาดจิ๋ว ชีสละลายที่สมจริง ท็อปปิ้งที่คมชัด และตัวละครตัวเล็กที่มีการแสดงออกชัดเจน",
+    "camera": "การเคลื่อนไหวแบบภาพยนตร์ที่ลื่นไหล ให้ความรู้สึกของการถ่ายภาพมาโคร การเปลี่ยนฉากที่ราบรื่น ระยะชัดตื้น",
+    "overall_feel": "น่ารัก ขี้เล่น น่าพึงพอใจทางสายตา ประณีต พรีเมียม และเปี่ยมไปด้วยจินตนาการ",
     "resolution": "720p"
   }
 }
