@@ -8,116 +8,13 @@
 
 ## 分類目錄
 
-[所有提示詞](#all-prompts)
-
-### 使用情境
-
-
-
-- 個人檔案 / 頭像 · 0
-- 社群媒體貼文 · 0
-- 資訊圖表 / 教育視覺化內容 · 0
-- YouTube 縮圖 · 0
-- 漫畫 / 分鏡腳本 · 0
-- 產品行銷 · 0
-- 電子商務主圖 · 0
-- 遊戲素材 · 0
-- 海報／傳單 · 0
-- App / 網站設計 · 0
-
-### 風格
-
 [電影感 / 電影劇照](#category-cinematic-film-still) · [3D 渲染](#category-3d-render)
-
-- 攝影 · 0
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>電影感 / 電影劇照 · 3</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- 動畫 / 漫畫 · 0
-- 插圖 · 0
-- 草圖 / 線稿 · 0
-- 漫畫 / 圖像小說 · 0
-
-<a name="category-3d-render"></a>
-
-<details open>
-<summary>3D 渲染 · 2</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- Q 版風格 · 0
-- 等距視角 · 0
-- 像素藝術 · 0
-- 油畫 · 0
-- 水彩 · 0
-- 水墨 / 中式風格 · 0
-- 復古 / 懷舊 · 0
-- 賽博龐克 / 科幻 · 0
-- 極簡主義 · 0
-
-### 主體
-
-[角色](#category-character) · [食物 / 飲品](#category-food-drink) · [文字 / 字體排版](#category-text-typography)
-
-- 人像 / 自拍 · 0
-- 網紅 / 模特兒 · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>角色 · 2</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-
-</details>
-
-- 團體 / 情侶 · 0
-- 產品 · 0
-
-<a name="category-food-drink"></a>
-
-<details open>
-<summary>食物 / 飲品 · 1</summary>
-
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- 時尚單品 · 0
-- 動物 / 生物 · 0
-- 車輛 · 0
-- 建築 / 室內設計 · 0
-- 風景 / 大自然 · 0
-- 城市景觀 / 街道 · 0
-- 圖表 · 0
-
-<a name="category-text-typography"></a>
-
-<details open>
-<summary>文字 / 字體排版 · 1</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-
-</details>
-
-- 摘要 / 背景 · 0
 
 <a name="all-prompts"></a>
 
-## 所有提示詞
+<a name="category-cinematic-film-still"></a>
+
+## 電影感 / 電影劇照
 
 <a name="prompt-2096612096003965254"></a>
 
@@ -295,6 +192,10 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 [↑ 返回分類目錄](#catalog)
 
 ---
+
+<a name="category-3d-render"></a>
+
+## 3D 渲染
 
 <a name="prompt-2096885269270237431"></a>
 

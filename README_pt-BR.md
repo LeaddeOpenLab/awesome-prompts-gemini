@@ -8,116 +8,13 @@
 
 ## Explorar por categoria
 
-[Todos os prompts](#all-prompts)
-
-### Casos de Uso
-
-
-
-- Perfil / Avatar · 0
-- Publicação em Mídias Sociais · 0
-- Infográfico / Edu Visual · 0
-- Miniatura do YouTube · 0
-- Quadrinhos / Storyboard · 0
-- Marketing de Produto · 0
-- Imagem Principal de E-commerce · 0
-- Ativo de Jogo · 0
-- Pôster / Flyer · 0
-- Design de Aplicativos / Web · 0
-
-### Estilo
-
 [Cinematográfico / Imagem de Filme](#category-cinematic-film-still) · [Renderização 3D](#category-3d-render)
-
-- Fotografia · 0
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>Cinematográfico / Imagem de Filme · 3</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- Anime / Mangá · 0
-- Ilustração · 0
-- Esboço / Arte Linear · 0
-- Quadrinhos / Graphic Novel · 0
-
-<a name="category-3d-render"></a>
-
-<details open>
-<summary>Renderização 3D · 2</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- Chibi / Estilo Q · 0
-- Isométrico · 0
-- Pixel Art · 0
-- Pintura a Óleo · 0
-- Aquarela · 0
-- Tinta / Estilo Chinês · 0
-- Retrô / Vintage · 0
-- Cyberpunk / Ficção Científica · 0
-- Minimalismo · 0
-
-### Corpo principal
-
-[Personagem](#category-character) · [Alimentos / Bebidas](#category-food-drink) · [Texto / Tipografia](#category-text-typography)
-
-- Retrato / Selfie · 0
-- Influenciador(a) / Modelo · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>Personagem · 2</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-
-</details>
-
-- Grupo / Casal · 0
-- Produto · 0
-
-<a name="category-food-drink"></a>
-
-<details open>
-<summary>Alimentos / Bebidas · 1</summary>
-
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- Item de Moda · 0
-- Animal / Criatura · 0
-- Veículo · 0
-- Arquitetura / Interiores · 0
-- Paisagem / Natureza · 0
-- Paisagem Urbana / Rua · 0
-- Diagrama / Gráfico · 0
-
-<a name="category-text-typography"></a>
-
-<details open>
-<summary>Texto / Tipografia · 1</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-
-</details>
-
-- Resumo / Contexto · 0
 
 <a name="all-prompts"></a>
 
-## Todos os prompts
+<a name="category-cinematic-film-still"></a>
+
+## Cinematográfico / Imagem de Filme
 
 <a name="prompt-2096612096003965254"></a>
 
@@ -295,6 +192,10 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 [↑ Voltar às categorias](#catalog)
 
 ---
+
+<a name="category-3d-render"></a>
+
+## Renderização 3D
 
 <a name="prompt-2096885269270237431"></a>
 

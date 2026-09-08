@@ -8,116 +8,13 @@
 
 ## เรียกดูตามหมวดหมู่
 
-[พรอมต์ทั้งหมด](#all-prompts)
-
-### กรณีการใช้งาน
-
-
-
-- โปรไฟล์ / รูปประจำตัว · 0
-- โพสต์บนโซเชียลมีเดีย · 0
-- อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา · 0
-- ภาพขนาดย่อของ YouTube · 0
-- คอมิก / สตอรี่บอร์ด · 0
-- การตลาดผลิตภัณฑ์ · 0
-- ภาพหลักสำหรับอีคอมเมิร์ซ · 0
-- สินทรัพย์เกม · 0
-- โปสเตอร์ / ใบปลิว · 0
-- การออกแบบแอป / เว็บ · 0
-
-### สไตล์
-
 [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [ภาพเรนเดอร์ 3 มิติ](#category-3d-render)
-
-- การถ่ายภาพ · 0
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · 3</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- อนิเมะ / มังงะ · 0
-- ภาพประกอบ · 0
-- ภาพร่าง / ลายเส้น · 0
-- การ์ตูน / นิยายภาพ · 0
-
-<a name="category-3d-render"></a>
-
-<details open>
-<summary>ภาพเรนเดอร์ 3 มิติ · 2</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- จิบิ / Q-Style · 0
-- ไอโซเมตริก · 0
-- พิกเซลอาร์ต · 0
-- ภาพวาดสีน้ำมัน · 0
-- สีน้ำ · 0
-- หมึก / สไตล์จีน · 0
-- ย้อนยุค / วินเทจ · 0
-- ไซเบอร์พังก์ / ไซไฟ · 0
-- มินิมอลลิสต์ · 0
-
-### เนื้อหาหลัก
-
-[ตัวละคร](#category-character) · [อาหาร / เครื่องดื่ม](#category-food-drink) · [ข้อความ / การจัดพิมพ์](#category-text-typography)
-
-- ภาพบุคคล / เซลฟี่ · 0
-- อินฟลูเอนเซอร์ / นางแบบ · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>ตัวละคร · 2</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-
-</details>
-
-- กลุ่ม / คู่ · 0
-- ผลิตภัณฑ์ · 0
-
-<a name="category-food-drink"></a>
-
-<details open>
-<summary>อาหาร / เครื่องดื่ม · 1</summary>
-
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- ไอเทมแฟชั่น · 0
-- สัตว์ / สิ่งมีชีวิต · 0
-- ยานพาหนะ · 0
-- สถาปัตยกรรม / การตกแต่งภายใน · 0
-- ทิวทัศน์ / ธรรมชาติ · 0
-- ทิวทัศน์เมือง / ถนน · 0
-- แผนภาพ / แผนภูมิ · 0
-
-<a name="category-text-typography"></a>
-
-<details open>
-<summary>ข้อความ / การจัดพิมพ์ · 1</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-
-</details>
-
-- บทคัดย่อ / ความเป็นมา · 0
 
 <a name="all-prompts"></a>
 
-## พรอมต์ทั้งหมด
+<a name="category-cinematic-film-still"></a>
+
+## ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์
 
 <a name="prompt-2096612096003965254"></a>
 
@@ -295,6 +192,10 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 [↑ กลับสู่หมวดหมู่](#catalog)
 
 ---
+
+<a name="category-3d-render"></a>
+
+## ภาพเรนเดอร์ 3 มิติ
 
 <a name="prompt-2096885269270237431"></a>
 

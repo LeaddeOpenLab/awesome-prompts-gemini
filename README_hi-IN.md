@@ -8,116 +8,13 @@
 
 ## श्रेणी के अनुसार देखें
 
-[सभी प्रॉम्प्ट](#all-prompts)
-
-### उपयोग के मामले
-
-
-
-- प्रोफ़ाइल / अवतार · 0
-- सोशल मीडिया पोस्ट · 0
-- इन्फोग्राफिक / शैक्षिक विज़ुअल · 0
-- YouTube थंबनेल · 0
-- कॉमिक / स्टोरीबोर्ड · 0
-- प्रोडक्ट मार्केटिंग · 0
-- ई-कॉमर्स मुख्य इमेज · 0
-- गेम एसेट · 0
-- पोस्टर / फ़्लायर · 0
-- ऐप / वेब डिज़ाइन · 0
-
-### शैली
-
 [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [3D रेंडर](#category-3d-render)
-
-- फोटोग्राफी · 0
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>सिनेमैटिक / फ़िल्म स्टिल · 3</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- एनिमे / मंगा · 0
-- चित्रण · 0
-- स्केच / लाइन आर्ट · 0
-- कॉमिक / ग्राफिक नॉवेल · 0
-
-<a name="category-3d-render"></a>
-
-<details open>
-<summary>3D रेंडर · 2</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- चिबी / क्यू-स्टाइल · 0
-- आइसोमेट्रिक · 0
-- पिक्सेल आर्ट · 0
-- तैल चित्रकला · 0
-- वॉटरकलर · 0
-- स्याही / चीनी शैली · 0
-- रेट्रो / विंटेज · 0
-- साइबरपंक / साइंस-फाई · 0
-- मिनिमलिज़्म · 0
-
-### मुख्य सामग्री
-
-[कैरेक्टर](#category-character) · [भोजन / पेय](#category-food-drink) · [टेक्स्ट / टाइपोग्राफी](#category-text-typography)
-
-- पोर्ट्रेट / सेल्फ़ी · 0
-- इन्फ्लुएंसर / मॉडल · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>कैरेक्टर · 2</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-
-</details>
-
-- समूह / युगल · 0
-- उत्पाद · 0
-
-<a name="category-food-drink"></a>
-
-<details open>
-<summary>भोजन / पेय · 1</summary>
-
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- फ़ैशन आइटम · 0
-- पशु / जीव · 0
-- वाहन · 0
-- आर्किटेक्चर / इंटीरियर · 0
-- लैंडस्केप / प्रकृति · 0
-- शहर का नज़ारा / सड़क · 0
-- आरेख / चार्ट · 0
-
-<a name="category-text-typography"></a>
-
-<details open>
-<summary>टेक्स्ट / टाइपोग्राफी · 1</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-
-</details>
-
-- सार / पृष्ठभूमि · 0
 
 <a name="all-prompts"></a>
 
-## सभी प्रॉम्प्ट
+<a name="category-cinematic-film-still"></a>
+
+## सिनेमैटिक / फ़िल्म स्टिल
 
 <a name="prompt-2096612096003965254"></a>
 
@@ -295,6 +192,10 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 [↑ श्रेणियों पर लौटें](#catalog)
 
 ---
+
+<a name="category-3d-render"></a>
+
+## 3D रेंडर
 
 <a name="prompt-2096885269270237431"></a>
 

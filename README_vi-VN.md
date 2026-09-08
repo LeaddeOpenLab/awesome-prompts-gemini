@@ -8,116 +8,13 @@
 
 ## Duyệt theo danh mục
 
-[Tất cả Prompt](#all-prompts)
-
-### Các trường hợp sử dụng
-
-
-
-- Hồ sơ / Ảnh đại diện · 0
-- Bài đăng trên mạng xã hội · 0
-- Infographic / Hình ảnh giáo dục · 0
-- Hình thu nhỏ trên YouTube · 0
-- Truyện tranh / Bảng phân cảnh · 0
-- Tiếp thị sản phẩm · 0
-- Hình ảnh chính thương mại điện tử · 0
-- Tài sản trò chơi · 0
-- Áp phích / Tờ rơi · 0
-- Thiết kế ứng dụng / web · 0
-
-### Phong cách
-
 [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Kết xuất 3D](#category-3d-render)
-
-- Nhiếp ảnh · 0
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>Điện ảnh / Ảnh tĩnh từ phim · 3</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- Anime / Manga · 0
-- Minh họa · 0
-- Phác Thảo / Nét Vẽ · 0
-- Truyện tranh / Tiểu thuyết đồ họa · 0
-
-<a name="category-3d-render"></a>
-
-<details open>
-<summary>Kết xuất 3D · 2</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- Chibi / Phong cách Q · 0
-- Đẳng cự · 0
-- Nghệ thuật Pixel · 0
-- Tranh Sơn Dầu · 0
-- Màu nước · 0
-- Mực / Phong cách Trung Hoa · 0
-- Cổ điển / Cổ điển · 0
-- Cyberpunk / Khoa học viễn tưởng · 0
-- Chủ nghĩa tối giản · 0
-
-### Nội dung chính
-
-[Nhân vật](#category-character) · [Thực phẩm / Đồ uống](#category-food-drink) · [Văn bản / Kiểu chữ](#category-text-typography)
-
-- Chân dung / Ảnh tự chụp · 0
-- Người có ảnh hưởng / Người mẫu · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>Nhân vật · 2</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-
-</details>
-
-- Nhóm / Cặp đôi · 0
-- Sản phẩm · 0
-
-<a name="category-food-drink"></a>
-
-<details open>
-<summary>Thực phẩm / Đồ uống · 1</summary>
-
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- Mặt hàng thời trang · 0
-- Động vật / Sinh vật · 0
-- Phương tiện · 0
-- Kiến trúc / Nội thất · 0
-- Phong cảnh / Thiên nhiên · 0
-- Quang cảnh thành phố / Đường phố · 0
-- Sơ đồ / Biểu đồ · 0
-
-<a name="category-text-typography"></a>
-
-<details open>
-<summary>Văn bản / Kiểu chữ · 1</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-
-</details>
-
-- Tóm tắt / Bối cảnh · 0
 
 <a name="all-prompts"></a>
 
-## Tất cả Prompt
+<a name="category-cinematic-film-still"></a>
+
+## Điện ảnh / Ảnh tĩnh từ phim
 
 <a name="prompt-2096612096003965254"></a>
 
@@ -295,6 +192,10 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 [↑ Về danh mục](#catalog)
 
 ---
+
+<a name="category-3d-render"></a>
+
+## Kết xuất 3D
 
 <a name="prompt-2096885269270237431"></a>
 

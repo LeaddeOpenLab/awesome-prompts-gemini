@@ -8,116 +8,13 @@
 
 ## カテゴリから探す
 
-[すべてのプロンプト](#all-prompts)
-
-### 使用シーン
-
-
-
-- プロフィール / アバター · 0
-- ソーシャルメディア投稿 · 0
-- インフォグラフィック / 教育ビジュアル · 0
-- YouTube サムネイル · 0
-- コミック / ストーリーボード · 0
-- プロダクトマーケティング · 0
-- E コマースのメイン画像 · 0
-- ゲームアセット · 0
-- ポスター / チラシ · 0
-- アプリ / Web デザイン · 0
-
-### スタイル
-
 [シネマティック / フィルムスチル](#category-cinematic-film-still) · [3D レンダリング](#category-3d-render)
-
-- 写真撮影 · 0
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>シネマティック / フィルムスチル · 3</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- アニメ / 漫画 · 0
-- イラスト · 0
-- スケッチ / 線画 · 0
-- コミック / グラフィックノベル · 0
-
-<a name="category-3d-render"></a>
-
-<details open>
-<summary>3D レンダリング · 2</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- ちび / Q スタイル · 0
-- アイソメトリック · 0
-- ピクセルアート · 0
-- 油絵 · 0
-- 水彩 · 0
-- 墨 / 中国風 · 0
-- レトロ / ヴィンテージ · 0
-- サイバーパンク / SF · 0
-- ミニマリズム · 0
-
-### 本文
-
-[キャラクター](#category-character) · [食品・飲料](#category-food-drink) · [テキスト / タイポグラフィ](#category-text-typography)
-
-- ポートレート / セルフィー · 0
-- インフルエンサー / モデル · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>キャラクター · 2</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-
-</details>
-
-- グループ / カップル · 0
-- 製品 · 0
-
-<a name="category-food-drink"></a>
-
-<details open>
-<summary>食品・飲料 · 1</summary>
-
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- ファッションアイテム · 0
-- 動物 / 生き物 · 0
-- 車両 · 0
-- 建築 / インテリア · 0
-- 風景 / 自然 · 0
-- 街並み / ストリート · 0
-- 図 / チャート · 0
-
-<a name="category-text-typography"></a>
-
-<details open>
-<summary>テキスト / タイポグラフィ · 1</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-
-</details>
-
-- 要旨 / 背景 · 0
 
 <a name="all-prompts"></a>
 
-## すべてのプロンプト
+<a name="category-cinematic-film-still"></a>
+
+## シネマティック / フィルムスチル
 
 <a name="prompt-2096612096003965254"></a>
 
@@ -295,6 +192,10 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 [↑ カテゴリに戻る](#catalog)
 
 ---
+
+<a name="category-3d-render"></a>
+
+## 3D レンダリング
 
 <a name="prompt-2096885269270237431"></a>
 

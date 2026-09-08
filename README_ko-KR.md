@@ -8,116 +8,13 @@
 
 ## 카테고리 탐색
 
-[모든 프롬프트](#all-prompts)
-
-### 사용 사례
-
-
-
-- 프로필 / 아바타 · 0
-- 소셜 미디어 게시물 · 0
-- 인포그래픽 / 교육용 시각 자료 · 0
-- YouTube 썸네일 · 0
-- 만화 / 스토리보드 · 0
-- 제품 마케팅 · 0
-- 전자상거래 메인 이미지 · 0
-- 게임 에셋 · 0
-- 포스터 / 전단지 · 0
-- 앱 / 웹 디자인 · 0
-
-### 스타일
-
 [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [3D 렌더링](#category-3d-render)
-
-- 사진술 · 0
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>시네마틱 / 영화 스틸컷 · 3</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- 애니메이션 / 만화 · 0
-- 일러스트레이션 · 0
-- 스케치 / 선화 · 0
-- 만화 / 그래픽 노블 · 0
-
-<a name="category-3d-render"></a>
-
-<details open>
-<summary>3D 렌더링 · 2</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- 치비 / Q-스타일 · 0
-- 아이소메트릭 · 0
-- 픽셀 아트 · 0
-- 유화 · 0
-- 수채화 · 0
-- 잉크 / 중국풍 · 0
-- 레트로 / 빈티지 · 0
-- 사이버펑크 / SF · 0
-- 미니멀리즘 · 0
-
-### 본문
-
-[캐릭터](#category-character) · [음식 / 음료](#category-food-drink) · [텍스트 / 타이포그래피](#category-text-typography)
-
-- 인물 사진 / 셀카 · 0
-- 인플루언서 / 모델 · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>캐릭터 · 2</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-
-</details>
-
-- 그룹 / 커플 · 0
-- 제품 · 0
-
-<a name="category-food-drink"></a>
-
-<details open>
-<summary>음식 / 음료 · 1</summary>
-
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
-- 패션 아이템 · 0
-- 동물 / 생명체 · 0
-- 차량 · 0
-- 건축 / 인테리어 · 0
-- 풍경 / 자연 · 0
-- 도시 풍경 / 거리 · 0
-- 다이어그램 / 차트 · 0
-
-<a name="category-text-typography"></a>
-
-<details open>
-<summary>텍스트 / 타이포그래피 · 1</summary>
-
-- [Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.](#prompt-2096612096003965254) · [@taya\_mama\_AI](https://x.com/taya_mama_AI)
-
-</details>
-
-- 초록 / 배경 · 0
 
 <a name="all-prompts"></a>
 
-## 모든 프롬프트
+<a name="category-cinematic-film-still"></a>
+
+## 시네마틱 / 영화 스틸컷
 
 <a name="prompt-2096612096003965254"></a>
 
@@ -295,6 +192,10 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 [↑ 카테고리로 돌아가기](#catalog)
 
 ---
+
+<a name="category-3d-render"></a>
+
+## 3D 렌더링
 
 <a name="prompt-2096885269270237431"></a>
 
