@@ -33,35 +33,35 @@ Cinematográfico / Imagem de Filme · Renderização 3D · Personagem · Texto /
 **Prompt**
 
 ```text
-Commercial film.
+Filme comercial.
 
-Maintain the initial background color throughout the sequence.
+Mantenha a cor de fundo inicial durante toda a sequência.
 
-The camera smoothly tracks the character with a continuous horizontal scrolling movement, moving alongside them as they walk.
+A câmera acompanha suavemente o personagem com um movimento contínuo de rolagem horizontal, movendo-se ao lado dele enquanto ele caminha.
 
-Text and connecting lines progressively appear across the screen, forming a continuous visual pathway.
+Textos e linhas de conexão aparecem progressivamente pela tela, formando um caminho visual contínuo.
 
-As the character walks, they recognize the text and graphic elements appearing around them as physical objects that actually exist within the same space. They naturally interact with these elements as they move forward: occasionally tapping nearby text with a fingertip, looking up at words above them, glancing sideways at graphics, slightly stepping aside to avoid an element, ducking underneath one, or briefly stopping to observe something.
+À medida que o personagem caminha, ele reconhece os textos e elementos gráficos que surgem ao seu redor como objetos físicos que realmente existem no mesmo espaço. Ele interage naturalmente com esses elementos conforme avança: ocasionalmente tocando em um texto próximo com a ponta do dedo, olhando para cima em direção a palavras acima dele, olhando de lado para elementos gráficos, dando um leve passo para o lado para evitar um elemento, abaixando-se sob um deles ou parando brevemente para observar algo.
 
-A continuous line, resembling a railway track or visual route, connects one text element to the next. The text from the reference image appears sequentially along this connected path, following the original order.
+Uma linha contínua, semelhante a um trilho de trem ou rota visual, conecta um elemento de texto ao próximo. O texto da imagem de referência aparece sequencialmente ao longo desse caminho conectado, seguindo a ordem original.
 
-The text and graphic elements must not feel like flat background decorations. They should feel physically present in the same three-dimensional space as the character, with convincing spatial relationships and interaction.
+Os textos e elementos gráficos não devem parecer decorações planas de fundo. Eles devem parecer fisicamente presentes no mesmo espaço tridimensional que o personagem, com relações espaciais e interação convincentes.
 
-Do not repeat or duplicate any text.
+Não repita nem duplique nenhum texto.
 
-Keep the overall pacing fast, rhythmic, and fluid. The horizontal scrolling movement should remain continuous and uninterrupted throughout the sequence.
+Mantenha o ritmo geral rápido, rítmico e fluido. O movimento de rolagem horizontal deve permanecer contínuo e ininterrupto durante toda a sequência.
 
-Faithfully reproduce all text from the reference image without garbled characters, corrupted typography, misspellings, or altered wording.
+Reproduza fielmente todo o texto da imagem de referência sem caracteres ilegíveis, tipografia corrompida, erros de ortografia ou alterações no texto.
 
-For the final transition, a large foreground object or graphic element passes very close in front of the camera, completely covering the entire frame and creating a natural foreground-blur wipe transition.
+Para a transição final, um grande objeto ou elemento gráfico em primeiro plano passa bem perto da câmera, cobrindo completamente todo o enquadramento e criando uma transição natural de wipe com desfoque em primeiro plano.
 
-As the foreground object clears the frame, seamlessly reveal the final logo screen.
+À medida que o objeto em primeiro plano sai do enquadramento, revele perfeitamente a tela final do logotipo.
 
-Camera movement should be smooth, dynamic, and cinematic.
+O movimento da câmera deve ser suave, dinâmico e cinematográfico.
 
-Prioritize the interaction between the character and the text / graphic elements above everything else.
+Priorize a interação entre o personagem e os elementos de texto / gráficos acima de tudo.
 
-BGM: Up-tempo, rhythmic music with a strong beat.
+BGM: Música acelerada e rítmica com uma batida forte.
 ```
 
 [↑ Voltar às categorias](#catalog)
