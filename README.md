@@ -2,7 +2,7 @@
 
 按 Prompt 主题与用途分组。点击分类或条目即可在本页定位，图片与完整 Prompt 直接展示；各组可收起。
 
-共 **1** 条内容 · **1** 个语义分类
+共 **2** 条内容 · **1** 个语义分类
 
 <a name="catalog"></a>
 
@@ -10,7 +10,7 @@
 
 | 分类 | 数量 | 条目导航 |
 | --- | ---: | --- |
-| [剧情叙事与影视](#category-story) | 1 | [AiwithBloodline · \{](#prompt-2096885269270237431) |
+| [剧情叙事与影视](#category-story) | 2 | [AiwithBloodline · Create a 10-second ultra-realistic ](#prompt-2097168437957263851)<br>[AiwithBloodline · \{](#prompt-2096885269270237431) |
 
 ---
 
@@ -19,7 +19,37 @@
 ## 剧情叙事与影视
 
 <details open>
-<summary>剧情叙事与影视 · 1 条（点击收起 / 展开）</summary>
+<summary>剧情叙事与影视 · 2 条（点击收起 / 展开）</summary>
+
+<a name="prompt-2097168437957263851"></a>
+
+### Create a 10-second ultra-realistic cinematic miniature video set insid…
+
+作者：[@AiwithBloodline](https://x.com/AiwithBloodline) · [查看 X 原帖](https://x.com/AiwithBloodline/status/2097168437957263851)
+
+分类：剧情叙事与影视 · 状态：待推流
+
+引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096937365260624328)
+
+**概括（Prompt 原语言）：** 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
+
+**English summary:** A prompt for a 10-second ultra-realistic cinematic miniature video set inside a gigantic cake factory, featuring tiny bakers decorating a massive birthday cake.
+
+<img src="covers/2097168437957263851.jpg" alt="封面" width="480" />
+
+**Prompt**
+
+```text
+Create a 10-second ultra-realistic cinematic miniature video set inside a gigantic, whimsical cake factory. Tiny bakers wearing white chef uniforms and small baker hats work together to decorate a massive multi-layer birthday cake that towers over them.
+0–3 sec: Wide establishing shot of the enormous cake on a factory table, with tiny bakers climbing ladders and carrying colorful frosting tools.
+3–7 sec: Close-up tracking shot as the bakers pipe thick swirls of cream, add strawberries and sprinkles, and carefully place giant colorful candles.
+7–10 sec: Dramatic cinematic pull-back revealing the fully decorated birthday cake, glowing warmly under factory lights as the tiny bakers celebrate around it.
+Highly detailed miniature scale, realistic human movement, creamy frosting textures, colorful decorations, warm bakery lighting, shallow depth of field, cinematic camera movement, macro photography look, playful but photorealistic, 4K, 16:9, no text, no logos, no music, only natural ASMR bakery sounds such as frosting being piped, footsteps, tools clinking, and soft factory ambience.
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2096885269270237431"></a>
 
