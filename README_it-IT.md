@@ -1,8 +1,20 @@
-# gemini · Raccolta di prompt
+# Gemini · Raccolta di prompt · Leadde.ai
 
-[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-Current-brightgreen)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
+[![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-brightgreen)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
-**4** Prompt
+> **Prompt di qualità selezionati ogni giorno**
+
+Scopri prompt completi per immagini, video e creazioni 3D con l’IA. Esplora gli stili, le versioni multilingue e le fonti degli autori originali.
+
+[Esplora Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=gemini)
+
+## Scopri Leadde.ai
+
+Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video aziendali con l’IA per formazione, inserimento del personale e marketing.
+
+Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
+
+**4** Prompt · Ultima aggiunta: **2026-09-08**
 
 <a name="catalog"></a>
 
@@ -24,11 +36,11 @@ Autore：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Post originale](https
 
 Fermo immagine cinematografico / Still fotografico · Rendering 3D · Personaggio · Testo / Tipografia · Distribuzione in attesa
 
-引用来源：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [引用原帖](https://x.com/taya_mama_AI/status/2095076567416451105)
+Post originale：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Post originale](https://x.com/taya_mama_AI/status/2095076567416451105)
 
 **Riepilogo:** Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.
 
-<img src="covers/2096612096003965254.jpg" alt="封面" width="480" />
+<img src="covers/2096612096003965254.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -78,7 +90,7 @@ Fermo immagine cinematografico / Still fotografico · Personaggio · Distribuzio
 
 **Riepilogo:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
-<img src="covers/2097242290859241833.jpg" alt="封面" width="480" />
+<img src="covers/2097242290859241833.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -173,11 +185,11 @@ Autore：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Post originale](h
 
 Fermo immagine cinematografico / Still fotografico · Distribuzione in attesa
 
-引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096937365260624328)
+Post originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Post originale](https://x.com/AiwithBloodline/status/2096937365260624328)
 
 **Riepilogo:** 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
 
-<img src="covers/2097168437957263851.jpg" alt="封面" width="480" />
+<img src="covers/2097168437957263851.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -205,11 +217,11 @@ Autore：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Post originale](h
 
 Rendering 3D · Cibo / Bevande · Distribuzione in attesa
 
-引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096811796074311791)
+Post originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Post originale](https://x.com/AiwithBloodline/status/2096811796074311791)
 
 **Riepilogo:** A 3D animated sequence of miniature construction workers assembling a giant pizza.
 
-<img src="covers/2096885269270237431.jpg" alt="封面" width="480" />
+<img src="covers/2096885269270237431.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -271,4 +283,6 @@ Rendering 3D · Cibo / Bevande · Distribuzione in attesa
 
 ---
 
-Navigation reference: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+[Esplora Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=gemini)
+
+Riferimento di navigazione: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

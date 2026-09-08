@@ -1,8 +1,20 @@
-# gemini · Prompt Kütüphanesi
+# Gemini · Prompt Kütüphanesi · Leadde.ai
 
-[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-Current-brightgreen)](README_tr-TR.md)
+[![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-brightgreen)](README_tr-TR.md)
 
-**4** Prompt
+> **Her gün özenle seçilen kaliteli istemler**
+
+Yapay zekâ ile görsel, video ve 3D üretimi için eksiksiz istemleri keşfedin. Stile göre gezinin, farklı dilleri seçin ve özgün üreticilerle kaynaklarını inceleyin.
+
+[Leadde.ai’yi keşfedin →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=gemini)
+
+## Leadde.ai ile tanışın
+
+Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pazarlama için yapay zekâ destekli iş videolarına dönüştürmesine yardımcı olur.
+
+Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
+
+**4** Prompt · Son eklenen: **2026-09-08**
 
 <a name="catalog"></a>
 
@@ -24,13 +36,13 @@ Yazar：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Orijinal gönderi](htt
 
 Sinematik / Film Karesi · 3D Modelleme · Karakter · Metin / Tipografi · Dağıtım bekliyor
 
-引用来源：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [引用原帖](https://x.com/taya_mama_AI/status/2095076567416451105)
+Orijinal gönderi：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Orijinal gönderi](https://x.com/taya_mama_AI/status/2095076567416451105)
 
 **Özet:** Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.
 
-<img src="covers/2096612096003965254.jpg" alt="封面" width="480" />
+<img src="covers/2096612096003965254.jpg" alt="Görsel 1" width="480" />
 
-**Prompt**
+**İstem**
 
 ```text
 Ticari reklam filmi.
@@ -78,9 +90,9 @@ Sinematik / Film Karesi · Karakter · Dağıtım bekliyor
 
 **Özet:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
-<img src="covers/2097242290859241833.jpg" alt="封面" width="480" />
+<img src="covers/2097242290859241833.jpg" alt="Görsel 1" width="480" />
 
-**Prompt**
+**İstem**
 
 ```text
 Use the uploaded image of the adult man as the primary visual and identity reference for the main character.
@@ -173,13 +185,13 @@ Yazar：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi]
 
 Sinematik / Film Karesi · Dağıtım bekliyor
 
-引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096937365260624328)
+Orijinal gönderi：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi](https://x.com/AiwithBloodline/status/2096937365260624328)
 
 **Özet:** 一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。
 
-<img src="covers/2097168437957263851.jpg" alt="封面" width="480" />
+<img src="covers/2097168437957263851.jpg" alt="Görsel 1" width="480" />
 
-**Prompt**
+**İstem**
 
 ```text
 Create a 10-second ultra-realistic cinematic miniature video set inside a gigantic, whimsical cake factory. Tiny bakers wearing white chef uniforms and small baker hats work together to decorate a massive multi-layer birthday cake that towers over them.
@@ -205,13 +217,13 @@ Yazar：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi]
 
 3D Modelleme · Yiyecek / İçecek · Dağıtım bekliyor
 
-引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096811796074311791)
+Orijinal gönderi：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi](https://x.com/AiwithBloodline/status/2096811796074311791)
 
 **Özet:** A 3D animated sequence of miniature construction workers assembling a giant pizza.
 
-<img src="covers/2096885269270237431.jpg" alt="封面" width="480" />
+<img src="covers/2096885269270237431.jpg" alt="Görsel 1" width="480" />
 
-**Prompt**
+**İstem**
 
 ```text
 {
@@ -271,4 +283,6 @@ Yazar：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi]
 
 ---
 
-Navigation reference: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+[Leadde.ai’yi keşfedin →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=gemini)
+
+Gezinme kaynağı: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
