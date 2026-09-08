@@ -33,35 +33,7 @@ Cine / Fotograma de película · Render 3D · Personaje · Texto / Tipografía �
 **Prompt**
 
 ```text
-Commercial film.
-
-Maintain the initial background color throughout the sequence.
-
-The camera smoothly tracks the character with a continuous horizontal scrolling movement, moving alongside them as they walk.
-
-Text and connecting lines progressively appear across the screen, forming a continuous visual pathway.
-
-As the character walks, they recognize the text and graphic elements appearing around them as physical objects that actually exist within the same space. They naturally interact with these elements as they move forward: occasionally tapping nearby text with a fingertip, looking up at words above them, glancing sideways at graphics, slightly stepping aside to avoid an element, ducking underneath one, or briefly stopping to observe something.
-
-A continuous line, resembling a railway track or visual route, connects one text element to the next. The text from the reference image appears sequentially along this connected path, following the original order.
-
-The text and graphic elements must not feel like flat background decorations. They should feel physically present in the same three-dimensional space as the character, with convincing spatial relationships and interaction.
-
-Do not repeat or duplicate any text.
-
-Keep the overall pacing fast, rhythmic, and fluid. The horizontal scrolling movement should remain continuous and uninterrupted throughout the sequence.
-
-Faithfully reproduce all text from the reference image without garbled characters, corrupted typography, misspellings, or altered wording.
-
-For the final transition, a large foreground object or graphic element passes very close in front of the camera, completely covering the entire frame and creating a natural foreground-blur wipe transition.
-
-As the foreground object clears the frame, seamlessly reveal the final logo screen.
-
-Camera movement should be smooth, dynamic, and cinematic.
-
-Prioritize the interaction between the character and the text / graphic elements above everything else.
-
-BGM: Up-tempo, rhythmic music with a strong beat.
+Spot comercial. Mantén el color de fondo inicial a lo largo de toda la secuencia. La cámara sigue suavemente al personaje con un movimiento continuo de desplazamiento horizontal, avanzando a su lado mientras camina. El texto y las líneas de conexión aparecen progresivamente a lo largo de la pantalla, formando una trayectoria visual continua. A medida que el personaje camina, reconoce el texto y los elementos gráficos que aparecen a su alrededor como objetos físicos que existen realmente dentro del mismo espacio. Interactúa con naturalidad con estos elementos mientras avanza: tocando ocasionalmente un texto cercano con la yema del dedo, mirando hacia arriba a las palabras situadas sobre él, mirando de reojo a los elementos gráficos, apartándose ligeramente para esquivar un elemento, agachándose debajo de uno o deteniéndose brevemente para observar algo. Una línea continua, semejante a una vía de tren o una ruta visual, conecta un elemento de texto con el siguiente. El texto de la imagen de referencia aparece de manera secuencial a lo largo de esta ruta conectada, siguiendo el orden original. El texto y los elementos gráficos no deben percibirse como decoraciones planas de fondo. Deben sentirse físicamente presentes en el mismo espacio tridimensional que el personaje, con relaciones espaciales e interacciones convincentes. No repitas ni dupliques ningún texto. Mantén un ritmo general rápido, rítmico y fluido. El movimiento de desplazamiento horizontal debe permanecer continuo e ininterrumpido durante toda la secuencia. Reproduce fielmente todo el texto de la imagen de referencia sin caracteres distorsionados, tipografía corrupta, faltas de ortografía ni alteraciones en la redacción. Para la transición final, un objeto o elemento gráfico grande en primer plano pasa muy cerca frente a la cámara, cubriendo por completo todo el encuadre y creando una transición de barrido natural con desenfoque de primer plano. A medida que el objeto en primer plano despeja el encuadre, revela de manera fluida la pantalla final con el logotipo. El movimiento de la cámara debe ser suave, dinámico y cinematográfico. Prioriza la interacción entre el personaje y el texto / elementos gráficos por encima de todo lo demás. Música de fondo: Música rítmica y acelerada con un compás marcado.
 ```
 
 [↑ Volver a categorías](#catalog)
