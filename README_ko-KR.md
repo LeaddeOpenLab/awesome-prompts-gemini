@@ -33,35 +33,35 @@
 **Prompt**
 
 ```text
-Commercial film.
+광고 영상.
 
-Maintain the initial background color throughout the sequence.
+시퀀스 전체에 걸쳐 초기 배경색을 유지할 것.
 
-The camera smoothly tracks the character with a continuous horizontal scrolling movement, moving alongside them as they walk.
+카메라는 걷는 캐릭터와 나란히 이동하며 연속적인 수평 스크롤 움직임으로 캐릭터를 부드럽게 트래킹합니다.
 
-Text and connecting lines progressively appear across the screen, forming a continuous visual pathway.
+텍스트와 연결선이 화면 전체에 점진적으로 나타나며 연속적인 시각적 경로를 형성합니다.
 
-As the character walks, they recognize the text and graphic elements appearing around them as physical objects that actually exist within the same space. They naturally interact with these elements as they move forward: occasionally tapping nearby text with a fingertip, looking up at words above them, glancing sideways at graphics, slightly stepping aside to avoid an element, ducking underneath one, or briefly stopping to observe something.
+캐릭터는 걸어가면서 주변에 나타나는 텍스트와 그래픽 요소를 동일한 공간에 실제로 존재하는 물리적 물체로 인식합니다. 앞으로 나아가며 이러한 요소들과 자연스럽게 상호작용합니다: 때로는 근처의 텍스트를 손끝으로 톡톡 치고, 머리 위의 단어를 올려다보고, 옆쪽의 그래픽을 힐끗 바라보고, 요소를 피하기 위해 살짝 비켜서고, 요소 아래로 몸을 웅크리거나, 무언가를 관찰하기 위해 잠시 멈춰 섭니다.
 
-A continuous line, resembling a railway track or visual route, connects one text element to the next. The text from the reference image appears sequentially along this connected path, following the original order.
+철도 선로 또는 시각적 경로와 유사한 연속된 선이 하나의 텍스트 요소를 다음 요소로 연결합니다. 참조 이미지의 텍스트는 원래 순서에 따라 이 연결된 경로를 따라 순차적으로 나타납니다.
 
-The text and graphic elements must not feel like flat background decorations. They should feel physically present in the same three-dimensional space as the character, with convincing spatial relationships and interaction.
+텍스트와 그래픽 요소는 평면적인 배경 장식처럼 느껴져서는 안 됩니다. 설득력 있는 공간적 관계와 상호작용을 통해 캐릭터와 동일한 3차원 공간에 물리적으로 존재하는 것처럼 느껴져야 합니다.
 
-Do not repeat or duplicate any text.
+어떤 텍스트도 반복하거나 중복하지 마십시오.
 
-Keep the overall pacing fast, rhythmic, and fluid. The horizontal scrolling movement should remain continuous and uninterrupted throughout the sequence.
+전체적인 템포는 빠르고 리드미컬하며 유려하게 유지하십시오. 수평 스크롤 움직임은 시퀀스 내내 끊김 없이 연속적으로 유지되어야 합니다.
 
-Faithfully reproduce all text from the reference image without garbled characters, corrupted typography, misspellings, or altered wording.
+글자 깨짐, 손상된 타이포그래피, 오탈자 또는 변경된 문구 없이 참조 이미지의 모든 텍스트를 충실하게 재현하십시오.
 
-For the final transition, a large foreground object or graphic element passes very close in front of the camera, completely covering the entire frame and creating a natural foreground-blur wipe transition.
+마지막 전환에서는 전경의 커다란 물체나 그래픽 요소가 카메라 바로 앞을 매우 가깝게 지나가며 전체 프레임을 완전히 가려 자연스러운 포그라운드 블러 와이프 트랜지션을 만듭니다.
 
-As the foreground object clears the frame, seamlessly reveal the final logo screen.
+전경의 물체가 프레임에서 사라지면서 최종 로고 화면이 매끄럽게 드러납니다.
 
-Camera movement should be smooth, dynamic, and cinematic.
+카메라 움직임은 부드럽고 역동적이며 영화적이어야 합니다.
 
-Prioritize the interaction between the character and the text / graphic elements above everything else.
+캐릭터와 텍스트/그래픽 요소 간의 상호작용을 다른 무엇보다 최우선으로 하십시오.
 
-BGM: Up-tempo, rhythmic music with a strong beat.
+BGM: 강한 비트의 업템포의 리드미컬한 음악.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)
