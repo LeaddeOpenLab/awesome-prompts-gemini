@@ -30,7 +30,7 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2096612096003965254"></a>
 
-### Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.
+### Plano de acompanhamento no estilo de filme comercial em que um personagem caminha ao lado de tipografia 3D e caminhos visuais que aparecem continuamente, interagindo com elementos de texto no espaço antes da transição para a revelação do logotipo.
 
 Autor：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Publicação original](https://x.com/taya_mama_AI/status/2096612096003965254)
 
@@ -38,42 +38,42 @@ Cinematográfico / Imagem de Filme · Renderização 3D · Personagem · Texto /
 
 Publicação original：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Publicação original](https://x.com/taya_mama_AI/status/2095076567416451105)
 
-**Resumo:** Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.
+**Resumo:** Plano de acompanhamento no estilo de filme comercial em que um personagem caminha ao lado de tipografia 3D e caminhos visuais que aparecem continuamente, interagindo com elementos de texto no espaço antes da transição para a revelação do logotipo.
 
 <img src="covers/2096612096003965254.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Filme comercial.
+Filme publicitário.
 
 Mantenha a cor de fundo inicial durante toda a sequência.
 
 A câmera acompanha suavemente o personagem com um movimento contínuo de rolagem horizontal, movendo-se ao lado dele enquanto ele caminha.
 
-Textos e linhas de conexão aparecem progressivamente pela tela, formando um caminho visual contínuo.
+Textos e linhas de conexão surgem progressivamente pela tela, formando um caminho visual contínuo.
 
-À medida que o personagem caminha, ele reconhece os textos e elementos gráficos que surgem ao seu redor como objetos físicos que realmente existem no mesmo espaço. Ele interage naturalmente com esses elementos conforme avança: ocasionalmente tocando em um texto próximo com a ponta do dedo, olhando para cima em direção a palavras acima dele, olhando de lado para elementos gráficos, dando um leve passo para o lado para evitar um elemento, abaixando-se sob um deles ou parando brevemente para observar algo.
+Conforme o personagem caminha, ele reconhece os textos e elementos gráficos que surgem ao seu redor como objetos físicos que realmente existem no mesmo espaço. Ele interage naturalmente com esses elementos à medida que avança: ocasionalmente tocando um texto próximo com a ponta dos dedos, olhando para palavras acima dele, olhando de soslaio para gráficos, dando um passo discreto para o lado a fim de desviar de um elemento, abaixando-se sob um deles ou parando brevemente para observar algo.
 
-Uma linha contínua, semelhante a um trilho de trem ou rota visual, conecta um elemento de texto ao próximo. O texto da imagem de referência aparece sequencialmente ao longo desse caminho conectado, seguindo a ordem original.
+Uma linha contínua, semelhante a um trilho de trem ou rota visual, conecta um elemento de texto ao seguinte. O texto da imagem de referência surge sequencialmente ao longo desse caminho conectado, seguindo a ordem original.
 
-Os textos e elementos gráficos não devem parecer decorações planas de fundo. Eles devem parecer fisicamente presentes no mesmo espaço tridimensional que o personagem, com relações espaciais e interação convincentes.
+Os textos e elementos gráficos não devem parecer decorações planas de fundo. Eles devem parecer fisicamente presentes no mesmo espaço tridimensional do personagem, com relações espaciais e interação convincentes.
 
 Não repita nem duplique nenhum texto.
 
-Mantenha o ritmo geral rápido, rítmico e fluido. O movimento de rolagem horizontal deve permanecer contínuo e ininterrupto durante toda a sequência.
+Mantenha o ritmo geral acelerado, cadenciado e fluido. O movimento de rolagem horizontal deve permanecer contínuo e ininterrupto por toda a sequência.
 
-Reproduza fielmente todo o texto da imagem de referência sem caracteres ilegíveis, tipografia corrompida, erros de ortografia ou alterações no texto.
+Reproduza fielmente todo o texto da imagem de referência sem caracteres distorcidos, tipografia corrompida, erros ortográficos ou alterações no texto.
 
-Para a transição final, um grande objeto ou elemento gráfico em primeiro plano passa bem perto da câmera, cobrindo completamente todo o enquadramento e criando uma transição natural de wipe com desfoque em primeiro plano.
+Para a transição final, um grande objeto ou elemento gráfico em primeiro plano passa bem perto da câmera, cobrindo completamente todo o quadro e criando uma transição natural de corte por desfoque em primeiro plano.
 
-À medida que o objeto em primeiro plano sai do enquadramento, revele perfeitamente a tela final do logotipo.
+Conforme o objeto em primeiro plano sai de cena, revele perfeitamente a tela final com o logotipo.
 
 O movimento da câmera deve ser suave, dinâmico e cinematográfico.
 
-Priorize a interação entre o personagem e os elementos de texto / gráficos acima de tudo.
+Priorize a interação entre o personagem e os textos/elementos gráficos acima de tudo.
 
-BGM: Música acelerada e rítmica com uma batida forte.
+BGM: Música agitada e rítmica, com uma batida forte.
 ```
 
 [↑ Voltar às categorias](#catalog)

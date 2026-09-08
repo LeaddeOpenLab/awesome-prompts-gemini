@@ -30,7 +30,7 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2096612096003965254"></a>
 
-### Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.
+### Plano de seguimiento de estilo cinematográfico comercial donde un personaje camina junto a tipografía 3D y rutas visuales que aparecen continuamente, interactuando con elementos de texto en el espacio antes de pasar a la revelación de un logotipo.
 
 Autor：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Publicación original](https://x.com/taya_mama_AI/status/2096612096003965254)
 
@@ -38,14 +38,42 @@ Cine / Fotograma de película · Render 3D · Personaje · Texto / Tipografía �
 
 Publicación original：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Publicación original](https://x.com/taya_mama_AI/status/2095076567416451105)
 
-**Resumen:** Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.
+**Resumen:** Plano de seguimiento de estilo cinematográfico comercial donde un personaje camina junto a tipografía 3D y rutas visuales que aparecen continuamente, interactuando con elementos de texto en el espacio antes de pasar a la revelación de un logotipo.
 
 <img src="covers/2096612096003965254.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Spot comercial. Mantén el color de fondo inicial a lo largo de toda la secuencia. La cámara sigue suavemente al personaje con un movimiento continuo de desplazamiento horizontal, avanzando a su lado mientras camina. El texto y las líneas de conexión aparecen progresivamente a lo largo de la pantalla, formando una trayectoria visual continua. A medida que el personaje camina, reconoce el texto y los elementos gráficos que aparecen a su alrededor como objetos físicos que existen realmente dentro del mismo espacio. Interactúa con naturalidad con estos elementos mientras avanza: tocando ocasionalmente un texto cercano con la yema del dedo, mirando hacia arriba a las palabras situadas sobre él, mirando de reojo a los elementos gráficos, apartándose ligeramente para esquivar un elemento, agachándose debajo de uno o deteniéndose brevemente para observar algo. Una línea continua, semejante a una vía de tren o una ruta visual, conecta un elemento de texto con el siguiente. El texto de la imagen de referencia aparece de manera secuencial a lo largo de esta ruta conectada, siguiendo el orden original. El texto y los elementos gráficos no deben percibirse como decoraciones planas de fondo. Deben sentirse físicamente presentes en el mismo espacio tridimensional que el personaje, con relaciones espaciales e interacciones convincentes. No repitas ni dupliques ningún texto. Mantén un ritmo general rápido, rítmico y fluido. El movimiento de desplazamiento horizontal debe permanecer continuo e ininterrumpido durante toda la secuencia. Reproduce fielmente todo el texto de la imagen de referencia sin caracteres distorsionados, tipografía corrupta, faltas de ortografía ni alteraciones en la redacción. Para la transición final, un objeto o elemento gráfico grande en primer plano pasa muy cerca frente a la cámara, cubriendo por completo todo el encuadre y creando una transición de barrido natural con desenfoque de primer plano. A medida que el objeto en primer plano despeja el encuadre, revela de manera fluida la pantalla final con el logotipo. El movimiento de la cámara debe ser suave, dinámico y cinematográfico. Prioriza la interacción entre el personaje y el texto / elementos gráficos por encima de todo lo demás. Música de fondo: Música rítmica y acelerada con un compás marcado.
+Película comercial.
+
+Mantén el color de fondo inicial a lo largo de toda la secuencia.
+
+La cámara sigue suavemente al personaje con un movimiento de desplazamiento horizontal continuo, moviéndose a su lado mientras camina.
+
+El texto y las líneas de conexión aparecen progresivamente a través de la pantalla, formando una ruta visual continua.
+
+A medida que el personaje camina, reconoce el texto y los elementos gráficos que aparecen a su alrededor como objetos físicos que existen realmente en el mismo espacio. Interactúa de forma natural con estos elementos a medida que avanza: tocando ocasionalmente el texto cercano con la punta del dedo, mirando hacia arriba a las palabras situadas sobre él, mirando de reojo a los gráficos, apartándose ligeramente para esquivar un elemento, agachándose debajo de uno o deteniéndose brevemente para observar algo.
+
+Una línea continua, semejante a una vía de tren o una ruta visual, conecta un elemento de texto con el siguiente. El texto de la imagen de referencia aparece secuencialmente a lo largo de este camino conectado, siguiendo el orden original.
+
+Los elementos de texto y gráficos no deben parecer decoraciones planas de fondo. Deben sentirse físicamente presentes en el mismo espacio tridimensional que el personaje, con relaciones espaciales e interacción convincentes.
+
+No repitas ni dupliques ningún texto.
+
+Mantén el ritmo general rápido, rítmico y fluido. El movimiento de desplazamiento horizontal debe permanecer continuo e ininterrumpido a lo largo de la secuencia.
+
+Reproduce fielmente todo el texto de la imagen de referencia sin caracteres distorsionados, tipografía corrupta, errores ortográficos o redacción alterada.
+
+Para la transición final, un objeto o elemento gráfico grande en primer plano pasa muy cerca por delante de la cámara, cubriendo por completo todo el encuadre y creando una transición natural de barrido con desenfoque de primer plano.
+
+A medida que el objeto en primer plano despeja el encuadre, revela a la perfección la pantalla final con el logotipo.
+
+El movimiento de cámara debe ser fluido, dinámico y cinematográfico.
+
+Prioriza la interacción entre el personaje y los elementos de texto/gráficos por encima de todo lo demás.
+
+BGM: Música de ritmo rápido, rítmica y con un compás marcado.
 ```
 
 [↑ Volver a categorías](#catalog)

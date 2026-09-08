@@ -30,7 +30,7 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2096612096003965254"></a>
 
-### Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.
+### Bir karakterin sürekli beliren 3B tipografi ve görsel yollar eşliğinde yürüdüğü, mekândaki metin unsurlarıyla etkileşime geçtiği ve ardından logo gösterimine geçiş yaptığı reklam filmi tarzı takip çekimi.
 
 Yazar：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Orijinal gönderi](https://x.com/taya_mama_AI/status/2096612096003965254)
 
@@ -38,42 +38,42 @@ Sinematik / Film Karesi · 3D Modelleme · Karakter · Metin / Tipografi · Dağ
 
 Orijinal gönderi：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Orijinal gönderi](https://x.com/taya_mama_AI/status/2095076567416451105)
 
-**Özet:** Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.
+**Özet:** Bir karakterin sürekli beliren 3B tipografi ve görsel yollar eşliğinde yürüdüğü, mekândaki metin unsurlarıyla etkileşime geçtiği ve ardından logo gösterimine geçiş yaptığı reklam filmi tarzı takip çekimi.
 
 <img src="covers/2096612096003965254.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Ticari reklam filmi.
+Reklam filmi.
 
-Sekans boyunca başlangıçtaki arka plan rengini koruyun.
+Dizi boyunca başlangıçtaki arka plan rengini koruyun.
 
-Kamera, karakter yürürken onun yanında hareket ederek, kesintisiz bir yatay kaydırma hareketiyle karakteri pürüzsüzce takip eder.
+Kamera, karakteri yürürken yanından takip eden kesintisiz bir yatay kaydırma hareketiyle pürüzsüzce izler.
 
-Metinler ve bağlantı çizgileri ekranda kademeli olarak belirerek kesintisiz bir görsel yol oluşturur.
+Metinler ve bağlantı çizgileri ekranda kademeli olarak belirerek sürekli bir görsel yol oluşturur.
 
-Karakter yürürken, etrafında beliren metinleri ve grafik unsurları aynı mekanda gerçekten var olan fiziksel nesneler olarak algılar. İlerlerken bu unsurlarla doğal bir şekilde etkileşime girer: zaman zaman yakındaki bir metne parmak ucuyla dokunur, başını kaldırıp yukarısındaki kelimelere bakar, grafiklere yan gözle bakar, bir unsurdan kaçınmak için hafifçe yana çekilir, birinin altından eğilerek geçer veya bir şeyi incelemek için kısa süreliğine durur.
+Karakter yürürken, etrafında beliren metinleri ve grafik unsurları aynı mekânda gerçekten var olan fiziksel nesneler olarak algılar. İlerlerken bu unsurlarla doğal bir şekilde etkileşime girer: zaman zaman parmak ucuyla yakındaki bir metne dokunur, başını kaldırıp üzerindeki kelimelere bakar, yanındaki grafiklere göz atar, bir unsurdan kaçınmak için hafifçe yana çekilir, birinin altından eğilerek geçer ya da bir şeyi incelemek için kısa süreliğine duraklar.
 
-Bir demiryolu rayını veya görsel bir rotayı andıran kesintisiz bir çizgi, bir metin unsurunu bir sonrakine bağlar. Referans görseldeki metin, orijinal sırayı takip ederek bu bağlantılı yol boyunca sırayla görünür.
+Bir demiryolu rayını veya görsel bir rotayı andıran kesintisiz bir çizgi, bir metin unsurunu diğerine bağlar. Referans görseldeki metin, orijinal sırayı takip ederek bu bağlantılı yol boyunca ardışık olarak görünür.
 
-Metin ve grafik unsurlar düz arka plan süslemeleri gibi hissettirmemelidir. Karakterle aynı üç boyutlu mekanda fiziksel olarak mevcut gibi hissettirmeli, inandırıcı mekansal ilişkilere ve etkileşime sahip olmalıdır.
+Metin ve grafik unsurlar düz arka plan süslemeleri gibi durmamalıdır. İkna edici mekânsal ilişkiler ve etkileşimle, karakterle aynı üç boyutlu alanda fiziksel olarak var oldukları hissi verilmelidir.
 
-Hiçbir metni tekrarlamayın veya çoğaltmayın.
+Hiçbir metni tekrarlamayın veya kopyalamayın.
 
-Genel tempoyu hızlı, ritmik ve akıcı tutun. Yatay kaydırma hareketi sekans boyunca sürekli ve kesintisiz kalmalıdır.
+Genel tempoyu hızlı, ritmik ve akıcı tutun. Yatay kaydırma hareketi sekans boyunca kesintisiz ve bölünmeden devam etmelidir.
 
-Bozuk karakterler, hasarlı tipografi, yazım hataları veya değiştirilmiş ifadeler olmadan, referans görseldeki tüm metinleri aslına sadık kalarak yeniden oluşturun.
+Referans görseldeki tüm metinleri bozuk karakterler, hatalı tipografi, yazım yanlışları veya değiştirilmiş ifadeler olmadan aslına sadık kalarak yeniden oluşturun.
 
-Son geçiş için, büyük bir ön plan nesnesi veya grafik unsuru kameranın çok yakınından geçerek tüm kareyi tamamen kaplar ve doğal bir ön plan bulanıklığıyla silme geçişi oluşturur.
+Son geçiş için, ön plandaki büyük bir nesne veya grafik unsur kameranın çok yakınından geçerek tüm kareyi tamamen kaplar ve ön plan bulanıklığıyla doğal bir silme geçişi yaratır.
 
-Ön plandaki nesne kareden çıkarken, son logo ekranını sorunsuzca açığa çıkarın.
+Ön plandaki nesne kareden çıktıkça, son logo ekranını kusursuz bir şekilde ortaya çıkarın.
 
 Kamera hareketi pürüzsüz, dinamik ve sinematik olmalıdır.
 
 Karakter ile metin / grafik unsurları arasındaki etkileşime her şeyin üstünde öncelik verin.
 
-BGM: Güçlü bir ritme sahip, yüksek tempolu, ritmik müzik.
+BGM: Güçlü bir ritme sahip, hareketli ve tempolu müzik.
 ```
 
 [↑ Kategorilere dön](#catalog)

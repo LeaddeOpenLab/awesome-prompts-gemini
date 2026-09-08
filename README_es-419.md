@@ -30,7 +30,7 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2096612096003965254"></a>
 
-### Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.
+### Toma de seguimiento al estilo de comercial publicitario donde un personaje camina junto a tipografía 3D y trayectorias visuales que aparecen continuamente, interactuando con elementos de texto en el espacio antes de pasar a la revelación del logotipo.
 
 Autor：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Publicación original](https://x.com/taya_mama_AI/status/2096612096003965254)
 
@@ -38,42 +38,42 @@ Cine / Fotograma · Renderizado 3D · Personaje · Texto / Tipografía · Pendie
 
 Publicación original：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Publicación original](https://x.com/taya_mama_AI/status/2095076567416451105)
 
-**Resumen:** Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.
+**Resumen:** Toma de seguimiento al estilo de comercial publicitario donde un personaje camina junto a tipografía 3D y trayectorias visuales que aparecen continuamente, interactuando con elementos de texto en el espacio antes de pasar a la revelación del logotipo.
 
 <img src="covers/2096612096003965254.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Comercial publicitario.
+Película comercial.
 
 Mantén el color de fondo inicial a lo largo de toda la secuencia.
 
-La cámara sigue suavemente al personaje con un movimiento de desplazamiento horizontal continuo, avanzando a su lado mientras camina.
+La cámara sigue suavemente al personaje con un movimiento de desplazamiento horizontal continuo, moviéndose a su lado mientras camina.
 
-El texto y las líneas de conexión aparecen progresivamente en la pantalla, formando una trayectoria visual continua.
+El texto y las líneas de conexión aparecen progresivamente en la pantalla, formando un camino visual continuo.
 
-Mientras el personaje camina, reconoce el texto y los elementos gráficos que aparecen a su alrededor como objetos físicos que realmente existen dentro del mismo espacio. Interactúa de forma natural con estos elementos a medida que avanza: tocando ocasionalmente el texto cercano con la punta del dedo, levantando la vista hacia las palabras sobre él, mirando de reojo hacia los gráficos, apartándose ligeramente para esquivar un elemento, agachándose debajo de otro o deteniéndose brevemente a observar algo.
+A medida que el personaje camina, reconoce el texto y los elementos gráficos que aparecen a su alrededor como objetos físicos que realmente existen dentro del mismo espacio. Interactúa de manera natural con estos elementos a medida que avanza: tocando ocasionalmente el texto cercano con la punta del dedo, mirando hacia arriba a las palabras que están sobre él, mirando de reojo a los gráficos, haciéndose ligeramente a un lado para esquivar un elemento, agachándose debajo de uno o deteniéndose brevemente para observar algo.
 
 Una línea continua, similar a una vía de tren o una ruta visual, conecta un elemento de texto con el siguiente. El texto de la imagen de referencia aparece secuencialmente a lo largo de esta trayectoria conectada, siguiendo el orden original.
 
-Los elementos de texto y gráficos no deben sentirse como decoraciones de fondo planas. Deben sentirse físicamente presentes en el mismo espacio tridimensional que el personaje, con relaciones espaciales e interacción convincentes.
+Los elementos de texto y gráficos no deben sentirse como decoraciones planas de fondo. Deben sentirse físicamente presentes en el mismo espacio tridimensional que el personaje, con relaciones espaciales e interacción convincentes.
 
 No repitas ni dupliques ningún texto.
 
 Mantén el ritmo general rápido, rítmico y fluido. El movimiento de desplazamiento horizontal debe permanecer continuo e ininterrumpido durante toda la secuencia.
 
-Reproduce fielmente todo el texto de la imagen de referencia sin caracteres ilegibles, tipografía distorsionada, errores ortográficos o redacción alterada.
+Reproduce fielmente todo el texto de la imagen de referencia sin caracteres distorsionados, tipografía dañada, errores ortográficos o redacción alterada.
 
-Para la transición final, un gran objeto en primer plano o elemento gráfico pasa muy cerca frente a la cámara, cubriendo por completo todo el encuadre y creando una transición de barrido natural con desenfoque en primer plano.
+Para la transición final, un objeto o elemento gráfico grande en primer plano pasa muy cerca frente a la cámara, cubriendo por completo todo el encuadre y creando una transición natural de barrido con desenfoque en primer plano.
 
-A medida que el objeto en primer plano despeja el encuadre, revela sin problemas la pantalla con el logotipo final.
+A medida que el objeto en primer plano despeja el encuadre, revela sin problemas la pantalla final del logotipo.
 
-El movimiento de la cámara debe ser fluido, dinámico y cinematográfico.
+El movimiento de la cámara debe ser suave, dinámico y cinematográfico.
 
 Prioriza la interacción entre el personaje y los elementos de texto / gráficos por encima de todo lo demás.
 
-BGM: Música acelerada y rítmica con un pulso fuerte.
+BGM: Música de ritmo rápido, rítmica y con un compás marcado.
 ```
 
 [↑ Volver a categorías](#catalog)

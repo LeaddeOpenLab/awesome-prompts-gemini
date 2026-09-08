@@ -30,7 +30,7 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2096612096003965254"></a>
 
-### Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.
+### Plan travelling de style film publicitaire où un personnage marche aux côtés d'une typographie 3D et de chemins visuels apparaissant continuellement, interagissant avec des éléments de texte dans l'espace avant de passer à la révélation d'un logo.
 
 Auteur：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Publication originale](https://x.com/taya_mama_AI/status/2096612096003965254)
 
@@ -38,7 +38,7 @@ Image cinématographique / Photogramme de film · Rendu 3D · Personnage · Text
 
 Publication originale：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Publication originale](https://x.com/taya_mama_AI/status/2095076567416451105)
 
-**Résumé:** Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.
+**Résumé:** Plan travelling de style film publicitaire où un personnage marche aux côtés d'une typographie 3D et de chemins visuels apparaissant continuellement, interagissant avec des éléments de texte dans l'espace avant de passer à la révélation d'un logo.
 
 <img src="covers/2096612096003965254.jpg" alt="Image 1" width="480" />
 
@@ -49,31 +49,31 @@ Film publicitaire.
 
 Conserver la couleur d'arrière-plan initiale tout au long de la séquence.
 
-La caméra suit le personnage de manière fluide avec un mouvement de défilement horizontal continu, se déplaçant à ses côtés pendant qu'il marche.
+La caméra suit le personnage en douceur avec un mouvement de défilement horizontal continu, se déplaçant à ses côtés pendant qu'il marche.
 
-Du texte et des lignes de connexion apparaissent progressivement à travers l'écran, formant un parcours visuel continu.
+Du texte et des lignes de connexion apparaissent progressivement à travers l'écran, formant un chemin visuel continu.
 
-À mesure que le personnage marche, il perçoit le texte et les éléments graphiques apparaissant autour de lui comme des objets physiques existant réellement dans le même espace. Il interagit naturellement avec ces éléments en avançant : tapotant occasionnellement du bout des doigts sur un texte proche, levant les yeux vers des mots situés au-dessus de lui, jetant un coup d'œil de côté aux graphiques, s'écartant légèrement pour éviter un élément, se baissant sous l'un d'eux, ou s'arrêtant brièvement pour observer quelque chose.
+À mesure que le personnage marche, il reconnaît le texte et les éléments graphiques apparaissant autour de lui comme des objets physiques existant réellement dans le même espace. Il interagit naturellement avec ces éléments à mesure qu'il avance : tapotant occasionnellement un texte proche du bout du doigt, levant les yeux vers des mots au-dessus de lui, jetant un coup d'œil de côté aux graphismes, s'écartant légèrement pour éviter un élément, se baissant sous l'un d'eux ou s'arrêtant brièvement pour observer quelque chose.
 
-Une ligne continue, semblable à une voie ferrée ou à un itinéraire visuel, relie un élément de texte au suivant. Le texte de l'image de référence apparaît de manière séquentielle le long de ce chemin connecté, en suivant l'ordre d'origine.
+Une ligne continue, semblable à une voie ferrée ou un itinéraire visuel, relie un élément de texte au suivant. Le texte de l'image de référence apparaît de manière séquentielle le long de ce chemin connecté, en suivant l'ordre d'origine.
 
-Le texte et les éléments graphiques ne doivent pas ressembler à des décors d'arrière-plan plats. Ils doivent sembler physiquement présents dans le même espace tridimensionnel que le personnage, avec des relations spatiales et des interactions convaincantes.
+Les éléments de texte et graphiques ne doivent pas ressembler à de plates décorations d'arrière-plan. Ils doivent donner l'impression d'être physiquement présents dans le même espace tridimensionnel que le personnage, avec des relations spatiales et des interactions convaincantes.
 
-Ne pas répéter ou dupliquer de texte.
+Ne répéter ni ne dupliquer aucun texte.
 
-Garder un rythme général rapide, rythmé et fluide. Le mouvement de défilement horizontal doit rester continu et ininterrompu tout au long de la séquence.
+Garder un rythme global rapide, rythmé et fluide. Le mouvement de défilement horizontal doit rester continu et ininterrompu tout au long de la séquence.
 
-Reproduire fidèlement tout le texte de l'image de référence sans caractères brouillés, typographie altérée, fautes d'orthographe ou formulation modifiée.
+Reproduire fidèlement tout le texte de l'image de référence, sans caractères brouillés, typographie corrompue, fautes d'orthographe ou formulation modifiée.
 
-Pour la transition finale, un grand objet ou élément graphique au premier plan passe très près devant la caméra, recouvrant entièrement le cadre et créant une transition naturelle par balayage avec flou de premier plan.
+Pour la transition finale, un grand objet ou élément graphique au premier plan passe très près devant la caméra, couvrant complètement tout le cadre et créant une transition naturelle par balayage avec flou de premier plan.
 
-Lorsque l'objet de premier plan quitte le cadre, révéler de manière fluide l'écran du logo final.
+À mesure que l'objet au premier plan dégage le cadre, révéler de manière fluide l'écran final du logo.
 
-Le mouvement de la caméra doit être fluide, dynamique et cinématographique.
+Le mouvement de caméra doit être fluide, dynamique et cinématographique.
 
-Donner la priorité absolue à l'interaction entre le personnage et le texte / les éléments graphiques.
+Donner la priorité absolue à l'interaction entre le personnage et les éléments textuels / graphiques.
 
-BGM : Musique entraînante et rythmée avec un beat marqué.
+BGM : Musique entraînante et rythmée avec un tempo marqué.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -30,7 +30,7 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2096612096003965254"></a>
 
-### Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.
+### Cú máy theo dõi \(tracking shot\) mang phong cách phim quảng cáo, nơi một nhân vật bước đi bên cạnh kiểu chữ 3D và các lộ trình thị giác liên tục xuất hiện, tương tác với các thành phần chữ trong không gian trước khi chuyển cảnh sang phần hiển thị logo.
 
 Tác giả：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Bài gốc](https://x.com/taya_mama_AI/status/2096612096003965254)
 
@@ -38,7 +38,7 @@ Tác giả：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Bài gốc](https
 
 Bài gốc：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Bài gốc](https://x.com/taya_mama_AI/status/2095076567416451105)
 
-**Tóm tắt:** Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.
+**Tóm tắt:** Cú máy theo dõi \(tracking shot\) mang phong cách phim quảng cáo, nơi một nhân vật bước đi bên cạnh kiểu chữ 3D và các lộ trình thị giác liên tục xuất hiện, tương tác với các thành phần chữ trong không gian trước khi chuyển cảnh sang phần hiển thị logo.
 
 <img src="covers/2096612096003965254.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -47,33 +47,33 @@ Bài gốc：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Bài gốc](https
 ```text
 Phim quảng cáo.
 
-Duy trì màu nền ban đầu trong suốt toàn bộ chuỗi cảnh.
+Giữ nguyên màu nền ban đầu trong suốt chuỗi phân cảnh.
 
-Máy quay theo dõi nhân vật một cách mượt mà với chuyển động cuộn ngang liên tục, di chuyển song song cùng họ khi họ bước đi.
+Máy quay theo dõi nhân vật một cách mượt mà bằng chuyển động cuộn ngang liên tục, di chuyển song song cùng lúc nhân vật bước đi.
 
-Văn bản và các đường nối dần dần xuất hiện trên khắp màn hình, tạo thành một lối đi trực quan liên tục.
+Văn bản và các đường kết nối dần dần xuất hiện trên khắp màn hình, tạo thành một lộ trình thị giác liên tục.
 
-Khi nhân vật bước đi, họ nhận biết các yếu tố văn bản và đồ họa xuất hiện xung quanh mình như những vật thể vật lý thực sự tồn tại trong cùng một không gian. Họ tương tác một cách tự nhiên với các yếu tố này khi tiến về phía trước: thỉnh thoảng chạm đầu ngón tay vào văn bản gần đó, ngước nhìn các từ ngữ phía trên họ, liếc nhìn sang các yếu tố đồ họa, hơi bước né sang một bên để tránh một vật thể, cúi người luồn xuống bên dưới, hoặc dừng lại trong chốc lát để quan sát điều gì đó.
+Khi nhân vật bước đi, họ nhận thức các chữ và yếu tố đồ họa xuất hiện xung quanh mình như những vật thể vật lý thực sự tồn tại trong cùng một không gian. Họ tương tác tự nhiên với các yếu tố này khi tiến về phía trước: thỉnh thoảng dùng đầu ngón tay chạm nhẹ vào dòng chữ gần đó, ngước nhìn các từ phía trên, liếc sang các hình đồ họa bên cạnh, khẽ né sang một bên để tránh một yếu tố, cúi người đi bên dưới hoặc dừng lại một chút để quan sát điều gì đó.
 
-Một đường thẳng liên tục, giống như đường ray xe lửa hoặc lộ trình trực quan, kết nối phần tử văn bản này với phần tử tiếp theo. Văn bản từ hình ảnh tham chiếu xuất hiện tuần tự dọc theo con đường kết nối này, theo đúng thứ tự ban đầu.
+Một đường liền mạch, giống như đường ray xe lửa hoặc lộ trình thị giác, kết nối phần tử văn bản này với phần tử văn bản tiếp theo. Văn bản từ hình ảnh tham chiếu xuất hiện tuần tự dọc theo lộ trình kết nối này, tuân theo đúng thứ tự ban đầu.
 
-Các yếu tố văn bản và đồ họa không được mang lại cảm giác như các chi tiết trang trí nền phẳng. Chúng cần tạo cảm giác hiện diện vật lý trong cùng một không gian ba chiều với nhân vật, với các mối quan hệ không gian và sự tương tác đầy thuyết phục.
+Văn bản và các yếu tố đồ họa không được mang lại cảm giác như các trang trí nền phẳng. Chúng phải mang lại cảm giác hiện diện vật lý trong cùng không gian ba chiều với nhân vật, với mối quan hệ không gian và tương tác đầy thuyết phục.
 
 Không lặp lại hoặc nhân bản bất kỳ văn bản nào.
 
-Giữ nhịp độ tổng thể nhanh, nhịp nhàng và mượt mà. Chuyển động cuộn ngang phải luôn liên tục và không bị gián đoạn trong suốt toàn bộ chuỗi cảnh.
+Giữ nhịp độ tổng thể nhanh, nhịp nhàng và mượt mà. Chuyển động cuộn ngang cần duy trì liên tục và không bị gián đoạn trong suốt chuỗi phân cảnh.
 
-Tái hiện trung thực toàn bộ văn bản từ hình ảnh tham chiếu mà không có ký tự bị lỗi, phông chữ bị hỏng, lỗi chính tả hoặc từ ngữ bị thay đổi.
+Tái hiện trung thực toàn bộ văn bản từ hình ảnh tham chiếu mà không có ký tự bị lỗi, kiểu chữ bị biến dạng, viết sai chính tả hoặc thay đổi từ ngữ.
 
-Đối với chuyển cảnh cuối cùng, một vật thể tiền cảnh lớn hoặc một yếu tố đồ họa đi qua rất sát trước máy quay, che kín hoàn toàn toàn bộ khung hình và tạo ra một hiệu ứng chuyển cảnh xóa mờ tiền cảnh tự nhiên.
+Đối với chuyển cảnh cuối cùng, một vật thể tiền cảnh lớn hoặc yếu tố đồ họa lướt qua rất gần trước máy quay, che khuất hoàn toàn toàn bộ khung hình và tạo ra hiệu ứng chuyển cảnh gạt mờ tiền cảnh tự nhiên.
 
-Khi vật thể tiền cảnh biến mất khỏi khung hình, để lộ màn hình logo cuối cùng một cách liền mạch.
+Khi vật thể tiền cảnh rời khỏi khung hình, để lộ màn hình logo cuối cùng một cách liền mạch.
 
-Chuyển động của máy quay cần mượt mà, sống động và đậm chất điện ảnh.
+Chuyển động của máy quay cần mượt mà, năng động và mang tính điện ảnh.
 
-Ưu tiên sự tương tác giữa nhân vật và các yếu tố văn bản / đồ họa lên trên hết.
+Ưu tiên sự tương tác giữa nhân vật và các yếu tố văn bản / đồ họa lên trên tất cả mọi thứ khác.
 
-BGM: Nhạc có tiết tấu nhanh, nhịp nhàng với nhịp điệu mạnh mẽ.
+Nhạc nền (BGM): Nhạc tiết tấu nhanh, nhịp nhàng với nhịp điệu mạnh mẽ.
 ```
 
 [↑ Về danh mục](#catalog)

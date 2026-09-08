@@ -30,7 +30,7 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2096612096003965254"></a>
 
-### Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.
+### Tracking-Shot im Werbefilmstil, bei dem eine Figur neben kontinuierlich erscheinender 3D-Typografie und visuellen Pfaden einhergeht und mit Textelementen im Raum interagiert, bevor zu einem Logo-Reveal übergegangen wird.
 
 Autor：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Originalbeitrag](https://x.com/taya_mama_AI/status/2096612096003965254)
 
@@ -38,7 +38,7 @@ Kinematisch / Filmstill · 3D-Rendering · Charakter · Text / Typografie · Ver
 
 Originalbeitrag：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Originalbeitrag](https://x.com/taya_mama_AI/status/2095076567416451105)
 
-**Zusammenfassung:** Commercial film style tracking shot where a character walks alongside continuously appearing 3D typography and visual pathways, interacting with text elements in space before transitioning into a logo reveal.
+**Zusammenfassung:** Tracking-Shot im Werbefilmstil, bei dem eine Figur neben kontinuierlich erscheinender 3D-Typografie und visuellen Pfaden einhergeht und mit Textelementen im Raum interagiert, bevor zu einem Logo-Reveal übergegangen wird.
 
 <img src="covers/2096612096003965254.jpg" alt="Bild 1" width="480" />
 
@@ -47,31 +47,31 @@ Originalbeitrag：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Originalbeit
 ```text
 Werbefilm.
 
-Behalten Sie die anfängliche Hintergrundfarbe während der gesamten Sequenz bei.
+Die anfängliche Hintergrundfarbe während der gesamten Sequenz beibehalten.
 
-Die Kamera verfolgt die Figur sanft mit einer kontinuierlichen horizontalen Scrollbewegung und bewegt sich neben ihr her, während sie geht.
+Die Kamera verfolgt die Figur sanft mit einer kontinuierlichen horizontalen Scrolling-Bewegung und bewegt sich beim Gehen an ihrer Seite.
 
-Text und Verbindungslinien erscheinen schrittweise auf dem Bildschirm und bilden einen durchgehenden visuellen Pfad.
+Text und Verbindungslinien erscheinen nach und nach auf dem Bildschirm und bilden einen kontinuierlichen visuellen Pfad.
 
-Während die Figur geht, nimmt sie den Text und die grafischen Elemente, die um sie herum erscheinen, als physische Objekte wahr, die tatsächlich im selben Raum existieren. Sie interagiert ganz natürlich mit diesen Elementen, während sie sich vorwärtsbewegt: tippt gelegentlich mit einer Fingerspitze auf nahegelegenen Text, blickt zu Wörtern über sich auf, schaut zur Seite auf Grafiken, tritt leicht zur Seite, um einem Element auszuweichen, duckt sich unter einem hindurch oder hält kurz an, um etwas zu beobachten.
+Während die Figur geht, nimmt sie den Text und die grafischen Elemente, die um sie herum erscheinen, als physische Objekte wahr, die tatsächlich im selben Raum existieren. Sie interagiert ganz natürlich mit diesen Elementen, während sie sich vorwärtsbewegt: tippt gelegentlich mit der Fingerspitze auf Text in der Nähe, schaut zu Wörtern über sich auf, blickt seitlich auf Grafiken, tritt leicht zur Seite, um einem Element auszuweichen, duckt sich unter einem hinweg oder hält kurz an, um etwas zu beobachten.
 
 Eine durchgehende Linie, die an ein Eisenbahngleis oder eine visuelle Route erinnert, verbindet ein Textelement mit dem nächsten. Der Text aus dem Referenzbild erscheint nacheinander entlang dieses verbundenen Pfades und folgt der ursprünglichen Reihenfolge.
 
 Die Text- und Grafikelemente dürfen nicht wie flache Hintergrunddekorationen wirken. Sie sollten sich physisch im selben dreidimensionalen Raum wie die Figur präsent anfühlen, mit überzeugenden räumlichen Beziehungen und Interaktionen.
 
-Wiederholen oder duplizieren Sie keinen Text.
+Keinen Text wiederholen oder duplizieren.
 
-Halten Sie das Gesamttempo schnell, rhythmisch und flüssig. Die horizontale Scrollbewegung sollte während der gesamten Sequenz kontinuierlich und ununterbrochen bleiben.
+Das Gesamttempo schnell, rhythmisch und flüssig halten. Die horizontale Scrolling-Bewegung sollte während der gesamten Sequenz kontinuierlich und ununterbrochen bleiben.
 
-Reproduzieren Sie den gesamten Text aus dem Referenzbild originalgetreu, ohne unleserliche Zeichen, fehlerhafte Typografie, Rechtschreibfehler oder geänderten Wortlaut.
+Den gesamten Text aus dem Referenzbild originalgetreu wiedergeben, ohne unleserliche Zeichen, beschädigte Typografie, Rechtschreibfehler oder veränderten Wortlaut.
 
-Für den finalen Übergang zieht ein großes Vordergrundobjekt oder grafisches Element sehr nah vor der Kamera vorbei, verdeckt das gesamte Bild vollständig und erzeugt so eine natürliche Wischblende mit Vordergrundunschärfe.
+Für den finalen Übergang zieht ein großes Vordergrundobjekt oder Grafikelement sehr nah vor der Kamera vorbei, verdeckt das gesamte Bild vollständig und erzeugt einen natürlichen Wischübergang mit Vordergrundunschärfe.
 
-Sobald das Vordergrundobjekt das Bild verlässt, wird nahtlos der abschließende Logo-Bildschirm enthüllt.
+Sobald das Vordergrundobjekt das Bild freigibt, wird der finale Logo-Bildschirm nahtlos enthüllt.
 
 Die Kamerabewegung sollte sanft, dynamisch und filmisch sein.
 
-Priorisieren Sie die Interaktion zwischen der Figur und den Text-/Grafikelementen vor allem anderen.
+Die Interaktion zwischen der Figur und den Text-/Grafikelementen vor allem anderen priorisieren.
 
 BGM: Schnelle, rhythmische Musik mit einem starken Beat.
 ```
