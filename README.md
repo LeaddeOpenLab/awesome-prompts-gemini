@@ -2,10 +2,95 @@
 
 按 Prompt 主题与用途分组。点击分类或条目即可在本页定位，图片与完整 Prompt 直接展示；各组可收起。
 
-共 **0** 条内容 · **0** 个语义分类
+共 **1** 条内容 · **1** 个语义分类
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-暂无已确认入库内容。首条内容入库后，将自动生成分类导航与图文 Prompt 条目。
+| 分类 | 数量 | 条目导航 |
+| --- | ---: | --- |
+| [剧情叙事与影视](#category-story) | 1 | [AiwithBloodline · \{](#prompt-2096885269270237431) |
+
+---
+
+<a name="category-story"></a>
+
+## 剧情叙事与影视
+
+<details open>
+<summary>剧情叙事与影视 · 1 条（点击收起 / 展开）</summary>
+
+<a name="prompt-2096885269270237431"></a>
+
+### \{
+
+作者：[@AiwithBloodline](https://x.com/AiwithBloodline) · [查看 X 原帖](https://x.com/AiwithBloodline/status/2096885269270237431)
+
+分类：剧情叙事与影视 · 状态：待推流
+
+引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096811796074311791)
+
+**Summary (English):** A 3D animated sequence of miniature construction workers assembling a giant pizza.
+
+<img src="covers/2096885269270237431.jpg" alt="封面" width="480" />
+
+**Prompt**
+
+```text
+{
+  "video_duration": "10 seconds",
+  "aspect_ratio": "16:9",
+  "sequence": [
+    {
+      "time": "0-2 sec",
+      "scene": "Grand Setup",
+      "camera": "Wide cinematic aerial push-in",
+      "action": "A huge freshly baked pizza rests on a wooden table like a massive construction site. Dozens of tiny workers rush in with miniature loaders, cranes, delivery trucks, and equipment, preparing to build the perfect pizza.",
+      "sound_design": "Bright playful music, tiny engine noises, rolling wheels, subtle construction activity."
+    },
+    {
+      "time": "2-4 sec",
+      "scene": "Sauce and Cheese Layer",
+      "camera": "Medium side-tracking shot",
+      "action": "A miniature food truck pumps rich red tomato sauce across the pizza while tiny workers spread it smoothly with small spatulas. Another team follows behind, covering the surface with a thick layer of shredded mozzarella.",
+      "sound_design": "Soft sauce pouring, spatula scraping, cheese rustling, cheerful rhythmic music."
+    },
+    {
+      "time": "4-6 sec",
+      "scene": "Toppings in Motion",
+      "camera": "Macro close-up with gentle slow motion",
+      "action": "Tiny conveyor belts transport colorful ingredients including pepperoni, mushrooms, bell peppers, olives, and fresh basil. The miniature workers carefully arrange each topping across the cheesy surface with precision.",
+      "sound_design": "Conveyor belt movement, tiny ingredient drops, delicate magical chimes, upbeat musical accents."
+    },
+    {
+      "time": "6-8 sec",
+      "scene": "Final Ingredient Lift",
+      "camera": "Low-angle dramatic cinematic shot",
+      "action": "A miniature crane raises an oversized pepperoni slice toward the center of the pizza. Workers below pull guide ropes and signal to one another as the topping is slowly positioned into place.",
+      "sound_design": "Small crane motor, rope tension sounds, mechanical clicks, rising cinematic orchestral music."
+    },
+    {
+      "time": "8-10 sec",
+      "scene": "Pizza Grand Finale",
+      "camera": "Smooth 360-degree orbit close-up",
+      "action": "The final topping drops perfectly into position. A burst of colorful confetti fills the miniature world as the tiny workers cheer and celebrate. The camera sweeps around the finished pizza, revealing its glossy melted cheese, colorful toppings, and golden crust before ending on a satisfying hero shot.",
+      "sound_design": "Celebratory pop, joyful cheering, tiny whistles, uplifting orchestral finish."
+    }
+  ],
+  "visual_style": {
+    "animation_quality": "Pixar-inspired premium 3D animation",
+    "world_design": "Charming miniature construction world built around an oversized pizza",
+    "color_palette": "Warm reds, golden browns, creamy cheese tones, and bright colorful toppings",
+    "lighting": "Soft warm golden illumination with gentle cinematic highlights",
+    "detail": "Highly detailed food textures, miniature machinery, realistic cheese melt, crisp toppings, and expressive tiny characters",
+    "camera": "Fluid cinematic motion, macro photography feel, smooth transitions, shallow depth of field",
+    "overall_feel": "Cute, playful, visually satisfying, polished, premium, and whimsical",
+    "resolution": "720p"
+  }
+}
+```
+
+[↑ 返回分类目录](#catalog)
+
+</details>
