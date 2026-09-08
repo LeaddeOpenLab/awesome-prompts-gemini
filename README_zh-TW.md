@@ -33,35 +33,35 @@
 **Prompt**
 
 ```text
-Commercial film.
+商業廣告影片。
 
-Maintain the initial background color throughout the sequence.
+在整個序列中保持初始背景顏色。
 
-The camera smoothly tracks the character with a continuous horizontal scrolling movement, moving alongside them as they walk.
+攝影機以連續的水平橫移運鏡流暢地跟隨角色，在角色行走時與其並排行進。
 
-Text and connecting lines progressively appear across the screen, forming a continuous visual pathway.
+文字和連接線逐漸出現在螢幕上，形成一條連續的視覺路徑。
 
-As the character walks, they recognize the text and graphic elements appearing around them as physical objects that actually exist within the same space. They naturally interact with these elements as they move forward: occasionally tapping nearby text with a fingertip, looking up at words above them, glancing sideways at graphics, slightly stepping aside to avoid an element, ducking underneath one, or briefly stopping to observe something.
+當角色行走時，他們將周圍出現的文字與圖形元素視為實際存在於同一空間中的實體物件。他們在前進過程中自然地與這些元素互動：偶爾用指尖輕敲附近的文字、抬頭看上方的字詞、側目看向圖形、稍微側步避開某個元素、從某個元素下方俯身穿過，或是短暫停下觀察某樣東西。
 
-A continuous line, resembling a railway track or visual route, connects one text element to the next. The text from the reference image appears sequentially along this connected path, following the original order.
+一條類似鐵軌或視覺路線的連續線條將一個文字元素連接到下一個。參考圖像中的文字沿著這條連接路徑依序出現，並遵循原始順序。
 
-The text and graphic elements must not feel like flat background decorations. They should feel physically present in the same three-dimensional space as the character, with convincing spatial relationships and interaction.
+文字與圖形元素絕不能感覺像是平面的背景裝飾。它們應感覺真實存在於與角色相同的立體空間中，具備令人信服的空間關係與互動感。
 
-Do not repeat or duplicate any text.
+請勿重複或重疊任何文字。
 
-Keep the overall pacing fast, rhythmic, and fluid. The horizontal scrolling movement should remain continuous and uninterrupted throughout the sequence.
+整體節奏保持明快、富有節奏感且流暢。水平橫移運鏡在整個序列中應保持連續且不間斷。
 
-Faithfully reproduce all text from the reference image without garbled characters, corrupted typography, misspellings, or altered wording.
+忠實重現參考圖像中的所有文字，不得出現亂碼字元、損壞的排版、拼寫錯誤或篡改的措辭。
 
-For the final transition, a large foreground object or graphic element passes very close in front of the camera, completely covering the entire frame and creating a natural foreground-blur wipe transition.
+在最終轉場中，一個大型前景物件或圖形元素非常貼近攝影機鏡頭前掠過，完全遮蔽整個畫面，創造出自然的前景模糊擦除轉場效果。
 
-As the foreground object clears the frame, seamlessly reveal the final logo screen.
+當前景物件離開畫面時，無縫呈現最終的標誌（logo）畫面。
 
-Camera movement should be smooth, dynamic, and cinematic.
+鏡頭運鏡應流暢、充滿動態且具電影質感。
 
-Prioritize the interaction between the character and the text / graphic elements above everything else.
+將角色與文字／圖形元素之間的互動置於最高優先順序。
 
-BGM: Up-tempo, rhythmic music with a strong beat.
+BGM：節奏明快、節奏感強烈且具強勁節拍的音樂。
 ```
 
 [↑ 返回分類目錄](#catalog)
