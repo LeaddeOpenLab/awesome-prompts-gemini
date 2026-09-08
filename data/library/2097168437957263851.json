@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-08T10:47:00.675Z",
+  "model": "gemini",
+  "prompt": "Create a 10-second ultra-realistic cinematic miniature video set inside a gigantic, whimsical cake factory. Tiny bakers wearing white chef uniforms and small baker hats work together to decorate a massive multi-layer birthday cake that towers over them.\n0–3 sec: Wide establishing shot of the enormous cake on a factory table, with tiny bakers climbing ladders and carrying colorful frosting tools.\n3–7 sec: Close-up tracking shot as the bakers pipe thick swirls of cream, add strawberries and sprinkles, and carefully place giant colorful candles.\n7–10 sec: Dramatic cinematic pull-back revealing the fully decorated birthday cake, glowing warmly under factory lights as the tiny bakers celebrate around it.\nHighly detailed miniature scale, realistic human movement, creamy frosting textures, colorful decorations, warm bakery lighting, shallow depth of field, cinematic camera movement, macro photography look, playful but photorealistic, 4K, 16:9, no text, no logos, no music, only natural ASMR bakery sounds such as frosting being piped, footsteps, tools clinking, and soft factory ambience.",
+  "summary": "一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。",
+  "summaryEn": "A prompt for a 10-second ultra-realistic cinematic miniature video set inside a gigantic cake factory, featuring tiny bakers decorating a massive birthday cake.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2096937365260624328",
+      "canonicalUrl": "https://x.com/AiwithBloodline/status/2096937365260624328",
+      "author": {
+        "username": "AiwithBloodline",
+        "displayName": "Dr Bloodline | AI",
+        "profileUrl": "https://x.com/AiwithBloodline"
+      },
+      "originalText": "Image created on GPT 2 on @ChatGPT\n\n\"Not just a cover — a whole creative identity. 🖤\nBLOODLINE — Creator. Designer. Storyteller.\n280K and still creating without limits.\" ⚡️\n\nPrompt ⤵️; \n\nUltra-realistic fashion editorial magazine cover showing [Reference Person] seated confidently on a low wooden pallet bench inside a contemporary creative studio. Outfit is fully monochrome: black denim jacket, wide-leg black trousers, black t-shirt, and black low-top canvas sneakers with white rubber soles and white laces. Sitting in a relaxed wide stance, leaning slightly forward, one elbow resting on the knee, one finger resting at the temple, gaze locked directly into the lens. Mood: calm, self-assured, visionary.\n\nStudio backdrop: a matte black wall lined with vertical wooden art panels painted in vivid geometric shapes, giving the space an elevated creative-agency feel. Warm cinematic lighting falls softly across the face and jacket, while rich shadows preserve dramatic editorial contrast. A natural textured woven rug sits beneath, adding warmth to the luxury studio setting.\n\nCover layout uses a single typographic element only: oversized bold beige text at the very top spelling \"BLOODLINE\" in a wide condensed sans-serif, dominating the upper portion of the frame. Zero additional text anywhere, no subheadings, no captions, no handles, no dates, no watermarks, no logos. \"BLOODLINE\" is the sole word visible in the entire image.\n\nColor story: jet black, warm cream-beige, muted burnt orange, earthy brown, dusty teal, cinematic shadow tones. Centered, symmetrical crop with the visual weight of a GQ editorial, a high-end streetwear campaign, and a cinematic creator brand shoot.\n\nCaptured on a 50mm prime lens, shallow depth of field, hyper-detailed skin and fabric texture, soft drop shadows, photorealistic lighting, clean type design, high-resolution editorial composition, 8K output, premium cinematic color grade."
+    },
+    "id": "2097168437957263851",
+    "canonicalUrl": "https://x.com/AiwithBloodline/status/2097168437957263851",
+    "author": {
+      "username": "AiwithBloodline",
+      "displayName": "Dr Bloodline | AI",
+      "profileUrl": "https://x.com/AiwithBloodline"
+    },
+    "publishedAt": "2026-09-08T03:41:33.000Z",
+    "collectedAt": "2026-09-08T10:41:21.753Z",
+    "language": "en",
+    "originalText": "Generated with Gemini Flash Lite on @GeminiApp\n\n\"Wonder this much big cake 🍰\"\n\nPROMPT ⤵️ ; \n\nCreate a 10-second ultra-realistic cinematic miniature video set inside a gigantic, whimsical cake factory. Tiny bakers wearing white chef uniforms and small baker hats work together to decorate a massive multi-layer birthday cake that towers over them.\n0–3 sec: Wide establishing shot of the enormous cake on a factory table, with tiny bakers climbing ladders and carrying colorful frosting tools.\n3–7 sec: Close-up tracking shot as the bakers pipe thick swirls of cream, add strawberries and sprinkles, and carefully place giant colorful candles.\n7–10 sec: Dramatic cinematic pull-back revealing the fully decorated birthday cake, glowing warmly under factory lights as the tiny bakers celebrate around it.\nHighly detailed miniature scale, realistic human movement, creamy frosting textures, colorful decorations, warm bakery lighting, shallow depth of field, cinematic camera movement, macro photography look, playful but photorealistic, 4K, 16:9, no text, no logos, no music, only natural ASMR bakery sounds such as frosting being piped, footsteps, tools clinking, and soft factory ambience.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AiwithBloodline/status/2097168437957263851",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097168381917151232/img/3BASQAhshpMkoT3o.jpg",
+        "analysisUrl": "https://x.com/AiwithBloodline/status/2097168437957263851"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRnRal_aAAAmYTG.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRnRal_aAAAmYTG.jpg",
+        "sourcePostId": "2096937365260624328"
+      }
+    ],
+    "metrics": {
+      "likeCount": 82,
+      "repostCount": 11,
+      "replyCount": 65,
+      "quoteCount": 1,
+      "viewCount": 1030
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AiwithBloodline/status/2097168437957263851",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097168381917151232/img/3BASQAhshpMkoT3o.jpg",
+  "coverPath": "covers/2097168437957263851.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pending_push"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097168381917151232",
+    "x-image:/media/HRnRal_aAAAmYTG",
+    "x-post:2097168437957263851",
+    "x-post:2096937365260624328"
+  ],
+  "analysis": {
+    "summary": "一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。",
+    "summaryEn": "A prompt for a 10-second ultra-realistic cinematic miniature video set inside a gigantic cake factory, featuring tiny bakers decorating a massive birthday cake.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "仅审核正文 Prompt；媒体效果与一致性待人工核对。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 10-second ultra-realistic cinematic miniature video set inside a gigantic, whimsical cake factory. Tiny bakers wearing white chef uniforms and small baker hats work together to decorate a massive multi-layer birthday cake that towers over them.\n0–3 sec: Wide establishing shot of the enormous cake on a factory table, with tiny bakers climbing ladders and carrying colorful frosting tools.\n3–7 sec: Close-up tracking shot as the bakers pipe thick swirls of cream, add strawberries and sprinkles, and carefully place giant colorful candles.\n7–10 sec: Dramatic cinematic pull-back revealing the fully decorated birthday cake, glowing warmly under factory lights as the tiny bakers celebrate around it.\nHighly detailed miniature scale, realistic human movement, creamy frosting textures, colorful decorations, warm bakery lighting, shallow depth of field, cinematic camera movement, macro photography look, playful but photorealistic, 4K, 16:9, no text, no logos, no music, only natural ASMR bakery sounds such as frosting being piped, footsteps, tools clinking, and soft factory ambience.",
+    "sourceRange": {
+      "start": 93,
+      "end": 1188
+    },
+    "translations": {
+      "zh": "制作一段10秒的超逼真电影感微缩视频，场景设定在一个巨大而奇幻的蛋糕工厂内。身穿白色厨师服、头戴小烘焙帽的微型烘焙师们正齐心协力装饰一座高耸矗立的巨大多层生日蛋糕。\n0–3秒：工厂台面上巨大蛋糕的全景远景建立镜头，微型烘焙师们爬上梯子，携带色彩缤纷的糖霜工具。\n3–7秒：特写跟拍镜头，展示烘焙师挤出厚厚的奶油漩涡，添加草莓与糖针，并小心翼翼地放置巨大的彩色蜡烛。\n7–10秒：戏剧性的电影感拉镜，展现完整装饰完毕的生日蛋糕，在工厂灯光下散发着温暖的光芒，微型烘焙师们在周围欢庆。\n极其细腻的微缩比例，逼真的人物动作，细腻的奶油糖霜质感，缤纷的装饰，温暖的烘焙坊光线，浅景深，电影感运镜，微距摄影视觉感，趣味而逼真，4K分辨率，16:9画幅，无文字，无标志，无音乐，仅有自然的烘焙坊ASMR原声，如挤奶油声、脚步声、工具碰撞声和轻柔的工厂环境音。",
+      "en": "Create a 10-second ultra-realistic cinematic miniature video set inside a gigantic, whimsical cake factory. Tiny bakers wearing white chef uniforms and small baker hats work together to decorate a massive multi-layer birthday cake that towers over them.\n0–3 sec: Wide establishing shot of the enormous cake on a factory table, with tiny bakers climbing ladders and carrying colorful frosting tools.\n3–7 sec: Close-up tracking shot as the bakers pipe thick swirls of cream, add strawberries and sprinkles, and carefully place giant colorful candles.\n7–10 sec: Dramatic cinematic pull-back revealing the fully decorated birthday cake, glowing warmly under factory lights as the tiny bakers celebrate around it.\nHighly detailed miniature scale, realistic human movement, creamy frosting textures, colorful decorations, warm bakery lighting, shallow depth of field, cinematic camera movement, macro photography look, playful but photorealistic, 4K, 16:9, no text, no logos, no music, only natural ASMR bakery sounds such as frosting being piped, footsteps, tools clinking, and soft factory ambience."
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "text-to-video",
+    "useCase": "微缩微观蛋糕工厂视频生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "manual",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
