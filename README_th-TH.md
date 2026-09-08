@@ -33,35 +33,35 @@
 **Prompt**
 
 ```text
-Commercial film.
+ภาพยนตร์โฆษณา
 
-Maintain the initial background color throughout the sequence.
+รักษาสีพื้นหลังเริ่มต้นไว้ตลอดทั้งลำดับภาพ
 
-The camera smoothly tracks the character with a continuous horizontal scrolling movement, moving alongside them as they walk.
+กล้องเคลื่อนที่ติดตามตัวละครอย่างราบรื่นด้วยการเคลื่อนไหวแบบเลื่อนในแนวนอนอย่างต่อเนื่อง โดยเคลื่อนที่ไปเคียงข้างขณะที่พวกเขากำลังเดิน
 
-Text and connecting lines progressively appear across the screen, forming a continuous visual pathway.
+ข้อความและเส้นเชื่อมต่อค่อยๆ ปรากฏขึ้นทั่วหน้าจอ ก่อตัวเป็นเส้นทางนำสายตาที่ต่อเนื่อง
 
-As the character walks, they recognize the text and graphic elements appearing around them as physical objects that actually exist within the same space. They naturally interact with these elements as they move forward: occasionally tapping nearby text with a fingertip, looking up at words above them, glancing sideways at graphics, slightly stepping aside to avoid an element, ducking underneath one, or briefly stopping to observe something.
+ขณะที่ตัวละครเดิน พวกเขารับรู้ว่าข้อความและองค์ประกอบกราฟิกที่ปรากฏรอบๆ เป็นวัตถุกายภาพที่มีอยู่จริงในพื้นที่เดียวกัน พวกเขามีปฏิสัมพันธ์กับองค์ประกอบเหล่านี้อย่างเป็นธรรมชาติขณะเคลื่อนที่ไปข้างหน้า: เคาะข้อความใกล้เคียงด้วยปลายนิ้วเป็นครั้งคราว, เงยหน้ามองคำที่อยู่ด้านบน, เหลือบมองกราฟิกด้านข้าง, ขยับหลบองค์ประกอบเล็กน้อย, ก้มตัวลอดใต้ชิ้นส่วนหนึ่ง หรือหยุดสังเกตสิ่งของชั่วครู่
 
-A continuous line, resembling a railway track or visual route, connects one text element to the next. The text from the reference image appears sequentially along this connected path, following the original order.
+เส้นสายที่ต่อเนื่องกัน ซึ่งมีลักษณะคล้ายรางรถไฟหรือเส้นทางนำสายตา จะเชื่อมโยงองค์ประกอบข้อความหนึ่งไปยังอีกข้อความหนึ่ง ข้อความจากภาพอ้างอิงจะปรากฏตามลำดับไปตามเส้นทางที่เชื่อมต่อกันนี้ โดยเรียงลำดับตามต้นฉบับ
 
-The text and graphic elements must not feel like flat background decorations. They should feel physically present in the same three-dimensional space as the character, with convincing spatial relationships and interaction.
+ข้อความและองค์ประกอบกราฟิกต้องไม่รู้สึกเหมือนภาพตกแต่งพื้นหลังแบบแบนราบ แต่ต้องให้ความรู้สึกว่ามีตัวตนอยู่จริงในพื้นที่สามมิติเดียวกับตัวละคร พร้อมด้วยความสัมพันธ์เชิงมิติสัมพันธ์และปฏิสัมพันธ์ที่สมจริงน่าเชื่อถือ
 
-Do not repeat or duplicate any text.
+ห้ามทำซ้ำหรือแสดงข้อความซ้ำซ้อน
 
-Keep the overall pacing fast, rhythmic, and fluid. The horizontal scrolling movement should remain continuous and uninterrupted throughout the sequence.
+รักษาจังหวะโดยรวมให้เร็ว มีท่วงทำนอง และลื่นไหล การเคลื่อนที่แบบเลื่อนในแนวนอนควรดำเนินไปอย่างต่อเนื่องไม่ติดขัดตลอดทั้งลำดับภาพ
 
-Faithfully reproduce all text from the reference image without garbled characters, corrupted typography, misspellings, or altered wording.
+จำลองข้อความทั้งหมดจากภาพอ้างอิงอย่างถูกต้องแม่นยำ โดยไม่มีตัวอักษรที่ผิดเพี้ยน ตัวพิมพ์ที่เสียหาย การสะกดผิด หรือการเปลี่ยนคำ
 
-For the final transition, a large foreground object or graphic element passes very close in front of the camera, completely covering the entire frame and creating a natural foreground-blur wipe transition.
+สำหรับการเปลี่ยนฉากสุดท้าย วัตถุขนาดใหญ่หรือองค์ประกอบกราฟิกในระยะหน้าจะเคลื่อนผ่านหน้ากล้องอย่างใกล้ชิดมาก บดบังทั่วทั้งเฟรมอย่างสมบูรณ์ และสร้างการเปลี่ยนฉากแบบปาดพร้อมความเบลอของฉากหน้าอย่างเป็นธรรมชาติ
 
-As the foreground object clears the frame, seamlessly reveal the final logo screen.
+เมื่อวัตถุในระยะหน้าเคลื่อนพ้นเฟรมไป ให้เผยหน้าจอโลโก้สุดท้ายอย่างไร้รอยต่อ
 
-Camera movement should be smooth, dynamic, and cinematic.
+การเคลื่อนไหวของกล้องควรราบรื่น มีพลัง และให้ความรู้สึกเหมือนภาพยนตร์
 
-Prioritize the interaction between the character and the text / graphic elements above everything else.
+ให้ความสำคัญกับปฏิสัมพันธ์ระหว่างตัวละครกับข้อความ / องค์ประกอบกราฟิกเหนือสิ่งอื่นใด
 
-BGM: Up-tempo, rhythmic music with a strong beat.
+BGM: ดนตรีจังหวะเร็ว (Up-tempo) มีท่วงทำนองและบีตที่หนักแน่น
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)
