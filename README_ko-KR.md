@@ -29,29 +29,17 @@
 
 ### 스타일
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [3D 렌더링](#category-3d-render)
+[시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [3D 렌더링](#category-3d-render)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>사진술 · 3</summary>
-
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
+- 사진술 · 0
 
 <a name="category-cinematic-film-still"></a>
 
 <details open>
-<summary>시네마틱 / 영화 스틸컷 · 3</summary>
+<summary>시네마틱 / 영화 스틸컷 · 2</summary>
 
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
 - [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
 </details>
 
@@ -81,7 +69,7 @@
 
 ### 본문
 
-[캐릭터](#category-character) · [음식 / 음료](#category-food-drink) · [패션 아이템](#category-fashion-item)
+[캐릭터](#category-character) · [음식 / 음료](#category-food-drink)
 
 - 인물 사진 / 셀카 · 0
 - 인플루언서 / 모델 · 0
@@ -89,10 +77,9 @@
 <a name="category-character"></a>
 
 <details open>
-<summary>캐릭터 · 2</summary>
+<summary>캐릭터 · 1</summary>
 
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
 </details>
 
@@ -108,16 +95,7 @@
 
 </details>
 
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>패션 아이템 · 1</summary>
-
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-
-</details>
-
+- 패션 아이템 · 0
 - 동물 / 생명체 · 0
 - 차량 · 0
 - 건축 / 인테리어 · 0
@@ -137,7 +115,7 @@
 
 작성자：[@abs\_uiux](https://x.com/abs_uiux) · [원본 게시물](https://x.com/abs_uiux/status/2097242290859241833)
 
-사진술 · 시네마틱 / 영화 스틸컷 · 캐릭터 · 패션 아이템 · 배포 대기
+시네마틱 / 영화 스틸컷 · 캐릭터 · 배포 대기
 
 **요약:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
@@ -234,7 +212,7 @@ Aspect Ratio: 9:16 vertical
 
 작성자：[@AiwithBloodline](https://x.com/AiwithBloodline) · [원본 게시물](https://x.com/AiwithBloodline/status/2097168437957263851)
 
-사진술 · 시네마틱 / 영화 스틸컷 · 배포 대기
+시네마틱 / 영화 스틸컷 · 배포 대기
 
 引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096937365260624328)
 
@@ -262,7 +240,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 작성자：[@AiwithBloodline](https://x.com/AiwithBloodline) · [원본 게시물](https://x.com/AiwithBloodline/status/2096885269270237431)
 
-사진술 · 시네마틱 / 영화 스틸컷 · 3D 렌더링 · 캐릭터 · 음식 / 음료 · 배포 대기
+3D 렌더링 · 음식 / 음료 · 배포 대기
 
 引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096811796074311791)
 

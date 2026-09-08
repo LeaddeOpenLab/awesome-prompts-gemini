@@ -29,29 +29,17 @@
 
 ### Style
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Rendu 3D](#category-3d-render)
+[Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Rendu 3D](#category-3d-render)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>Photographie · 3</summary>
-
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
+- Photographie · 0
 
 <a name="category-cinematic-film-still"></a>
 
 <details open>
-<summary>Image cinématographique / Photogramme de film · 3</summary>
+<summary>Image cinématographique / Photogramme de film · 2</summary>
 
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
 - [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
 </details>
 
@@ -81,7 +69,7 @@
 
 ### Contenu principal
 
-[Personnage](#category-character) · [Alimentation / Boissons](#category-food-drink) · [Article de mode](#category-fashion-item)
+[Personnage](#category-character) · [Alimentation / Boissons](#category-food-drink)
 
 - Portrait / Selfie · 0
 - Influenceur / Mannequin · 0
@@ -89,10 +77,9 @@
 <a name="category-character"></a>
 
 <details open>
-<summary>Personnage · 2</summary>
+<summary>Personnage · 1</summary>
 
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
 </details>
 
@@ -108,16 +95,7 @@
 
 </details>
 
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>Article de mode · 1</summary>
-
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-
-</details>
-
+- Article de mode · 0
 - Animal / Créature · 0
 - Véhicule · 0
 - Architecture / Intérieur · 0
@@ -137,7 +115,7 @@
 
 Auteur：[@abs\_uiux](https://x.com/abs_uiux) · [Publication originale](https://x.com/abs_uiux/status/2097242290859241833)
 
-Photographie · Image cinématographique / Photogramme de film · Personnage · Article de mode · Diffusion en attente
+Image cinématographique / Photogramme de film · Personnage · Diffusion en attente
 
 **Résumé:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
@@ -234,7 +212,7 @@ Aspect Ratio: 9:16 vertical
 
 Auteur：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publication originale](https://x.com/AiwithBloodline/status/2097168437957263851)
 
-Photographie · Image cinématographique / Photogramme de film · Diffusion en attente
+Image cinématographique / Photogramme de film · Diffusion en attente
 
 引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096937365260624328)
 
@@ -262,7 +240,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 Auteur：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publication originale](https://x.com/AiwithBloodline/status/2096885269270237431)
 
-Photographie · Image cinématographique / Photogramme de film · Rendu 3D · Personnage · Alimentation / Boissons · Diffusion en attente
+Rendu 3D · Alimentation / Boissons · Diffusion en attente
 
 引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096811796074311791)
 

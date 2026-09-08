@@ -29,29 +29,17 @@
 
 ### Stil
 
-[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [3D-Rendering](#category-3d-render)
+[Kinematisch / Filmstill](#category-cinematic-film-still) · [3D-Rendering](#category-3d-render)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>Fotografie · 3</summary>
-
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
+- Fotografie · 0
 
 <a name="category-cinematic-film-still"></a>
 
 <details open>
-<summary>Kinematisch / Filmstill · 3</summary>
+<summary>Kinematisch / Filmstill · 2</summary>
 
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
 - [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
 </details>
 
@@ -81,7 +69,7 @@
 
 ### Hauptinhalt
 
-[Charakter](#category-character) · [Essen / Trinken](#category-food-drink) · [Modeartikel](#category-fashion-item)
+[Charakter](#category-character) · [Essen / Trinken](#category-food-drink)
 
 - Porträt / Selfie · 0
 - Influencer / Model · 0
@@ -89,10 +77,9 @@
 <a name="category-character"></a>
 
 <details open>
-<summary>Charakter · 2</summary>
+<summary>Charakter · 1</summary>
 
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
 </details>
 
@@ -108,16 +95,7 @@
 
 </details>
 
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>Modeartikel · 1</summary>
-
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-
-</details>
-
+- Modeartikel · 0
 - Tier / Kreatur · 0
 - Fahrzeug · 0
 - Architektur / Interieur · 0
@@ -137,7 +115,7 @@
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Originalbeitrag](https://x.com/abs_uiux/status/2097242290859241833)
 
-Fotografie · Kinematisch / Filmstill · Charakter · Modeartikel · Verteilung ausstehend
+Kinematisch / Filmstill · Charakter · Verteilung ausstehend
 
 **Zusammenfassung:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
@@ -234,7 +212,7 @@ Aspect Ratio: 9:16 vertical
 
 Autor：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Originalbeitrag](https://x.com/AiwithBloodline/status/2097168437957263851)
 
-Fotografie · Kinematisch / Filmstill · Verteilung ausstehend
+Kinematisch / Filmstill · Verteilung ausstehend
 
 引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096937365260624328)
 
@@ -262,7 +240,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 Autor：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Originalbeitrag](https://x.com/AiwithBloodline/status/2096885269270237431)
 
-Fotografie · Kinematisch / Filmstill · 3D-Rendering · Charakter · Essen / Trinken · Verteilung ausstehend
+3D-Rendering · Essen / Trinken · Verteilung ausstehend
 
 引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096811796074311791)
 

@@ -29,29 +29,17 @@
 
 ### Tarz
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [3D Modelleme](#category-3d-render)
+[Sinematik / Film Karesi](#category-cinematic-film-still) · [3D Modelleme](#category-3d-render)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>Fotoğrafçılık · 3</summary>
-
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
+- Fotoğrafçılık · 0
 
 <a name="category-cinematic-film-still"></a>
 
 <details open>
-<summary>Sinematik / Film Karesi · 3</summary>
+<summary>Sinematik / Film Karesi · 2</summary>
 
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
 - [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
 </details>
 
@@ -81,7 +69,7 @@
 
 ### Ana İçerik
 
-[Karakter](#category-character) · [Yiyecek / İçecek](#category-food-drink) · [Moda Ürünü](#category-fashion-item)
+[Karakter](#category-character) · [Yiyecek / İçecek](#category-food-drink)
 
 - Portre / Selfie · 0
 - Influencer / Model · 0
@@ -89,10 +77,9 @@
 <a name="category-character"></a>
 
 <details open>
-<summary>Karakter · 2</summary>
+<summary>Karakter · 1</summary>
 
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
 </details>
 
@@ -108,16 +95,7 @@
 
 </details>
 
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>Moda Ürünü · 1</summary>
-
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-
-</details>
-
+- Moda Ürünü · 0
 - Hayvan / Yaratık · 0
 - Araç · 0
 - Mimari / İç Mekan · 0
@@ -137,7 +115,7 @@
 
 Yazar：[@abs\_uiux](https://x.com/abs_uiux) · [Orijinal gönderi](https://x.com/abs_uiux/status/2097242290859241833)
 
-Fotoğrafçılık · Sinematik / Film Karesi · Karakter · Moda Ürünü · Dağıtım bekliyor
+Sinematik / Film Karesi · Karakter · Dağıtım bekliyor
 
 **Özet:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
@@ -234,7 +212,7 @@ Aspect Ratio: 9:16 vertical
 
 Yazar：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi](https://x.com/AiwithBloodline/status/2097168437957263851)
 
-Fotoğrafçılık · Sinematik / Film Karesi · Dağıtım bekliyor
+Sinematik / Film Karesi · Dağıtım bekliyor
 
 引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096937365260624328)
 
@@ -262,7 +240,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 Yazar：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi](https://x.com/AiwithBloodline/status/2096885269270237431)
 
-Fotoğrafçılık · Sinematik / Film Karesi · 3D Modelleme · Karakter · Yiyecek / İçecek · Dağıtım bekliyor
+3D Modelleme · Yiyecek / İçecek · Dağıtım bekliyor
 
 引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096811796074311791)
 

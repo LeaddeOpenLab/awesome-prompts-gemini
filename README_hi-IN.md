@@ -29,29 +29,17 @@
 
 ### शैली
 
-[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [3D रेंडर](#category-3d-render)
+[सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [3D रेंडर](#category-3d-render)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>फोटोग्राफी · 3</summary>
-
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
+- फोटोग्राफी · 0
 
 <a name="category-cinematic-film-still"></a>
 
 <details open>
-<summary>सिनेमैटिक / फ़िल्म स्टिल · 3</summary>
+<summary>सिनेमैटिक / फ़िल्म स्टिल · 2</summary>
 
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
 - [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
 </details>
 
@@ -81,7 +69,7 @@
 
 ### मुख्य सामग्री
 
-[कैरेक्टर](#category-character) · [भोजन / पेय](#category-food-drink) · [फ़ैशन आइटम](#category-fashion-item)
+[कैरेक्टर](#category-character) · [भोजन / पेय](#category-food-drink)
 
 - पोर्ट्रेट / सेल्फ़ी · 0
 - इन्फ्लुएंसर / मॉडल · 0
@@ -89,10 +77,9 @@
 <a name="category-character"></a>
 
 <details open>
-<summary>कैरेक्टर · 2</summary>
+<summary>कैरेक्टर · 1</summary>
 
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
 </details>
 
@@ -108,16 +95,7 @@
 
 </details>
 
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>फ़ैशन आइटम · 1</summary>
-
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-
-</details>
-
+- फ़ैशन आइटम · 0
 - पशु / जीव · 0
 - वाहन · 0
 - आर्किटेक्चर / इंटीरियर · 0
@@ -137,7 +115,7 @@
 
 लेखक：[@abs\_uiux](https://x.com/abs_uiux) · [मूल पोस्ट](https://x.com/abs_uiux/status/2097242290859241833)
 
-फोटोग्राफी · सिनेमैटिक / फ़िल्म स्टिल · कैरेक्टर · फ़ैशन आइटम · प्रकाशन लंबित
+सिनेमैटिक / फ़िल्म स्टिल · कैरेक्टर · प्रकाशन लंबित
 
 **सारांश:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
@@ -234,7 +212,7 @@ Aspect Ratio: 9:16 vertical
 
 लेखक：[@AiwithBloodline](https://x.com/AiwithBloodline) · [मूल पोस्ट](https://x.com/AiwithBloodline/status/2097168437957263851)
 
-फोटोग्राफी · सिनेमैटिक / फ़िल्म स्टिल · प्रकाशन लंबित
+सिनेमैटिक / फ़िल्म स्टिल · प्रकाशन लंबित
 
 引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096937365260624328)
 
@@ -262,7 +240,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 लेखक：[@AiwithBloodline](https://x.com/AiwithBloodline) · [मूल पोस्ट](https://x.com/AiwithBloodline/status/2096885269270237431)
 
-फोटोग्राफी · सिनेमैटिक / फ़िल्म स्टिल · 3D रेंडर · कैरेक्टर · भोजन / पेय · प्रकाशन लंबित
+3D रेंडर · भोजन / पेय · प्रकाशन लंबित
 
 引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096811796074311791)
 

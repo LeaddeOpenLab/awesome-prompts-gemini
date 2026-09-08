@@ -29,29 +29,17 @@
 
 ### สไตล์
 
-[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [ภาพเรนเดอร์ 3 มิติ](#category-3d-render)
+[ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [ภาพเรนเดอร์ 3 มิติ](#category-3d-render)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>การถ่ายภาพ · 3</summary>
-
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
+- การถ่ายภาพ · 0
 
 <a name="category-cinematic-film-still"></a>
 
 <details open>
-<summary>ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · 3</summary>
+<summary>ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · 2</summary>
 
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
 - [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
 </details>
 
@@ -81,7 +69,7 @@
 
 ### เนื้อหาหลัก
 
-[ตัวละคร](#category-character) · [อาหาร / เครื่องดื่ม](#category-food-drink) · [ไอเทมแฟชั่น](#category-fashion-item)
+[ตัวละคร](#category-character) · [อาหาร / เครื่องดื่ม](#category-food-drink)
 
 - ภาพบุคคล / เซลฟี่ · 0
 - อินฟลูเอนเซอร์ / นางแบบ · 0
@@ -89,10 +77,9 @@
 <a name="category-character"></a>
 
 <details open>
-<summary>ตัวละคร · 2</summary>
+<summary>ตัวละคร · 1</summary>
 
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
 </details>
 
@@ -108,16 +95,7 @@
 
 </details>
 
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>ไอเทมแฟชั่น · 1</summary>
-
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-
-</details>
-
+- ไอเทมแฟชั่น · 0
 - สัตว์ / สิ่งมีชีวิต · 0
 - ยานพาหนะ · 0
 - สถาปัตยกรรม / การตกแต่งภายใน · 0
@@ -137,7 +115,7 @@
 
 ผู้เขียน：[@abs\_uiux](https://x.com/abs_uiux) · [โพสต์ต้นฉบับ](https://x.com/abs_uiux/status/2097242290859241833)
 
-การถ่ายภาพ · ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ตัวละคร · ไอเทมแฟชั่น · รอเผยแพร่
+ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ตัวละคร · รอเผยแพร่
 
 **สรุป:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
@@ -234,7 +212,7 @@ Aspect Ratio: 9:16 vertical
 
 ผู้เขียน：[@AiwithBloodline](https://x.com/AiwithBloodline) · [โพสต์ต้นฉบับ](https://x.com/AiwithBloodline/status/2097168437957263851)
 
-การถ่ายภาพ · ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · รอเผยแพร่
+ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · รอเผยแพร่
 
 引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096937365260624328)
 
@@ -262,7 +240,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 ผู้เขียน：[@AiwithBloodline](https://x.com/AiwithBloodline) · [โพสต์ต้นฉบับ](https://x.com/AiwithBloodline/status/2096885269270237431)
 
-การถ่ายภาพ · ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ภาพเรนเดอร์ 3 มิติ · ตัวละคร · อาหาร / เครื่องดื่ม · รอเผยแพร่
+ภาพเรนเดอร์ 3 มิติ · อาหาร / เครื่องดื่ม · รอเผยแพร่
 
 引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096811796074311791)
 

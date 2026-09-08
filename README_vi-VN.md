@@ -29,29 +29,17 @@
 
 ### Phong cách
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Kết xuất 3D](#category-3d-render)
+[Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Kết xuất 3D](#category-3d-render)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>Nhiếp ảnh · 3</summary>
-
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-
-</details>
-
+- Nhiếp ảnh · 0
 
 <a name="category-cinematic-film-still"></a>
 
 <details open>
-<summary>Điện ảnh / Ảnh tĩnh từ phim · 3</summary>
+<summary>Điện ảnh / Ảnh tĩnh từ phim · 2</summary>
 
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
 - [一段描绘巨大蛋糕工厂内部微观场景的10秒超逼真电影感视频提示词，微型烘焙师们正合力装饰巨大的多层生日蛋糕。](#prompt-2097168437957263851) · [@AiwithBloodline](https://x.com/AiwithBloodline)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
 </details>
 
@@ -81,7 +69,7 @@
 
 ### Nội dung chính
 
-[Nhân vật](#category-character) · [Thực phẩm / Đồ uống](#category-food-drink) · [Mặt hàng thời trang](#category-fashion-item)
+[Nhân vật](#category-character) · [Thực phẩm / Đồ uống](#category-food-drink)
 
 - Chân dung / Ảnh tự chụp · 0
 - Người có ảnh hưởng / Người mẫu · 0
@@ -89,10 +77,9 @@
 <a name="category-character"></a>
 
 <details open>
-<summary>Nhân vật · 2</summary>
+<summary>Nhân vật · 1</summary>
 
 - [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-- [A 3D animated sequence of miniature construction workers assembling a giant pizza.](#prompt-2096885269270237431) · [@AiwithBloodline](https://x.com/AiwithBloodline)
 
 </details>
 
@@ -108,16 +95,7 @@
 
 </details>
 
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>Mặt hàng thời trang · 1</summary>
-
-- [Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.](#prompt-2097242290859241833) · [@abs\_uiux](https://x.com/abs_uiux)
-
-</details>
-
+- Mặt hàng thời trang · 0
 - Động vật / Sinh vật · 0
 - Phương tiện · 0
 - Kiến trúc / Nội thất · 0
@@ -137,7 +115,7 @@
 
 Tác giả：[@abs\_uiux](https://x.com/abs_uiux) · [Bài gốc](https://x.com/abs_uiux/status/2097242290859241833)
 
-Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Mặt hàng thời trang · Chờ phân phối
+Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Chờ phân phối
 
 **Tóm tắt:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
@@ -234,7 +212,7 @@ Aspect Ratio: 9:16 vertical
 
 Tác giả：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](https://x.com/AiwithBloodline/status/2097168437957263851)
 
-Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Chờ phân phối
+Điện ảnh / Ảnh tĩnh từ phim · Chờ phân phối
 
 引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096937365260624328)
 
@@ -262,7 +240,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 Tác giả：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](https://x.com/AiwithBloodline/status/2096885269270237431)
 
-Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Nhân vật · Thực phẩm / Đồ uống · Chờ phân phối
+Kết xuất 3D · Thực phẩm / Đồ uống · Chờ phân phối
 
 引用来源：[@AiwithBloodline](https://x.com/AiwithBloodline) · [引用原帖](https://x.com/AiwithBloodline/status/2096811796074311791)
 
