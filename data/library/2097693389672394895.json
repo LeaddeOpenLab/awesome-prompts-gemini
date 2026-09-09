@@ -4,10 +4,26 @@
   "model": "gemini",
   "prompt": "時值黃昏，在一個可以看見沙灘的飯店房間，微弱的燈光中，一名黑色長直髮的女性，30歲左右，凹凸有致的身材，穿著一套黑色蕾絲內衣，站在窗邊側著頭看著窗外的沙灘。",
   "promptTranslations": {
-    "en": "At dusk, in a hotel room overlooking the beach, in dim lighting, a woman with long straight black hair, around 30 years old, with a curvaceous figure, wearing a set of black lace lingerie, stands by the window with her head tilted, looking at the beach outside."
+    "en": "At dusk, in a hotel room overlooking the beach, in dim lighting, a woman with long straight black hair, around 30 years old, with a curvaceous figure, wearing a set of black lace lingerie, stands by the window with her head tilted, looking at the beach outside.",
+    "zh": "时值黄昏，在一个可以看见沙滩的酒店房间，微弱的灯光中，一名黑色长直发的女性，30岁左右，凹凸有致的身材，穿着一套黑色蕾丝内衣，站在窗边侧着头看着窗外的沙滩。",
+    "zh-TW": "時值黃昏，在一個可以看見沙灘的飯店房間，微弱的燈光中，一名黑色長直髮的女性，30歲左右，凹凸有致的身材，穿著一套黑色蕾絲內衣，站在窗邊側著頭看著窗外的沙灘。",
+    "ja-JP": "夕暮れ時、ビーチが見えるホテルの部屋で、薄暗い明かりの中、黒いストレートのロングヘアをした30歳前後のメリハリのある体型の女性が、黒いレースの下着を身に着け、窓辺に立って首をかしげながら窓の外のビーチを見つめている。",
+    "ko-KR": "황혼 무렵, 해변이 내다보이는 호텔 방 안에서 희미한 조명 속, 검은 긴 생머리에 굴곡진 몸매를 지닌 30세 전후의 여성이 검은색 레이스 속옷 세트를 입고 창가에 서서 고개를 옆으로 돌린 채 창밖의 해변을 바라보고 있다.",
+    "th-TH": "ยามพลบค่ำ ในห้องพักโรงแรมที่สามารถมองเห็นชายหาดได้ ท่ามกลางแสงไฟสลัว หญิงสาวผมยาวตรงสีดำ วัยประมาณ 30 ปี รูปร่างมีส่วนเว้าส่วนโค้ง สวมชุดชั้นในลูกไม้สีดำ ยืนอยู่ริมหน้าต่างและเอียงศีรษะมองดูชายหาดนอกหน้าต่าง",
+    "vi-VN": "Vào lúc hoàng hôn, trong một căn phòng khách sạn nhìn ra bãi biển, dưới ánh đèn mờ ảo, một người phụ nữ với mái tóc đen dài thẳng mượt, khoảng 30 tuổi, thân hình đồng hồ cát quyến rũ, mặc bộ đồ lót ren màu đen, đứng bên cửa sổ nghiêng đầu nhìn ra bãi biển bên ngoài.",
+    "hi-IN": "गोधूलि वेला में, समुद्र तट दिखाई देने वाले एक होटल के कमरे में, मद्धम रोशनी के बीच, काले लंबे सीधे बालों वाली लगभग 30 वर्ष की एक सुडौल शरीर वाली महिला, काले रंग की लेस वाली अंतर्वस्त्र पहने हुए, खिड़की के पास खड़ी होकर सिर थोड़ा झुकाए खिड़की के बाहर समुद्र तट को देख रही है।",
+    "es-ES": "Al atardecer, en la habitación de un hotel con vistas a la playa, bajo una tenue iluminación, una mujer de cabello negro, largo y lacio, de unos 30 años y figura curvilínea, vestida con un conjunto de lencería de encaje negro, está de pie junto a la ventana con la cabeza ladeada mirando hacia la playa exterior."
   },
   "summaryTranslations": {
-    "en": "At dusk in a beach hotel room, a long-haired woman wearing black lace lingerie looks out the window."
+    "en": "At dusk in a beach hotel room, a long-haired woman wearing black lace lingerie looks out the window.",
+    "zh": "黄昏沙滩酒店房间内，穿着黑色蕾丝内衣看向窗外的长发女子。",
+    "zh-TW": "黃昏沙灘飯店房間內，穿著黑色蕾絲內衣看向窗外的長髮女子。",
+    "ja-JP": "夕暮れのビーチが見えるホテルの部屋で、黒いレースの下着を着て窓の外を見つめるロングヘアの女性。",
+    "ko-KR": "황혼 무렵 해변 호텔 방 안에서 검은 레이스 속옷을 입고 창밖을 바라보는 긴 머리 여성.",
+    "th-TH": "หญิงสาวผมยาวสวมชุดชั้นในลูกไม้สีดำมองออกไปนอกหน้าต่างในห้องพักโรงแรมริมชายหาดยามพลบค่ำ",
+    "vi-VN": "Người phụ nữ tóc dài mặc đồ lót ren đen nhìn ra ngoài cửa sổ trong phòng khách sạn ven biển lúc hoàng hôn.",
+    "hi-IN": "गोधूलि वेला में समुद्र तट के होटल के कमरे में, काले लेस वाले अंतर्वस्त्र पहने खिड़की के बाहर देखती लंबे बालों वाली महिला।",
+    "es-ES": "Mujer de cabello largo en lencería de encaje negro mirando por la ventana en la habitación de un hotel de playa al atardecer."
   },
   "translationVersion": 2,
   "summary": "黃昏沙灘飯店房間內，穿著黑色蕾絲內衣看向窗外的長髮女子。",
