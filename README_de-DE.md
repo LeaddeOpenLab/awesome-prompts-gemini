@@ -82,95 +82,95 @@ BGM: Schnelle, rhythmische Musik mit einem starken Beat.
 
 <a name="prompt-2097242290859241833"></a>
 
-### Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
+### Verwende das hochgeladene Bild des erwachsenen Mannes als primäre visuelle und Identitätsreferenz für die Hauptfigur in einer Büro-Fotokopierer-Szene, in der Miniaturklone zum Vorschein kommen.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Originalbeitrag](https://x.com/abs_uiux/status/2097242290859241833)
 
 Kinematisch / Filmstill · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
+**Zusammenfassung:** Verwende das hochgeladene Bild des erwachsenen Mannes als primäre visuelle und Identitätsreferenz für die Hauptfigur in einer Büro-Fotokopierer-Szene, in der Miniaturklone zum Vorschein kommen.
 
 <img src="covers/2097242290859241833.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Use the uploaded image of the adult man as the primary visual and identity reference for the main character.
+Verwende das hochgeladene Bild des erwachsenen Mannes als primäre visuelle und Identitätsreferenz für die Hauptfigur.
 
-IDENTITY CONSISTENCY:
-Maintain strong visual consistency with the uploaded adult male throughout the entire video. Preserve his recognizable facial features, skin tone, approximate age, facial structure, hairstyle, beard or facial hair if present, eyebrows, eyes, nose, lips, ears, body proportions, and clothing.
+IDENTITÄTSKONSISTENZ:
+Behalte während des gesamten Videos eine starke visuelle Konsistenz mit dem hochgeladenen erwachsenen Mann bei. Bewahre seine wiedererkennbaren Gesichtszüge, seinen Hautton, sein ungefähres Alter, seine Gesichtsstruktur, seine Frisur, seinen Bart bzw. seine Gesichtsbehaarung (falls vorhanden), seine Augenbrauen, Augen, Nase, Lippen, Ohren, Körperproportionen und Kleidung.
 
-All miniature versions appearing in the scene should clearly represent the same adult man and remain visually consistent with the uploaded reference. Avoid noticeable changes in facial structure, hairstyle, facial hair, age, clothing, or overall appearance between the original character and the miniature versions.
+Alle Miniaturversionen, die in der Szene erscheinen, sollten eindeutig denselben erwachsenen Mann darstellen und visuell konsistent mit der hochgeladenen Referenz bleiben. Vermeide auffällige Veränderungen in der Gesichtsstruktur, Frisur, Gesichtsbehaarung, im Alter, in der Kleidung oder im Gesamterscheinungsbild zwischen der Originalfigur und den Miniaturversionen.
 
-SCENE:
-Set the scene inside a modern, premium office with clean contemporary décor and realistic professional lighting.
-Place a high-end multifunction photocopier/scanner on a wooden desk.
+SZENE:
+Platziere die Szene in einem modernen, erstklassigen Büro mit sauberem, zeitgemäßem Dekor und realistischer professioneller Beleuchtung.
+Platziere ein hochwertiges Multifunktions-Fotokopier-/Scanner-Gerät auf einem Holzschreibtisch.
 
-The adult man walks confidently toward the machine with a natural smile. He opens the scanner lid and places a printed photograph of himself face-down on the scanner glass.
+Der erwachsene Mann geht mit einem natürlichen Lächeln selbstbewusst auf das Gerät zu. Er öffnet den Scannerdeckel und legt ein gedrucktes Foto von sich selbst mit der Vorderseite nach unten auf das Scannerglas.
 
-He closes the lid and presses the COPY button.
+Er schließt den Deckel und drückt die COPY-Taste.
 
-Show the scanner activating with a realistic moving light beneath the glass.
+Zeige, wie sich der Scanner mit einem realistischen beweglichen Licht unter dem Glas aktiviert.
 
-Then introduce a playful magical transformation: instead of ordinary sheets of paper coming from the output tray, approximately 8–10 miniature versions of the same adult man begin appearing from the machine one after another.
+Führe dann eine spielerische, magische Verwandlung ein: Anstelle gewöhnlicher Papierblätter, die aus dem Ausgabefach kommen, beginnen nacheinander etwa 8–10 Miniaturversionen desselben erwachsenen Mannes aus dem Gerät zu erscheinen.
 
-Each miniature man should be approximately 20–25 cm tall and clearly resemble the uploaded reference, including the same hairstyle, facial hair, clothing style, skin tone, and overall appearance.
+Jeder Miniaturmann sollte etwa 20–25 cm groß sein und der hochgeladenen Referenz deutlich ähneln, einschließlich derselben Frisur, Gesichtsbehaarung, desselben Kleidungsstils, Hauttons und Gesamterscheinungsbilds.
 
-The miniature characters safely step or hop onto the wooden desk. They smile, wave toward the original man, walk around together, exchange friendly handshakes, greet one another playfully, and briefly look toward the camera.
+Die Miniaturfiguren treten oder hüpfen sicher auf den Holzschreibtisch. Sie lächeln, winken dem Originalmann zu, laufen gemeinsam umher, tauschen freundliche Händeschütteln aus, begrüßen sich spielerisch und blicken kurz in die Kamera.
 
-The original adult man reacts with surprise and amusement, laughing naturally while watching the miniature versions of himself interact on the desk.
+Der ursprüngliche erwachsene Mann reagiert überrascht und amüsiert und lacht natürlich, während er beobachtet, wie die Miniaturversionen von ihm selbst auf dem Schreibtisch interagieren.
 
-CAMERA DIRECTION:
-Begin with a cinematic medium shot of the man approaching the copier.
+KAMERAFÜHRUNG:
+Beginne mit einer filmischen Halbtotale des Mannes, der sich dem Kopierer nähert.
 
-Cut to a detailed close-up of him placing the photograph on the scanner glass.
+Schneide auf eine detaillierte Nahaufnahme, in der er das Foto auf das Scannerglas legt.
 
-Show an extreme close-up of his finger pressing the COPY button.
+Zeige eine extreme Nahaufnahme seines Fingers, der die COPY-Taste drückt.
 
-Capture the scanner light moving beneath the glass.
+Fange das Scannerlicht ein, das sich unter dem Glas bewegt.
 
-Transition to a dramatic close-up of the output tray as the first miniature version appears.
+Gehe über zu einer dramatischen Nahaufnahme des Ausgabefachs, während die erste Miniaturversion erscheint.
 
-Use a brief slow-motion moment as the first miniature character lands safely on the desk.
+Nutze einen kurzen Zeitlupenmoment, während die erste Miniaturfigur sicher auf dem Schreibtisch landet.
 
-Include macro shots of miniature footsteps walking across the wooden surface.
+Füge Makroaufnahmen von Miniaturschritten ein, die über die Holzoberfläche laufen.
 
-Finish with a wider cinematic shot showing the original adult man smiling while several miniature versions stand and interact around the copier.
+Schließe mit einer weiteren filmischen Aufnahme ab, die den ursprünglichen erwachsenen Mann lächelnd zeigt, während mehrere Miniaturversionen um den Kopierer herum stehen und interagieren.
 
-Use smooth professional camera movement, subtle depth of field, realistic lens behavior, and natural motion blur.
+Verwende sanfte, professionelle Kamerabewegungen, subtile Tiefenschärfe, realistisches Objektivverhalten und natürliche Bewegungsunschärfe.
 
-VISUAL STYLE:
-Photorealistic cinematic realism.
-Highly detailed natural skin texture.
-Realistic hair and facial hair.
-Realistic fabric texture and clothing movement.
-Accurate human proportions.
-Convincing miniature scale.
-Premium commercial lighting.
-Natural shadows and reflections.
-HDR-style dynamic range.
-High facial consistency throughout the sequence.
+VISUELLER STIL:
+Fotorealistischer filmischer Realismus.
+Hochdetaillierte, natürliche Hauttextur.
+Realistisches Haar und Gesichtsbehaarung.
+Realistische Stofftextur und Kleidungsbewegung.
+Präzise menschliche Proportionen.
+Überzeugender Miniaturmaßstab.
+Erstklassige kommerzielle Beleuchtung.
+Natürliche Schatten und Reflexionen.
+Dynamikumfang im HDR-Stil.
+Hohe Gesichtskonsistenz während der gesamten Sequenz.
 
-IMPORTANT CONSISTENCY NOTES:
-Keep the uploaded adult male as the visual reference throughout the video.
+WICHTIGE HINWEISE ZUR KONSISTENZ:
+Behalte den hochgeladenen erwachsenen Mann während des gesamten Videos als visuelle Referenz bei.
 
-The miniature characters should look like miniature representations of the same person rather than unrelated people.
+Die Miniaturfiguren sollten wie Miniaturdarstellungen derselben Person aussehen und nicht wie fremde Personen.
 
-Avoid noticeable facial variation between miniature characters.
+Vermeide auffällige Gesichtsvariationen zwischen den Miniaturfiguren.
 
-Do not change the character’s gender, apparent age, hairstyle, facial hair, skin tone, or outfit.
+Ändere weder das Geschlecht der Figur noch das scheinbare Alter, die Frisur, die Gesichtsbehaarung, den Hautton oder das Outfit.
 
-Do not introduce unrelated characters.
+Führe keine unpassenden, fremden Figuren ein.
 
-Keep all human characters realistic rather than cartoon-like.
+Halte alle menschlichen Figuren realistisch und nicht cartoonhaft.
 
-No subtitles.
-No captions.
-No logos.
-No watermarks.
-No extra on-screen text.
+Keine Untertitel.
+Keine Bildunterschriften.
+Keine Logos.
+Keine Wasserzeichen.
+Kein zusätzlicher Text auf dem Bildschirm.
 
-Aspect Ratio: 9:16 vertical
+Seitenverhältnis: 9:16 vertikal
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

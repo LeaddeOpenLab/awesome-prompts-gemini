@@ -82,95 +82,95 @@ BGM：強いビートを伴うアップテンポでリズミカルな音楽。
 
 <a name="prompt-2097242290859241833"></a>
 
-### Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
+### アップロードされた成人男性の画像を主人公の主要な視覚・アイデンティティのリファレンスとして使用し、オフィスのコピー機からミニチュアのクローンたちが現れるシーン。
 
 作者：[@abs\_uiux](https://x.com/abs_uiux) · [元の投稿](https://x.com/abs_uiux/status/2097242290859241833)
 
 シネマティック / フィルムスチル · キャラクター · 配信済み
 
-**概要:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
+**概要:** アップロードされた成人男性の画像を主人公の主要な視覚・アイデンティティのリファレンスとして使用し、オフィスのコピー機からミニチュアのクローンたちが現れるシーン。
 
 <img src="covers/2097242290859241833.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-Use the uploaded image of the adult man as the primary visual and identity reference for the main character.
+アップロードされた成人男性の画像を、主人公の主要な視覚的および身元リファレンスとして使用してください。
 
-IDENTITY CONSISTENCY:
-Maintain strong visual consistency with the uploaded adult male throughout the entire video. Preserve his recognizable facial features, skin tone, approximate age, facial structure, hairstyle, beard or facial hair if present, eyebrows, eyes, nose, lips, ears, body proportions, and clothing.
+アイデンティティの一貫性：
+動画全体を通じて、アップロードされた成人男性との強い視覚的一貫性を維持してください。認識可能な顔の特徴、肌のトーン、おおよその年齢、顔の輪郭、髪型、髭（ある場合）、眉、目、鼻、唇、耳、体のプロポーション、衣服を忠実に保ちます。
 
-All miniature versions appearing in the scene should clearly represent the same adult man and remain visually consistent with the uploaded reference. Avoid noticeable changes in facial structure, hairstyle, facial hair, age, clothing, or overall appearance between the original character and the miniature versions.
+シーン内に登場するすべてのミニチュア版は、明らかに同一の成人男性を表し、アップロードされたリファレンスと視覚的に一致している必要があります。オリジナルのキャラクターとミニチュア版の間で、顔の構造、髪型、髭、年齢、服装、全体的な外見に目立つ変化が生じないようにしてください。
 
-SCENE:
-Set the scene inside a modern, premium office with clean contemporary décor and realistic professional lighting.
-Place a high-end multifunction photocopier/scanner on a wooden desk.
+シーン：
+清潔感のある現代的なインテリアとリアルなプロ仕様の照明を備えた、モダンで高級感のあるオフィス内を舞台にします。
+木製のデスクの上にハイエンドな多機能コピー機/スキャナーを配置します。
 
-The adult man walks confidently toward the machine with a natural smile. He opens the scanner lid and places a printed photograph of himself face-down on the scanner glass.
+成人男性が自然な笑みを浮かべ、自信に満ちた足取りで機械に向かって歩いてきます。彼はスキャナーのフタを開け、自分のプリント写真を下向きにしてスキャナーガラスの上に置きます。
 
-He closes the lid and presses the COPY button.
+フタを閉め、「COPY」ボタンを押します。
 
-Show the scanner activating with a realistic moving light beneath the glass.
+ガラスの下でリアルなライトが動いてスキャナーが作動する様子を見せます。
 
-Then introduce a playful magical transformation: instead of ordinary sheets of paper coming from the output tray, approximately 8–10 miniature versions of the same adult man begin appearing from the machine one after another.
+続いて遊び心あふれる魔法のような変化を描きます：排紙トレイから通常の紙が出てくるのではなく、同じ成人男性の約8〜10体のミニチュア版が次々と機械から現れ始めます。
 
-Each miniature man should be approximately 20–25 cm tall and clearly resemble the uploaded reference, including the same hairstyle, facial hair, clothing style, skin tone, and overall appearance.
+各ミニチュア男性の身長は約20〜25cmで、同じ髪型、髭、服装スタイル、肌のトーン、全体的な外見を含め、アップロードされたリファレンスに明確に似ている必要があります。
 
-The miniature characters safely step or hop onto the wooden desk. They smile, wave toward the original man, walk around together, exchange friendly handshakes, greet one another playfully, and briefly look toward the camera.
+ミニチュアのキャラクターたちは安全に木製デスクの上へとステップやジャンプで降り立ちます。彼らは笑顔を見せ、オリジナルの男性に向かって手を振り、一緒に歩き回り、親しげに握手を交わし、楽しそうに挨拶し合い、短時間カメラの方を向きます。
 
-The original adult man reacts with surprise and amusement, laughing naturally while watching the miniature versions of himself interact on the desk.
+オリジナルの成人男性は驚きと面白さを感じた反応を見せ、デスク上で繰り広げられる自分自身のミニチュア版のやり取りを見つめながら、自然に声を上げて笑います。
 
-CAMERA DIRECTION:
-Begin with a cinematic medium shot of the man approaching the copier.
+カメラ指示：
+男性がコピー機に近づく映画的なミディアムショットから始めます。
 
-Cut to a detailed close-up of him placing the photograph on the scanner glass.
+彼が写真をスキャナーガラスに置く詳細なクローズアップにカットします。
 
-Show an extreme close-up of his finger pressing the COPY button.
+「COPY」ボタンを押す指のエクストリーム・クローズアップを見せます。
 
-Capture the scanner light moving beneath the glass.
+ガラスの下を動くスキャナーの光を捉えます。
 
-Transition to a dramatic close-up of the output tray as the first miniature version appears.
+最初のミニチュア版が現れる際、排紙トレイへのドラマチックなクローズアップに移行します。
 
-Use a brief slow-motion moment as the first miniature character lands safely on the desk.
+最初のミニチュアキャラクターがデスクへ安全に着地する瞬間を、短いスローモーションで表現します。
 
-Include macro shots of miniature footsteps walking across the wooden surface.
+木製の表面を歩くミニチュアの足元のマクロショットを含めます。
 
-Finish with a wider cinematic shot showing the original adult man smiling while several miniature versions stand and interact around the copier.
+コピー機の周りに数体のミニチュア版が立ち、交流する様子をオリジナルの成人男性が笑顔で見守る、より広いシネマティックショットで締めくくります。
 
-Use smooth professional camera movement, subtle depth of field, realistic lens behavior, and natural motion blur.
+滑らかでプロフェッショナルなカメラワーク、繊細な被写界深度、リアルなレンズの挙動、自然なモーションブラーを採用してください。
 
-VISUAL STYLE:
-Photorealistic cinematic realism.
-Highly detailed natural skin texture.
-Realistic hair and facial hair.
-Realistic fabric texture and clothing movement.
-Accurate human proportions.
-Convincing miniature scale.
-Premium commercial lighting.
-Natural shadows and reflections.
-HDR-style dynamic range.
-High facial consistency throughout the sequence.
+視覚スタイル：
+フォトリアリスティックなシネマティック・リアリズム。
+極めて詳細で自然な肌の質感。
+リアルな髪と髭。
+リアルな布地の質感と衣服の動き。
+正確な人体のプロポーション。
+説得力のあるミニチュアスケール感。
+プレミアムなコマーシャル向けライティング。
+自然な影と反射。
+HDRスタイルのダイナミックレンジ。
+シークエンス全体を通じた高度な顔の一貫性。
 
-IMPORTANT CONSISTENCY NOTES:
-Keep the uploaded adult male as the visual reference throughout the video.
+重要な一貫性の注意点：
+動画全体を通じて、アップロードされた成人男性を視覚的リファレンスとして維持してください。
 
-The miniature characters should look like miniature representations of the same person rather than unrelated people.
+ミニチュアキャラクターは、赤の他人ではなく、同一人物のミニチュア表現として見える必要があります。
 
-Avoid noticeable facial variation between miniature characters.
+ミニチュアキャラクター間で目立つ顔の差異を避けてください。
 
-Do not change the character’s gender, apparent age, hairstyle, facial hair, skin tone, or outfit.
+キャラクターの性別、見かけの年齢、髪型、髭、肌のトーン、衣装を変更しないでください。
 
-Do not introduce unrelated characters.
+無関係なキャラクターを登場させないでください。
 
-Keep all human characters realistic rather than cartoon-like.
+すべての人間のキャラクターは、カートゥーン調ではなく写実的・リアルに保ってください。
 
-No subtitles.
-No captions.
-No logos.
-No watermarks.
-No extra on-screen text.
+字幕なし。
+キャプションなし。
+ロゴなし。
+ウォーターマークなし。
+画面上の余計なテキストなし。
 
-Aspect Ratio: 9:16 vertical
+アスペクト比：9:16 縦型
 ```
 
 [↑ カテゴリに戻る](#catalog)

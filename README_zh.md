@@ -82,95 +82,95 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 <a name="prompt-2097242290859241833"></a>
 
-### Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
+### 使用上传的成年男性图像作为主角的主要视觉和身份参考，置于办公复印机场景中，从中不断走出微型克隆体。
 
 作者：[@abs\_uiux](https://x.com/abs_uiux) · [查看 X 原帖](https://x.com/abs_uiux/status/2097242290859241833)
 
 电影 / 电影剧照 · 角色 · 已推流
 
-**Summary (English):** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
+**概括:** 使用上传的成年男性图像作为主角的主要视觉和身份参考，置于办公复印机场景中，从中不断走出微型克隆体。
 
 <img src="covers/2097242290859241833.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-Use the uploaded image of the adult man as the primary visual and identity reference for the main character.
+使用上传的成年男性图像作为主角的主要视觉和身份参考。
 
-IDENTITY CONSISTENCY:
-Maintain strong visual consistency with the uploaded adult male throughout the entire video. Preserve his recognizable facial features, skin tone, approximate age, facial structure, hairstyle, beard or facial hair if present, eyebrows, eyes, nose, lips, ears, body proportions, and clothing.
+身份一致性：
+在整个视频中，与上传的成年男性保持高度的视觉一致性。保留其可识别的面部特征、肤色、大致年龄、面部结构、发型、胡须或面部毛发（如有）、眉毛、眼睛、鼻子、嘴唇、耳朵、身体比例和服装。
 
-All miniature versions appearing in the scene should clearly represent the same adult man and remain visually consistent with the uploaded reference. Avoid noticeable changes in facial structure, hairstyle, facial hair, age, clothing, or overall appearance between the original character and the miniature versions.
+场景中出现的所有微缩版本都应明确代表同一个成年男性，并与上传的参考图像保持视觉一致。避免原角色与微缩版本之间在面部结构、发型、胡须、年龄、服装或整体外貌上出现明显变化。
 
-SCENE:
-Set the scene inside a modern, premium office with clean contemporary décor and realistic professional lighting.
-Place a high-end multifunction photocopier/scanner on a wooden desk.
+场景：
+将场景设定在一间现代高端办公室中，拥有整洁的当代装潢和逼真的专业照明。
+在木质办公桌上放置一台高端多功能复印/扫描机。
 
-The adult man walks confidently toward the machine with a natural smile. He opens the scanner lid and places a printed photograph of himself face-down on the scanner glass.
+这位成年男性带着自然的微笑自信地走向机器。他打开扫描仪盖板，将一张印有自己照片的照片面朝下放在扫描仪玻璃上。
 
-He closes the lid and presses the COPY button.
+他合上盖板并按下“COPY”按钮。
 
-Show the scanner activating with a realistic moving light beneath the glass.
+展示扫描仪启动，玻璃下方出现逼真的移动扫描光线。
 
-Then introduce a playful magical transformation: instead of ordinary sheets of paper coming from the output tray, approximately 8–10 miniature versions of the same adult man begin appearing from the machine one after another.
+随后引入一段充满趣味的魔法转变：出纸托盘出来的不是普通的纸张，而是大约8至10个该成年男性的微缩版本接二连三地从机器中出现。
 
-Each miniature man should be approximately 20–25 cm tall and clearly resemble the uploaded reference, including the same hairstyle, facial hair, clothing style, skin tone, and overall appearance.
+每个微型人偶高约20至25厘米，且明显与上传的参考图像相似，包括相同的发型、胡须、服装风格、肤色和整体外貌。
 
-The miniature characters safely step or hop onto the wooden desk. They smile, wave toward the original man, walk around together, exchange friendly handshakes, greet one another playfully, and briefly look toward the camera.
+微缩人物安全地迈步或跳到木桌上。他们微笑着向原本的男人招手，一起走动，友好地握手，嬉闹地打招呼，并短暂地看向镜头。
 
-The original adult man reacts with surprise and amusement, laughing naturally while watching the miniature versions of himself interact on the desk.
+原成年男性露出惊讶而开心的表情，看着桌上自己这些微缩版本的互动，自然地笑出声来。
 
-CAMERA DIRECTION:
-Begin with a cinematic medium shot of the man approaching the copier.
+镜头指导：
+以男子走向复印机的电影感中景开始。
 
-Cut to a detailed close-up of him placing the photograph on the scanner glass.
+切换至他将照片放在扫描仪玻璃上的细节特写。
 
-Show an extreme close-up of his finger pressing the COPY button.
+展示他的手指按下“COPY”按钮的极特写。
 
-Capture the scanner light moving beneath the glass.
+捕捉玻璃下方移动的扫描仪光线。
 
-Transition to a dramatic close-up of the output tray as the first miniature version appears.
+当第一个微缩版本出现时，过渡到出纸托盘的戏剧性特写。
 
-Use a brief slow-motion moment as the first miniature character lands safely on the desk.
+在第一个微缩角色安全着陆在桌面上时，使用短暂的慢动作镜头。
 
-Include macro shots of miniature footsteps walking across the wooden surface.
+包含微缩脚步在木质表面走动的微距镜头。
 
-Finish with a wider cinematic shot showing the original adult man smiling while several miniature versions stand and interact around the copier.
+以更宽的电影全景结束，展示原成年男性面带微笑，而数个微缩版本在复印机周围站立并互动。
 
-Use smooth professional camera movement, subtle depth of field, realistic lens behavior, and natural motion blur.
+使用平滑专业的摄像机运动、细腻的景深、逼真的镜头特性和自然的动态模糊。
 
-VISUAL STYLE:
-Photorealistic cinematic realism.
-Highly detailed natural skin texture.
-Realistic hair and facial hair.
-Realistic fabric texture and clothing movement.
-Accurate human proportions.
-Convincing miniature scale.
-Premium commercial lighting.
-Natural shadows and reflections.
-HDR-style dynamic range.
-High facial consistency throughout the sequence.
+视觉风格：
+逼真电影写实主义。
+高度细致的自然皮肤纹理。
+逼真的头发和面部毛发。
+逼真的织物纹理和服装动态。
+准确的人体比例。
+令人信服的微缩比例感。
+高级商业级灯光。
+自然的阴影与倒影。
+HDR风格的高动态范围。
+贯穿全片的极高面部一致性。
 
-IMPORTANT CONSISTENCY NOTES:
-Keep the uploaded adult male as the visual reference throughout the video.
+重要一致性注意事项：
+在整个视频中始终以上传的成年男性作为视觉参考。
 
-The miniature characters should look like miniature representations of the same person rather than unrelated people.
+微缩人物看起来应当是同一人的微缩化再现，而不是毫无关联的人。
 
-Avoid noticeable facial variation between miniature characters.
+避免微缩人物之间出现明显的面部差异。
 
-Do not change the character’s gender, apparent age, hairstyle, facial hair, skin tone, or outfit.
+不要更改角色的性别、表观年龄、发型、面部毛发、肤色或着装。
 
-Do not introduce unrelated characters.
+不要引入无关角色。
 
-Keep all human characters realistic rather than cartoon-like.
+让所有人物角色保持逼真写实，而非卡通化。
 
-No subtitles.
-No captions.
-No logos.
-No watermarks.
-No extra on-screen text.
+无字幕。
+无说明文字。
+无标志。
+无水印。
+无额外屏幕文本。
 
-Aspect Ratio: 9:16 vertical
+宽高比：9:16 竖屏
 ```
 
 [↑ 返回分类目录](#catalog)

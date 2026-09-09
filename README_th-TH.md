@@ -82,95 +82,95 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 <a name="prompt-2097242290859241833"></a>
 
-### Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
+### ใช้ภาพของชายผู้ใหญ่ที่อัปโหลดเป็นภาพอ้างอิงหลักด้านรูปลักษณ์และอัตลักษณ์สำหรับตัวละครหลักในฉากเครื่องถ่ายเอกสารในสำนักงานที่มีร่างโคลนย่อส่วนปรากฏออกมา
 
 ผู้เขียน：[@abs\_uiux](https://x.com/abs_uiux) · [โพสต์ต้นฉบับ](https://x.com/abs_uiux/status/2097242290859241833)
 
 ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ตัวละคร · เผยแพร่แล้ว
 
-**สรุป:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
+**สรุป:** ใช้ภาพของชายผู้ใหญ่ที่อัปโหลดเป็นภาพอ้างอิงหลักด้านรูปลักษณ์และอัตลักษณ์สำหรับตัวละครหลักในฉากเครื่องถ่ายเอกสารในสำนักงานที่มีร่างโคลนย่อส่วนปรากฏออกมา
 
 <img src="covers/2097242290859241833.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-Use the uploaded image of the adult man as the primary visual and identity reference for the main character.
+ใช้ภาพของชายผู้ใหญ่ที่อัปโหลดเป็นภาพอ้างอิงหลักด้านรูปลักษณ์และอัตลักษณ์สำหรับตัวละครหลัก
 
-IDENTITY CONSISTENCY:
-Maintain strong visual consistency with the uploaded adult male throughout the entire video. Preserve his recognizable facial features, skin tone, approximate age, facial structure, hairstyle, beard or facial hair if present, eyebrows, eyes, nose, lips, ears, body proportions, and clothing.
+ความสม่ำเสมอของอัตลักษณ์:
+รักษาความสม่ำเสมอทางสายตาอย่างชัดเจนกับชายผู้ใหญ่ที่อัปโหลดตลอดทั้งวิดีโอ คงไว้ซึ่งลักษณะใบหน้าที่จดจำได้ โทนสีผิว อายุโดยประมาณ โครงสร้างใบหน้า ทรงผม หนวดเคราหรือขนบนใบหน้า (หากมี) คิ้ว ดวงตา จมูก ริมฝีปาก ใบหู สัดส่วนร่างกาย และเสื้อผ้า
 
-All miniature versions appearing in the scene should clearly represent the same adult man and remain visually consistent with the uploaded reference. Avoid noticeable changes in facial structure, hairstyle, facial hair, age, clothing, or overall appearance between the original character and the miniature versions.
+เวอร์ชันย่อส่วนทั้งหมดที่ปรากฏในฉากต้องสื่อถึงชายผู้ใหญ่คนเดียวกันอย่างชัดเจน และยังคงสอดคล้องทางสายตากับข้อมูลอ้างอิงที่อัปโหลด หลีกเลี่ยงการเปลี่ยนแปลงอย่างเห็นได้ชัดในโครงสร้างใบหน้า ทรงผม หนวดเครา อายุ เสื้อผ้า หรือรูปลักษณ์โดยรวมระหว่างตัวละครดั้งเดิมกับเวอร์ชันย่อส่วน
 
-SCENE:
-Set the scene inside a modern, premium office with clean contemporary décor and realistic professional lighting.
-Place a high-end multifunction photocopier/scanner on a wooden desk.
+ฉาก:
+กำหนดฉากให้อยู่ภายในสำนักงานระดับพรีเมียมที่ทันสมัย พร้อมการตกแต่งร่วมสมัยที่สะอาดตาและแสงไฟระดับมืออาชีพที่สมจริง
+วางเครื่องถ่ายเอกสาร/สแกนเนอร์มัลติฟังก์ชันระดับไฮเอนด์ไว้บนโต๊ะไม้
 
-The adult man walks confidently toward the machine with a natural smile. He opens the scanner lid and places a printed photograph of himself face-down on the scanner glass.
+ชายผู้ใหญ่เดินอย่างมั่นใจไปยังเครื่องพร้อมรอยยิ้มอย่างเป็นธรรมชาติ เขาเปิดฝาสแกนเนอร์และวางรูปถ่ายของตัวเองที่พิมพ์ไว้โดยคว่ำหน้าลงบนกระจกสแกนเนอร์
 
-He closes the lid and presses the COPY button.
+เขาปิดฝาแล้วกดปุ่ม COPY
 
-Show the scanner activating with a realistic moving light beneath the glass.
+แสดงให้เห็นสแกนเนอร์เริ่มทำงานโดยมีแสงเคลื่อนไหวอย่างสมจริงอยู่ใต้กระจก
 
-Then introduce a playful magical transformation: instead of ordinary sheets of paper coming from the output tray, approximately 8–10 miniature versions of the same adult man begin appearing from the machine one after another.
+จากนั้นนำเสนอการเปลี่ยนแปลงที่สนุกสนานราวกับเวทมนตร์: แทนที่จะเป็นกระดาษธรรมดาๆ ออกมาจากถาดรองรับ กลับมีร่างย่อส่วนของชายผู้ใหญ่คนเดียวกันประมาณ 8–10 คนเริ่มปรากฏตัวออกมาจากเครื่องทีละคน
 
-Each miniature man should be approximately 20–25 cm tall and clearly resemble the uploaded reference, including the same hairstyle, facial hair, clothing style, skin tone, and overall appearance.
+ชายย่อส่วนแต่ละคนควรมีความสูงประมาณ 20–25 ซม. และมีลักษณะเหมือนภาพอ้างอิงที่อัปโหลดอย่างชัดเจน รวมถึงทรงผม หนวดเครา สไตล์การแต่งตัว โทนสีผิว และรูปลักษณ์โดยรวมแบบเดียวกัน
 
-The miniature characters safely step or hop onto the wooden desk. They smile, wave toward the original man, walk around together, exchange friendly handshakes, greet one another playfully, and briefly look toward the camera.
+ตัวละครย่อส่วนก้าวหรือกระโดดลงบนโต๊ะไม้อย่างปลอดภัย พวกเขายิ้ม โบกมือให้กับชายคนเดิม เดินไปรอบๆ ด้วยกัน จับมือทักทายกันอย่างเป็นมิตร ทักทายกันอย่างสนุกสนาน และมองมาที่กล้องครู่หนึ่ง
 
-The original adult man reacts with surprise and amusement, laughing naturally while watching the miniature versions of himself interact on the desk.
+ชายผู้ใหญ่คนเดิมแสดงท่าทีประหลาดใจและขบขัน หัวเราะอย่างเป็นธรรมชาติขณะมองดูร่างย่อส่วนของตัวเองมีปฏิสัมพันธ์กันบนโต๊ะ
 
-CAMERA DIRECTION:
-Begin with a cinematic medium shot of the man approaching the copier.
+ทิศทางของกล้อง:
+เริ่มต้นด้วยช็อตระดับกลางแบบภาพยนตร์ที่ชายคนนั้นเดินเข้าไปใกล้เครื่องถ่ายเอกสาร
 
-Cut to a detailed close-up of him placing the photograph on the scanner glass.
+ตัดไปที่ช็อตระยะใกล้แบบละเอียดที่เขาวางรูปถ่ายลงบนกระจกสแกนเนอร์
 
-Show an extreme close-up of his finger pressing the COPY button.
+แสดงภาพระยะใกล้มากของนิ้วของเขาที่กำลังกดปุ่ม COPY
 
-Capture the scanner light moving beneath the glass.
+จับภาพแสงสแกนเนอร์ที่เคลื่อนที่อยู่ใต้กระจก
 
-Transition to a dramatic close-up of the output tray as the first miniature version appears.
+เปลี่ยนฉากไปเป็นช็อตระยะใกล้ที่ดูน่าทึ่งของถาดรองรับเมื่อร่างย่อส่วนตัวแรกปรากฏขึ้น
 
-Use a brief slow-motion moment as the first miniature character lands safely on the desk.
+ใช้จังหวะสโลว์โมชันสั้นๆ ขณะที่ตัวละครย่อส่วนตัวแรกแตะลงบนโต๊ะอย่างปลอดภัย
 
-Include macro shots of miniature footsteps walking across the wooden surface.
+ใส่ช็อตมาโครของฝีเท้าย่อส่วนที่กำลังเดินข้ามพื้นผิวไม้
 
-Finish with a wider cinematic shot showing the original adult man smiling while several miniature versions stand and interact around the copier.
+ปิดท้ายด้วยช็อตกว้างแบบภาพยนตร์ที่แสดงให้เห็นชายผู้ใหญ่คนเดิมกำลังยิ้มในขณะที่ร่างย่อส่วนหลายร่างยืนและมีปฏิสัมพันธ์กันอยู่รอบๆ เครื่องถ่ายเอกสาร
 
-Use smooth professional camera movement, subtle depth of field, realistic lens behavior, and natural motion blur.
+ใช้การเคลื่อนไหวของกล้องที่ราบรื่นระดับมืออาชีพ ระยะชัดลึกที่ละเอียดอ่อน พฤติกรรมของเลนส์ที่สมจริง และภาพเบลอจากการเคลื่อนไหวอย่างเป็นธรรมชาติ
 
-VISUAL STYLE:
-Photorealistic cinematic realism.
-Highly detailed natural skin texture.
-Realistic hair and facial hair.
-Realistic fabric texture and clothing movement.
-Accurate human proportions.
-Convincing miniature scale.
-Premium commercial lighting.
-Natural shadows and reflections.
-HDR-style dynamic range.
-High facial consistency throughout the sequence.
+สไตล์ภาพ:
+ความสมจริงเสมือนภาพถ่ายในโรงภาพยนตร์
+พื้นผิวผิวหนังที่เป็นธรรมชาติและมีรายละเอียดสูง
+เส้นผมและหนวดเคราที่สมจริง
+พื้นผิวผ้าและการเคลื่อนไหวของเสื้อผ้าที่สมจริง
+สัดส่วนมนุษย์ที่แม่นยำ
+มาตราส่วนย่อส่วนที่น่าเชื่อถือ
+แสงเชิงพาณิชย์ระดับพรีเมียม
+เงาและการสะท้อนแสงที่เป็นธรรมชาติ
+ช่วงไดนามิกเรนจ์สไตล์ HDR
+ความสม่ำเสมอของใบหน้าในระดับสูงตลอดทั้งลำดับภาพ
 
-IMPORTANT CONSISTENCY NOTES:
-Keep the uploaded adult male as the visual reference throughout the video.
+ข้อสังเกตสำคัญเกี่ยวกับความสม่ำเสมอ:
+รักษาชายผู้ใหญ่ที่อัปโหลดไว้เป็นภาพอ้างอิงตลอดทั้งวิดีโอ
 
-The miniature characters should look like miniature representations of the same person rather than unrelated people.
+ตัวละครย่อส่วนควรดูเหมือนภาพจำลองย่อส่วนของบุคคลเดียวกัน แทนที่จะเป็นบุคคลอื่นที่ไม่เกี่ยวข้องกัน
 
-Avoid noticeable facial variation between miniature characters.
+หลีกเลี่ยงความแปรปรวนของใบหน้าที่สังเกตเห็นได้ระหว่างตัวละครย่อส่วน
 
-Do not change the character’s gender, apparent age, hairstyle, facial hair, skin tone, or outfit.
+ห้ามเปลี่ยนเพศ อายุที่ปรากฏ ทรงผม หนวดเครา โทนสีผิว หรือการแต่งกายของตัวละคร
 
-Do not introduce unrelated characters.
+ห้ามใส่ตัวละครที่ไม่เกี่ยวข้องเข้ามา
 
-Keep all human characters realistic rather than cartoon-like.
+รักษาตัวละครมนุษย์ทั้งหมดให้สมจริง ไม่ใช่แบบการ์ตูน
 
-No subtitles.
-No captions.
-No logos.
-No watermarks.
-No extra on-screen text.
+ไม่มีคำบรรยาย
+ไม่มีแคปชัน
+ไม่มีโลโก้
+ไม่มีลายน้ำ
+ไม่มีข้อความพิเศษบนหน้าจอ
 
-Aspect Ratio: 9:16 vertical
+อัตราส่วนภาพ: 9:16 แนวตั้ง
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

@@ -82,95 +82,95 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 <a name="prompt-2097242290859241833"></a>
 
-### Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
+### एक कार्यालय के फोटोकॉपियर दृश्य में मुख्य पात्र के लिए प्राथमिक दृश्य और पहचान संदर्भ के रूप में वयस्क पुरुष की अपलोड की गई छवि का उपयोग करें जहां सूक्ष्म क्लोन निकलते हैं।
 
 लेखक：[@abs\_uiux](https://x.com/abs_uiux) · [मूल पोस्ट](https://x.com/abs_uiux/status/2097242290859241833)
 
 सिनेमैटिक / फ़िल्म स्टिल · कैरेक्टर · प्रकाशित
 
-**सारांश:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
+**सारांश:** एक कार्यालय के फोटोकॉपियर दृश्य में मुख्य पात्र के लिए प्राथमिक दृश्य और पहचान संदर्भ के रूप में वयस्क पुरुष की अपलोड की गई छवि का उपयोग करें जहां सूक्ष्म क्लोन निकलते हैं।
 
 <img src="covers/2097242290859241833.jpg" alt="चित्र 1" width="480" />
 
 **प्रॉम्प्ट**
 
 ```text
-Use the uploaded image of the adult man as the primary visual and identity reference for the main character.
+मुख्य पात्र के लिए प्राथमिक दृश्य और पहचान संदर्भ के रूप में वयस्क पुरुष की अपलोड की गई छवि का उपयोग करें।
 
-IDENTITY CONSISTENCY:
-Maintain strong visual consistency with the uploaded adult male throughout the entire video. Preserve his recognizable facial features, skin tone, approximate age, facial structure, hairstyle, beard or facial hair if present, eyebrows, eyes, nose, lips, ears, body proportions, and clothing.
+पहचान की निरंतरता:
+पूरे वीडियो में अपलोड किए गए वयस्क पुरुष के साथ मजबूत दृश्य निरंतरता बनाए रखें। उसकी पहचान योग्य चेहरे की विशेषताओं, त्वचा की रंगत, अनुमानित उम्र, चेहरे की बनावट, हेयर स्टाइल, दाढ़ी या चेहरे के बाल (यदि हों), भौंहें, आंखें, नाक, होंठ, कान, शरीर के अनुपात और कपड़ों को सुरक्षित रखें।
 
-All miniature versions appearing in the scene should clearly represent the same adult man and remain visually consistent with the uploaded reference. Avoid noticeable changes in facial structure, hairstyle, facial hair, age, clothing, or overall appearance between the original character and the miniature versions.
+दृश्य में दिखाई देने वाले सभी सूक्ष्म (लघु) संस्करण स्पष्ट रूप से उसी वयस्क पुरुष का प्रतिनिधित्व करने चाहिए और अपलोड किए गए संदर्भ के साथ दृष्टिगत रूप से सुसंगत रहने चाहिए। मूल पात्र और सूक्ष्म संस्करणों के बीच चेहरे की बनावट, हेयर स्टाइल, चेहरे के बाल, उम्र, कपड़ों या समग्र रूप-रंग में ध्यान देने योग्य परिवर्तनों से बचें।
 
-SCENE:
-Set the scene inside a modern, premium office with clean contemporary décor and realistic professional lighting.
-Place a high-end multifunction photocopier/scanner on a wooden desk.
+दृश्य:
+साफ-सुथरे समकालीन सजावट और यथार्थवादी पेशेवर प्रकाश व्यवस्था के साथ एक आधुनिक, प्रीमियम कार्यालय के अंदर दृश्य सेट करें।
+लकड़ी की मेज पर एक उच्च स्तरीय मल्टीफ़ंक्शन फोटोकॉपियर/स्कैनर रखें।
 
-The adult man walks confidently toward the machine with a natural smile. He opens the scanner lid and places a printed photograph of himself face-down on the scanner glass.
+वयस्क पुरुष एक स्वाभाविक मुस्कान के साथ आत्मविश्वास से मशीन की ओर बढ़ता है। वह स्कैनर का ढक्कन खोलता है और अपनी एक मुद्रित तस्वीर को स्कैनर के शीशे पर उल्टा (फेस-डाउन) रखता है।
 
-He closes the lid and presses the COPY button.
+वह ढक्कन बंद करता है और COPY बटन दबाता है।
 
-Show the scanner activating with a realistic moving light beneath the glass.
+कांच के नीचे एक यथार्थवादी गतिमान प्रकाश के साथ स्कैनर को सक्रिय होते हुए दिखाएं।
 
-Then introduce a playful magical transformation: instead of ordinary sheets of paper coming from the output tray, approximately 8–10 miniature versions of the same adult man begin appearing from the machine one after another.
+फिर एक चंचल जादुई परिवर्तन पेश करें: आउटपुट ट्रे से साधारण कागज की शीट आने के बजाय, उसी वयस्क पुरुष के लगभग 8-10 सूक्ष्म संस्करण मशीन से एक के बाद एक दिखाई देने लगते हैं।
 
-Each miniature man should be approximately 20–25 cm tall and clearly resemble the uploaded reference, including the same hairstyle, facial hair, clothing style, skin tone, and overall appearance.
+प्रत्येक सूक्ष्म पुरुष लगभग 20-25 सेमी लंबा होना चाहिए और स्पष्ट रूप से अपलोड किए गए संदर्भ जैसा दिखना चाहिए, जिसमें समान हेयर स्टाइल, चेहरे के बाल, कपड़ों की शैली, त्वचा की रंगत और समग्र रूप शामिल है।
 
-The miniature characters safely step or hop onto the wooden desk. They smile, wave toward the original man, walk around together, exchange friendly handshakes, greet one another playfully, and briefly look toward the camera.
+सूक्ष्म पात्र सुरक्षित रूप से लकड़ी की मेज पर कदम रखते हैं या कूदते हैं। वे मुस्कुराते हैं, मूल पुरुष की ओर हाथ हिलाते हैं, एक साथ घूमते हैं, आपस में दोस्ताना हाथ मिलाते हैं, एक-दूसरे का चंचलता से अभिवादन करते हैं, और संक्षेप में कैमरे की ओर देखते हैं।
 
-The original adult man reacts with surprise and amusement, laughing naturally while watching the miniature versions of himself interact on the desk.
+मूल वयस्क पुरुष आश्चर्य और मनोरंजन के साथ प्रतिक्रिया करता है, मेज पर अपने स्वयं के सूक्ष्म संस्करणों को बातचीत करते हुए देखकर स्वाभाविक रूप से हंसता है।
 
-CAMERA DIRECTION:
-Begin with a cinematic medium shot of the man approaching the copier.
+कैमरा निर्देशन:
+फोटोकॉपियर के पास आते हुए व्यक्ति के सिनेमाई मध्यम शॉट (medium shot) के साथ शुरुआत करें।
 
-Cut to a detailed close-up of him placing the photograph on the scanner glass.
+स्कैनर के शीशे पर तस्वीर रखते हुए उसका एक विस्तृत क्लोज-अप दिखाएं।
 
-Show an extreme close-up of his finger pressing the COPY button.
+COPY बटन दबाते हुए उसकी उंगली का एक अत्यधिक क्लोज-अप (extreme close-up) दिखाएं।
 
-Capture the scanner light moving beneath the glass.
+कांच के नीचे घूमती स्कैनर की रोशनी को कैद करें।
 
-Transition to a dramatic close-up of the output tray as the first miniature version appears.
+पहले सूक्ष्म संस्करण के प्रकट होते ही आउटपुट ट्रे के एक नाटकीय क्लोज-अप में संक्रमण करें।
 
-Use a brief slow-motion moment as the first miniature character lands safely on the desk.
+पहले सूक्ष्म पात्र के सुरक्षित रूप से मेज पर उतरने के दौरान एक संक्षिप्त स्लो-मोशन क्षण का उपयोग करें।
 
-Include macro shots of miniature footsteps walking across the wooden surface.
+लकड़ी की सतह पर चलते सूक्ष्म कदमों के मैक्रो शॉट्स शामिल करें।
 
-Finish with a wider cinematic shot showing the original adult man smiling while several miniature versions stand and interact around the copier.
+एक व्यापक सिनेमाई शॉट के साथ समाप्त करें जिसमें मूल वयस्क पुरुष मुस्कुराता हुआ दिखाई दे, जबकि कई सूक्ष्म संस्करण फोटोकॉपियर के चारों ओर खड़े हों और बातचीत कर रहे हों।
 
-Use smooth professional camera movement, subtle depth of field, realistic lens behavior, and natural motion blur.
+सहज पेशेवर कैमरा मूवमेंट, सूक्ष्म डेप्थ ऑफ फील्ड, यथार्थवादी लेंस व्यवहार और प्राकृतिक मोशन ब्लर का उपयोग करें।
 
-VISUAL STYLE:
-Photorealistic cinematic realism.
-Highly detailed natural skin texture.
-Realistic hair and facial hair.
-Realistic fabric texture and clothing movement.
-Accurate human proportions.
-Convincing miniature scale.
-Premium commercial lighting.
-Natural shadows and reflections.
-HDR-style dynamic range.
-High facial consistency throughout the sequence.
+दृश्य शैली:
+फोटोरियलिस्टिक सिनेमाई यथार्थवाद।
+अत्यधिक विस्तृत प्राकृतिक त्वचा की बनावट।
+यथार्थवादी बाल और चेहरे के बाल।
+कपड़े की यथार्थवादी बनावट और कपड़ों की गति।
+सटीक मानवीय अनुपात।
+विश्वसनीय सूक्ष्म पैमाना (miniature scale)।
+प्रीमियम वाणिज्यिक प्रकाश व्यवस्था।
+प्राकृतिक छाया और परावर्तन।
+HDR-शैली डायनामिक रेंज।
+पूरे अनुक्रम में चेहरे की उच्च निरंतरता।
 
-IMPORTANT CONSISTENCY NOTES:
-Keep the uploaded adult male as the visual reference throughout the video.
+महत्वपूर्ण निरंतरता नोट्स:
+पूरे वीडियो में अपलोड किए गए वयस्क पुरुष को दृश्य संदर्भ के रूप में रखें।
 
-The miniature characters should look like miniature representations of the same person rather than unrelated people.
+सूक्ष्म पात्र असंबंधित लोगों के बजाय उसी व्यक्ति के सूक्ष्म रूप जैसे दिखने चाहिए।
 
-Avoid noticeable facial variation between miniature characters.
+सूक्ष्म पात्रों के बीच चेहरे के ध्यान देने योग्य बदलाव से बचें।
 
-Do not change the character’s gender, apparent age, hairstyle, facial hair, skin tone, or outfit.
+पात्र का लिंग, स्पष्ट आयु, हेयर स्टाइल, चेहरे के बाल, त्वचा की रंगत या पोशाक न बदलें।
 
-Do not introduce unrelated characters.
+असंबंधित पात्रों को शामिल न करें।
 
-Keep all human characters realistic rather than cartoon-like.
+सभी मानव पात्रों को कार्टून जैसा बनाने के बजाय यथार्थवादी रखें।
 
-No subtitles.
-No captions.
-No logos.
-No watermarks.
-No extra on-screen text.
+कोई सबटाइटल नहीं।
+कोई कैप्शन नहीं।
+कोई लोगो नहीं।
+कोई वॉटरमार्क नहीं।
+स्क्रीन पर कोई अतिरिक्त टेक्स्ट नहीं।
 
-Aspect Ratio: 9:16 vertical
+पहलू अनुपात (Aspect Ratio): 9:16 लंबवत (vertical)
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)

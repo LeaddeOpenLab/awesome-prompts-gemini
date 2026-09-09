@@ -82,95 +82,20 @@ BGM: Güçlü bir ritme sahip, hareketli ve tempolu müzik.
 
 <a name="prompt-2097242290859241833"></a>
 
-### Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
+### Minyatür klonların ortaya çıktığı bir ofis fotokopi makinesi sahnesinde ana karakter için birincil görsel ve kimlik referansı olarak yüklenen yetişkin erkek görselini kullanın.
 
 Yazar：[@abs\_uiux](https://x.com/abs_uiux) · [Orijinal gönderi](https://x.com/abs_uiux/status/2097242290859241833)
 
 Sinematik / Film Karesi · Karakter · Yayımlandı
 
-**Özet:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
+**Özet:** Minyatür klonların ortaya çıktığı bir ofis fotokopi makinesi sahnesinde ana karakter için birincil görsel ve kimlik referansı olarak yüklenen yetişkin erkek görselini kullanın.
 
 <img src="covers/2097242290859241833.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Use the uploaded image of the adult man as the primary visual and identity reference for the main character.
-
-IDENTITY CONSISTENCY:
-Maintain strong visual consistency with the uploaded adult male throughout the entire video. Preserve his recognizable facial features, skin tone, approximate age, facial structure, hairstyle, beard or facial hair if present, eyebrows, eyes, nose, lips, ears, body proportions, and clothing.
-
-All miniature versions appearing in the scene should clearly represent the same adult man and remain visually consistent with the uploaded reference. Avoid noticeable changes in facial structure, hairstyle, facial hair, age, clothing, or overall appearance between the original character and the miniature versions.
-
-SCENE:
-Set the scene inside a modern, premium office with clean contemporary décor and realistic professional lighting.
-Place a high-end multifunction photocopier/scanner on a wooden desk.
-
-The adult man walks confidently toward the machine with a natural smile. He opens the scanner lid and places a printed photograph of himself face-down on the scanner glass.
-
-He closes the lid and presses the COPY button.
-
-Show the scanner activating with a realistic moving light beneath the glass.
-
-Then introduce a playful magical transformation: instead of ordinary sheets of paper coming from the output tray, approximately 8–10 miniature versions of the same adult man begin appearing from the machine one after another.
-
-Each miniature man should be approximately 20–25 cm tall and clearly resemble the uploaded reference, including the same hairstyle, facial hair, clothing style, skin tone, and overall appearance.
-
-The miniature characters safely step or hop onto the wooden desk. They smile, wave toward the original man, walk around together, exchange friendly handshakes, greet one another playfully, and briefly look toward the camera.
-
-The original adult man reacts with surprise and amusement, laughing naturally while watching the miniature versions of himself interact on the desk.
-
-CAMERA DIRECTION:
-Begin with a cinematic medium shot of the man approaching the copier.
-
-Cut to a detailed close-up of him placing the photograph on the scanner glass.
-
-Show an extreme close-up of his finger pressing the COPY button.
-
-Capture the scanner light moving beneath the glass.
-
-Transition to a dramatic close-up of the output tray as the first miniature version appears.
-
-Use a brief slow-motion moment as the first miniature character lands safely on the desk.
-
-Include macro shots of miniature footsteps walking across the wooden surface.
-
-Finish with a wider cinematic shot showing the original adult man smiling while several miniature versions stand and interact around the copier.
-
-Use smooth professional camera movement, subtle depth of field, realistic lens behavior, and natural motion blur.
-
-VISUAL STYLE:
-Photorealistic cinematic realism.
-Highly detailed natural skin texture.
-Realistic hair and facial hair.
-Realistic fabric texture and clothing movement.
-Accurate human proportions.
-Convincing miniature scale.
-Premium commercial lighting.
-Natural shadows and reflections.
-HDR-style dynamic range.
-High facial consistency throughout the sequence.
-
-IMPORTANT CONSISTENCY NOTES:
-Keep the uploaded adult male as the visual reference throughout the video.
-
-The miniature characters should look like miniature representations of the same person rather than unrelated people.
-
-Avoid noticeable facial variation between miniature characters.
-
-Do not change the character’s gender, apparent age, hairstyle, facial hair, skin tone, or outfit.
-
-Do not introduce unrelated characters.
-
-Keep all human characters realistic rather than cartoon-like.
-
-No subtitles.
-No captions.
-No logos.
-No watermarks.
-No extra on-screen text.
-
-Aspect Ratio: 9:16 vertical
+Yüklenen yetişkin erkek görselini, ana karakter için birincil görsel ve kimlik referansı olarak kullanın. KİMLİK TUTARLILIĞI: Tüm video boyunca yüklenen yetişkin erkekle güçlü bir görsel tutarlılık sağlayın. Tanınabilir yüz hatlarını, cilt tonunu, yaklaşık yaşını, yüz yapısını, saç modelini, varsa sakalını veya yüz kıllarını, kaşlarını, gözlerini, burnunu, dudaklarını, kulaklarını, vücut oranlarını ve kıyafetlerini koruyun. Sahnede görünen tüm minyatür versiyonlar açıkça aynı yetişkin erkeği temsil etmeli ve yüklenen referansla görsel olarak tutarlı kalmalıdır. Orijinal karakter ile minyatür versiyonlar arasında yüz yapısında, saç modelinde, sakalda/yüz kıllarında, yaşta, kıyafetlerde veya genel görünümde fark edilir değişikliklerden kaçının. SAHNE: Sahneyi, temiz çağdaş bir dekora ve gerçekçi profesyonel aydınlatmaya sahip modern, birinci sınıf bir ofis içinde kurgulayın. Ahşap bir masanın üzerine üst düzey çok işlevli bir fotokopi/tarayıcı makinesi yerleştirin. Yetişkin adam, doğal bir gülümsemeyle makineye doğru kendinden emin bir şekilde yürür. Tarayıcı kapağını açar ve kendi basılı fotoğrafını yüzü aşağı bakacak şekilde tarayıcı camına yerleştirir. Kapağı kapatır ve KOPYALA (COPY) düğmesine basar. Tarayıcının, camın altında hareket eden gerçekçi bir ışıkla etkinleştiğini gösterin. Ardından eğlenceli ve sihirli bir dönüşüm başlatın: çıkış tepsisinden sıradan kağıt sayfaları gelmek yerine, aynı yetişkin erkeğin yaklaşık 8-10 minyatür versiyonu makineden birbiri ardına çıkmaya başlar. Her bir minyatür adam yaklaşık 20–25 cm boyunda olmalı ve aynı saç modeli, sakal/yüz kılı, giyim tarzı, cilt tonu ve genel görünüm dahil olmak üzere yüklenen referansa belirgin şekilde benzemelidir. Minyatür karakterler güvenli bir şekilde ahşap masaya adım atar veya zıplar. Gülümserler, orijinal adama el sallarlar, birlikte dolaşırlar, dostça el sıkışırlar, birbirlerini neşeyle selamlarlar ve kısaca kameraya bakarlar. Orijinal yetişkin adam, kendisinin minyatür versiyonlarının masa üzerinde etkileşim kurmasını izlerken doğal bir şekilde gülerek şaşkınlık ve eğlenceyle tepki verir. KAMERA YÖNETİMİ: Adamın fotokopi makinesine yaklaşmasını gösteren sinematik bir orta çekimle başlayın. Fotoğrafı tarayıcı camına koyduğu ayrıntılı bir yakın çekime geçin. Parmağının KOPYALA düğmesine bastığı aşırı yakın bir çekim gösterin. Camın altında hareket eden tarayıcı ışığını yakalayın. İlk minyatür versiyon belirirken çıkış tepsisinin dramatik bir yakın çekimine geçiş yapın. İlk minyatür karakter masaya güvenli bir şekilde indiğinde kısa bir ağır çekim anı kullanın. Ahşap yüzeyde yürüyen minyatür ayak adımlarının makro çekimlerine yer verin. Orijinal yetişkin adamın gülümsediği, birkaç minyatür versiyonun ise fotokopi makinesinin etrafında durup etkileşimde bulunduğu daha geniş bir sinematik çekimle bitirin. Akıcı, profesyonel kamera hareketleri, ince alan derinliği, gerçekçi lens davranışı ve doğal hareket bulanıklığı kullanın. GÖRSEL TARZ: Fotogerçekçi sinematik realizm. Son derece ayrıntılı doğal cilt dokusu. Gerçekçi saç ve sakal/yüz kılları. Gerçekçi kumaş dokusu ve kıyafet hareketi. Doğru insan oranları. İnandırıcı minyatür ölçeği. Birinci sınıf ticari aydınlatma. Doğal gölgeler ve yansımalar. HDR tarzı dinamik aralık. Sekans boyunca yüksek yüz tutarlılığı. ÖNEMLİ TUTARLILIK NOTLARI: Video boyunca yüklenen yetişkin erkeği görsel referans olarak tutun. Minyatür karakterler, ilgisiz insanlar yerine aynı kişinin minyatür temsilleri gibi görünmelidir. Minyatür karakterler arasında belirgin yüz farklılıklarından kaçının. Karakterin cinsiyetini, görünür yaşını, saç modelini, sakalını, cilt tonunu veya kıyafetini değiştirmeyin. İlgisiz karakterler eklemeyin. Çizgi film benzeri yerine tüm insan karakterleri gerçekçi tutun. Altyazı yok. Başlık/açıklama metni yok. Logo yok. Filigran yok. Ekranda fazladan metin yok. Aspect Ratio: 9:16 vertical
 ```
 
 [↑ Kategorilere dön](#catalog)

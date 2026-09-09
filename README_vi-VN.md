@@ -82,95 +82,95 @@ Nhạc nền (BGM): Nhạc tiết tấu nhanh, nhịp nhàng với nhịp điệ
 
 <a name="prompt-2097242290859241833"></a>
 
-### Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
+### Sử dụng hình ảnh người đàn ông trưởng thành đã tải lên làm tài liệu tham khảo chính về hình ảnh và danh tính cho nhân vật chính trong cảnh máy photocopy văn phòng nơi các bản sao tí hon xuất hiện.
 
 Tác giả：[@abs\_uiux](https://x.com/abs_uiux) · [Bài gốc](https://x.com/abs_uiux/status/2097242290859241833)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
+**Tóm tắt:** Sử dụng hình ảnh người đàn ông trưởng thành đã tải lên làm tài liệu tham khảo chính về hình ảnh và danh tính cho nhân vật chính trong cảnh máy photocopy văn phòng nơi các bản sao tí hon xuất hiện.
 
 <img src="covers/2097242290859241833.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Use the uploaded image of the adult man as the primary visual and identity reference for the main character.
+Sử dụng hình ảnh người đàn ông trưởng thành đã tải lên làm tài liệu tham khảo chính về mặt hình ảnh và danh tính cho nhân vật chính.
 
-IDENTITY CONSISTENCY:
-Maintain strong visual consistency with the uploaded adult male throughout the entire video. Preserve his recognizable facial features, skin tone, approximate age, facial structure, hairstyle, beard or facial hair if present, eyebrows, eyes, nose, lips, ears, body proportions, and clothing.
+SỰ NHẤT QUÁN VỀ DANH TÍNH:
+Duy trì sự nhất quán mạnh mẽ về mặt hình ảnh với người đàn ông trưởng thành đã tải lên trong toàn bộ video. Giữ nguyên các đường nét khuôn mặt dễ nhận biết, màu da, độ tuổi ước tính, cấu trúc khuôn mặt, kiểu tóc, râu hoặc lông mặt nếu có, lông mày, mắt, mũi, môi, tai, tỷ lệ cơ thể và trang phục của anh ấy.
 
-All miniature versions appearing in the scene should clearly represent the same adult man and remain visually consistent with the uploaded reference. Avoid noticeable changes in facial structure, hairstyle, facial hair, age, clothing, or overall appearance between the original character and the miniature versions.
+Tất cả các phiên bản tí hon xuất hiện trong cảnh quay phải đại diện rõ ràng cho cùng một người đàn ông trưởng thành đó và giữ nguyên sự nhất quán về mặt hình ảnh với tài liệu tham khảo đã tải lên. Tránh những thay đổi đáng chú ý về cấu trúc khuôn mặt, kiểu tóc, râu mặt, tuổi tác, trang phục hoặc ngoại hình tổng thể giữa nhân vật gốc và các phiên bản tí hon.
 
-SCENE:
-Set the scene inside a modern, premium office with clean contemporary décor and realistic professional lighting.
-Place a high-end multifunction photocopier/scanner on a wooden desk.
+BỐI CẢNH:
+Thiết lập bối cảnh bên trong một văn phòng cao cấp, hiện đại với lối trang trí đương đại gọn gàng và ánh sáng chuyên nghiệp chân thực.
+Đặt một máy photocopy/máy quét đa năng cao cấp trên bàn gỗ.
 
-The adult man walks confidently toward the machine with a natural smile. He opens the scanner lid and places a printed photograph of himself face-down on the scanner glass.
+Người đàn ông trưởng thành tự tin bước về phía cỗ máy với nụ cười tự nhiên. Anh ấy mở nắp máy quét và úp một bức ảnh in hình chính mình lên mặt kính máy quét.
 
-He closes the lid and presses the COPY button.
+Anh đóng nắp lại và nhấn nút COPY.
 
-Show the scanner activating with a realistic moving light beneath the glass.
+Hiển thị máy quét đang kích hoạt với dải ánh sáng di chuyển chân thực bên dưới lớp kính.
 
-Then introduce a playful magical transformation: instead of ordinary sheets of paper coming from the output tray, approximately 8–10 miniature versions of the same adult man begin appearing from the machine one after another.
+Sau đó đưa vào một biến hóa kỳ diệu đầy vui nhộn: thay vì các tờ giấy thông thường đi ra từ khay giấy ra, khoảng 8–10 phiên bản tí hon của chính người đàn ông trưởng thành đó bắt đầu lần lượt xuất hiện từ máy.
 
-Each miniature man should be approximately 20–25 cm tall and clearly resemble the uploaded reference, including the same hairstyle, facial hair, clothing style, skin tone, and overall appearance.
+Mỗi người đàn ông tí hon phải cao khoảng 20–25 cm và giống rõ rệt với tài liệu tham khảo đã tải lên, bao gồm cùng kiểu tóc, râu mặt, phong cách trang phục, màu da và ngoại hình tổng thể.
 
-The miniature characters safely step or hop onto the wooden desk. They smile, wave toward the original man, walk around together, exchange friendly handshakes, greet one another playfully, and briefly look toward the camera.
+Các nhân vật tí hon bước hoặc nhảy an toàn xuống bàn gỗ. Họ mỉm cười, vẫy tay về phía người đàn ông ban đầu, cùng nhau đi lại xung quanh, bắt tay thân thiện, chào hỏi nhau vui vẻ và nhìn thoáng qua về phía máy quay.
 
-The original adult man reacts with surprise and amusement, laughing naturally while watching the miniature versions of himself interact on the desk.
+Người đàn ông trưởng thành ban đầu phản ứng với sự ngạc nhiên và thích thú, cười tự nhiên trong khi quan sát các phiên bản tí hon của chính mình tương tác trên bàn làm việc.
 
-CAMERA DIRECTION:
-Begin with a cinematic medium shot of the man approaching the copier.
+CHỈ ĐẠO QUAY PHIM:
+Bắt đầu bằng một cảnh quay trung cảnh điện ảnh người đàn ông tiến lại gần máy photocopy.
 
-Cut to a detailed close-up of him placing the photograph on the scanner glass.
+Chuyển sang cận cảnh chi tiết cảnh anh ấy đặt bức ảnh lên mặt kính máy quét.
 
-Show an extreme close-up of his finger pressing the COPY button.
+Quay cận cảnh đặc tả ngón tay anh ấy đang nhấn nút COPY.
 
-Capture the scanner light moving beneath the glass.
+Bắt trọn ánh sáng máy quét di chuyển bên dưới lớp kính.
 
-Transition to a dramatic close-up of the output tray as the first miniature version appears.
+Chuyển tiếp sang cảnh cận cảnh kịch tính của khay giấy ra khi phiên bản tí hon đầu tiên xuất hiện.
 
-Use a brief slow-motion moment as the first miniature character lands safely on the desk.
+Sử dụng một khoảnh khắc chuyển động chậm ngắn khi nhân vật tí hon đầu tiên tiếp đất an toàn trên bàn.
 
-Include macro shots of miniature footsteps walking across the wooden surface.
+Bao gồm các cảnh quay macro về những bước chân tí hon bước đi trên bề mặt gỗ.
 
-Finish with a wider cinematic shot showing the original adult man smiling while several miniature versions stand and interact around the copier.
+Kết thúc bằng một cảnh quay điện ảnh góc rộng hơn cho thấy người đàn ông trưởng thành ban đầu đang mỉm cười trong khi một số phiên bản tí hon đứng và tương tác xung quanh máy photocopy.
 
-Use smooth professional camera movement, subtle depth of field, realistic lens behavior, and natural motion blur.
+Sử dụng chuyển động máy quay mượt mà chuyên nghiệp, độ sâu trường ảnh tinh tế, hành vi ống kính chân thực và độ nhòe chuyển động tự nhiên.
 
-VISUAL STYLE:
-Photorealistic cinematic realism.
-Highly detailed natural skin texture.
-Realistic hair and facial hair.
-Realistic fabric texture and clothing movement.
-Accurate human proportions.
-Convincing miniature scale.
-Premium commercial lighting.
-Natural shadows and reflections.
-HDR-style dynamic range.
-High facial consistency throughout the sequence.
+PHONG CÁCH HÌNH ẢNH:
+Chân thực điện ảnh tả thực (photorealistic cinematic realism).
+Kết cấu da tự nhiên có độ chi tiết cao.
+Tóc và râu chân thực.
+Kết cấu vải và chuyển động quần áo chân thực.
+Tỷ lệ cơ thể người chính xác.
+Tỷ lệ thu nhỏ thuyết phục.
+Ánh sáng thương mại cao cấp.
+Bóng đổ và phản xạ tự nhiên.
+Dải tương phản động phong cách HDR.
+Độ nhất quán khuôn mặt cao trong suốt chuỗi phân cảnh.
 
-IMPORTANT CONSISTENCY NOTES:
-Keep the uploaded adult male as the visual reference throughout the video.
+LƯU Ý QUAN TRỌNG VỀ TÍNH NHẤT QUÁN:
+Giữ người đàn ông trưởng thành đã tải lên làm tài liệu tham khảo hình ảnh trong suốt video.
 
-The miniature characters should look like miniature representations of the same person rather than unrelated people.
+Các nhân vật tí hon phải trông giống như các phiên bản thu nhỏ của cùng một người chứ không phải những người không liên quan.
 
-Avoid noticeable facial variation between miniature characters.
+Tránh sự khác biệt rõ rệt về khuôn mặt giữa các nhân vật tí hon.
 
-Do not change the character’s gender, apparent age, hairstyle, facial hair, skin tone, or outfit.
+Không thay đổi giới tính, độ tuổi biểu hiện, kiểu tóc, râu mặt, màu da hoặc trang phục của nhân vật.
 
-Do not introduce unrelated characters.
+Không đưa vào các nhân vật không liên quan.
 
-Keep all human characters realistic rather than cartoon-like.
+Giữ cho tất cả các nhân vật con người trông chân thực thay vì giống hoạt hình.
 
-No subtitles.
-No captions.
-No logos.
-No watermarks.
-No extra on-screen text.
+Không phụ đề.
+Không chú thích.
+Không logo.
+Không hình mờ (watermark).
+Không có văn bản thừa trên màn hình.
 
-Aspect Ratio: 9:16 vertical
+Tỷ lệ khung hình: 9:16 chiều dọc
 ```
 
 [↑ Về danh mục](#catalog)

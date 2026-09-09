@@ -82,95 +82,20 @@ BGM: Musica ritmata e up-tempo con una battuta decisa.
 
 <a name="prompt-2097242290859241833"></a>
 
-### Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
+### Usa l'immagine caricata dell'uomo adulto come riferimento visivo e di identità principale per il personaggio principale in una scena con fotocopiatrice d'ufficio in cui emergono cloni in miniatura.
 
 Autore：[@abs\_uiux](https://x.com/abs_uiux) · [Post originale](https://x.com/abs_uiux/status/2097242290859241833)
 
 Fermo immagine cinematografico / Still fotografico · Personaggio · Pubblicato
 
-**Riepilogo:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
+**Riepilogo:** Usa l'immagine caricata dell'uomo adulto come riferimento visivo e di identità principale per il personaggio principale in una scena con fotocopiatrice d'ufficio in cui emergono cloni in miniatura.
 
 <img src="covers/2097242290859241833.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Use the uploaded image of the adult man as the primary visual and identity reference for the main character.
-
-IDENTITY CONSISTENCY:
-Maintain strong visual consistency with the uploaded adult male throughout the entire video. Preserve his recognizable facial features, skin tone, approximate age, facial structure, hairstyle, beard or facial hair if present, eyebrows, eyes, nose, lips, ears, body proportions, and clothing.
-
-All miniature versions appearing in the scene should clearly represent the same adult man and remain visually consistent with the uploaded reference. Avoid noticeable changes in facial structure, hairstyle, facial hair, age, clothing, or overall appearance between the original character and the miniature versions.
-
-SCENE:
-Set the scene inside a modern, premium office with clean contemporary décor and realistic professional lighting.
-Place a high-end multifunction photocopier/scanner on a wooden desk.
-
-The adult man walks confidently toward the machine with a natural smile. He opens the scanner lid and places a printed photograph of himself face-down on the scanner glass.
-
-He closes the lid and presses the COPY button.
-
-Show the scanner activating with a realistic moving light beneath the glass.
-
-Then introduce a playful magical transformation: instead of ordinary sheets of paper coming from the output tray, approximately 8–10 miniature versions of the same adult man begin appearing from the machine one after another.
-
-Each miniature man should be approximately 20–25 cm tall and clearly resemble the uploaded reference, including the same hairstyle, facial hair, clothing style, skin tone, and overall appearance.
-
-The miniature characters safely step or hop onto the wooden desk. They smile, wave toward the original man, walk around together, exchange friendly handshakes, greet one another playfully, and briefly look toward the camera.
-
-The original adult man reacts with surprise and amusement, laughing naturally while watching the miniature versions of himself interact on the desk.
-
-CAMERA DIRECTION:
-Begin with a cinematic medium shot of the man approaching the copier.
-
-Cut to a detailed close-up of him placing the photograph on the scanner glass.
-
-Show an extreme close-up of his finger pressing the COPY button.
-
-Capture the scanner light moving beneath the glass.
-
-Transition to a dramatic close-up of the output tray as the first miniature version appears.
-
-Use a brief slow-motion moment as the first miniature character lands safely on the desk.
-
-Include macro shots of miniature footsteps walking across the wooden surface.
-
-Finish with a wider cinematic shot showing the original adult man smiling while several miniature versions stand and interact around the copier.
-
-Use smooth professional camera movement, subtle depth of field, realistic lens behavior, and natural motion blur.
-
-VISUAL STYLE:
-Photorealistic cinematic realism.
-Highly detailed natural skin texture.
-Realistic hair and facial hair.
-Realistic fabric texture and clothing movement.
-Accurate human proportions.
-Convincing miniature scale.
-Premium commercial lighting.
-Natural shadows and reflections.
-HDR-style dynamic range.
-High facial consistency throughout the sequence.
-
-IMPORTANT CONSISTENCY NOTES:
-Keep the uploaded adult male as the visual reference throughout the video.
-
-The miniature characters should look like miniature representations of the same person rather than unrelated people.
-
-Avoid noticeable facial variation between miniature characters.
-
-Do not change the character’s gender, apparent age, hairstyle, facial hair, skin tone, or outfit.
-
-Do not introduce unrelated characters.
-
-Keep all human characters realistic rather than cartoon-like.
-
-No subtitles.
-No captions.
-No logos.
-No watermarks.
-No extra on-screen text.
-
-Aspect Ratio: 9:16 vertical
+Usa l'immagine caricata dell'uomo adulto come riferimento visivo e di identità principale per il personaggio principale. COERENZA DELL'IDENTITÀ: Mantieni una forte coerenza visiva con l'uomo adulto caricato per l'intero video. Preserva i suoi tratti somatici riconoscibili, la tonalità della pelle, l'età approssimativa, la struttura facciale, l'acconciatura, la barba o la peluria sul viso se presente, le sopracciglia, gli occhi, il naso, le labbra, le orecchie, le proporzioni del corpo e l'abbigliamento. Tutte le versioni in miniatura che appaiono nella scena devono rappresentare chiaramente lo stesso uomo adulto e rimanere visivamente coerenti con il riferimento caricato. Evita cambiamenti evidenti nella struttura facciale, nell'acconciatura, nei peli del viso, nell'età, nell'abbigliamento o nell'aspetto generale tra il personaggio originale e le versioni in miniatura. SCENA: Ambienta la scena all'interno di un ufficio moderno e di lusso con un arredamento contemporaneo pulito e un'illuminazione professionale realistica. Posiziona una fotocopiatrice/scanner multifunzione di fascia alta su una scrivania di legno. L'uomo adulto cammina con sicurezza verso la macchina con un sorriso naturale. Apre il coperchio dello scanner e posiziona una fotografia stampata di se stesso a faccia in giù sul vetro dello scanner. Chiude il coperchio e preme il pulsante COPIA. Mostra lo scanner che si attiva con una luce mobile realistica sotto il vetro. Poi introduci una giocosa trasformazione magica: invece dei normali fogli di carta che escono dal vassoio di uscita, circa 8–10 versioni in miniatura dello stesso uomo adulto iniziano ad apparire dalla macchina una dopo l'altra. Ciascun uomo in miniatura dovrebbe essere alto circa 20–25 cm e assomigliare chiaramente al riferimento caricato, inclusi la stessa acconciatura, i peli del viso, lo stile di abbigliamento, la tonalità della pelle e l'aspetto generale. I personaggi in miniatura scendono o saltellano in sicurezza sulla scrivania di legno. Sorridono, salutano con la mano verso l'uomo originale, passeggiano insieme, si scambiano strette di mano amichevoli, si salutano giocosamente e guardano brevemente verso la telecamera. L'uomo adulto originale reagisce con sorpresa e divertimento, ridendo in modo naturale mentre guarda le versioni in miniatura di se stesso interagire sulla scrivania. REGIA DELLA TELECAMERA: Inizia con un'inquadratura cinematografica a figura intera/piano medio dell'uomo che si avvicina alla fotocopiatrice. Stacca su un primo piano dettagliato di lui che posiziona la fotografia sul vetro dello scanner. Mostra un primissimo piano del suo dito che preme il pulsante COPIA. Cattura la luce dello scanner che si muove sotto il vetro. Passa a un primo piano drammatico del vassoio di uscita mentre appare la prima versione in miniatura. Usa un breve momento di slow-motion mentre il primo personaggio in miniatura atterra in sicurezza sulla scrivania. Includi riprese macro dei passi in miniatura che camminano sulla superficie di legno. Concludi con un'inquadratura cinematografica più ampia che mostra l'uomo adulto originale sorridente mentre diverse versioni in miniatura stanno in piedi e interagiscono intorno alla fotocopiatrice. Usa un movimento di macchina fluido e professionale, una sottile profondità di campo, un comportamento realistico dell'obiettivo e un motion blur naturale. STILE VISIVO: Realismo cinematografico fotorealistico. Texture della pelle naturale altamente dettagliata. Capelli e peli del viso realistici. Trama del tessuto e movimento degli abiti realistici. Proporzioni umane accurate. Scala in miniatura convincente. Illuminazione commerciale premium. Ombre e riflessi naturali. Gamma dinamica in stile HDR. Elevata coerenza facciale lungo tutta la sequenza. NOTE IMPORTANTI SULLA COERENZA: Mantieni l'uomo adulto caricato come riferimento visivo per l'intero video. I personaggi in miniatura devono sembrare rappresentazioni in miniatura della stessa persona anziché persone non correlate. Evita variazioni facciali evidenti tra i personaggi in miniatura. Non cambiare il genere, l'età apparente, l'acconciatura, i peli del viso, il tono della pelle o l'abbigliamento del personaggio. Non introdurre personaggi non correlati. Mantieni tutti i personaggi umani realistici anziché simili a cartoni animati. Nessun sottotitolo. Nessuna didascalia. Nessun logo. Nessun watermark. Nessun testo aggiuntivo sullo schermo. Aspect Ratio: 9:16 verticale
 ```
 
 [↑ Torna alle categorie](#catalog)

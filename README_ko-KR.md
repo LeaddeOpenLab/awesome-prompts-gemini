@@ -82,95 +82,95 @@ BGM: 강한 비트가 있는 업템포의 리드미컬한 음악.
 
 <a name="prompt-2097242290859241833"></a>
 
-### Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
+### 업로드된 성인 남성의 이미지를 사무실 복사기에서 미니어처 클론이 나오는 장면의 주인공을 위한 기본 시각 및 정체성 참조로 사용합니다.
 
 작성자：[@abs\_uiux](https://x.com/abs_uiux) · [원본 게시물](https://x.com/abs_uiux/status/2097242290859241833)
 
 시네마틱 / 영화 스틸컷 · 캐릭터 · 배포 완료
 
-**요약:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
+**요약:** 업로드된 성인 남성의 이미지를 사무실 복사기에서 미니어처 클론이 나오는 장면의 주인공을 위한 기본 시각 및 정체성 참조로 사용합니다.
 
 <img src="covers/2097242290859241833.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-Use the uploaded image of the adult man as the primary visual and identity reference for the main character.
+업로드된 성인 남성의 이미지를 주인공의 주요 시각 및 정체성 참조 자료로 사용하세요.
 
-IDENTITY CONSISTENCY:
-Maintain strong visual consistency with the uploaded adult male throughout the entire video. Preserve his recognizable facial features, skin tone, approximate age, facial structure, hairstyle, beard or facial hair if present, eyebrows, eyes, nose, lips, ears, body proportions, and clothing.
+정체성 일관성:
+영상 전체에 걸쳐 업로드된 성인 남성과 강력한 시각적 일관성을 유지하세요. 그의 뚜렷한 얼굴 특징, 피부 톤, 대략적인 나이, 얼굴 구조, 헤어스타일, 턱수염 또는 수염(있는 경우), 눈썹, 눈, 코, 입술, 귀, 신체 비율 및 의상을 그대로 유지하세요.
 
-All miniature versions appearing in the scene should clearly represent the same adult man and remain visually consistent with the uploaded reference. Avoid noticeable changes in facial structure, hairstyle, facial hair, age, clothing, or overall appearance between the original character and the miniature versions.
+장면에 나타나는 모든 미니어처 버전은 업로드된 참조 이미지와 시각적으로 일치하며 동일한 성인 남성을 명확하게 나타내야 합니다. 원본 캐릭터와 미니어처 버전 사이에 얼굴 구조, 헤어스타일, 수염, 나이, 의상 또는 전반적인 외모의 눈에 띄는 변화를 피하세요.
 
-SCENE:
-Set the scene inside a modern, premium office with clean contemporary décor and realistic professional lighting.
-Place a high-end multifunction photocopier/scanner on a wooden desk.
+장면:
+깔끔한 현대적인 인테리어와 사실적이고 전문적인 조명이 있는 현대적이고 고급스러운 사무실 내부로 장면을 설정하세요.
+원목 책상 위에 고급 복합기/스캐너를 놓으세요.
 
-The adult man walks confidently toward the machine with a natural smile. He opens the scanner lid and places a printed photograph of himself face-down on the scanner glass.
+성인 남성이 자연스러운 미소를 지으며 기계를 향해 자신감 있게 걸어옵니다. 그는 스캐너 덮개를 열고 자신의 인쇄된 사진을 스캐너 유리 위에 얼굴이 아래로 향하게 놓습니다.
 
-He closes the lid and presses the COPY button.
+그는 덮개를 닫고 복사(COPY) 버튼을 누릅니다.
 
-Show the scanner activating with a realistic moving light beneath the glass.
+유리 아래로 사실적인 빛이 움직이며 스캐너가 작동하는 모습을 보여줍니다.
 
-Then introduce a playful magical transformation: instead of ordinary sheets of paper coming from the output tray, approximately 8–10 miniature versions of the same adult man begin appearing from the machine one after another.
+그런 다음 장난기 넘치고 마법 같은 변형을 연출하세요. 출력 트레이에서 일반 종이가 나오는 대신, 동일한 성인 남성의 미니어처 버전 약 8~10명이 기계에서 차례로 나오기 시작합니다.
 
-Each miniature man should be approximately 20–25 cm tall and clearly resemble the uploaded reference, including the same hairstyle, facial hair, clothing style, skin tone, and overall appearance.
+각 미니어처 남성은 키가 약 20~25cm여야 하며, 동일한 헤어스타일, 수염, 의상 스타일, 피부 톤 및 전반적인 외모를 포함하여 업로드된 참조 대상을 명확하게 닮아야 합니다.
 
-The miniature characters safely step or hop onto the wooden desk. They smile, wave toward the original man, walk around together, exchange friendly handshakes, greet one another playfully, and briefly look toward the camera.
+미니어처 캐릭터들은 안전하게 원목 책상 위로 발을 내딛거나 뛰어내립니다. 그들은 미소를 짓고, 원래 남성을 향해 손을 흔들고, 함께 돌아다니고, 다정하게 악수를 나누고, 서로 장난스럽게 인사하며, 잠시 카메라 쪽을 바라봅니다.
 
-The original adult man reacts with surprise and amusement, laughing naturally while watching the miniature versions of himself interact on the desk.
+원래의 성인 남성은 놀라움과 재미있다는 반응을 보이며, 자신의 미니어처 버전들이 책상 위에서 상호작용하는 모습을 지켜보며 자연스럽게 웃습니다.
 
-CAMERA DIRECTION:
-Begin with a cinematic medium shot of the man approaching the copier.
+카메라 연출:
+남성이 복사기에 다가가는 시네마틱 미디엄 샷으로 시작합니다.
 
-Cut to a detailed close-up of him placing the photograph on the scanner glass.
+그가 스캐너 유리 위에 사진을 올려놓는 디테일한 클로즈업으로 전환합니다.
 
-Show an extreme close-up of his finger pressing the COPY button.
+그의 손가락이 복사(COPY) 버튼을 누르는 익스트림 클로즈업을 보여줍니다.
 
-Capture the scanner light moving beneath the glass.
+유리 아래로 움직이는 스캐너 빛을 담아냅니다.
 
-Transition to a dramatic close-up of the output tray as the first miniature version appears.
+첫 번째 미니어처 버전이 나타날 때 출력 트레이의 드라마틱한 클로즈업으로 전환합니다.
 
-Use a brief slow-motion moment as the first miniature character lands safely on the desk.
+첫 번째 미니어처 캐릭터가 책상 위에 안전하게 착지하는 순간 짧은 슬로우 모션을 사용합니다.
 
-Include macro shots of miniature footsteps walking across the wooden surface.
+원목 표면을 가로질러 걷는 미니어처 발걸음의 매크로 샷을 포함합니다.
 
-Finish with a wider cinematic shot showing the original adult man smiling while several miniature versions stand and interact around the copier.
+여러 미니어처 버전이 복사기 주변에 서서 상호작용하는 동안 원래의 성인 남성이 미소 짓는 모습을 보여주는 더 넓은 시네마틱 샷으로 마무리합니다.
 
-Use smooth professional camera movement, subtle depth of field, realistic lens behavior, and natural motion blur.
+부드럽고 전문적인 카메라 움직임, 섬세한 피사계 심도, 사실적인 렌즈 특성, 자연스러운 모션 블러를 사용합니다.
 
-VISUAL STYLE:
-Photorealistic cinematic realism.
-Highly detailed natural skin texture.
-Realistic hair and facial hair.
-Realistic fabric texture and clothing movement.
-Accurate human proportions.
-Convincing miniature scale.
-Premium commercial lighting.
-Natural shadows and reflections.
-HDR-style dynamic range.
-High facial consistency throughout the sequence.
+비주얼 스타일:
+극사실주의 시네마틱 리얼리즘.
+매우 상세하고 자연스러운 피부 질감.
+사실적인 머리카락과 수염.
+사실적인 원단 질감과 의복의 움직임.
+정확한 인체 비율.
+설득력 있는 미니어처 스케일.
+프리미엄 상업용 조명.
+자연스러운 그림자와 반사.
+HDR 스타일의 다이내믹 레인지.
+시퀀스 전체에 걸친 높은 얼굴 일관성.
 
-IMPORTANT CONSISTENCY NOTES:
-Keep the uploaded adult male as the visual reference throughout the video.
+중요한 일관성 참고 사항:
+영상 전체에서 업로드된 성인 남성을 시각적 참조로 유지하세요.
 
-The miniature characters should look like miniature representations of the same person rather than unrelated people.
+미니어처 캐릭터들은 무관한 사람들이 아니라 동일 인물의 축소된 표현처럼 보여야 합니다.
 
-Avoid noticeable facial variation between miniature characters.
+미니어처 캐릭터 간의 눈에 띄는 얼굴 차이를 피하세요.
 
-Do not change the character’s gender, apparent age, hairstyle, facial hair, skin tone, or outfit.
+캐릭터의 성별, 외관상 나이, 헤어스타일, 수염, 피부 톤 또는 복장을 변경하지 마세요.
 
-Do not introduce unrelated characters.
+관련 없는 캐릭터를 도입하지 마세요.
 
-Keep all human characters realistic rather than cartoon-like.
+모든 인간 캐릭터를 만화 같지 않고 사실적으로 유지하세요.
 
-No subtitles.
-No captions.
-No logos.
-No watermarks.
-No extra on-screen text.
+자막 없음.
+캡션 없음.
+로고 없음.
+워터마크 없음.
+추가 화면 텍스트 없음.
 
-Aspect Ratio: 9:16 vertical
+화면비: 9:16 세로
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)
