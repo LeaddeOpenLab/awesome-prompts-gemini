@@ -166,13 +166,13 @@ Scala in miniatura altamente dettagliata, movimento umano realistico, consistenz
 
 <a name="prompt-2097658031928705309"></a>
 
-### Traduzione in corso
+### Prompt di illustrazione che ritrae Aqua che piange in un prato
 
 Autore：[@HopeAbsent](https://x.com/HopeAbsent) · [Post originale](https://x.com/HopeAbsent/status/2097658031928705309)
 
 Illustrazione · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt di illustrazione che ritrae Aqua che piange in un prato
 
 <img src="images/2097658031928705309-1.jpg" alt="Immagine 1" width="480" />
 
@@ -183,7 +183,7 @@ Illustrazione · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Aqua che piange in un prato
 ```
 
 [↑ Torna alle categorie](#catalog)

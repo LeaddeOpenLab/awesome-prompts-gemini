@@ -166,13 +166,13 @@ Yüksek derecede ayrıntılı minyatür ölçek, gerçekçi insan hareketi, krem
 
 <a name="prompt-2097658031928705309"></a>
 
-### Çeviri sürüyor
+### Çayırda ağlayan Aqua'yı tasvir eden illüstrasyon istemi
 
 Yazar：[@HopeAbsent](https://x.com/HopeAbsent) · [Orijinal gönderi](https://x.com/HopeAbsent/status/2097658031928705309)
 
 İllüstrasyon · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Çayırda ağlayan Aqua'yı tasvir eden illüstrasyon istemi
 
 <img src="images/2097658031928705309-1.jpg" alt="Görsel 1" width="480" />
 
@@ -183,7 +183,7 @@ Yazar：[@HopeAbsent](https://x.com/HopeAbsent) · [Orijinal gönderi](https://x
 **İstem**
 
 ```text
-Çeviri sürüyor
+Çayırda ağlayan Aqua
 ```
 
 [↑ Kategorilere dön](#catalog)

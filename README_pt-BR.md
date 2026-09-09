@@ -166,13 +166,13 @@ Escala em miniatura altamente detalhada, movimento humano realista, texturas cre
 
 <a name="prompt-2097658031928705309"></a>
 
-### Tradução em andamento
+### Prompt de ilustração retratando Aqua chorando em um campo de grama
 
 Autor：[@HopeAbsent](https://x.com/HopeAbsent) · [Publicação original](https://x.com/HopeAbsent/status/2097658031928705309)
 
 Ilustração · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de ilustração retratando Aqua chorando em um campo de grama
 
 <img src="images/2097658031928705309-1.jpg" alt="Imagem 1" width="480" />
 
@@ -183,7 +183,7 @@ Ilustração · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Aqua chorando em um campo de grama
 ```
 
 [↑ Voltar às categorias](#catalog)

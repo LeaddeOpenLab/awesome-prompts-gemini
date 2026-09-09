@@ -241,13 +241,13 @@ Tỷ lệ thu nhỏ cực kỳ chi tiết, chuyển động con người chân t
 
 <a name="prompt-2097658031928705309"></a>
 
-### Đang dịch
+### Lời nhắc hình minh họa vẽ Aqua đang khóc trên đồng cỏ
 
 Tác giả：[@HopeAbsent](https://x.com/HopeAbsent) · [Bài gốc](https://x.com/HopeAbsent/status/2097658031928705309)
 
 Minh họa · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc hình minh họa vẽ Aqua đang khóc trên đồng cỏ
 
 <img src="images/2097658031928705309-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -258,7 +258,7 @@ Minh họa · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Aqua đang khóc trên đồng cỏ
 ```
 
 [↑ Về danh mục](#catalog)

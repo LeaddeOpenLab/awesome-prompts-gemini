@@ -166,13 +166,13 @@ Escala em miniatura altamente detalhada, movimento humano realista, texturas cre
 
 <a name="prompt-2097658031928705309"></a>
 
-### Tradução em curso
+### Prompt de ilustração representando Aqua a chorar num prado
 
 Autor：[@HopeAbsent](https://x.com/HopeAbsent) · [Publicação original](https://x.com/HopeAbsent/status/2097658031928705309)
 
 Ilustração · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de ilustração representando Aqua a chorar num prado
 
 <img src="images/2097658031928705309-1.jpg" alt="Imagem 1" width="480" />
 
@@ -183,7 +183,7 @@ Ilustração · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Aqua a chorar num prado
 ```
 
 [↑ Voltar às categorias](#catalog)

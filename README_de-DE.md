@@ -241,13 +241,13 @@ Höchst detaillierter Miniaturmaßstab, realistische menschliche Bewegungen, cre
 
 <a name="prompt-2097658031928705309"></a>
 
-### Übersetzung läuft
+### Illustrations-Prompt, der Aqua weinend auf einer Wiese darstellt
 
 Autor：[@HopeAbsent](https://x.com/HopeAbsent) · [Originalbeitrag](https://x.com/HopeAbsent/status/2097658031928705309)
 
 Illustration · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Illustrations-Prompt, der Aqua weinend auf einer Wiese darstellt
 
 <img src="images/2097658031928705309-1.jpg" alt="Bild 1" width="480" />
 
@@ -258,7 +258,7 @@ Illustration · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Aqua weint auf einer Wiese
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

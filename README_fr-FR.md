@@ -241,13 +241,13 @@ Créez une vidéo cinématographique miniature ultra-réaliste de 10 secondes se
 
 <a name="prompt-2097658031928705309"></a>
 
-### Traduction en cours
+### Prompt d'illustration représentant Aqua qui pleure dans une prairie
 
 Auteur：[@HopeAbsent](https://x.com/HopeAbsent) · [Publication originale](https://x.com/HopeAbsent/status/2097658031928705309)
 
 Illustration · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt d'illustration représentant Aqua qui pleure dans une prairie
 
 <img src="images/2097658031928705309-1.jpg" alt="Image 1" width="480" />
 
@@ -258,7 +258,7 @@ Illustration · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Aqua en train de pleurer dans une prairie
 ```
 
 [↑ Retour aux catégories](#catalog)

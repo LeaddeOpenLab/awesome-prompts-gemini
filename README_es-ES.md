@@ -241,13 +241,13 @@ Escala en miniatura sumamente detallada, movimiento humano realista, texturas cr
 
 <a name="prompt-2097658031928705309"></a>
 
-### Traducción en curso
+### Prompt de ilustración que representa a Aqua llorando en una pradera
 
 Autor：[@HopeAbsent](https://x.com/HopeAbsent) · [Publicación original](https://x.com/HopeAbsent/status/2097658031928705309)
 
 Ilustración · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de ilustración que representa a Aqua llorando en una pradera
 
 <img src="images/2097658031928705309-1.jpg" alt="Imagen 1" width="480" />
 
@@ -258,7 +258,7 @@ Ilustración · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Aqua llorando en una pradera
 ```
 
 [↑ Volver a categorías](#catalog)
