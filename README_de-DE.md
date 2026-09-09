@@ -19,13 +19,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**6** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**7** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Kinematisch / Filmstill](#category-cinematic-film-still) · [Illustration](#category-illustration) · [3D-Rendering](#category-3d-render)
+[Kinematisch / Filmstill](#category-cinematic-film-still) · [Illustration](#category-illustration) · [3D-Rendering](#category-3d-render) · [Sonstige](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -337,6 +337,32 @@ Originalbeitrag：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Original
     "resolution": "720p"
   }
 }
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Sonstige
+
+<a name="prompt-2097693389672394895"></a>
+
+### Übersetzung läuft
+
+Autor：[@bestcare0221](https://x.com/bestcare0221) · [Originalbeitrag](https://x.com/bestcare0221/status/2097693389672394895)
+
+Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097693389672394895-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

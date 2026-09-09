@@ -19,13 +19,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**6** Prompt · Bổ sung mới nhất: **2026-09-09**
+**7** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Minh họa](#category-illustration) · [Kết xuất 3D](#category-3d-render)
+[Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Minh họa](#category-illustration) · [Kết xuất 3D](#category-3d-render) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -337,6 +337,32 @@ Bài gốc：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](h
     "resolution": "720p"
   }
 }
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Khác
+
+<a name="prompt-2097693389672394895"></a>
+
+### Đang dịch
+
+Tác giả：[@bestcare0221](https://x.com/bestcare0221) · [Bài gốc](https://x.com/bestcare0221/status/2097693389672394895)
+
+Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097693389672394895-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

@@ -19,13 +19,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**6** Prompts · Última incorporación: **2026-09-09**
+**7** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Cine / Fotograma](#category-cinematic-film-still) · [Ilustración](#category-illustration) · [Renderizado 3D](#category-3d-render)
+[Cine / Fotograma](#category-cinematic-film-still) · [Ilustración](#category-illustration) · [Renderizado 3D](#category-3d-render) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -337,6 +337,32 @@ Publicación original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
     "resolution": "720p"
   }
 }
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Otros
+
+<a name="prompt-2097693389672394895"></a>
+
+### Traducción en curso
+
+Autor：[@bestcare0221](https://x.com/bestcare0221) · [Publicación original](https://x.com/bestcare0221/status/2097693389672394895)
+
+Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097693389672394895-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

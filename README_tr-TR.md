@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**6** Prompt · Son eklenen: **2026-09-09**
+**7** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Sinematik / Film Karesi](#category-cinematic-film-still) · [İllüstrasyon](#category-illustration) · [3D Modelleme](#category-3d-render)
+[Sinematik / Film Karesi](#category-cinematic-film-still) · [İllüstrasyon](#category-illustration) · [3D Modelleme](#category-3d-render) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -262,6 +262,32 @@ Orijinal gönderi：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijin
     "resolution": "720p"
   }
 }
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Diğer
+
+<a name="prompt-2097693389672394895"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@bestcare0221](https://x.com/bestcare0221) · [Orijinal gönderi](https://x.com/bestcare0221/status/2097693389672394895)
+
+Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097693389672394895-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

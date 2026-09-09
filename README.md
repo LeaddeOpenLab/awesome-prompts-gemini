@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**6** Prompts · Latest addition: **2026-09-09**
+**7** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [3D Render](#category-3d-render)
+[Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [3D Render](#category-3d-render) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -337,6 +337,32 @@ Source：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x
     "resolution": "720p"
   }
 }
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Other
+
+<a name="prompt-2097693389672394895"></a>
+
+### At dusk in a beach hotel room, a long-haired woman wearing black lace lingerie looks out the window.
+
+Author：[@bestcare0221](https://x.com/bestcare0221) · [Source](https://x.com/bestcare0221/status/2097693389672394895)
+
+Character · Published
+
+**Summary:** At dusk in a beach hotel room, a long-haired woman wearing black lace lingerie looks out the window.
+
+<img src="images/2097693389672394895-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+At dusk, in a hotel room overlooking the beach, in dim lighting, a woman with long straight black hair, around 30 years old, with a curvaceous figure, wearing a set of black lace lingerie, stands by the window with her head tilted, looking at the beach outside.
 ```
 
 [↑ Back to categories](#catalog)

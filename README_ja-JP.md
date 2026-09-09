@@ -19,13 +19,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**6** 件 · 最新の追加: **2026-09-09**
+**7** 件 · 最新の追加: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[シネマティック / フィルムスチル](#category-cinematic-film-still) · [イラスト](#category-illustration) · [3D レンダリング](#category-3d-render)
+[シネマティック / フィルムスチル](#category-cinematic-film-still) · [イラスト](#category-illustration) · [3D レンダリング](#category-3d-render) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -337,6 +337,32 @@ HDRスタイルのダイナミックレンジ。
     "resolution": "720p"
   }
 }
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## その他
+
+<a name="prompt-2097693389672394895"></a>
+
+### 翻訳中
+
+作者：[@bestcare0221](https://x.com/bestcare0221) · [元の投稿](https://x.com/bestcare0221/status/2097693389672394895)
+
+キャラクター · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2097693389672394895-1.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
 ```
 
 [↑ カテゴリに戻る](#catalog)

@@ -19,13 +19,13 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 दैनिक चुने हुए प्रॉम्प्ट और नई रचनात्मक प्रेरणा के लिए इस रिपॉज़िटरी को स्टार दें।
 
-**6** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-09**
+**7** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## श्रेणी के अनुसार देखें
 
-[सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [चित्रण](#category-illustration) · [3D रेंडर](#category-3d-render)
+[सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [चित्रण](#category-illustration) · [3D रेंडर](#category-3d-render) · [अन्य](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -337,6 +337,32 @@ HDR-शैली डायनामिक रेंज।
     "resolution": "720p"
   }
 }
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## अन्य
+
+<a name="prompt-2097693389672394895"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@bestcare0221](https://x.com/bestcare0221) · [मूल पोस्ट](https://x.com/bestcare0221/status/2097693389672394895)
+
+कैरेक्टर · प्रकाशित
+
+**सारांश:** अनुवाद जारी है
+
+<img src="images/2097693389672394895-1.jpg" alt="चित्र 1" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)

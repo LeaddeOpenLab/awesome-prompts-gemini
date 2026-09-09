@@ -19,13 +19,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**6** 筆內容 · 最新收錄: **2026-09-09**
+**7** 筆內容 · 最新收錄: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[電影感 / 電影劇照](#category-cinematic-film-still) · [插圖](#category-illustration) · [3D 渲染](#category-3d-render)
+[電影感 / 電影劇照](#category-cinematic-film-still) · [插圖](#category-illustration) · [3D 渲染](#category-3d-render) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -337,6 +337,32 @@ HDR風格的高動態範圍。
     "resolution": "720p"
   }
 }
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## 其他
+
+<a name="prompt-2097693389672394895"></a>
+
+### 翻譯中
+
+作者：[@bestcare0221](https://x.com/bestcare0221) · [查看 X 原帖](https://x.com/bestcare0221/status/2097693389672394895)
+
+角色 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2097693389672394895-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
 ```
 
 [↑ 返回分類目錄](#catalog)

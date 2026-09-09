@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**6** Prompts · Adição mais recente: **2026-09-09**
+**7** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Ilustração](#category-illustration) · [Renderização 3D](#category-3d-render)
+[Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Ilustração](#category-illustration) · [Renderização 3D](#category-3d-render) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -262,6 +262,32 @@ Publicação original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
     "resolution": "720p"
   }
 }
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Outros
+
+<a name="prompt-2097693389672394895"></a>
+
+### Tradução em curso
+
+Autor：[@bestcare0221](https://x.com/bestcare0221) · [Publicação original](https://x.com/bestcare0221/status/2097693389672394895)
+
+Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097693389672394895-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)
