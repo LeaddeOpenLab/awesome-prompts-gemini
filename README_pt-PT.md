@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**5** Prompts · Adição mais recente: **2026-09-09**
+**6** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Renderização 3D](#category-3d-render)
+[Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Ilustração](#category-illustration) · [Renderização 3D](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -154,6 +154,36 @@ Crie um vídeo cinematográfico em miniatura ultrarrealista de 10 segundos ambie
 3–7 seg: Plano de seguimento em grande plano enquanto os confeiteiros aplicam espirais grossas de creme com o saco de pasteleiro, adicionam morangos e granulado, e colocam com cuidado velas gigantes e coloridas.
 7–10 seg: Recuo de câmara cinematográfico dramático a revelar o bolo de aniversário totalmente decorado, a brilhar calorosamente sob as luzes da fábrica enquanto os minúsculos pasteleiros celebram à volta dele.
 Escala em miniatura altamente detalhada, movimento humano realista, texturas cremosas de cobertura, decorações coloridas, iluminação quente de pastelaria, profundidade de campo reduzida, movimento de câmara cinematográfico, aspeto de fotografia macro, divertido mas fotorrealista, 4K, 16:9, sem texto, sem logótipos, sem música, apenas sons ASMR naturais de pastelaria, como o glacé a ser aplicado, passos, tilintar de ferramentas e ambiente suave de fábrica.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## Ilustração
+
+<a name="prompt-2097658031928705309"></a>
+
+### Tradução em curso
+
+Autor：[@HopeAbsent](https://x.com/HopeAbsent) · [Publicação original](https://x.com/HopeAbsent/status/2097658031928705309)
+
+Ilustração · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097658031928705309-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097658031928705309-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2097658031928705309-3.jpg" alt="Imagem 3" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

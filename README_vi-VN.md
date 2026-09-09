@@ -19,13 +19,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**5** Prompt · Bổ sung mới nhất: **2026-09-09**
+**6** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Kết xuất 3D](#category-3d-render)
+[Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Minh họa](#category-illustration) · [Kết xuất 3D](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -229,6 +229,36 @@ Tạo một video điện ảnh thu nhỏ siêu thực dài 10 giây lấy bối
 3–7 giây: Cảnh quay cận cảnh bám theo khi các thợ làm bánh bắt những xoáy kem dày, thêm dâu tây cùng cốm rắc nhiều màu, và cẩn thận cắm những cây nến khổng lồ rực rỡ sắc màu.
 7–10 giây: Cú kéo máy lùi lại đầy kịch tính theo phong cách điện ảnh để lộ chiếc bánh sinh nhật đã được trang trí hoàn thiện, tỏa sáng ấm áp dưới ánh đèn nhà xưởng trong khi những người thợ làm bánh tí hon ăn mừng xung quanh.
 Tỷ lệ thu nhỏ cực kỳ chi tiết, chuyển động con người chân thực, kết cấu kem phủ béo ngậy, đồ trang trí rực rỡ sắc màu, ánh sáng tiệm bánh ấm áp, độ sâu trường ảnh nông, chuyển động máy quay chuẩn điện ảnh, góc nhìn nhiếp ảnh macro, vui tươi nhưng chân thực như ảnh chụp, 4K, 16:9, không chữ, không logo, không âm nhạc, chỉ có âm thanh ASMR tự nhiên của tiệm bánh như tiếng bóp kem, tiếng bước chân, tiếng dụng cụ lách cách và âm thanh môi trường nhà máy êm dịu.
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## Minh họa
+
+<a name="prompt-2097658031928705309"></a>
+
+### Đang dịch
+
+Tác giả：[@HopeAbsent](https://x.com/HopeAbsent) · [Bài gốc](https://x.com/HopeAbsent/status/2097658031928705309)
+
+Minh họa · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097658031928705309-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097658031928705309-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2097658031928705309-3.jpg" alt="Hình ảnh 3" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

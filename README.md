@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**5** Prompts · Latest addition: **2026-09-09**
+**6** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Cinematic / Film Still](#category-cinematic-film-still) · [3D Render](#category-3d-render)
+[Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [3D Render](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -229,6 +229,36 @@ Create a 10-second ultra-realistic cinematic miniature video set inside a gigant
 3–7 sec: Close-up tracking shot as the bakers pipe thick swirls of cream, add strawberries and sprinkles, and carefully place giant colorful candles.
 7–10 sec: Dramatic cinematic pull-back revealing the fully decorated birthday cake, glowing warmly under factory lights as the tiny bakers celebrate around it.
 Highly detailed miniature scale, realistic human movement, creamy frosting textures, colorful decorations, warm bakery lighting, shallow depth of field, cinematic camera movement, macro photography look, playful but photorealistic, 4K, 16:9, no text, no logos, no music, only natural ASMR bakery sounds such as frosting being piped, footsteps, tools clinking, and soft factory ambience.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## Illustration
+
+<a name="prompt-2097658031928705309"></a>
+
+### Illustration prompt depicting Aqua crying in a grassy field
+
+Author：[@HopeAbsent](https://x.com/HopeAbsent) · [Source](https://x.com/HopeAbsent/status/2097658031928705309)
+
+Illustration · Published
+
+**Summary:** Illustration prompt depicting Aqua crying in a grassy field
+
+<img src="images/2097658031928705309-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097658031928705309-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097658031928705309-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+Aqua crying in a grassy field
 ```
 
 [↑ Back to categories](#catalog)

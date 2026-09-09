@@ -19,13 +19,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**5** Prompt · Ultima aggiunta: **2026-09-09**
+**6** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Rendering 3D](#category-3d-render)
+[Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Illustrazione](#category-illustration) · [Rendering 3D](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -154,6 +154,36 @@ Crea un video cinematografico in miniatura ultra-realistico di 10 secondi ambien
 3–7 sec: Ripresa ravvicinata di inseguimento mentre i pasticceri spremono dense spirali di crema con la sac à poche, aggiungono fragole e zuccherini, e posizionano con cura candeline giganti e colorate.
 7–10 sec: Drammatico carrello indietro cinematografico che rivela la torta di compleanno interamente decorata, che risplende caldamente sotto le luci della fabbrica mentre i minuscoli pasticceri festeggiano intorno ad essa.
 Scala in miniatura altamente dettagliata, movimento umano realistico, consistenze cremose della glassa, decorazioni variopinte, calda illuminazione da pasticceria, profondità di campo ridotta, movimenti di camera cinematografici, resa da fotografia macro, giocoso ma fotorealistico, 4K, 16:9, nessun testo, nessun logo, nessuna musica, solo suoni ASMR naturali di pasticceria come la glassa spremuta, passi, strumenti che tintinnano e morbido ambiente di fabbrica.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## Illustrazione
+
+<a name="prompt-2097658031928705309"></a>
+
+### Traduzione in corso
+
+Autore：[@HopeAbsent](https://x.com/HopeAbsent) · [Post originale](https://x.com/HopeAbsent/status/2097658031928705309)
+
+Illustrazione · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097658031928705309-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2097658031928705309-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2097658031928705309-3.jpg" alt="Immagine 3" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

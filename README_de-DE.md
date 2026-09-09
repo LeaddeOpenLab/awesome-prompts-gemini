@@ -19,13 +19,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**5** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**6** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Kinematisch / Filmstill](#category-cinematic-film-still) · [3D-Rendering](#category-3d-render)
+[Kinematisch / Filmstill](#category-cinematic-film-still) · [Illustration](#category-illustration) · [3D-Rendering](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -229,6 +229,36 @@ Erstelle ein 10-sekündiges, ultrarealistisches, filmisches Miniaturvideo, das i
 3–7 Sek.: Verfolgende Nahaufnahme, während die Bäcker dicke Cremewirbel spritzen, Erdbeeren und Streusel hinzufügen und vorsichtig riesige bunte Kerzen platzieren.
 7–10 Sek.: Dramatischer, filmischer Kameraschwenk nach hinten (Pull-Back), der die vollständig dekorierte Geburtstagstorte enthüllt, die warm unter den Fabriklichtern leuchtet, während die winzigen Bäcker um sie herum feiern.
 Höchst detaillierter Miniaturmaßstab, realistische menschliche Bewegungen, cremige Glasurtexturen, farbenfrohe Dekorationen, warme Bäckereibeleuchtung, geringe Schärfentiefe, filmische Kamerabewegung, Makrofotografie-Look, verspielt und dennoch fotorealistisch, 4K, 16:9, kein Text, keine Logos, keine Musik, nur natürliche Bäckerei-ASMR-Geräusche wie das Spritzen von Glasur, Schritte, klirrende Werkzeuge und sanfte Fabrikatmosphäre.
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## Illustration
+
+<a name="prompt-2097658031928705309"></a>
+
+### Übersetzung läuft
+
+Autor：[@HopeAbsent](https://x.com/HopeAbsent) · [Originalbeitrag](https://x.com/HopeAbsent/status/2097658031928705309)
+
+Illustration · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097658031928705309-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097658031928705309-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2097658031928705309-3.jpg" alt="Bild 3" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

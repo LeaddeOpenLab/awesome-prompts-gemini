@@ -19,13 +19,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**5** Prompts · Última incorporación: **2026-09-09**
+**6** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Cine / Fotograma](#category-cinematic-film-still) · [Renderizado 3D](#category-3d-render)
+[Cine / Fotograma](#category-cinematic-film-still) · [Ilustración](#category-illustration) · [Renderizado 3D](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -229,6 +229,36 @@ Crea un video cinematográfico en miniatura ultrarrealista de 10 segundos ambien
 3–7 s: Toma de seguimiento en primer plano mientras los pasteleros aplican gruesas espirales de crema con manga, agregan fresas y chispas de colores, y colocan cuidadosamente velas gigantes multicolores.
 7–10 s: Retroceso de cámara cinematográfico y dramático que revela el pastel de cumpleaños completamente decorado, resplandeciendo cálidamente bajo las luces de la fábrica mientras los diminutos pasteleros celebran a su alrededor.
 Escala en miniatura sumamente detallada, movimiento humano realista, texturas cremosas de glaseado, decoraciones coloridas, iluminación cálida de pastelería, profundidad de campo reducida, movimiento cinematográfico de cámara, aspecto de fotografía macro, juguetón pero fotorrealista, 4K, 16:9, sin texto, sin logotipos, sin música, únicamente sonidos ASMR naturales de pastelería como la crema saliendo de la manga, pisadas, tintineo de herramientas y un suave ambiente de fábrica.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## Ilustración
+
+<a name="prompt-2097658031928705309"></a>
+
+### Traducción en curso
+
+Autor：[@HopeAbsent](https://x.com/HopeAbsent) · [Publicación original](https://x.com/HopeAbsent/status/2097658031928705309)
+
+Ilustración · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097658031928705309-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097658031928705309-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2097658031928705309-3.jpg" alt="Imagen 3" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

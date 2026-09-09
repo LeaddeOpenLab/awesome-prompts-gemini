@@ -19,13 +19,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**5** Prompts · Dernier ajout: **2026-09-09**
+**6** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Rendu 3D](#category-3d-render)
+[Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Rendu 3D](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -229,6 +229,36 @@ Créez une vidéo cinématographique miniature ultra-réaliste de 10 secondes se
 3–7 s : Plan de suivi rapproché pendant que les pâtissiers déposent à la poche d'épaisses volutes de crème, ajoutent des fraises et des vermicelles, et disposent soigneusement de géantes bougies colorées.
 7–10 s : Travelling arrière cinématographique et spectaculaire révélant le gâteau d'anniversaire entièrement décoré, rayonnant chaleureusement sous les lumières de l'usine tandis que les minuscules pâtissiers célèbrent autour de lui.
 Échelle miniature extrêmement détaillée, mouvements humains réalistes, textures de glaçage crémeuses, décorations colorées, éclairage chaud de boulangerie-pâtisserie, faible profondeur de champ, mouvements de caméra cinématographiques, rendu de macrophotographie, espiègle mais photoréaliste, 4K, 16:9, aucun texte, aucun logo, aucune musique, uniquement des sons ASMR naturels de pâtisserie tels que le pochage du glaçage, des bruits de pas, l'entrechoquement des outils et une douce ambiance d'usine.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## Illustration
+
+<a name="prompt-2097658031928705309"></a>
+
+### Traduction en cours
+
+Auteur：[@HopeAbsent](https://x.com/HopeAbsent) · [Publication originale](https://x.com/HopeAbsent/status/2097658031928705309)
+
+Illustration · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097658031928705309-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097658031928705309-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097658031928705309-3.jpg" alt="Image 3" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

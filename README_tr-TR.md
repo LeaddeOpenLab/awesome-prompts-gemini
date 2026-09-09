@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**5** Prompt · Son eklenen: **2026-09-09**
+**6** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Sinematik / Film Karesi](#category-cinematic-film-still) · [3D Modelleme](#category-3d-render)
+[Sinematik / Film Karesi](#category-cinematic-film-still) · [İllüstrasyon](#category-illustration) · [3D Modelleme](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -154,6 +154,36 @@ Devasa ve masalsı bir pasta fabrikasının içinde geçen 10 saniyelik ultra ge
 3–7 sn: Fırıncıların kalın krema kıvrımları sıktığı, çilekler ile pasta süsleri eklediği ve devasa renkli mumları özenle yerleştirdiği yakın takip çekimi.
 7–10 sn: Fabrika ışıkları altında sıcak bir şekilde parıldayan ve tamamen süslenmiş doğum günü pastasını ortaya çıkaran dramatik sinematik geri çekilme çekimi; minik fırıncılar etrafında kutlama yapıyor.
 Yüksek derecede ayrıntılı minyatür ölçek, gerçekçi insan hareketi, kremsi krema dokuları, rengarenk süslemeler, sıcak fırın aydınlatması, sığ alan derinliği, sinematik kamera hareketi, makro fotoğrafçılık görünümü, neşeli ama fotogerçekçi, 4K, 16:9, metin yok, logo yok, müzik yok, yalnızca sıkılan krema, ayak sesleri, şıngırdayan aletler ve yumuşak fabrika ambiyansı gibi doğal ASMR fırın sesleri.
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## İllüstrasyon
+
+<a name="prompt-2097658031928705309"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@HopeAbsent](https://x.com/HopeAbsent) · [Orijinal gönderi](https://x.com/HopeAbsent/status/2097658031928705309)
+
+İllüstrasyon · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097658031928705309-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097658031928705309-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2097658031928705309-3.jpg" alt="Görsel 3" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
