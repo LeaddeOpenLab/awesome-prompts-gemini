@@ -274,20 +274,20 @@ Publicação original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 
 <a name="prompt-2097693389672394895"></a>
 
-### Tradução em curso
+### Num quarto de hotel na praia ao entardecer, uma mulher de cabelos compridos em lingerie de renda preta a olhar pela janela.
 
 Autor：[@bestcare0221](https://x.com/bestcare0221) · [Publicação original](https://x.com/bestcare0221/status/2097693389672394895)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Num quarto de hotel na praia ao entardecer, uma mulher de cabelos compridos em lingerie de renda preta a olhar pela janela.
 
 <img src="images/2097693389672394895-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Ao entardecer, num quarto de hotel com vista para a praia, sob uma luz ténue, uma mulher de cabelos pretos compridos e lisos, com cerca de 30 anos, de silhueta curvilínea, vestindo um conjunto de lingerie de renda preta, está de pé junto à janela com a cabeça inclinada, a olhar para a praia lá fora.
 ```
 
 [↑ Voltar às categorias](#catalog)

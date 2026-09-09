@@ -274,20 +274,20 @@ Orijinal gönderi：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijin
 
 <a name="prompt-2097693389672394895"></a>
 
-### Çeviri sürüyor
+### Alacakaranlıkta kumsal manzaralı otel odasında, siyah dantel iç çamaşırı giymiş pencereden dışarı bakan uzun saçlı kadın.
 
 Yazar：[@bestcare0221](https://x.com/bestcare0221) · [Orijinal gönderi](https://x.com/bestcare0221/status/2097693389672394895)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Alacakaranlıkta kumsal manzaralı otel odasında, siyah dantel iç çamaşırı giymiş pencereden dışarı bakan uzun saçlı kadın.
 
 <img src="images/2097693389672394895-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Alacakaranlıkta, kumsala bakan bir otel odasında, loş ışık altında, yaklaşık 30 yaşlarında, kıvrımlı vücut hatlarına sahip, uzun düz siyah saçlı bir kadın, siyah dantelli iç çamaşırı takımı giymiş, pencerenin yanında başını yana eğmiş dışarıdaki kumsala bakıyor.
 ```
 
 [↑ Kategorilere dön](#catalog)

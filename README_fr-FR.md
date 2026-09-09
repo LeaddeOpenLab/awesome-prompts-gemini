@@ -349,20 +349,20 @@ Publication originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 
 <a name="prompt-2097693389672394895"></a>
 
-### Traduction en cours
+### Dans une chambre d'hôtel sur la plage au crépuscule, une femme aux cheveux longs en lingerie de dentelle noire regarde par la fenêtre.
 
 Auteur：[@bestcare0221](https://x.com/bestcare0221) · [Publication originale](https://x.com/bestcare0221/status/2097693389672394895)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Dans une chambre d'hôtel sur la plage au crépuscule, une femme aux cheveux longs en lingerie de dentelle noire regarde par la fenêtre.
 
 <img src="images/2097693389672394895-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Au crépuscule, dans une chambre d'hôtel avec vue sur la plage, sous une faible lumière, une femme aux longs cheveux noirs et lisses, âgée d'environ 30 ans, à la silhouette tout en courbes, vêtue d'un ensemble de lingerie en dentelle noire, se tient près de la fenêtre, la tête penchée, regardant la plage au-dehors.
 ```
 
 [↑ Retour aux catégories](#catalog)

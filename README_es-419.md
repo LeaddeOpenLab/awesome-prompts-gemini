@@ -349,20 +349,20 @@ Publicación original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 
 <a name="prompt-2097693389672394895"></a>
 
-### Traducción en curso
+### En una habitación de hotel junto a la playa al atardecer, una mujer de cabello largo en lencería de encaje negro mira por la ventana.
 
 Autor：[@bestcare0221](https://x.com/bestcare0221) · [Publicación original](https://x.com/bestcare0221/status/2097693389672394895)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** En una habitación de hotel junto a la playa al atardecer, una mujer de cabello largo en lencería de encaje negro mira por la ventana.
 
 <img src="images/2097693389672394895-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Al atardecer, en una habitación de hotel con vista a la playa, bajo una luz tenue, una mujer de cabello negro, largo y lacio, de unos 30 años y figura curvilínea, vestida con un conjunto de lencería de encaje negro, está de pie junto a la ventana ladeando la cabeza y mirando hacia la playa exterior.
 ```
 
 [↑ Volver a categorías](#catalog)

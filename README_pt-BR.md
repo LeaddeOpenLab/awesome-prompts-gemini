@@ -274,20 +274,20 @@ Publicação original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 
 <a name="prompt-2097693389672394895"></a>
 
-### Tradução em andamento
+### No quarto de um hotel na praia ao entardecer, uma mulher de cabelos longos em lingerie de renda preta olha pela janela.
 
 Autor：[@bestcare0221](https://x.com/bestcare0221) · [Publicação original](https://x.com/bestcare0221/status/2097693389672394895)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** No quarto de um hotel na praia ao entardecer, uma mulher de cabelos longos em lingerie de renda preta olha pela janela.
 
 <img src="images/2097693389672394895-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Ao entardecer, em um quarto de hotel com vista para a praia, sob uma luz fraca, uma mulher de cabelos pretos longos e lisos, de cerca de 30 anos, com curvas delineadas, vestindo um conjunto de lingerie de renda preta, está de pé perto da janela com a cabeça inclinada, olhando para a praia lá fora.
 ```
 
 [↑ Voltar às categorias](#catalog)
