@@ -34,7 +34,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 作者：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [元の投稿](https://x.com/taya_mama_AI/status/2096612096003965254)
 
-シネマティック / フィルムスチル · 3D レンダリング · キャラクター · テキスト / タイポグラフィ · 配信待ち
+シネマティック / フィルムスチル · 3D レンダリング · キャラクター · テキスト / タイポグラフィ · 配信済み
 
 元の投稿：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [元の投稿](https://x.com/taya_mama_AI/status/2095076567416451105)
 
@@ -86,7 +86,7 @@ BGM：強いビートを伴うアップテンポでリズミカルな音楽。
 
 作者：[@abs\_uiux](https://x.com/abs_uiux) · [元の投稿](https://x.com/abs_uiux/status/2097242290859241833)
 
-シネマティック / フィルムスチル · キャラクター · 配信待ち
+シネマティック / フィルムスチル · キャラクター · 配信済み
 
 **概要:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
@@ -183,7 +183,7 @@ Aspect Ratio: 9:16 vertical
 
 作者：[@AiwithBloodline](https://x.com/AiwithBloodline) · [元の投稿](https://x.com/AiwithBloodline/status/2097168437957263851)
 
-シネマティック / フィルムスチル · 配信待ち
+シネマティック / フィルムスチル · 配信済み
 
 元の投稿：[@AiwithBloodline](https://x.com/AiwithBloodline) · [元の投稿](https://x.com/AiwithBloodline/status/2096937365260624328)
 
@@ -215,7 +215,7 @@ Aspect Ratio: 9:16 vertical
 
 作者：[@AiwithBloodline](https://x.com/AiwithBloodline) · [元の投稿](https://x.com/AiwithBloodline/status/2096885269270237431)
 
-3D レンダリング · 食品・飲料 · 配信待ち
+3D レンダリング · 食品・飲料 · 配信済み
 
 元の投稿：[@AiwithBloodline](https://x.com/AiwithBloodline) · [元の投稿](https://x.com/AiwithBloodline/status/2096811796074311791)
 
@@ -284,5 +284,3 @@ Aspect Ratio: 9:16 vertical
 ---
 
 [Leadde.ai を見る →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=gemini)
-
-ナビゲーション参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

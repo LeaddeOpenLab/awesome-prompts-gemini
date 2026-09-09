@@ -34,7 +34,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [查看 X 原帖](https://x.com/taya_mama_AI/status/2096612096003965254)
 
-电影 / 电影剧照 · 3D 渲染 · 角色 · 文本 / 排版 · 待推流
+电影 / 电影剧照 · 3D 渲染 · 角色 · 文本 / 排版 · 已推流
 
 查看 X 原帖：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [查看 X 原帖](https://x.com/taya_mama_AI/status/2095076567416451105)
 
@@ -86,7 +86,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@abs\_uiux](https://x.com/abs_uiux) · [查看 X 原帖](https://x.com/abs_uiux/status/2097242290859241833)
 
-电影 / 电影剧照 · 角色 · 待推流
+电影 / 电影剧照 · 角色 · 已推流
 
 **Summary (English):** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
@@ -183,7 +183,7 @@ Aspect Ratio: 9:16 vertical
 
 作者：[@AiwithBloodline](https://x.com/AiwithBloodline) · [查看 X 原帖](https://x.com/AiwithBloodline/status/2097168437957263851)
 
-电影 / 电影剧照 · 待推流
+电影 / 电影剧照 · 已推流
 
 查看 X 原帖：[@AiwithBloodline](https://x.com/AiwithBloodline) · [查看 X 原帖](https://x.com/AiwithBloodline/status/2096937365260624328)
 
@@ -215,7 +215,7 @@ Aspect Ratio: 9:16 vertical
 
 作者：[@AiwithBloodline](https://x.com/AiwithBloodline) · [查看 X 原帖](https://x.com/AiwithBloodline/status/2096885269270237431)
 
-3D 渲染 · 食品 / 饮料 · 待推流
+3D 渲染 · 食品 / 饮料 · 已推流
 
 查看 X 原帖：[@AiwithBloodline](https://x.com/AiwithBloodline) · [查看 X 原帖](https://x.com/AiwithBloodline/status/2096811796074311791)
 
@@ -284,5 +284,3 @@ Aspect Ratio: 9:16 vertical
 ---
 
 [探索 Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=gemini)
-
-目录参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

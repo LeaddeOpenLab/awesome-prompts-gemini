@@ -34,7 +34,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 作者：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [查看 X 原帖](https://x.com/taya_mama_AI/status/2096612096003965254)
 
-電影感 / 電影劇照 · 3D 渲染 · 角色 · 文字 / 字體排版 · 待推送
+電影感 / 電影劇照 · 3D 渲染 · 角色 · 文字 / 字體排版 · 已推流
 
 查看 X 原帖：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [查看 X 原帖](https://x.com/taya_mama_AI/status/2095076567416451105)
 
@@ -86,7 +86,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 作者：[@abs\_uiux](https://x.com/abs_uiux) · [查看 X 原帖](https://x.com/abs_uiux/status/2097242290859241833)
 
-電影感 / 電影劇照 · 角色 · 待推送
+電影感 / 電影劇照 · 角色 · 已推流
 
 **概括:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
@@ -183,7 +183,7 @@ Aspect Ratio: 9:16 vertical
 
 作者：[@AiwithBloodline](https://x.com/AiwithBloodline) · [查看 X 原帖](https://x.com/AiwithBloodline/status/2097168437957263851)
 
-電影感 / 電影劇照 · 待推送
+電影感 / 電影劇照 · 已推流
 
 查看 X 原帖：[@AiwithBloodline](https://x.com/AiwithBloodline) · [查看 X 原帖](https://x.com/AiwithBloodline/status/2096937365260624328)
 
@@ -215,7 +215,7 @@ Aspect Ratio: 9:16 vertical
 
 作者：[@AiwithBloodline](https://x.com/AiwithBloodline) · [查看 X 原帖](https://x.com/AiwithBloodline/status/2096885269270237431)
 
-3D 渲染 · 食物 / 飲品 · 待推送
+3D 渲染 · 食物 / 飲品 · 已推流
 
 查看 X 原帖：[@AiwithBloodline](https://x.com/AiwithBloodline) · [查看 X 原帖](https://x.com/AiwithBloodline/status/2096811796074311791)
 
@@ -284,5 +284,3 @@ Aspect Ratio: 9:16 vertical
 ---
 
 [探索 Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=gemini)
-
-目錄參考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

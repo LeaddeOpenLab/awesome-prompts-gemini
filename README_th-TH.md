@@ -34,7 +34,7 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 ผู้เขียน：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [โพสต์ต้นฉบับ](https://x.com/taya_mama_AI/status/2096612096003965254)
 
-ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ภาพเรนเดอร์ 3 มิติ · ตัวละคร · ข้อความ / การจัดพิมพ์ · รอเผยแพร่
+ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ภาพเรนเดอร์ 3 มิติ · ตัวละคร · ข้อความ / การจัดพิมพ์ · เผยแพร่แล้ว
 
 โพสต์ต้นฉบับ：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [โพสต์ต้นฉบับ](https://x.com/taya_mama_AI/status/2095076567416451105)
 
@@ -86,7 +86,7 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 ผู้เขียน：[@abs\_uiux](https://x.com/abs_uiux) · [โพสต์ต้นฉบับ](https://x.com/abs_uiux/status/2097242290859241833)
 
-ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ตัวละคร · รอเผยแพร่
+ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ตัวละคร · เผยแพร่แล้ว
 
 **สรุป:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
@@ -183,7 +183,7 @@ Aspect Ratio: 9:16 vertical
 
 ผู้เขียน：[@AiwithBloodline](https://x.com/AiwithBloodline) · [โพสต์ต้นฉบับ](https://x.com/AiwithBloodline/status/2097168437957263851)
 
-ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · รอเผยแพร่
+ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · เผยแพร่แล้ว
 
 โพสต์ต้นฉบับ：[@AiwithBloodline](https://x.com/AiwithBloodline) · [โพสต์ต้นฉบับ](https://x.com/AiwithBloodline/status/2096937365260624328)
 
@@ -215,7 +215,7 @@ Aspect Ratio: 9:16 vertical
 
 ผู้เขียน：[@AiwithBloodline](https://x.com/AiwithBloodline) · [โพสต์ต้นฉบับ](https://x.com/AiwithBloodline/status/2096885269270237431)
 
-ภาพเรนเดอร์ 3 มิติ · อาหาร / เครื่องดื่ม · รอเผยแพร่
+ภาพเรนเดอร์ 3 มิติ · อาหาร / เครื่องดื่ม · เผยแพร่แล้ว
 
 โพสต์ต้นฉบับ：[@AiwithBloodline](https://x.com/AiwithBloodline) · [โพสต์ต้นฉบับ](https://x.com/AiwithBloodline/status/2096811796074311791)
 
@@ -284,5 +284,3 @@ Aspect Ratio: 9:16 vertical
 ---
 
 [สำรวจ Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=gemini)
-
-แหล่งอ้างอิงการนำทาง: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

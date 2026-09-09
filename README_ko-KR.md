@@ -34,7 +34,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 작성자：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [원본 게시물](https://x.com/taya_mama_AI/status/2096612096003965254)
 
-시네마틱 / 영화 스틸컷 · 3D 렌더링 · 캐릭터 · 텍스트 / 타이포그래피 · 배포 대기
+시네마틱 / 영화 스틸컷 · 3D 렌더링 · 캐릭터 · 텍스트 / 타이포그래피 · 배포 완료
 
 원본 게시물：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [원본 게시물](https://x.com/taya_mama_AI/status/2095076567416451105)
 
@@ -86,7 +86,7 @@ BGM: 강한 비트가 있는 업템포의 리드미컬한 음악.
 
 작성자：[@abs\_uiux](https://x.com/abs_uiux) · [원본 게시물](https://x.com/abs_uiux/status/2097242290859241833)
 
-시네마틱 / 영화 스틸컷 · 캐릭터 · 배포 대기
+시네마틱 / 영화 스틸컷 · 캐릭터 · 배포 완료
 
 **요약:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
@@ -183,7 +183,7 @@ Aspect Ratio: 9:16 vertical
 
 작성자：[@AiwithBloodline](https://x.com/AiwithBloodline) · [원본 게시물](https://x.com/AiwithBloodline/status/2097168437957263851)
 
-시네마틱 / 영화 스틸컷 · 배포 대기
+시네마틱 / 영화 스틸컷 · 배포 완료
 
 원본 게시물：[@AiwithBloodline](https://x.com/AiwithBloodline) · [원본 게시물](https://x.com/AiwithBloodline/status/2096937365260624328)
 
@@ -215,7 +215,7 @@ Aspect Ratio: 9:16 vertical
 
 작성자：[@AiwithBloodline](https://x.com/AiwithBloodline) · [원본 게시물](https://x.com/AiwithBloodline/status/2096885269270237431)
 
-3D 렌더링 · 음식 / 음료 · 배포 대기
+3D 렌더링 · 음식 / 음료 · 배포 완료
 
 원본 게시물：[@AiwithBloodline](https://x.com/AiwithBloodline) · [원본 게시물](https://x.com/AiwithBloodline/status/2096811796074311791)
 
@@ -284,5 +284,3 @@ Aspect Ratio: 9:16 vertical
 ---
 
 [Leadde.ai 살펴보기 →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=gemini)
-
-탐색 참고: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

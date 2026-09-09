@@ -34,7 +34,7 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 Yazar：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Orijinal gönderi](https://x.com/taya_mama_AI/status/2096612096003965254)
 
-Sinematik / Film Karesi · 3D Modelleme · Karakter · Metin / Tipografi · Dağıtım bekliyor
+Sinematik / Film Karesi · 3D Modelleme · Karakter · Metin / Tipografi · Yayımlandı
 
 Orijinal gönderi：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Orijinal gönderi](https://x.com/taya_mama_AI/status/2095076567416451105)
 
@@ -86,7 +86,7 @@ BGM: Güçlü bir ritme sahip, hareketli ve tempolu müzik.
 
 Yazar：[@abs\_uiux](https://x.com/abs_uiux) · [Orijinal gönderi](https://x.com/abs_uiux/status/2097242290859241833)
 
-Sinematik / Film Karesi · Karakter · Dağıtım bekliyor
+Sinematik / Film Karesi · Karakter · Yayımlandı
 
 **Özet:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
@@ -183,7 +183,7 @@ Aspect Ratio: 9:16 vertical
 
 Yazar：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi](https://x.com/AiwithBloodline/status/2097168437957263851)
 
-Sinematik / Film Karesi · Dağıtım bekliyor
+Sinematik / Film Karesi · Yayımlandı
 
 Orijinal gönderi：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi](https://x.com/AiwithBloodline/status/2096937365260624328)
 
@@ -215,7 +215,7 @@ Yüksek derecede ayrıntılı minyatür ölçek, gerçekçi insan hareketi, krem
 
 Yazar：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi](https://x.com/AiwithBloodline/status/2096885269270237431)
 
-3D Modelleme · Yiyecek / İçecek · Dağıtım bekliyor
+3D Modelleme · Yiyecek / İçecek · Yayımlandı
 
 Orijinal gönderi：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi](https://x.com/AiwithBloodline/status/2096811796074311791)
 
@@ -284,5 +284,3 @@ Orijinal gönderi：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijin
 ---
 
 [Leadde.ai’yi keşfedin →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=gemini)
-
-Gezinme kaynağı: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

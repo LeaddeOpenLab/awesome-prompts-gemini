@@ -34,7 +34,7 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 Autor：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Originalbeitrag](https://x.com/taya_mama_AI/status/2096612096003965254)
 
-Kinematisch / Filmstill · 3D-Rendering · Charakter · Text / Typografie · Verteilung ausstehend
+Kinematisch / Filmstill · 3D-Rendering · Charakter · Text / Typografie · Veröffentlicht
 
 Originalbeitrag：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Originalbeitrag](https://x.com/taya_mama_AI/status/2095076567416451105)
 
@@ -86,7 +86,7 @@ BGM: Schnelle, rhythmische Musik mit einem starken Beat.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Originalbeitrag](https://x.com/abs_uiux/status/2097242290859241833)
 
-Kinematisch / Filmstill · Charakter · Verteilung ausstehend
+Kinematisch / Filmstill · Charakter · Veröffentlicht
 
 **Zusammenfassung:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
@@ -183,7 +183,7 @@ Aspect Ratio: 9:16 vertical
 
 Autor：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Originalbeitrag](https://x.com/AiwithBloodline/status/2097168437957263851)
 
-Kinematisch / Filmstill · Verteilung ausstehend
+Kinematisch / Filmstill · Veröffentlicht
 
 Originalbeitrag：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Originalbeitrag](https://x.com/AiwithBloodline/status/2096937365260624328)
 
@@ -215,7 +215,7 @@ Höchst detaillierter Miniaturmaßstab, realistische menschliche Bewegungen, cre
 
 Autor：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Originalbeitrag](https://x.com/AiwithBloodline/status/2096885269270237431)
 
-3D-Rendering · Essen / Trinken · Verteilung ausstehend
+3D-Rendering · Essen / Trinken · Veröffentlicht
 
 Originalbeitrag：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Originalbeitrag](https://x.com/AiwithBloodline/status/2096811796074311791)
 
@@ -284,5 +284,3 @@ Originalbeitrag：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Original
 ---
 
 [Leadde.ai entdecken →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=gemini)
-
-Navigationsvorlage: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

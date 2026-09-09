@@ -34,7 +34,7 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 Tác giả：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Bài gốc](https://x.com/taya_mama_AI/status/2096612096003965254)
 
-Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Nhân vật · Văn bản / Kiểu chữ · Chờ phân phối
+Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Nhân vật · Văn bản / Kiểu chữ · Đã xuất bản
 
 Bài gốc：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Bài gốc](https://x.com/taya_mama_AI/status/2095076567416451105)
 
@@ -86,7 +86,7 @@ Nhạc nền (BGM): Nhạc tiết tấu nhanh, nhịp nhàng với nhịp điệ
 
 Tác giả：[@abs\_uiux](https://x.com/abs_uiux) · [Bài gốc](https://x.com/abs_uiux/status/2097242290859241833)
 
-Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Chờ phân phối
+Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Đã xuất bản
 
 **Tóm tắt:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
@@ -183,7 +183,7 @@ Aspect Ratio: 9:16 vertical
 
 Tác giả：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](https://x.com/AiwithBloodline/status/2097168437957263851)
 
-Điện ảnh / Ảnh tĩnh từ phim · Chờ phân phối
+Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
 Bài gốc：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](https://x.com/AiwithBloodline/status/2096937365260624328)
 
@@ -215,7 +215,7 @@ Tỷ lệ thu nhỏ cực kỳ chi tiết, chuyển động con người chân t
 
 Tác giả：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](https://x.com/AiwithBloodline/status/2096885269270237431)
 
-Kết xuất 3D · Thực phẩm / Đồ uống · Chờ phân phối
+Kết xuất 3D · Thực phẩm / Đồ uống · Đã xuất bản
 
 Bài gốc：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](https://x.com/AiwithBloodline/status/2096811796074311791)
 
@@ -284,5 +284,3 @@ Bài gốc：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](h
 ---
 
 [Khám phá Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=gemini)
-
-Tham khảo điều hướng: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

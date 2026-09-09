@@ -34,7 +34,7 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 लेखक：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [मूल पोस्ट](https://x.com/taya_mama_AI/status/2096612096003965254)
 
-सिनेमैटिक / फ़िल्म स्टिल · 3D रेंडर · कैरेक्टर · टेक्स्ट / टाइपोग्राफी · प्रकाशन लंबित
+सिनेमैटिक / फ़िल्म स्टिल · 3D रेंडर · कैरेक्टर · टेक्स्ट / टाइपोग्राफी · प्रकाशित
 
 मूल पोस्ट：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [मूल पोस्ट](https://x.com/taya_mama_AI/status/2095076567416451105)
 
@@ -86,7 +86,7 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 लेखक：[@abs\_uiux](https://x.com/abs_uiux) · [मूल पोस्ट](https://x.com/abs_uiux/status/2097242290859241833)
 
-सिनेमैटिक / फ़िल्म स्टिल · कैरेक्टर · प्रकाशन लंबित
+सिनेमैटिक / फ़िल्म स्टिल · कैरेक्टर · प्रकाशित
 
 **सारांश:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
@@ -183,7 +183,7 @@ Aspect Ratio: 9:16 vertical
 
 लेखक：[@AiwithBloodline](https://x.com/AiwithBloodline) · [मूल पोस्ट](https://x.com/AiwithBloodline/status/2097168437957263851)
 
-सिनेमैटिक / फ़िल्म स्टिल · प्रकाशन लंबित
+सिनेमैटिक / फ़िल्म स्टिल · प्रकाशित
 
 मूल पोस्ट：[@AiwithBloodline](https://x.com/AiwithBloodline) · [मूल पोस्ट](https://x.com/AiwithBloodline/status/2096937365260624328)
 
@@ -215,7 +215,7 @@ Aspect Ratio: 9:16 vertical
 
 लेखक：[@AiwithBloodline](https://x.com/AiwithBloodline) · [मूल पोस्ट](https://x.com/AiwithBloodline/status/2096885269270237431)
 
-3D रेंडर · भोजन / पेय · प्रकाशन लंबित
+3D रेंडर · भोजन / पेय · प्रकाशित
 
 मूल पोस्ट：[@AiwithBloodline](https://x.com/AiwithBloodline) · [मूल पोस्ट](https://x.com/AiwithBloodline/status/2096811796074311791)
 
@@ -284,5 +284,3 @@ Aspect Ratio: 9:16 vertical
 ---
 
 [Leadde.ai देखें →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=gemini)
-
-नेविगेशन संदर्भ: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

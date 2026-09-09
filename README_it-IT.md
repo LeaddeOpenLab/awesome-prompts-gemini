@@ -34,7 +34,7 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 Autore：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Post originale](https://x.com/taya_mama_AI/status/2096612096003965254)
 
-Fermo immagine cinematografico / Still fotografico · Rendering 3D · Personaggio · Testo / Tipografia · Distribuzione in attesa
+Fermo immagine cinematografico / Still fotografico · Rendering 3D · Personaggio · Testo / Tipografia · Pubblicato
 
 Post originale：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Post originale](https://x.com/taya_mama_AI/status/2095076567416451105)
 
@@ -86,7 +86,7 @@ BGM: Musica ritmata e up-tempo con una battuta decisa.
 
 Autore：[@abs\_uiux](https://x.com/abs_uiux) · [Post originale](https://x.com/abs_uiux/status/2097242290859241833)
 
-Fermo immagine cinematografico / Still fotografico · Personaggio · Distribuzione in attesa
+Fermo immagine cinematografico / Still fotografico · Personaggio · Pubblicato
 
 **Riepilogo:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
@@ -183,7 +183,7 @@ Aspect Ratio: 9:16 vertical
 
 Autore：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Post originale](https://x.com/AiwithBloodline/status/2097168437957263851)
 
-Fermo immagine cinematografico / Still fotografico · Distribuzione in attesa
+Fermo immagine cinematografico / Still fotografico · Pubblicato
 
 Post originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Post originale](https://x.com/AiwithBloodline/status/2096937365260624328)
 
@@ -215,7 +215,7 @@ Scala in miniatura altamente dettagliata, movimento umano realistico, consistenz
 
 Autore：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Post originale](https://x.com/AiwithBloodline/status/2096885269270237431)
 
-Rendering 3D · Cibo / Bevande · Distribuzione in attesa
+Rendering 3D · Cibo / Bevande · Pubblicato
 
 Post originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Post originale](https://x.com/AiwithBloodline/status/2096811796074311791)
 
@@ -284,5 +284,3 @@ Post originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Post orig
 ---
 
 [Esplora Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=gemini)
-
-Riferimento di navigazione: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

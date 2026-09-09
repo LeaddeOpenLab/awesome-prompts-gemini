@@ -34,7 +34,7 @@ Star this repository to follow our daily prompt curation and find fresh creative
 
 Author：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Source](https://x.com/taya_mama_AI/status/2096612096003965254)
 
-Cinematic / Film Still · 3D Render · Character · Text / Typography · Pending distribution
+Cinematic / Film Still · 3D Render · Character · Text / Typography · Published
 
 Source：[@taya\_mama\_AI](https://x.com/taya_mama_AI) · [Source](https://x.com/taya_mama_AI/status/2095076567416451105)
 
@@ -86,7 +86,7 @@ BGM: Up-tempo, rhythmic music with a strong beat.
 
 Author：[@abs\_uiux](https://x.com/abs_uiux) · [Source](https://x.com/abs_uiux/status/2097242290859241833)
 
-Cinematic / Film Still · Character · Pending distribution
+Cinematic / Film Still · Character · Published
 
 **Summary:** Use the uploaded image of the adult man as the primary visual and identity reference for the main character in an office photocopier scene where miniature clones emerge.
 
@@ -183,7 +183,7 @@ Aspect Ratio: 9:16 vertical
 
 Author：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x.com/AiwithBloodline/status/2097168437957263851)
 
-Cinematic / Film Still · Pending distribution
+Cinematic / Film Still · Published
 
 Source：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x.com/AiwithBloodline/status/2096937365260624328)
 
@@ -215,7 +215,7 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 Author：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x.com/AiwithBloodline/status/2096885269270237431)
 
-3D Render · Food / Drink · Pending distribution
+3D Render · Food / Drink · Published
 
 Source：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x.com/AiwithBloodline/status/2096811796074311791)
 
@@ -284,5 +284,3 @@ Source：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x
 ---
 
 [Explore Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=gemini)
-
-Navigation reference: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
