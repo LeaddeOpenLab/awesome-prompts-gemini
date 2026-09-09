@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**4** Prompts · Latest addition: **2026-09-08**
+**5** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,31 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2097152276452561325"></a>
+
+### Ultra-realistic cinematic 10-second video of miniature Viking warriors preparing a gigantic wooden longship at dawn.
+
+Author：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Source](https://x.com/MohdAdnanA86218/status/2097152276452561325)
+
+Cinematic / Film Still · Published
+
+**Summary:** Ultra-realistic cinematic 10-second video of miniature Viking warriors preparing a gigantic wooden longship at dawn.
+
+<img src="covers/2097152276452561325.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic cinematic 10-second video, miniature Viking harbor at dawn. Tiny Viking warriors, each only a few inches tall, rush around a gigantic wooden longship, preparing it for battle. They carry miniature shields, axes, ropes, and spears, climb massive wooden ladders, tighten thick ropes, load supplies, and raise a huge red-and-black Viking sail. The enormous longship towers above them like a colossal war vessel. Mist floats over the cold Nordic water, wooden docks creak, torches flicker, and Viking flags snap dramatically in the wind.
+Camera: low-angle macro perspective at miniature scale, slow cinematic tracking shot moving through the busy harbor, ending with a dramatic wide shot of the tiny warriors standing proudly beneath the gigantic longship.
+Lighting: cold blue dawn light mixed with warm torchlight, volumetric fog, realistic reflections on water, dramatic shadows.
+Style: ultra-realistic, epic Viking movie aesthetic, highly detailed miniature environment, realistic textures, cinematic depth of field, natural motion, 4K, anamorphic lens, immersive atmosphere, no text, no watermark.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096612096003965254"></a>
 

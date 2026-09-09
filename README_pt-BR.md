@@ -14,7 +14,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**4** Prompts · Última adição: **2026-09-08**
+**5** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,28 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2097152276452561325"></a>
+
+### Tradução em andamento
+
+Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicação original](https://x.com/MohdAdnanA86218/status/2097152276452561325)
+
+Cinematográfico / Imagem de Filme · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2097152276452561325.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2096612096003965254"></a>
 

@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**4** Prompt · Son eklenen: **2026-09-08**
+**5** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,28 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2097152276452561325"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Orijinal gönderi](https://x.com/MohdAdnanA86218/status/2097152276452561325)
+
+Sinematik / Film Karesi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097152276452561325.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2096612096003965254"></a>
 
