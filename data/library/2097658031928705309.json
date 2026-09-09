@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T12:42:48.441Z",
+  "model": "gemini",
+  "prompt": "草原で泣いてるアクア",
+  "promptTranslations": {
+    "en": "Aqua crying in a grassy field"
+  },
+  "summaryTranslations": {
+    "en": "Illustration prompt depicting Aqua crying in a grassy field"
+  },
+  "translationVersion": 2,
+  "summary": "草原で泣いているアクアを描いたイラストプロンプト",
+  "summaryEn": "An illustration prompt depicting Aqua crying in a grassy field.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097658031928705309",
+    "canonicalUrl": "https://x.com/HopeAbsent/status/2097658031928705309",
+    "author": {
+      "username": "HopeAbsent",
+      "displayName": "霜月 士",
+      "profileUrl": "https://x.com/HopeAbsent"
+    },
+    "publishedAt": "2026-09-09T12:07:02.000Z",
+    "collectedAt": "2026-09-09T12:15:35.618Z",
+    "language": "ja",
+    "originalText": "綺麗な画像生成はできるけど、”ヘタウマ”をできるか実験\n草原で泣いてるアクア\nチャッピー、gemini、grok\n#このすば #konosuba #aqua https://t.co/DsrbL9w7pE",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRxg2eyaYAAlMJA.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRxg2eyaYAAlMJA.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRxg20Ga0AAg1bc.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRxg20Ga0AAg1bc.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRxg3GRaMAAi1mM.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRxg3GRaMAAi1mM.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 10,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 270
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/HopeAbsent/status/2097658031928705309",
+  "coverUrl": "https://pbs.twimg.com/media/HRxg2eyaYAAlMJA.jpg",
+  "coverPath": "images/2097658031928705309-1.jpg",
+  "imagePaths": [
+    "images/2097658031928705309-1.jpg",
+    "images/2097658031928705309-2.jpg",
+    "images/2097658031928705309-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRxg2eyaYAAlMJA",
+    "x-image:/media/HRxg20Ga0AAg1bc",
+    "x-image:/media/HRxg3GRaMAAi1mM",
+    "x-post:2097658031928705309"
+  ],
+  "analysis": {
+    "summary": "草原で泣いているアクアを描いたイラストプロンプト",
+    "summaryEn": "An illustration prompt depicting Aqua crying in a grassy field.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成提示词指定了角色阿库娅在草原上哭泣，三张附图分别使用不同模型生成，均呈现阿库娅在草原草地上嚎啕大哭的画面，与提示词高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "草原で泣いてるアクア",
+    "sourceRange": {
+      "start": 28,
+      "end": 38
+    },
+    "translations": {
+      "zh": "在草原上哭泣的阿库娅",
+      "en": "Aqua crying in a grassy field"
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "この素晴らしい世界に祝福を! (Konosuba) - Aqua"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
