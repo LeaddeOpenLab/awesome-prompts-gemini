@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T02:29:51.154Z",
+  "model": "gemini",
+  "prompt": "Ultra-realistic cinematic 10-second video, miniature Viking harbor at dawn. Tiny Viking warriors, each only a few inches tall, rush around a gigantic wooden longship, preparing it for battle. They carry miniature shields, axes, ropes, and spears, climb massive wooden ladders, tighten thick ropes, load supplies, and raise a huge red-and-black Viking sail. The enormous longship towers above them like a colossal war vessel. Mist floats over the cold Nordic water, wooden docks creak, torches flicker, and Viking flags snap dramatically in the wind.\nCamera: low-angle macro perspective at miniature scale, slow cinematic tracking shot moving through the busy harbor, ending with a dramatic wide shot of the tiny warriors standing proudly beneath the gigantic longship.\nLighting: cold blue dawn light mixed with warm torchlight, volumetric fog, realistic reflections on water, dramatic shadows.\nStyle: ultra-realistic, epic Viking movie aesthetic, highly detailed miniature environment, realistic textures, cinematic depth of field, natural motion, 4K, anamorphic lens, immersive atmosphere, no text, no watermark.",
+  "promptTranslations": {
+    "en": "Ultra-realistic cinematic 10-second video, miniature Viking harbor at dawn. Tiny Viking warriors, each only a few inches tall, rush around a gigantic wooden longship, preparing it for battle. They carry miniature shields, axes, ropes, and spears, climb massive wooden ladders, tighten thick ropes, load supplies, and raise a huge red-and-black Viking sail. The enormous longship towers above them like a colossal war vessel. Mist floats over the cold Nordic water, wooden docks creak, torches flicker, and Viking flags snap dramatically in the wind.\nCamera: low-angle macro perspective at miniature scale, slow cinematic tracking shot moving through the busy harbor, ending with a dramatic wide shot of the tiny warriors standing proudly beneath the gigantic longship.\nLighting: cold blue dawn light mixed with warm torchlight, volumetric fog, realistic reflections on water, dramatic shadows.\nStyle: ultra-realistic, epic Viking movie aesthetic, highly detailed miniature environment, realistic textures, cinematic depth of field, natural motion, 4K, anamorphic lens, immersive atmosphere, no text, no watermark."
+  },
+  "summaryTranslations": {
+    "en": "Ultra-realistic cinematic 10-second video of miniature Viking warriors preparing a gigantic wooden longship at dawn."
+  },
+  "translationVersion": 2,
+  "summary": "Ultra-realistic cinematic 10-second video of miniature Viking warriors preparing a gigantic wooden longship at dawn.",
+  "summaryEn": "Ultra-realistic cinematic 10-second video of miniature Viking warriors preparing a gigantic wooden longship at dawn.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097152276452561325",
+    "canonicalUrl": "https://x.com/MohdAdnanA86218/status/2097152276452561325",
+    "author": {
+      "username": "MohdAdnanA86218",
+      "displayName": "HeisenLegacy",
+      "profileUrl": "https://x.com/MohdAdnanA86218"
+    },
+    "publishedAt": "2026-09-08T02:37:20.000Z",
+    "collectedAt": "2026-09-08T11:32:47.871Z",
+    "language": "en",
+    "originalText": "Generated with Gemini Flash on @GeminiApp\n\nVedio prompt ⤵️⤵️:\n\nUltra-realistic cinematic 10-second video, miniature Viking harbor at dawn. Tiny Viking warriors, each only a few inches tall, rush around a gigantic wooden longship, preparing it for battle. They carry miniature shields, axes, ropes, and spears, climb massive wooden ladders, tighten thick ropes, load supplies, and raise a huge red-and-black Viking sail. The enormous longship towers above them like a colossal war vessel. Mist floats over the cold Nordic water, wooden docks creak, torches flicker, and Viking flags snap dramatically in the wind.\nCamera: low-angle macro perspective at miniature scale, slow cinematic tracking shot moving through the busy harbor, ending with a dramatic wide shot of the tiny warriors standing proudly beneath the gigantic longship.\nLighting: cold blue dawn light mixed with warm torchlight, volumetric fog, realistic reflections on water, dramatic shadows.\nStyle: ultra-realistic, epic Viking movie aesthetic, highly detailed miniature environment, realistic textures, cinematic depth of field, natural motion, 4K, anamorphic lens, immersive atmosphere, no text, no watermark.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/MohdAdnanA86218/status/2097152276452561325",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097152235780390912/img/cuaPGVxB2JI5fgDQ.jpg",
+        "analysisUrl": "https://x.com/MohdAdnanA86218/status/2097152276452561325"
+      }
+    ],
+    "metrics": {
+      "likeCount": 46,
+      "repostCount": 5,
+      "replyCount": 29,
+      "quoteCount": 1,
+      "viewCount": 1291
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\",\"nano banana\"]"
+    ]
+  },
+  "xUrl": "https://x.com/MohdAdnanA86218/status/2097152276452561325",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097152235780390912/img/cuaPGVxB2JI5fgDQ.jpg",
+  "coverPath": "covers/2097152276452561325.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097152235780390912",
+    "x-post:2097152276452561325"
+  ],
+  "analysis": {
+    "summary": "Ultra-realistic cinematic 10-second video of miniature Viking warriors preparing a gigantic wooden longship at dawn.",
+    "summaryEn": "Ultra-realistic cinematic 10-second video of miniature Viking warriors preparing a gigantic wooden longship at dawn.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "仅审核正文 Prompt；媒体效果与一致性待人工核对。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-realistic cinematic 10-second video, miniature Viking harbor at dawn. Tiny Viking warriors, each only a few inches tall, rush around a gigantic wooden longship, preparing it for battle. They carry miniature shields, axes, ropes, and spears, climb massive wooden ladders, tighten thick ropes, load supplies, and raise a huge red-and-black Viking sail. The enormous longship towers above them like a colossal war vessel. Mist floats over the cold Nordic water, wooden docks creak, torches flicker, and Viking flags snap dramatically in the wind.\nCamera: low-angle macro perspective at miniature scale, slow cinematic tracking shot moving through the busy harbor, ending with a dramatic wide shot of the tiny warriors standing proudly beneath the gigantic longship.\nLighting: cold blue dawn light mixed with warm torchlight, volumetric fog, realistic reflections on water, dramatic shadows.\nStyle: ultra-realistic, epic Viking movie aesthetic, highly detailed miniature environment, realistic textures, cinematic depth of field, natural motion, 4K, anamorphic lens, immersive atmosphere, no text, no watermark.",
+    "sourceRange": {
+      "start": 63,
+      "end": 1176
+    },
+    "translations": {
+      "zh": "超逼真电影感10秒视频，黎明时分的微缩维京港口。只有几英寸高的微型维京战士们在一艘巨大的木制维京长船周围奔忙，为战斗做准备。他们携带微型盾牌、斧头、绳索和长矛，攀爬巨大的木梯，勒紧粗绳，搬运补给，并升起一面巨大的红黑相间维京帆。庞大的长船矗立在他们上方，宛如一艘巨型战舰。薄雾飘浮在冰冷的北欧水面上，木质码头发出吱呀声，火把闪烁，维京旗帜在风中猎猎作响。\n镜头：微距低角度视角，穿过繁忙港口的缓慢电影感运镜追踪镜头，最后以小战士们骄傲地站立在巨大长船下方的戏剧性广角镜头结束。\n光影：冷蓝色晨光与温暖火把光交织，体积雾，水面逼真倒影，戏剧性阴影。\n风格：超逼真，史诗维京电影美学，高度细致的微缩环境，真实质感，电影景深，自然运动，4K，变形镜头，沉浸式氛围，无文字，无水印。",
+      "en": "Ultra-realistic cinematic 10-second video, miniature Viking harbor at dawn. Tiny Viking warriors, each only a few inches tall, rush around a gigantic wooden longship, preparing it for battle. They carry miniature shields, axes, ropes, and spears, climb massive wooden ladders, tighten thick ropes, load supplies, and raise a huge red-and-black Viking sail. The enormous longship towers above them like a colossal war vessel. Mist floats over the cold Nordic water, wooden docks creak, torches flicker, and Viking flags snap dramatically in the wind.\nCamera: low-angle macro perspective at miniature scale, slow cinematic tracking shot moving through the busy harbor, ending with a dramatic wide shot of the tiny warriors standing proudly beneath the gigantic longship.\nLighting: cold blue dawn light mixed with warm torchlight, volumetric fog, realistic reflections on water, dramatic shadows.\nStyle: ultra-realistic, epic Viking movie aesthetic, highly detailed miniature environment, realistic textures, cinematic depth of field, natural motion, 4K, anamorphic lens, immersive atmosphere, no text, no watermark."
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic miniature Viking harbor scene generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "manual",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
