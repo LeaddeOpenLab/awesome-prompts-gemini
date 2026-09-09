@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T16:46:08.973Z",
+  "model": "gemini",
+  "prompt": "時值黃昏，在一個可以看見沙灘的飯店房間，微弱的燈光中，一名黑色長直髮的女性，30歲左右，凹凸有致的身材，穿著一套黑色蕾絲內衣，站在窗邊側著頭看著窗外的沙灘。",
+  "promptTranslations": {
+    "en": "At dusk, in a hotel room overlooking the beach, in dim lighting, a woman with long straight black hair, around 30 years old, with a curvaceous figure, wearing a set of black lace lingerie, stands by the window with her head tilted, looking at the beach outside."
+  },
+  "summaryTranslations": {
+    "en": "At dusk in a beach hotel room, a long-haired woman wearing black lace lingerie looks out the window."
+  },
+  "translationVersion": 2,
+  "summary": "黃昏沙灘飯店房間內，穿著黑色蕾絲內衣看向窗外的長髮女子。",
+  "summaryEn": "A woman in black lace lingerie looking out at the beach from a hotel room at dusk.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097693389672394895",
+    "canonicalUrl": "https://x.com/bestcare0221/status/2097693389672394895",
+    "author": {
+      "username": "bestcare0221",
+      "displayName": "Bestcare",
+      "profileUrl": "https://x.com/bestcare0221"
+    },
+    "publishedAt": "2026-09-09T14:27:32.000Z",
+    "collectedAt": "2026-09-09T16:16:31.563Z",
+    "language": "zh",
+    "originalText": "類似的提示句，這是找Gemini做的\n時值黃昏，在一個可以看見沙灘的飯店房間，微弱的燈光中，一名黑色長直髮的女性，30歲左右，凹凸有致的身材，穿著一套黑色蕾絲內衣，站在窗邊側著頭看著窗外的沙灘。\n\n凹凸有致的身材，穿著一套黑色蕾絲內衣對chat gpt來說似乎太刺激了 https://t.co/kmN2KO3eQW",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRyA1WjbIAA44_R.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRyA1WjbIAA44_R.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 15
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/bestcare0221/status/2097693389672394895",
+  "coverUrl": "https://pbs.twimg.com/media/HRyA1WjbIAA44_R.jpg",
+  "coverPath": "images/2097693389672394895-1.jpg",
+  "imagePaths": [
+    "images/2097693389672394895-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRyA1WjbIAA44_R",
+    "x-post:2097693389672394895"
+  ],
+  "analysis": {
+    "summary": "黃昏沙灘飯店房間內，穿著黑色蕾絲內衣看向窗外的長髮女子。",
+    "summaryEn": "A woman in black lace lingerie looking out at the beach from a hotel room at dusk.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图像完整体现了黄昏海景、酒店客房微光以及身穿黑色蕾丝内衣侧望窗外的黑发女性。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "時值黃昏，在一個可以看見沙灘的飯店房間，微弱的燈光中，一名黑色長直髮的女性，30歲左右，凹凸有致的身材，穿著一套黑色蕾絲內衣，站在窗邊側著頭看著窗外的沙灘。",
+    "sourceRange": {
+      "start": 19,
+      "end": 97
+    },
+    "translations": {
+      "zh": "時值黃昏，在一個可以看見沙灘的飯店房間，微弱的燈光中，一名黑色長直髮的女性，30歲左右，凹凸有致的身材，穿著一套黑色蕾絲內衣，站在窗邊側著頭看著窗外的沙灘。",
+      "en": "At dusk, in a hotel room overlooking the beach, in dim lighting, a woman with long straight black hair around 30 years old with a shapely figure, wearing black lace lingerie, stands by the window with her head turned looking out at the beach."
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "text-to-image",
+    "useCase": "文生图",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "lingerie"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
