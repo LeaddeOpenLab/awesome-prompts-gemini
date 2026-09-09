@@ -30,20 +30,23 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2097152276452561325"></a>
 
-### Traducción en curso
+### Vídeo cinematográfico ultrarrealista de 10 segundos de guerreros vikingos en miniatura preparando un gigantesco drakkar de madera al amanecer.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicación original](https://x.com/MohdAdnanA86218/status/2097152276452561325)
 
 Cine / Fotograma de película · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Vídeo cinematográfico ultrarrealista de 10 segundos de guerreros vikingos en miniatura preparando un gigantesco drakkar de madera al amanecer.
 
 <img src="covers/2097152276452561325.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Vídeo cinematográfico ultrarrealista de 10 segundos, puerto vikingo en miniatura al amanecer. Pequeños guerreros vikingos, cada uno de solo unas pocas pulgadas de altura, corren alrededor de un gigantesco drakkar de madera, preparándolo para la batalla. Llevan escudos, hachas, cuerdas y lanzas en miniatura, suben por enormes escaleras de madera, tensan gruesas cuerdas, cargan suministros e izan una enorme vela vikinga roja y negra. El descomunal drakkar se alza sobre ellos como un colosal barco de guerra. La niebla flota sobre las frías aguas nórdicas, los muelles de madera crujen, las antorchas parpadean y las banderas vikingas ondean dramáticamente con el viento.
+Cámara: perspectiva macro de ángulo bajo a escala en miniatura, toma de seguimiento cinematográfica lenta que avanza por el ajetreado puerto, terminando con un dramático plano general de los diminutos guerreros de pie con orgullo bajo el gigantesco drakkar.
+Iluminación: luz fría y azul del amanecer mezclada con la cálida luz de las antorchas, niebla volumétrica, reflejos realistas en el agua, sombras dramáticas.
+Estilo: ultrarrealista, estética épica de película vikinga, entorno en miniatura sumamente detallado, texturas realistas, profundidad de campo cinematográfica, movimiento natural, 4K, lente anamórfica, atmósfera inmersiva, sin texto, sin marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

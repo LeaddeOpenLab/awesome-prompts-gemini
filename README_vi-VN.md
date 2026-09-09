@@ -30,20 +30,23 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2097152276452561325"></a>
 
-### Đang dịch
+### Video điện ảnh 10 giây siêu thực về những chiến binh Viking thu nhỏ đang chuẩn bị chiếc thuyền rồng bằng gỗ khổng lồ lúc bình minh.
 
 Tác giả：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Bài gốc](https://x.com/MohdAdnanA86218/status/2097152276452561325)
 
 Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Video điện ảnh 10 giây siêu thực về những chiến binh Viking thu nhỏ đang chuẩn bị chiếc thuyền rồng bằng gỗ khổng lồ lúc bình minh.
 
 <img src="covers/2097152276452561325.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Video điện ảnh 10 giây siêu thực, bến cảng Viking thu nhỏ lúc bình minh. Những chiến binh Viking tí hon, mỗi người chỉ cao vài inch, tất bật xung quanh một chiếc thuyền rồng bằng gỗ khổng lồ, chuẩn bị cho trận chiến. Họ mang theo khiên, rìu, dây thừng và giáo thu nhỏ, leo lên những chiếc thang gỗ đồ sộ, siết chặt những sợi dây thừng dày, chất đồ tiếp tế và kéo cánh buồm Viking lớn màu đỏ đen lên. Chiếc thuyền rồng khổng lồ sừng sững trên đầu họ như một chiến hạm khổng lồ. Sương mù trôi lơ lửng trên mặt nước Bắc Âu lạnh giá, bến tàu bằng gỗ cót két, đuốc bập bùng, và cờ Viking phần phật bay đầy kịch tính trong gió.
+Camera: góc nhìn cận cảnh góc thấp ở quy mô thu nhỏ, cú máy theo dõi điện ảnh chuyển động chậm đi qua bến cảng bận rộn, kết thúc bằng một cảnh quay toàn cảnh kịch tính về những chiến binh tí hon đứng kiêu hãnh bên dưới chiếc thuyền rồng khổng lồ.
+Ánh sáng: ánh sáng bình minh màu xanh lạnh kết hợp với ánh đuốc ấm áp, sương mù thể tích, hình ảnh phản chiếu chân thực trên mặt nước, bóng đổ ấn tượng.
+Phong cách: siêu thực, thẩm mỹ phim Viking sử thi, môi trường thu nhỏ có độ chi tiết cao, kết cấu chân thực, độ sâu trường ảnh điện ảnh, chuyển động tự nhiên, 4K, ống kính anamorphic, bầu không khí đắm chìm, không có văn bản, không có watermark.
 ```
 
 [↑ Về danh mục](#catalog)

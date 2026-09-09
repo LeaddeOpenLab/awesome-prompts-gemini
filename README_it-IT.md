@@ -30,20 +30,23 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2097152276452561325"></a>
 
-### Traduzione in corso
+### Video cinematografico ultra-realistico di 10 secondi di guerrieri vichinghi in miniatura che preparano un gigantesco drakkar di legno all'alba.
 
 Autore：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Post originale](https://x.com/MohdAdnanA86218/status/2097152276452561325)
 
 Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Video cinematografico ultra-realistico di 10 secondi di guerrieri vichinghi in miniatura che preparano un gigantesco drakkar di legno all'alba.
 
 <img src="covers/2097152276452561325.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Video cinematografico ultra-realistico di 10 secondi, porto vichingo in miniatura all'alba. Minuscoli guerrieri vichinghi, alti ciascuno solo pochi centimetri, si affrettano attorno a un gigantesco drakkar di legno, preparandolo per la battaglia. Trasportano scudi in miniatura, asce, funi e lance, salgono su imponenti scale di legno, stringono grosse corde, caricano provviste e issano un'enorme vela vichinga rossa e nera. L'enorme drakkar si erge sopra di loro come una colossale nave da guerra. La nebbia fluttua sull'acqua fredda nordica, i moli di legno scricchiolano, le torce tremolano e le bandiere vichinghe sventolano drammaticamente nel vento.
+Telecamera: prospettiva macro dal basso in scala miniaturizzata, lento movimento di macchina cinematografico che attraversa il porto affollato, per terminare con una drammatica inquadratura ampia dei minuscoli guerrieri in posa orgogliosa sotto il gigantesco drakkar.
+Illuminazione: luce fredda e bluastra dell'alba mista alla calda luce delle torce, nebbia volumetrica, riflessi realistici sull'acqua, ombre drammatiche.
+Stile: ultra-realistico, estetica epica da film vichingo, ambiente in miniatura altamente dettagliato, texture realistiche, profondità di campo cinematografica, movimento naturale, 4K, lente anamorfica, atmosfera immersiva, nessun testo, nessun watermark.
 ```
 
 [↑ Torna alle categorie](#catalog)

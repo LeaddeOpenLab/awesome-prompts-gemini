@@ -30,20 +30,23 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2097152276452561325"></a>
 
-### Übersetzung läuft
+### Ultrarealistisches, filmisches 10-Sekunden-Video von Miniatur-Wikingerkriegern, die im Morgengrauen ein gigantisches hölzernes Langschiff vorbereiten.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Originalbeitrag](https://x.com/MohdAdnanA86218/status/2097152276452561325)
 
 Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ultrarealistisches, filmisches 10-Sekunden-Video von Miniatur-Wikingerkriegern, die im Morgengrauen ein gigantisches hölzernes Langschiff vorbereiten.
 
 <img src="covers/2097152276452561325.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultrarealistisches, filmisches 10-Sekunden-Video, Miniatur-Wikingerhafen im Morgengrauen. Winzige Wikingerkrieger, jeder nur wenige Zentimeter groß, eilen um ein gigantisches hölzernes Langschiff herum und bereiten es auf die Schlacht vor. Sie tragen Miniaturschilde, Äxte, Seile und Speere, klettern auf massive Holzleitern, spannen dicke Taue, verladen Vorräte und hissen ein riesiges rot-schwarzes Wikingerssegel. Das gewaltige Langschiff ragt wie ein kolossales Kriegsschiff über ihnen auf. Nebel schwebt über dem kalten nordischen Wasser, Holzstege knarren, Fackeln flackern und Wikingerflaggen wehen dramatisch im Wind.
+Kamera: Froschperspektive-Makroansicht im Miniaturmaßstab, langsame filmische Kamerafahrt durch den geschäftigen Hafen, endend mit einer dramatischen Weitwinkelaufnahme der winzigen Krieger, die stolz unter dem gigantischen Langschiff stehen.
+Beleuchtung: kaltes blaues Morgenlicht gemischt mit warmem Fackelschein, volumetrischer Nebel, realistische Reflexionen auf dem Wasser, dramatische Schatten.
+Stil: ultrarealistisch, epische Wikingerfilm-Ästhetik, hochdetaillierte Miniaturumgebung, realistische Texturen, filmische Tiefenschärfe, natürliche Bewegung, 4K, anamorphotisches Objektiv, immersive Atmosphäre, kein Text, kein Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

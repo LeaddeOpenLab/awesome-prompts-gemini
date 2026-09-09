@@ -30,20 +30,23 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2097152276452561325"></a>
 
-### Traduction en cours
+### Vidéo cinématographique ultraréaliste de 10 secondes de guerriers vikings miniatures préparant un gigantesque drakkar en bois à l'aube.
 
 Auteur：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publication originale](https://x.com/MohdAdnanA86218/status/2097152276452561325)
 
 Image cinématographique / Photogramme de film · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Vidéo cinématographique ultraréaliste de 10 secondes de guerriers vikings miniatures préparant un gigantesque drakkar en bois à l'aube.
 
 <img src="covers/2097152276452561325.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Vidéo cinématographique ultraréaliste de 10 secondes, port viking miniature à l'aube. De minuscules guerriers vikings, mesurant chacun quelques centimètres à peine, s'affairent autour d'un gigantesque drakkar en bois pour le préparer au combat. Ils portent des boucliers miniatures, des haches, des cordes et des lances, grimpent sur d'immenses échelles en bois, tendent d'épaisses cordes, chargent des provisions et hissent une immense voile viking rouge et noire. L'énorme drakkar s'élève au-dessus d'eux tel un colossal navire de guerre. La brume flotte sur l'eau nordique glaciale, les quais en bois craquent, les torches vacillent et les bannières vikings claquent dramatiquement au vent.
+Caméra : perspective macro en contre-plongée à échelle miniature, travelling cinématographique lent traversant le port animé, se terminant par un plan large dramatique des minuscules guerriers se tenant fièrement sous le gigantesque drakkar.
+Éclairage : lumière froide et bleue de l'aube mêlée à la lueur chaleureuse des torches, brume volumétrique, reflets réalistes sur l'eau, ombres dramatiques.
+Style : ultraréaliste, esthétique épique de film viking, environnement miniature extrêmement détaillé, textures réalistes, profondeur de champ cinématographique, mouvement naturel, 4K, objectif anamorphique, atmosphère immersive, sans texte, sans filigrane.
 ```
 
 [↑ Retour aux catégories](#catalog)

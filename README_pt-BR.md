@@ -30,20 +30,23 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2097152276452561325"></a>
 
-### Tradução em andamento
+### Vídeo cinematográfico ultrarrealista de 10 segundos de guerreiros vikings em miniatura preparando um gigantesco drácar de madeira ao amanhecer.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicação original](https://x.com/MohdAdnanA86218/status/2097152276452561325)
 
 Cinematográfico / Imagem de Filme · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Vídeo cinematográfico ultrarrealista de 10 segundos de guerreiros vikings em miniatura preparando um gigantesco drácar de madeira ao amanhecer.
 
 <img src="covers/2097152276452561325.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Vídeo cinematográfico ultrarrealista de 10 segundos, porto viking em miniatura ao amanhecer. Minúsculos guerreiros vikings, cada um com apenas alguns centímetros de altura, correm ao redor de um gigantesco drácar de madeira, preparando-o para a batalha. Eles carregam escudos em miniatura, machados, cordas e lanças, sobem em enormes escadas de madeira, apertam cordas grossas, carregam suprimentos e içam uma imensa vela viking vermelha e preta. O enorme drácar ergue-se sobre eles como uma colossal embarcação de guerra. A névoa paira sobre a fria água nórdica, as docas de madeira rangem, as tochas tremulam e as bandeiras vikings estalam dramaticamente ao vento.
+Câmera: perspectiva macro em ângulo baixo em escala de miniatura, plano de rastreamento cinematográfico lento movendo-se pelo porto movimentado, terminando com um plano geral dramático dos minúsculos guerreiros em pé com orgulho sob o gigantesco drácar.
+Iluminação: luz fria e azulada do amanhecer misturada com a luz quente das tochas, névoa volumétrica, reflexos realistas na água, sombras dramáticas.
+Estilo: ultrarrealista, estética épica de filme viking, ambiente em miniatura altamente detalhado, texturas realistas, profundidade de campo cinematográfica, movimento natural, 4K, lente anamórfica, atmosfera imersiva, sem texto, sem marca d'água.
 ```
 
 [↑ Voltar às categorias](#catalog)

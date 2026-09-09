@@ -30,20 +30,23 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2097152276452561325"></a>
 
-### Tradução em curso
+### Vídeo cinematográfico ultrarrealista de 10 segundos de guerreiros vikings em miniatura a preparar um gigantesco drakkar de madeira ao amanhecer.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicação original](https://x.com/MohdAdnanA86218/status/2097152276452561325)
 
 Cena de Cinema / Fotograma · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Vídeo cinematográfico ultrarrealista de 10 segundos de guerreiros vikings em miniatura a preparar um gigantesco drakkar de madeira ao amanhecer.
 
 <img src="covers/2097152276452561325.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Vídeo cinematográfico ultrarrealista de 10 segundos, porto viking em miniatura ao amanhecer. Minúsculos guerreiros vikings, cada um com apenas alguns centímetros de altura, correm em redor de um gigantesco drakkar de madeira, preparando-o para a batalha. Carregam escudos em miniatura, machados, cordas e lanças, sobem enormes escadas de madeira, esticam cordas grossas, carregam mantimentos e içam uma enorme vela viking vermelha e preta. O imenso drakkar eleva-se sobre eles como uma colossal embarcação de guerra. O nevoeiro paira sobre a água nórdica e gélida, os cais de madeira rangem, as tochas tremeluzem e as bandeiras vikings esvoaçam dramaticamente ao vento.
+Câmara: perspetiva macro em ângulo baixo à escala de miniatura, travelling cinematográfico lento a percorrer o porto movimentado, terminando com um plano geral dramático dos minúsculos guerreiros de pé com orgulho sob o gigantesco drakkar.
+Iluminação: luz fria e azulada da alvorada misturada com a luz quente das tochas, nevoeiro volumétrico, reflexos realistas na água, sombras dramáticas.
+Estilo: ultrarrealista, estética épica de filme viking, ambiente em miniatura altamente detalhado, texturas realistas, profundidade de campo cinematográfica, movimento natural, 4K, lente anamórfica, atmosfera envolvente, sem texto, sem marca de água.
 ```
 
 [↑ Voltar às categorias](#catalog)

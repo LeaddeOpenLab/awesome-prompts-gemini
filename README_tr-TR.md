@@ -30,20 +30,23 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2097152276452561325"></a>
 
-### Çeviri sürüyor
+### Şafak vaktinde devasa ahşap bir Viking gemisini hazırlayan minyatür Viking savaşçılarının ultra gerçekçi, sinematik 10 saniyelik videosu.
 
 Yazar：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Orijinal gönderi](https://x.com/MohdAdnanA86218/status/2097152276452561325)
 
 Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Şafak vaktinde devasa ahşap bir Viking gemisini hazırlayan minyatür Viking savaşçılarının ultra gerçekçi, sinematik 10 saniyelik videosu.
 
 <img src="covers/2097152276452561325.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ultra gerçekçi, sinematik 10 saniyelik video, şafak vaktinde minyatür Viking limanı. Her biri yalnızca birkaç santimetre boyunda olan küçücük Viking savaşçıları, devasa ahşap bir Viking gemisinin etrafında koşturup onu savaşa hazırlıyor. Minyatür kalkanlar, baltalar, halatlar ve mızraklar taşıyor, devasa ahşap merdivenlere tırmanıyor, kalın halatları geriyor, erzak yüklüyor ve devasa kırmızı-siyah bir Viking yelkenini göndere çekiyorlar. Heybetli Viking gemisi, muazzam bir savaş gemisi gibi tepelerinde yükseliyor. Soğuk İskandinav sularının üzerinde sis süzülüyor, ahşap iskeleler gıcırdıyor, meşaleler titreşiyor ve Viking bayrakları rüzgarda dramatik bir şekilde dalgalanıyor.
+Kamera: minyatür ölçekte alt açı makro perspektifi, kalabalık limanda ilerleyen yavaş ve sinematik kaydırma çekimi; küçücük savaşçıların devasa Viking gemisinin altında gururla durduğu dramatik bir geniş açılı çekimle son buluyor.
+Aydınlatma: sıcak meşale ışığıyla karışan soğuk mavi şafak ışığı, hacimsel sis, su üzerinde gerçekçi yansımalar, dramatik gölgeler.
+Stil: ultra gerçekçi, epik Viking filmi estetiği, son derece detaylı minyatür ortam, gerçekçi dokular, sinematik alan derinliği, doğal hareket, 4K, anamorfik lens, içine çeken atmosfer, metin yok, filigran yok.
 ```
 
 [↑ Kategorilere dön](#catalog)
