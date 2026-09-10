@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T08:24:06.412Z",
+  "model": "gemini",
+  "prompt": "0–2s: Wide aerial shot of a massive volcano at sunset. Smoke begins pouring from the crater as the ground subtly shakes.\n\n2–5s: The volcano suddenly erupts, blasting a huge column of ash, smoke, and glowing lava into the sky.\n\n5–8s: Fiery lava streams down the mountainside while dark ash clouds expand rapidly overhead. The camera pulls back dramatically.\n\n8–10s: Final ultra-wide shot as lightning flashes inside the ash cloud and the eruption lights up the landscape.\n\nStyle: Photorealistic, cinematic disaster-film look, dramatic scale, volumetric smoke, glowing lava, realistic debris, strong camera shake, epic sound design.",
+  "promptTranslations": {
+    "en": "0–2s: Wide aerial shot of a massive volcano at sunset. Smoke begins pouring from the crater as the ground subtly shakes.\n\n2–5s: The volcano suddenly erupts, blasting a huge column of ash, smoke, and glowing lava into the sky.\n\n5–8s: Fiery lava streams down the mountainside while dark ash clouds expand rapidly overhead. The camera pulls back dramatically.\n\n8–10s: Final ultra-wide shot as lightning flashes inside the ash cloud and the eruption lights up the landscape.\n\nStyle: Photorealistic, cinematic disaster-film look, dramatic scale, volumetric smoke, glowing lava, realistic debris, strong camera shake, epic sound design."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic time-stamped prompt depicting a massive volcano erupting at sunset with lava, ash clouds, and lightning."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic time-stamped prompt depicting a massive volcano erupting at sunset with lava, ash clouds, and lightning.",
+  "summaryEn": "Cinematic time-stamped prompt depicting a massive volcano erupting at sunset with lava, ash clouds, and lightning.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097929264158945776",
+    "canonicalUrl": "https://x.com/abs_uiux/status/2097929264158945776",
+    "author": {
+      "username": "abs_uiux",
+      "displayName": "Abkr Sadiq",
+      "profileUrl": "https://x.com/abs_uiux"
+    },
+    "publishedAt": "2026-09-10T06:04:48.000Z",
+    "collectedAt": "2026-09-10T08:16:56.591Z",
+    "language": "en",
+    "originalText": "Mother Nature is terrifyingly beautiful. If you woke up to this view, what’s your first move?  Rate this disaster movie scene from 1-10! \n\nCreate with Google veo 3.1 on Gemini.\n\nPrompt \n\n0–2s: Wide aerial shot of a massive volcano at sunset. Smoke begins pouring from the crater as the ground subtly shakes.\n\n2–5s: The volcano suddenly erupts, blasting a huge column of ash, smoke, and glowing lava into the sky.\n\n5–8s: Fiery lava streams down the mountainside while dark ash clouds expand rapidly overhead. The camera pulls back dramatically.\n\n8–10s: Final ultra-wide shot as lightning flashes inside the ash cloud and the eruption lights up the landscape.\n\nStyle: Photorealistic, cinematic disaster-film look, dramatic scale, volumetric smoke, glowing lava, realistic debris, strong camera shake, epic sound design.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/abs_uiux/status/2097929264158945776",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097928628923224069/img/sWSOJO5lVwQUOEJA.jpg",
+        "analysisUrl": "https://x.com/abs_uiux/status/2097929264158945776"
+      }
+    ],
+    "metrics": {
+      "likeCount": 14,
+      "repostCount": 0,
+      "replyCount": 12,
+      "quoteCount": 0,
+      "viewCount": 513
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/abs_uiux/status/2097929264158945776",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097928628923224069/img/sWSOJO5lVwQUOEJA.jpg",
+  "coverPath": "covers/2097929264158945776.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097928628923224069",
+    "x-post:2097929264158945776"
+  ],
+  "analysis": {
+    "summary": "Cinematic time-stamped prompt depicting a massive volcano erupting at sunset with lava, ash clouds, and lightning.",
+    "summaryEn": "Cinematic time-stamped prompt depicting a massive volcano erupting at sunset with lava, ash clouds, and lightning.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated video matches the timeline progression: initial smoke, explosive eruption, lava flow, and lightning within the ash cloud."
+    },
+    "videoQuality": null,
+    "originalPrompt": "0–2s: Wide aerial shot of a massive volcano at sunset. Smoke begins pouring from the crater as the ground subtly shakes.\n\n2–5s: The volcano suddenly erupts, blasting a huge column of ash, smoke, and glowing lava into the sky.\n\n5–8s: Fiery lava streams down the mountainside while dark ash clouds expand rapidly overhead. The camera pulls back dramatically.\n\n8–10s: Final ultra-wide shot as lightning flashes inside the ash cloud and the eruption lights up the landscape.\n\nStyle: Photorealistic, cinematic disaster-film look, dramatic scale, volumetric smoke, glowing lava, realistic debris, strong camera shake, epic sound design.",
+    "sourceRange": {
+      "start": 187,
+      "end": 817
+    },
+    "translations": {
+      "zh": "0–2秒：日落时分一座巨大火山的宽画幅航拍镜头。随着地面微微震颤，浓烟开始从火山口涌出。\n\n2–5秒：火山突然喷发，向空中喷射出巨大的火山灰、浓烟和炽热岩浆柱。\n\n5–8秒：炽热的岩浆沿着山坡倾泻而下，头顶黑暗的火山灰云迅速蔓延。镜头戏剧性拉远。\n\n8–10秒：最终的超广角镜头，闪电在火山灰云中闪烁，喷发照亮整个地貌。\n\n风格：写实逼真，电影灾难片质感，宏大尺度，体积烟雾，发光岩浆，逼真碎屑，强烈镜头晃动，史诗级音效设计。",
+      "en": "0–2s: Wide aerial shot of a massive volcano at sunset. Smoke begins pouring from the crater as the ground subtly shakes.\n\n2–5s: The volcano suddenly erupts, blasting a huge column of ash, smoke, and glowing lava into the sky.\n\n5–8s: Fiery lava streams down the mountainside while dark ash clouds expand rapidly overhead. The camera pulls back dramatically.\n\n8–10s: Final ultra-wide shot as lightning flashes inside the ash cloud and the eruption lights up the landscape.\n\nStyle: Photorealistic, cinematic disaster-film look, dramatic scale, volumetric smoke, glowing lava, realistic debris, strong camera shake, epic sound design."
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic disaster film sequence",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
