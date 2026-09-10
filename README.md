@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**7** Prompts · Latest addition: **2026-09-09**
+**8** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,36 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2097929264158945776"></a>
+
+### Cinematic time-stamped prompt depicting a massive volcano erupting at sunset with lava, ash clouds, and lightning.
+
+Author：[@abs\_uiux](https://x.com/abs_uiux) · [Source](https://x.com/abs_uiux/status/2097929264158945776)
+
+Cinematic / Film Still · Landscape / Nature · Published
+
+**Summary:** Cinematic time-stamped prompt depicting a massive volcano erupting at sunset with lava, ash clouds, and lightning.
+
+<img src="covers/2097929264158945776.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+0–2s: Wide aerial shot of a massive volcano at sunset. Smoke begins pouring from the crater as the ground subtly shakes.
+
+2–5s: The volcano suddenly erupts, blasting a huge column of ash, smoke, and glowing lava into the sky.
+
+5–8s: Fiery lava streams down the mountainside while dark ash clouds expand rapidly overhead. The camera pulls back dramatically.
+
+8–10s: Final ultra-wide shot as lightning flashes inside the ash cloud and the eruption lights up the landscape.
+
+Style: Photorealistic, cinematic disaster-film look, dramatic scale, volumetric smoke, glowing lava, realistic debris, strong camera shake, epic sound design.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097152276452561325"></a>
 
