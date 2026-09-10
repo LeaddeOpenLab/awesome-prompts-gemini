@@ -35,20 +35,28 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2097929264158945776"></a>
 
-### Đang dịch
+### Lời nhắc điện ảnh có mốc thời gian mô tả một ngọn núi lửa khổng lồ phun trào lúc hoàng hôn với dung nham, mây tro bụi và sấm sét.
 
 Tác giả：[@abs\_uiux](https://x.com/abs_uiux) · [Bài gốc](https://x.com/abs_uiux/status/2097929264158945776)
 
 Điện ảnh / Ảnh tĩnh từ phim · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc điện ảnh có mốc thời gian mô tả một ngọn núi lửa khổng lồ phun trào lúc hoàng hôn với dung nham, mây tro bụi và sấm sét.
 
 <img src="covers/2097929264158945776.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+0–2 giây: Cảnh quay góc rộng từ trên không của một ngọn núi lửa khổng lồ lúc hoàng hôn. Khói bắt đầu tuôn ra từ miệng núi lửa khi mặt đất rung chuyển nhẹ.
+
+2–5 giây: Núi lửa bất ngờ phun trào, bắn tung một cột tro bụi khổng lồ, khói và dung nham rực sáng lên bầu trời.
+
+5–8 giây: Dòng dung nham rực lửa chảy xiết xuống sườn núi trong khi những đám mây tro bụi đen kịt lan nhanh trên đỉnh đầu. Máy quay lùi lại đầy kịch tính.
+
+8–10 giây: Cảnh quay góc siêu rộng cuối cùng khi tia sét lóe lên bên trong đám mây tro bụi và vụ phun trào thắp sáng toàn bộ cảnh quan.
+
+Phong cách: Chân thực như ảnh chụp, phong cách phim thảm họa điện ảnh, quy mô ấn tượng, khói thể tích (volumetric smoke), dung nham phát sáng, mảnh vỡ chân thực, máy quay rung lắc mạnh, thiết kế âm thanh hoành tráng.
 ```
 
 [↑ Về danh mục](#catalog)

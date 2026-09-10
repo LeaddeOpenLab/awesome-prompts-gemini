@@ -35,20 +35,28 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2097929264158945776"></a>
 
-### Tradução em curso
+### Prompt cinematográfico com marcas temporais que retrata um enorme vulcão em erupção ao pôr do sol com lava, nuvens de cinzas e relâmpagos.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicação original](https://x.com/abs_uiux/status/2097929264158945776)
 
 Cena de Cinema / Fotograma · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt cinematográfico com marcas temporais que retrata um enorme vulcão em erupção ao pôr do sol com lava, nuvens de cinzas e relâmpagos.
 
 <img src="covers/2097929264158945776.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+0–2s: Plano aéreo amplo de um vulcão maciço ao pôr do sol. Começa a sair fumo da cratera enquanto o chão treme subtilmente.
+
+2–5s: O vulcão entra subitamente em erupção, projetando uma enorme coluna de cinzas, fumo e lava incandescente para o céu.
+
+5–8s: Rios de lava ardente descem pela encosta da montanha enquanto nuvens escuras de cinzas se expandem rapidamente no ar. A câmara recua dramaticamente.
+
+8–10s: Plano final ultralargo com relâmpagos a rasgar a nuvem de cinzas e a erupção a iluminar a paisagem.
+
+Estilo: Fotorrealista, aspeto cinematográfico de filme de catástrofe, escala dramática, fumo volumétrico, lava incandescente, detritos realistas, forte abanão de câmara, design de som épico.
 ```
 
 [↑ Voltar às categorias](#catalog)

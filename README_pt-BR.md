@@ -35,20 +35,28 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2097929264158945776"></a>
 
-### Tradução em andamento
+### Prompt cinematográfico com marcações de tempo retratando um vulcão colossal em erupção ao pôr do sol com lava, nuvens de cinzas e relâmpagos.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicação original](https://x.com/abs_uiux/status/2097929264158945776)
 
 Cinematográfico / Imagem de Filme · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt cinematográfico com marcações de tempo retratando um vulcão colossal em erupção ao pôr do sol com lava, nuvens de cinzas e relâmpagos.
 
 <img src="covers/2097929264158945776.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+0–2s: Tomada aérea ampla de um vulcão colossal ao pôr do sol. Fumaça começa a sair da cratera enquanto o chão treme sutilmente.
+
+2–5s: O vulcão entra em erupção repentinamente, lançando uma enorme coluna de cinzas, fumaça e lava incandescente em direção ao céu.
+
+5–8s: Rios de lava ardente escorrem pela encosta da montanha enquanto escuras nuvens de cinzas se expandem rapidamente no alto. A câmera recua dramaticamente.
+
+8–10s: Tomada final ultra-ampla com relâmpagos cortando a nuvem de cinzas e a erupção iluminando a paisagem.
+
+Estilo: Fotorrealista, visual cinematográfico de filme de desastre, escala dramática, fumaça volumétrica, lava brilhante, detritos realistas, forte tremor de câmera, design de som épico.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -35,20 +35,28 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2097929264158945776"></a>
 
-### Übersetzung läuft
+### Filmischer Prompt mit Zeitstempeln, der einen gewaltigen Vulkanausbruch bei Sonnenuntergang mit Lava, Aschewolken und Blitzen darstellt.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Originalbeitrag](https://x.com/abs_uiux/status/2097929264158945776)
 
 Kinematisch / Filmstill · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmischer Prompt mit Zeitstempeln, der einen gewaltigen Vulkanausbruch bei Sonnenuntergang mit Lava, Aschewolken und Blitzen darstellt.
 
 <img src="covers/2097929264158945776.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+0–2s: Weite Luftaufnahme eines gewaltigen Vulkans bei Sonnenuntergang. Rauch beginnt aus dem Krater zu quellen, während der Boden leicht bebt.
+
+2–5s: Der Vulkan bricht plötzlich aus und schleudert eine riesige Säule aus Asche, Rauch und glühender Lava in den Himmel.
+
+5–8s: Feurige Lavaströme fließen den Berghang hinab, während sich dunkle Aschewolken über ihnen rasant ausbreiten. Die Kamera zieht sich dramatisch zurück.
+
+8–10s: Finale Ultra-Weitwinkelaufnahme, während Blitze in der Aschewolke zucken und der Ausbruch die Landschaft erhellt.
+
+Stil: Fotorealistisch, cineastischer Katastrophenfilm-Look, dramatische Ausmaße, volumetrischer Rauch, glühende Lava, realistische Trümmerteile, starkes Kamerabeben, episches Sounddesign.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

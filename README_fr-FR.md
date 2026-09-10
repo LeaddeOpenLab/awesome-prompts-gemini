@@ -35,20 +35,28 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2097929264158945776"></a>
 
-### Traduction en cours
+### Prompt cinématographique horodaté illustrant un immense volcan entrant en éruption au coucher du soleil avec de la lave, des nuages de cendres et des éclairs.
 
 Auteur：[@abs\_uiux](https://x.com/abs_uiux) · [Publication originale](https://x.com/abs_uiux/status/2097929264158945776)
 
 Image cinématographique / Photogramme de film · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt cinématographique horodaté illustrant un immense volcan entrant en éruption au coucher du soleil avec de la lave, des nuages de cendres et des éclairs.
 
 <img src="covers/2097929264158945776.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+0–2s : Plan aérien large d'un immense volcan au coucher du soleil. De la fumée commence à s'échapper du cratère tandis que le sol tremble subtilement.
+
+2–5s : Le volcan entre soudainement en éruption, projetant dans le ciel une immense colonne de cendres, de fumée et de lave incandescente.
+
+5–8s : Des torrents de lave ardente dévalent le flanc de la montagne tandis que de sombres nuages de cendres s'étendent rapidement au-dessus. La caméra recule de manière spectaculaire.
+
+8–10s : Dernier plan ultra-large où des éclairs traversent le nuage de cendres et l'éruption illumine le paysage.
+
+Style : Photoréaliste, esthétique cinématographique de film catastrophe, échelle dramatique, fumée volumétrique, lave incandescente, débris réalistes, fortes secousses de caméra, conception sonore épique.
 ```
 
 [↑ Retour aux catégories](#catalog)

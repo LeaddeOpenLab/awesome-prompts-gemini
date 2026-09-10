@@ -35,20 +35,28 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2097929264158945776"></a>
 
-### Traduzione in corso
+### Prompt cinematografico scandito da timestamp che ritrae un imponente vulcano in eruzione al tramonto con lava, nubi di cenere e fulmini.
 
 Autore：[@abs\_uiux](https://x.com/abs_uiux) · [Post originale](https://x.com/abs_uiux/status/2097929264158945776)
 
 Fermo immagine cinematografico / Still fotografico · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt cinematografico scandito da timestamp che ritrae un imponente vulcano in eruzione al tramonto con lava, nubi di cenere e fulmini.
 
 <img src="covers/2097929264158945776.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+0–2s: Ampia ripresa aerea di un imponente vulcano al tramonto. Il fumo inizia a fuoriuscire dal cratere mentre il terreno trema impercettibilmente.
+
+2–5s: Il vulcano erutta all'improvviso, scagliando verso il cielo un'enorme colonna di cenere, fumo e lava incandescente.
+
+5–8s: Fiumi di lava ardente scorrono lungo il fianco della montagna, mentre scure nubi di cenere si espandono rapidamente verso l'alto. La telecamera si allontana drammaticamente.
+
+8–10s: Ripresa finale ultragrandangolare con fulmini che squarciano la nube di cenere e l'eruzione che illumina il paesaggio.
+
+Stile: Fotorealistico, look cinematografico da disaster movie, proporzioni spettacolari, fumo volumetrico, lava incandescente, detriti realistici, forte scuotimento della telecamera, sound design epico.
 ```
 
 [↑ Torna alle categorie](#catalog)

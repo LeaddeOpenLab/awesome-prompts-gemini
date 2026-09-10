@@ -35,20 +35,28 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2097929264158945776"></a>
 
-### Çeviri sürüyor
+### Gün batımında lavlar, kül bulutları ve şimşekler eşliğinde patlayan devasa bir yanardağı tasvir eden zaman damgalı sinematik istem.
 
 Yazar：[@abs\_uiux](https://x.com/abs_uiux) · [Orijinal gönderi](https://x.com/abs_uiux/status/2097929264158945776)
 
 Sinematik / Film Karesi · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gün batımında lavlar, kül bulutları ve şimşekler eşliğinde patlayan devasa bir yanardağı tasvir eden zaman damgalı sinematik istem.
 
 <img src="covers/2097929264158945776.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+0–2 sn: Gün batımında devasa bir yanardağın geniş açılı havadan çekimi. Zemin hafifçe sarsılırken kraterden dumanlar yükselmeye başlar.
+
+2–5 sn: Yanardağ aniden patlayarak gökyüzüne devasa bir kül, duman ve akkor lav sütunu fırlatır.
+
+5–8 sn: Alev alev yanan lavlar dağın yamacından aşağı akarken, tepede koyu renkli kül bulutları hızla genişler. Kamera dramatik bir şekilde geriye doğru çekilir.
+
+8–10 sn: Kül bulutunun içinde şimşekler çakarken ve patlama manzarayı aydınlatırken son ultra geniş açı çekim.
+
+Tarz: Fotogerçekçi, sinematik felaket filmi görünümü, dramatik ölçek, hacimsel duman, parlayan lav, gerçekçi enkaz parçaları, güçlü kamera sarsıntısı, epik ses tasarımı.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -35,20 +35,28 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2097929264158945776"></a>
 
-### Traducción en curso
+### Prompt cinematográfico con marcas de tiempo que representa un enorme volcán en erupción al atardecer con lava, nubes de ceniza y relámpagos.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicación original](https://x.com/abs_uiux/status/2097929264158945776)
 
 Cine / Fotograma · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt cinematográfico con marcas de tiempo que representa un enorme volcán en erupción al atardecer con lava, nubes de ceniza y relámpagos.
 
 <img src="covers/2097929264158945776.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+0–2 s: Toma aérea amplia de un volcán colosal al atardecer. El humo comienza a salir del cráter mientras la tierra tiembla sutilmente.
+
+2–5 s: El volcán entra en erupción repentinamente, arrojando al cielo una enorme columna de ceniza, humo y lava incandescente.
+
+5–8 s: Ríos de lava ardiente fluyen por la ladera de la montaña mientras densas nubes de ceniza se expanden rápidamente en lo alto. La cámara retrocede dramáticamente.
+
+8–10 s: Toma final ultraamplia con relámpagos destellando dentro de la nube de ceniza y la erupción iluminando el paisaje.
+
+Estilo: Fotorrealista, aspecto cinematográfico de película de desastres, escala dramática, humo volumétrico, lava brillante, escombros realistas, fuerte sacudida de cámara, diseño sonoro épico.
 ```
 
 [↑ Volver a categorías](#catalog)
