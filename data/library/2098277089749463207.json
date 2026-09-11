@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T06:19:29.326Z",
+  "model": "gemini",
+  "prompt": "Ultra-realistic cinematic sci-fi short film, 10 seconds, 16:9. A strikingly handsome young man in his early 20s walks alone through an abandoned futuristic megacity in the year 2050. He has thick naturally wavy jet-black hair, deep dark-brown eyes, sharp masculine jawline, prominent cheekbones, and subtle natural stubble. He wears a sleek black futuristic coat, dark trousers, and minimalist boots. The massive city around him is completely deserted—towering glass skyscrapers, empty elevated highways, abandoned autonomous vehicles, drifting mist, scattered debris, and faint blue atmospheric lights.\n0–3 seconds: Wide cinematic tracking shot from behind as he walks slowly down an empty futuristic boulevard, his footsteps echoing through the silent city.\n3–6 seconds: He suddenly stops and looks upward. One holographic advertisement flickers on above a skyscraper, then another, then hundreds.\n6–9 seconds: Thousands of gigantic holographic advertisements suddenly activate across the entire city—neon billboards, floating interfaces, animated products and mysterious messages—illuminating the abandoned streets around him. The man's face reflects the holographic light as he looks around in shock.\n9–10 seconds: Dramatic close-up of his face as every holographic screen simultaneously turns toward him, creating an eerie realization that he may not actually be alone.\nPhotorealistic human movement, realistic fabric physics, cinematic volumetric fog, wet reflective streets, detailed futuristic architecture, atmospheric depth, subtle lens flare, realistic hologram glow, dramatic camera movement, high contrast, 8K HDR, anamorphic cinematic look, suspenseful futuristic atmosphere, no cartoon, no AI-looking face, no text glitches, no distorted hands.",
+  "promptTranslations": {
+    "en": "Ultra-realistic cinematic sci-fi short film, 10 seconds, 16:9. A strikingly handsome young man in his early 20s walks alone through an abandoned futuristic megacity in the year 2050. He has thick naturally wavy jet-black hair, deep dark-brown eyes, sharp masculine jawline, prominent cheekbones, and subtle natural stubble. He wears a sleek black futuristic coat, dark trousers, and minimalist boots. The massive city around him is completely deserted—towering glass skyscrapers, empty elevated highways, abandoned autonomous vehicles, drifting mist, scattered debris, and faint blue atmospheric lights.\\n0–3 seconds: Wide cinematic tracking shot from behind as he walks slowly down an empty futuristic boulevard, his footsteps echoing through the silent city.\\n3–6 seconds: He suddenly stops and looks upward. One holographic advertisement flickers on above a skyscraper, then another, then hundreds.\\n6–9 seconds: Thousands of gigantic holographic advertisements suddenly activate across the entire city—neon billboards, floating interfaces, animated products and mysterious messages—illuminating the abandoned streets around him. The man's face reflects the holographic light as he looks around in shock.\\n9–10 seconds: Dramatic close-up of his face as every holographic screen simultaneously turns toward him, creating an eerie realization that he may not actually be alone.\\nPhotorealistic human movement, realistic fabric physics, cinematic volumetric fog, wet reflective streets, detailed futuristic architecture, atmospheric depth, subtle lens flare, realistic hologram glow, dramatic camera movement, high contrast, 8K HDR, anamorphic cinematic look, suspenseful futuristic atmosphere, no cartoon, no AI-looking face, no text glitches, no distorted hands."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic sci-fi scene of a young man walking through an abandoned futuristic city as holographic billboards activate around him."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic sci-fi scene of a young man walking through an abandoned futuristic city as holographic billboards activate around him.",
+  "summaryEn": "Cinematic sci-fi scene of a young man walking through an abandoned futuristic city as holographic billboards activate around him.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098277089749463207",
+    "canonicalUrl": "https://x.com/MohdAdnanA86218/status/2098277089749463207",
+    "author": {
+      "username": "MohdAdnanA86218",
+      "displayName": "HeisenLegacy",
+      "profileUrl": "https://x.com/MohdAdnanA86218"
+    },
+    "publishedAt": "2026-09-11T05:06:56.000Z",
+    "collectedAt": "2026-09-11T06:03:47.121Z",
+    "language": "en",
+    "originalText": "Generated with Gemini Flash on @GeminiApp\n\nVedio prompt ⤵️⤵️:\n\nUltra-realistic cinematic sci-fi short film, 10 seconds, 16:9. A strikingly handsome young man in his early 20s walks alone through an abandoned futuristic megacity in the year 2050. He has thick naturally wavy jet-black hair, deep dark-brown eyes, sharp masculine jawline, prominent cheekbones, and subtle natural stubble. He wears a sleek black futuristic coat, dark trousers, and minimalist boots. The massive city around him is completely deserted—towering glass skyscrapers, empty elevated highways, abandoned autonomous vehicles, drifting mist, scattered debris, and faint blue atmospheric lights.\n0–3 seconds: Wide cinematic tracking shot from behind as he walks slowly down an empty futuristic boulevard, his footsteps echoing through the silent city.\n3–6 seconds: He suddenly stops and looks upward. One holographic advertisement flickers on above a skyscraper, then another, then hundreds.\n6–9 seconds: Thousands of gigantic holographic advertisements suddenly activate across the entire city—neon billboards, floating interfaces, animated products and mysterious messages—illuminating the abandoned streets around him. The man's face reflects the holographic light as he looks around in shock.\n9–10 seconds: Dramatic close-up of his face as every holographic screen simultaneously turns toward him, creating an eerie realization that he may not actually be alone.\nPhotorealistic human movement, realistic fabric physics, cinematic volumetric fog, wet reflective streets, detailed futuristic architecture, atmospheric depth, subtle lens flare, realistic hologram glow, dramatic camera movement, high contrast, 8K HDR, anamorphic cinematic look, suspenseful futuristic atmosphere, no cartoon, no AI-looking face, no text glitches, no distorted hands.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/MohdAdnanA86218/status/2098277089749463207",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098277059953090560/img/4F_0f73R7Yc9xPwn.jpg",
+        "analysisUrl": "https://x.com/MohdAdnanA86218/status/2098277089749463207"
+      }
+    ],
+    "metrics": {
+      "likeCount": 10,
+      "repostCount": 1,
+      "replyCount": 9,
+      "quoteCount": 0,
+      "viewCount": 455
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/MohdAdnanA86218/status/2098277089749463207",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098277059953090560/img/4F_0f73R7Yc9xPwn.jpg",
+  "coverPath": "covers/2098277089749463207.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098277059953090560",
+    "x-post:2098277089749463207"
+  ],
+  "analysis": {
+    "summary": "Cinematic sci-fi scene of a young man walking through an abandoned futuristic city as holographic billboards activate around him.",
+    "summaryEn": "Cinematic sci-fi scene of a young man walking through an abandoned futuristic city as holographic billboards activate around him.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely depicts the timing and scene stages: tracking shot behind walking man, billboards activating overhead, and a final facial close-up."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-realistic cinematic sci-fi short film, 10 seconds, 16:9. A strikingly handsome young man in his early 20s walks alone through an abandoned futuristic megacity in the year 2050. He has thick naturally wavy jet-black hair, deep dark-brown eyes, sharp masculine jawline, prominent cheekbones, and subtle natural stubble. He wears a sleek black futuristic coat, dark trousers, and minimalist boots. The massive city around him is completely deserted—towering glass skyscrapers, empty elevated highways, abandoned autonomous vehicles, drifting mist, scattered debris, and faint blue atmospheric lights.\n0–3 seconds: Wide cinematic tracking shot from behind as he walks slowly down an empty futuristic boulevard, his footsteps echoing through the silent city.\n3–6 seconds: He suddenly stops and looks upward. One holographic advertisement flickers on above a skyscraper, then another, then hundreds.\n6–9 seconds: Thousands of gigantic holographic advertisements suddenly activate across the entire city—neon billboards, floating interfaces, animated products and mysterious messages—illuminating the abandoned streets around him. The man's face reflects the holographic light as he looks around in shock.\n9–10 seconds: Dramatic close-up of his face as every holographic screen simultaneously turns toward him, creating an eerie realization that he may not actually be alone.\nPhotorealistic human movement, realistic fabric physics, cinematic volumetric fog, wet reflective streets, detailed futuristic architecture, atmospheric depth, subtle lens flare, realistic hologram glow, dramatic camera movement, high contrast, 8K HDR, anamorphic cinematic look, suspenseful futuristic atmosphere, no cartoon, no AI-looking face, no text glitches, no distorted hands.",
+    "sourceRange": {
+      "start": 63,
+      "end": 1822
+    },
+    "translations": {
+      "zh": "超逼真电影感科幻短片，10秒，16:9。一位20岁出头英俊的年轻男子独自穿行在2050年废弃的未来大都市中。他留着微卷乌黑短发，深褐色眼睛，棱角分明。身穿黑色未来感大衣与深色长裤。周围是完全废弃的高楼、空旷高架桥和漂浮的薄雾。\n0–3秒：身后远景跟拍，男子走在空旷大道上。\n3–6秒：他驻足抬头，摩天大楼上的全息广告接连亮起。\n6–9秒：成千上万的巨型全息广告照亮街道，男子在光芒中震惊地环视四周。\n9–10秒：面部戏剧性特写，所有屏幕同时朝向他。\n逼真动作与布料动态、体积雾、湿润反光路面、微光晕、8K HDR、宽银幕质感、无卡通感。",
+      "en": "Ultra-realistic cinematic sci-fi short film, 10 seconds, 16:9. A strikingly handsome young man in his early 20s walks alone through an abandoned futuristic megacity in the year 2050. He has thick naturally wavy jet-black hair, deep dark-brown eyes, sharp masculine jawline, prominent cheekbones, and subtle natural stubble. He wears a sleek black futuristic coat, dark trousers, and minimalist boots. The massive city around him is completely deserted—towering glass skyscrapers, empty elevated highways, abandoned autonomous vehicles, drifting mist, scattered debris, and faint blue atmospheric lights.\n0–3 seconds: Wide cinematic tracking shot from behind as he walks slowly down an empty futuristic boulevard, his footsteps echoing through the silent city.\n3–6 seconds: He suddenly stops and looks upward. One holographic advertisement flickers on above a skyscraper, then another, then hundreds.\n6–9 seconds: Thousands of gigantic holographic advertisements suddenly activate across the entire city—neon billboards, floating interfaces, animated products and mysterious messages—illuminating the abandoned streets around him. The man's face reflects the holographic light as he looks around in shock.\n9–10 seconds: Dramatic close-up of his face as every holographic screen simultaneously turns toward him, creating an eerie realization that he may not actually be alone.\nPhotorealistic human movement, realistic fabric physics, cinematic volumetric fog, wet reflective streets, detailed futuristic architecture, atmospheric depth, subtle lens flare, realistic hologram glow, dramatic camera movement, high contrast, 8K HDR, anamorphic cinematic look, suspenseful futuristic atmosphere, no cartoon, no AI-looking face, no text glitches, no distorted hands."
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "text-to-video",
+    "useCase": "text-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
