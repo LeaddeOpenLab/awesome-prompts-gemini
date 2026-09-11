@@ -406,7 +406,7 @@ Publication originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 
 <a name="prompt-2098390370854002711"></a>
 
-### Traduction en cours
+### Scène de supermarché miniature, des humains minuscules se déplaçant entre des aliments géants pour faire leurs courses et grimper.
 
 Auteur：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publication originale](https://x.com/AiwithBloodline/status/2098390370854002711)
 
@@ -414,14 +414,14 @@ Alimentation / Boissons · Publié
 
 Publication originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publication originale](https://x.com/AiwithBloodline/status/2097964006187372912)
 
-**Résumé:** Traduction en cours
+**Résumé:** Scène de supermarché miniature, des humains minuscules se déplaçant entre des aliments géants pour faire leurs courses et grimper.
 
 <img src="covers/2098390370854002711.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Monde miniature macro cinématique ultra-réaliste, vidéo de 10 secondes. Une épicerie animée où de minuscules acheteurs humains de la taille de fourmis se déplacent dans d'immenses allées de produits alimentaires surdimensionnés. De minuscules acheteurs poussent des chariots miniatures entre des tomates géantes, des fraises massives, d'imposantes boîtes de céréales, d'énormes bouteilles de lait et de gigantesques miches de pain. Un minuscule acheteur lutte pour pousser un chariot transportant une unique myrtille géante, tandis qu'un autre escalade une gigantesque miche de pain. Caméra de travelling cinématique fluide au niveau du sol, faible profondeur de champ, textures miniatures réalistes, personnes et chariots minuscules détaillés, éclairage chaleureux de supermarché, bruits ambiants subtils d'épicerie, mouvement naturel, sensation ludique de l'échelle, photoréaliste, détails en 8K, réalisme cinématique, action fluide, sans texte, sans sous-titres, sans logos. Vertical 9:16, exactement 10 secondes.
 ```
 
 [↑ Retour aux catégories](#catalog)

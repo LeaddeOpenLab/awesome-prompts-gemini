@@ -331,7 +331,7 @@ Orijinal gönderi：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijin
 
 <a name="prompt-2098390370854002711"></a>
 
-### Çeviri sürüyor
+### Minyatür süpermarket sahnesi, minik insanlar devasa yiyecekler arasında alışveriş yapıp tırmanarak ilerliyor.
 
 Yazar：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi](https://x.com/AiwithBloodline/status/2098390370854002711)
 
@@ -339,14 +339,14 @@ Yiyecek / İçecek · Yayımlandı
 
 Orijinal gönderi：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi](https://x.com/AiwithBloodline/status/2097964006187372912)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Minyatür süpermarket sahnesi, minik insanlar devasa yiyecekler arasında alışveriş yapıp tırmanarak ilerliyor.
 
 <img src="covers/2098390370854002711.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ultra gerçekçi sinematik makro minyatür dünya, 10 saniyelik video. Karınca boyutundaki minik insan müşterilerin devasa boyutlardaki gıda ürünlerinin bulunduğu dev koridorlarda dolaştığı hareketli bir bakkal. Minik müşteriler dev domatesler, kocaman çilekler, yüksek mısır gevreği kutuları, devasa süt şişeleri ve kocaman ekmek somunları arasında minyatür alışveriş arabalarını itiyor. Minik bir müşteri tek bir dev yaban mersini taşıyan arabayı itmekte zorlanırken, bir diğeri devasa bir ekmek somununa tırmanıyor. Zemin seviyesinde pürüzsüz sinematik takip kamerası, sığ alan derinliği, gerçekçi minyatür dokular, ayrıntılı minik insanlar ve arabalar, sıcak süpermarket aydınlatması, ince ortam bakkal sesleri, doğal hareket, eğlenceli ölçek hissi, fotogerçekçi, 8K detay, sinematik gerçekçilik, kesintisiz eylem, metin yok, altyazı yok, logo yok. Dikey 9:16, tam 10 saniye.
 ```
 
 [↑ Kategorilere dön](#catalog)

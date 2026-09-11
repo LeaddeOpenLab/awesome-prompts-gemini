@@ -406,7 +406,7 @@ Originalbeitrag：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Original
 
 <a name="prompt-2098390370854002711"></a>
 
-### Übersetzung läuft
+### Miniatur-Supermarktszene, winzige Menschen bewegen sich kaufend und kletternd zwischen riesigen Lebensmitteln.
 
 Autor：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Originalbeitrag](https://x.com/AiwithBloodline/status/2098390370854002711)
 
@@ -414,14 +414,14 @@ Essen / Trinken · Veröffentlicht
 
 Originalbeitrag：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Originalbeitrag](https://x.com/AiwithBloodline/status/2097964006187372912)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Miniatur-Supermarktszene, winzige Menschen bewegen sich kaufend und kletternd zwischen riesigen Lebensmitteln.
 
 <img src="covers/2098390370854002711.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultra-realistische, filmische Makro-Miniaturwelt, 10-Sekunden-Video. Ein belebter Lebensmittelladen, in dem sich winzige, ameisengroße menschliche Einkäufer durch gewaltige Gänge mit übergroßen Lebensmitteln bewegen. Winzige Kunden schieben Miniatur-Einkaufswagen zwischen riesigen Tomaten, massiven Erdbeeren, hoch aufragenden Müslischachteln, riesigen Milchflaschen und gewaltigen Brotlaiben hindurch. Ein winziger Kunde kämpft damit, einen Wagen zu schieben, der eine einzelne riesige Blaubeere transportiert, während ein anderer einen gigantischen Brotlaib erklimmt. Sanfte, filmische Kamerafahrt auf Bodenhöhe, geringe Tiefenschärfe, realistische Miniaturtexturen, detaillierte winzige Menschen und Einkaufswagen, warme Supermarktbeleuchtung, subtile Umgebungsgeräusche eines Lebensmittelgeschäfts, natürliche Bewegungen, verspieltes Gefühl für Größenverhältnisse, fotorealistisch, 8K-Detail, filmischer Realismus, nahtlose Handlung, kein Text, keine Untertitel, keine Logos. Vertikal 9:16, genau 10 Sekunden.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

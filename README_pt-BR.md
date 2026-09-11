@@ -331,7 +331,7 @@ Publicação original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 
 <a name="prompt-2098390370854002711"></a>
 
-### Tradução em andamento
+### Cena de supermercado em miniatura, humanos minúsculos transitando entre alimentos gigantes fazendo compras e escalando.
 
 Autor：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publicação original](https://x.com/AiwithBloodline/status/2098390370854002711)
 
@@ -339,14 +339,14 @@ Alimentos / Bebidas · Publicado
 
 Publicação original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publicação original](https://x.com/AiwithBloodline/status/2097964006187372912)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Cena de supermercado em miniatura, humanos minúsculos transitando entre alimentos gigantes fazendo compras e escalando.
 
 <img src="covers/2098390370854002711.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Mundo em miniatura macro cinematográfico e ultrarrealista, vídeo de 10 segundos. Uma mercearia movimentada onde minúsculos compradores humanos do tamanho de formigas se movem por corredores enormes de produtos alimentícios superdimensionados. Minúsculos compradores empurram carrinhos de compras em miniatura entre tomates gigantes, morangos enormes, caixas de cereal imponentes, garrafas de leite imensas e pães gigantescos. Um comprador minúsculo se esforça para empurrar um carrinho carregando um único mirtilo gigante, enquanto outro escala um pão gigantesco. Câmera de rastreamento cinematográfica e suave ao nível do chão, profundidade de campo reduzida, texturas em miniatura realistas, pessoas e carrinhos minúsculos detalhados, iluminação quente de supermercado, sons ambientes sutis de mercearia, movimento natural, sensação lúdica de escala, fotorrealista, detalhes em 8K, realismo cinematográfico, ação contínua, sem texto, sem legendas, sem logotipos. Vertical 9:16, exatamente 10 segundos.
 ```
 
 [↑ Voltar às categorias](#catalog)

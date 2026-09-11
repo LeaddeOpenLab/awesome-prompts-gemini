@@ -406,7 +406,7 @@ Publicación original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 
 <a name="prompt-2098390370854002711"></a>
 
-### Traducción en curso
+### Escena de supermercado en miniatura, humanos diminutos desplazándose entre alimentos gigantes para comprar y escalar.
 
 Autor：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publicación original](https://x.com/AiwithBloodline/status/2098390370854002711)
 
@@ -414,14 +414,14 @@ Comida y bebida · Publicado
 
 Publicación original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publicación original](https://x.com/AiwithBloodline/status/2097964006187372912)
 
-**Resumen:** Traducción en curso
+**Resumen:** Escena de supermercado en miniatura, humanos diminutos desplazándose entre alimentos gigantes para comprar y escalar.
 
 <img src="covers/2098390370854002711.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Mundo en miniatura macro cinematográfico y ultrarrealista, video de 10 segundos. Una tienda de abarrotes bulliciosa donde diminutos compradores humanos del tamaño de hormigas se mueven a través de enormes pasillos de productos alimenticios gigantescos. Diminutos compradores empujan carritos de compras en miniatura entre tomates gigantes, fresas enormes, imponentes cajas de cereal, enormes botellas de leche y gigantescas barras de pan. Un diminuto comprador lucha por empujar un carrito que lleva un solo arándano gigante, mientras que otro escala una gigantesca barra de pan. Cámara de seguimiento cinematográfica y fluida a nivel del suelo, profundidad de campo reducida, texturas en miniatura realistas, personas y carritos diminutos detallados, iluminación cálida de supermercado, sonidos ambientales sutiles de tienda de abarrotes, movimiento natural, sensación lúdica de escala, fotorrealista, detalle en 8K, realismo cinematográfico, acción fluida, sin texto, sin subtítulos, sin logotipos. Vertical 9:16, exactamente 10 segundos.
 ```
 
 [↑ Volver a categorías](#catalog)

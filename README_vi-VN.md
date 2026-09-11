@@ -401,7 +401,7 @@ Bài gốc：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](h
 
 <a name="prompt-2098390370854002711"></a>
 
-### Đang dịch
+### Khung cảnh siêu thị thu nhỏ, người tí hon len lỏi giữa thực phẩm khổng lồ để mua sắm và leo trèo.
 
 Tác giả：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](https://x.com/AiwithBloodline/status/2098390370854002711)
 
@@ -409,14 +409,14 @@ Thực phẩm / Đồ uống · Đã xuất bản
 
 Bài gốc：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](https://x.com/AiwithBloodline/status/2097964006187372912)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Khung cảnh siêu thị thu nhỏ, người tí hon len lỏi giữa thực phẩm khổng lồ để mua sắm và leo trèo.
 
 <img src="covers/2098390370854002711.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Thế giới thu nhỏ macro đậm chất điện ảnh siêu thực, video 10 giây. Một cửa hàng tạp hóa nhộn nhịp nơi những người mua hàng tí hon có kích thước như loài kiến di chuyển qua các lối đi khổng lồ đầy ắp thực phẩm ngoại cỡ. Những người mua sắm nhỏ bé đẩy xe đẩy hàng mini giữa những quả cà chua khổng lồ, những quả dâu tây to lớn, những hộp ngũ cốc cao chót vót, những chai sữa khổng lồ và những ổ bánh mì to đùng. Một người mua sắm tí hon đang chật vật đẩy chiếc xe chở một quả việt quất khổng lồ, trong khi một người khác đang leo lên một ổ bánh mì khổng lồ. Camera theo dõi chuyển động mượt mà ở tầm mặt đất mang phong cách điện ảnh, độ sâu trường ảnh nông, kết cấu mô hình thu nhỏ chân thực, con người và xe đẩy tí hon chi tiết, ánh sáng siêu thị ấm áp, âm thanh môi trường cửa hàng tạp hóa tinh tế, chuyển động tự nhiên, cảm giác tỷ lệ đầy vui nhộn, chân thực như ảnh chụp, chi tiết 8K, chủ nghĩa hiện thực điện ảnh, hành động liền mạch, không có văn bản, không phụ đề, không logo. Định dạng dọc 9:16, đúng 10 giây.
 ```
 
 [↑ Về danh mục](#catalog)

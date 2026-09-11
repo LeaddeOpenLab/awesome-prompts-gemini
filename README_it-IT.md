@@ -331,7 +331,7 @@ Post originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Post orig
 
 <a name="prompt-2098390370854002711"></a>
 
-### Traduzione in corso
+### Scena di un supermercato in miniatura, minuscoli umani che si muovono tra cibi giganti facendo acquisti e arrampicandosi.
 
 Autore：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Post originale](https://x.com/AiwithBloodline/status/2098390370854002711)
 
@@ -339,14 +339,14 @@ Cibo / Bevande · Pubblicato
 
 Post originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Post originale](https://x.com/AiwithBloodline/status/2097964006187372912)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scena di un supermercato in miniatura, minuscoli umani che si muovono tra cibi giganti facendo acquisti e arrampicandosi.
 
 <img src="covers/2098390370854002711.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Mondo in miniatura macro cinematografico ultra-realistico, video di 10 secondi. Un vivace negozio di alimentari dove minuscoli acquirenti umani delle dimensioni di formiche si muovono attraverso enormi corsie di prodotti alimentari sovradimensionati. Minuscoli acquirenti spingono carrelli della spesa in miniatura tra pomodori giganti, fragole enormi, imponenti scatole di cereali, gigantesche bottiglie di latte e forme di pane enormi. Un minuscolo acquirente fatica a spingere un carrello che trasporta un singolo mirtillo gigante, mentre un altro si arrampica su una gigantesca pagnotta di pane. Fluida telecamera di tracciamento cinematografica ad altezza terra, profondità di campo ridotta, texture miniaturizzate realistiche, persone e carrelli minuscoli e dettagliati, illuminazione calda da supermercato, sottili suoni ambientali del negozio di alimentari, movimento naturale, giocoso senso delle proporzioni, fotorealistico, dettaglio 8K, realismo cinematografico, azione senza interruzioni, nessun testo, nessun sottotitolo, nessun logo. Verticale 9:16, esattamente 10 secondi.
 ```
 
 [↑ Torna alle categorie](#catalog)
