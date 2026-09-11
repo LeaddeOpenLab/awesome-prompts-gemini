@@ -35,20 +35,20 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2098277089749463207"></a>
 
-### Đang dịch
+### Cảnh khoa học viễn tưởng đậm chất điện ảnh về một chàng trai trẻ bước đi qua thành phố tương lai bị bỏ hoang khi các biển quảng cáo hologram bật sáng xung quanh anh.
 
 Tác giả：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Bài gốc](https://x.com/MohdAdnanA86218/status/2098277089749463207)
 
 Điện ảnh / Ảnh tĩnh từ phim · Cyberpunk / Khoa học viễn tưởng · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cảnh khoa học viễn tưởng đậm chất điện ảnh về một chàng trai trẻ bước đi qua thành phố tương lai bị bỏ hoang khi các biển quảng cáo hologram bật sáng xung quanh anh.
 
 <img src="covers/2098277089749463207.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Phim ngắn khoa học viễn tưởng điện ảnh siêu thực tế, 10 giây, 16:9. Một chàng trai trẻ cực kỳ đẹp trai ở độ tuổi đầu 20 đang bước đi một mình qua một siêu đô thị tương lai bị bỏ hoang vào năm 2050. Anh có mái tóc đen nhánh gợn sóng tự nhiên bồng bềnh, đôi mắt màu nâu sẫm sâu thẳm, đường quai hàm nam tính sắc sảo, gò má cao nổi bật và hàng râu lún phún tự nhiên nhẹ nhàng. Anh mặc một chiếc áo khoác tương lai màu đen bóng bẩy, quần dài tối màu và bốt tối giản. Thành phố rộng lớn xung quanh anh hoàn toàn vắng tanh—những tòa nhà chọc trời bằng kính cao chót vót, những xa lộ trên cao trống trải, những chiếc xe tự hành bị bỏ lại, sương mù lãng đãng, mảnh vỡ rải rác và ánh sáng môi trường màu xanh lam mờ ảo. 0–3 giây: Cảnh quay theo dõi toàn cảnh điện ảnh từ phía sau khi anh bước đi chậm rãi dọc theo đại lộ tương lai trống rỗng, tiếng bước chân vang vọng khắp thành phố tĩnh lặng. 3–6 giây: Anh đột ngột dừng lại và ngước nhìn lên. Một biển quảng cáo hologram nhấp nháy bật sáng phía trên một tòa nhà chọc trời, rồi một biển khác, rồi hàng trăm biển kế tiếp. 6–9 giây: Hàng ngàn biển quảng cáo hologram khổng lồ đột ngột kích hoạt trên toàn thành phố—biển hiệu neon, giao diện trôi nổi, các sản phẩm hoạt họa và những thông điệp bí ẩn—thắp sáng những con phố bị bỏ hoang xung quanh anh. Khuôn mặt chàng trai phản chiếu ánh sáng hologram khi anh kinh ngạc nhìn quanh. 9–10 giây: Cận cảnh đầy kịch tính khuôn mặt anh khi mọi màn hình hologram đồng loạt quay về phía anh, tạo nên một sự nhận thức rợn người rằng có thể anh thực sự không hề cô độc. Chuyển động cơ thể người như thật, vật lý vải vóc chân thực, sương mù thể tích điện ảnh, đường phố ẩm ướt phản chiếu, kiến trúc tương lai chi tiết, chiều sâu khí quyển, hiệu ứng lóe sáng ống kính tinh tế, ánh sáng hologram chân thực, chuyển động máy quay kịch tính, độ tương phản cao, 8K HDR, phong cách điện ảnh anamorphic, bầu không khí tương lai hồi hộp nghẹt thở, không hoạt hình, không khuôn mặt trông như AI, không lỗi văn bản, không bàn tay biến dạng.
 ```
 
 [↑ Về danh mục](#catalog)

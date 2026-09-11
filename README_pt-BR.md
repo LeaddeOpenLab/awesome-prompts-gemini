@@ -35,20 +35,25 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2098277089749463207"></a>
 
-### Tradução em andamento
+### Cena cinematográfica de ficção científica de um jovem caminhando por uma cidade futurista abandonada enquanto outdoors holográficos se ativam ao redor dele.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicação original](https://x.com/MohdAdnanA86218/status/2098277089749463207)
 
 Cinematográfico / Imagem de Filme · Cyberpunk / Ficção Científica · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Cena cinematográfica de ficção científica de um jovem caminhando por uma cidade futurista abandonada enquanto outdoors holográficos se ativam ao redor dele.
 
 <img src="covers/2098277089749463207.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Curta-metragem cinematográfico de ficção científica ultrarrealista, 10 segundos, 16:9. Um jovem extraordinariamente atraente na faixa dos 20 anos caminha sozinho por uma megacidade futurista abandonada no ano de 2050. Ele tem cabelos grossos, naturalmente ondulados e pretos como carvão, olhos castanho-escuros profundos, mandíbula masculina bem delineada, maçãs do rosto proeminentes e uma barba rala sutil e natural. Ele veste um elegante casaco futurista preto, calças escuras e botas minimalistas. A cidade gigantesca ao redor dele está completamente deserta: arranha-céus imponentes de vidro, rodovias suspensas vazias, veículos autônomos abandonados, névoa à deriva, destroços espalhados e tênues luzes atmosféricas azuis.
+0–3 segundos: Plano de rastreamento cinematográfico amplo por trás enquanto ele caminha lentamente por uma avenida futurista vazia, com seus passos ecoando pela cidade silenciosa.
+3–6 segundos: Ele para de repente e olha para cima. Um anúncio holográfico pisca e se acende no alto de um arranha-céu, depois outro, depois centenas.
+6–9 segundos: Milhares de anúncios holográficos gigantescos se ativam de repente por toda a cidade — outdoors em neon, interfaces flutuantes, produtos animados e mensagens misteriosas —, iluminando as ruas abandonadas ao redor dele. O rosto do homem reflete a luz holográfica enquanto ele olha em volta em estado de choque.
+9–10 segundos: Close-up dramático de seu rosto enquanto cada tela holográfica se vira simultaneamente em sua direção, criando a percepção perturbadora de que ele pode não estar realmente sozinho.
+Movimento humano fotorrealista, física realista de tecidos, névoa volumétrica cinematográfica, ruas molhadas e reflexivas, arquitetura futurista detalhada, profundidade atmosférica, sutil reflexo de lente (lens flare), brilho holográfico realista, movimento dramático de câmera, alto contraste, 8K HDR, visual cinematográfico anamórfico, atmosfera futurista de suspense, sem desenho animado, sem rosto com aspecto de IA, sem erros de texto, sem mãos distorcidas.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -35,20 +35,25 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2098277089749463207"></a>
 
-### Übersetzung läuft
+### Filmische Sci-Fi-Szene eines jungen Mannes, der durch eine verlassene futuristische Stadt geht, während um ihn herum holografische Werbetafeln aufleuchten.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Originalbeitrag](https://x.com/MohdAdnanA86218/status/2098277089749463207)
 
 Kinematisch / Filmstill · Cyberpunk / Sci-Fi · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmische Sci-Fi-Szene eines jungen Mannes, der durch eine verlassene futuristische Stadt geht, während um ihn herum holografische Werbetafeln aufleuchten.
 
 <img src="covers/2098277089749463207.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultrarealistischer, filmischer Sci-Fi-Kurzfilm, 10 Sekunden, 16:9. Ein auffallend gutaussehender junger Mann Anfang 20 geht im Jahr 2050 allein durch eine verlassene futuristische Megastadt. Er hat dichtes, natürlich gewelltes, pechschwarzes Haar, tiefe, dunkelbraune Augen, eine markante, maskuline Kinnlinie, ausgeprägte Wangenknochen und einen dezenten, natürlichen Dreitagebart. Er trägt einen eleganten schwarzen futuristischen Mantel, dunkle Hosen und minimalistische Stiefel. Die riesige Stadt um ihn herum ist vollkommen menschenleer – hoch aufragende Wolkenkratzer aus Glas, leere Hochstraßen, verlassene autonome Fahrzeuge, umherziehender Nebel, verstreute Trümmer und schwache blaue Atmosphärenlichter.
+0–3 Sekunden: Weite filmische Kamerafahrt von hinten, während er langsam einen leeren futuristischen Boulevard entlanggeht und seine Schritte durch die stille Stadt hallen.
+3–6 Sekunden: Er bleibt plötzlich stehen und blickt nach oben. Eine holografische Werbung flackert über einem Wolkenkratzer auf, dann eine weitere, dann Hunderte.
+6–9 Sekunden: Tausende gigantische holografische Werbungen erwachen plötzlich in der gesamten Stadt zum Leben – Neon-Werbetafeln, schwebende Benutzeroberflächen, animierte Produkte und geheimnisvolle Botschaften –, die die verlassenen Straßen um ihn herum erhellen. Das Gesicht des Mannes reflektiert das holografische Licht, während er sich schockiert umschaut.
+9–10 Sekunden: Dramatische Nahaufnahme seines Gesichts, während sich jeder holografische Bildschirm gleichzeitig zu ihm dreht, was die unheimliche Erkenntnis auslöst, dass er vielleicht doch nicht allein ist.
+Fotorealistische menschliche Bewegung, realistische Stoffphysik, filmischer volumetrischer Nebel, nasse reflektierende Straßen, detaillierte futuristische Architektur, atmosphärische Tiefe, subtiler Lens Flare, realistisches Hologramm-Leuchten, dramatische Kamerabewegung, hoher Kontrast, 8K HDR, anamorphotischer Film-Look, spannungsgeladene futuristische Atmosphäre, kein Cartoon, kein wie KI wirkendes Gesicht, keine Textfehler, keine verzerrten Hände.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

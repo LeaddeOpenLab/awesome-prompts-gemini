@@ -35,20 +35,25 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2098277089749463207"></a>
 
-### Traduction en cours
+### Scène de science-fiction cinématographique d'un jeune homme marchant dans une ville futuriste abandonnée alors que des panneaux d'affichage holographiques s'activent autour de lui.
 
 Auteur：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publication originale](https://x.com/MohdAdnanA86218/status/2098277089749463207)
 
 Image cinématographique / Photogramme de film · Cyberpunk / Science-fiction · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Scène de science-fiction cinématographique d'un jeune homme marchant dans une ville futuriste abandonnée alors que des panneaux d'affichage holographiques s'activent autour de lui.
 
 <img src="covers/2098277089749463207.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Court-métrage cinématographique de science-fiction ultra-réaliste, 10 secondes, 16:9. Un jeune homme remarquablement beau d'une vingtaine d'années marche seul à travers une mégalopole futuriste abandonnée en l'an 2050. Il a d'épais cheveux noir de jais naturellement ondulés, des yeux marron foncé profonds, une mâchoire masculine bien dessinée, des pommettes saillantes et une barbe naissante subtile et naturelle. Il porte un élégant manteau futuriste noir, un pantalon sombre et des bottes minimalistes. La ville massive autour de lui est complètement déserte : gratte-ciel de verre imposants, autoroutes surélevées vides, véhicules autonomes abandonnés, brume flottante, débris épars et faibles lumières atmosphériques bleues.
+0–3 secondes : Travelling cinématographique large de dos alors qu'il marche lentement le long d'un boulevard futuriste vide, le son de ses pas résonnant dans la ville silencieuse.
+3–6 secondes : Il s'arrête soudainement et lève les yeux. Une publicité holographique clignote et s'allume au sommet d'un gratte-ciel, puis une autre, puis des centaines.
+6–9 secondes : Des milliers de publicités holographiques gigantesques s'activent brusquement dans toute la ville — panneaux d'affichage néon, interfaces flottantes, produits animés et messages mystérieux —, illuminant les rues abandonnées autour de lui. Le visage de l'homme reflète la lumière holographique alors qu'il regarde autour de lui, sous le choc.
+9–10 secondes : Gros plan dramatique sur son visage alors que chaque écran holographique se tourne simultanément vers lui, provoquant l'étrange prise de conscience qu'il n'est peut-être pas réellement seul.
+Mouvement humain photoréaliste, physique des tissus réaliste, brume volumétrique cinématographique, rues mouillées et réfléchissantes, architecture futuriste détaillée, profondeur atmosphérique, léger reflet d'objectif, lueur d'hologramme réaliste, mouvement de caméra dramatique, contraste élevé, 8K HDR, rendu cinématographique anamorphique, atmosphère futuriste à suspense, pas de dessin animé, pas de visage semblant généré par IA, pas de bugs de texte, pas de mains déformées.
 ```
 
 [↑ Retour aux catégories](#catalog)

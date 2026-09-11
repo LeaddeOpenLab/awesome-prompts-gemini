@@ -35,20 +35,20 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2098277089749463207"></a>
 
-### Traducción en curso
+### Escena cinematográfica de ciencia ficción de un joven caminando por una ciudad futurista abandonada mientras vallas publicitarias holográficas se activan a su alrededor.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicación original](https://x.com/MohdAdnanA86218/status/2098277089749463207)
 
 Cine / Fotograma de película · Ciberpunk / Ciencia ficción · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Escena cinematográfica de ciencia ficción de un joven caminando por una ciudad futurista abandonada mientras vallas publicitarias holográficas se activan a su alrededor.
 
 <img src="covers/2098277089749463207.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Cortometraje cinematográfico de ciencia ficción ultrarrealista, 10 segundos, 16:9. Un joven sorprendentemente apuesto de unos 20 años camina solo por una megaciudad futurista abandonada en el año 2050. Tiene cabello negro azabache, espeso y con ondas naturales, profundos ojos marrones oscuros, una mandíbula masculina y marcada, pómulos prominentes y una sutil barba incipiente natural. Viste un elegante abrigo futurista negro, pantalones oscuros y botas minimalistas. La enorme ciudad a su alrededor está completamente desierta: imponentes rascacielos de cristal, autopistas elevadas vacías, vehículos autónomos abandonados, niebla a la deriva, escombros dispersos y tenues luces atmosféricas azules. 0–3 segundos: Plano de seguimiento cinematográfico amplio desde atrás mientras camina lentamente por un bulevar futurista vacío, con sus pasos resonando en la silenciosa ciudad. 3–6 segundos: De repente se detiene y mira hacia arriba. Un anuncio holográfico parpadea sobre un rascacielos, luego otro, luego cientos. 6–9 segundos: Miles de anuncios holográficos gigantescos se activan repentinamente por toda la ciudad (vallas publicitarias de neón, interfaces flotantes, productos animados y mensajes misteriosos), iluminando las calles abandonadas a su alrededor. El rostro del hombre refleja la luz holográfica mientras mira a su alrededor en estado de shock. 9–10 segundos: Primer plano dramático de su rostro cuando todas las pantallas holográficas se giran simultáneamente hacia él, creando la inquietante certeza de que tal vez no esté realmente solo. Movimiento humano fotorrealista, física realista de telas, niebla volumétrica cinematográfica, calles húmedas y reflectantes, arquitectura futurista detallada, profundidad atmosférica, sutil destello de lente, brillo holográfico realista, movimiento de cámara dramático, alto contraste, 8K HDR, aspecto cinematográfico anamórfico, atmósfera futurista llena de suspense, sin estilo de dibujos animados, sin rostro de apariencia artificial generada por IA, sin errores de texto, sin manos distorsionadas.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -35,20 +35,25 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2098277089749463207"></a>
 
-### Çeviri sürüyor
+### Terk edilmiş fütüristik bir şehirde yürüyen genç bir adamın etrafında holografik reklam panolarının aktifleştiği sinematik bilim kurgu sahnesi.
 
 Yazar：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Orijinal gönderi](https://x.com/MohdAdnanA86218/status/2098277089749463207)
 
 Sinematik / Film Karesi · Siberpunk / Bilim Kurgu · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Terk edilmiş fütüristik bir şehirde yürüyen genç bir adamın etrafında holografik reklam panolarının aktifleştiği sinematik bilim kurgu sahnesi.
 
 <img src="covers/2098277089749463207.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ultra gerçekçi sinematik bilim kurgu kısa filmi, 10 saniye, 16:9. 20'li yaşlarının başında, son derece yakışıklı genç bir adam, 2050 yılında terk edilmiş fütüristik bir megakentte tek başına yürüyor. Gür, doğal dalgalı simsiyah saçlara, derin koyu kahverengi gözlere, keskin erkeksi bir çene çizgisine, belirgin elmacık kemiklerine ve hafif, doğal bir kirli sakala sahip. Şık, siyah fütüristik bir kaban, koyu renk pantolon ve minimalist botlar giyiyor. Etrafındaki devasa şehir tamamen ıssız: göğe yükselen cam gökdelenler, boş yükseltilmiş otoyollar, terk edilmiş otonom araçlar, süzülen sis, etrafa saçılmış molozlar ve soluk mavi atmosferik ışıklar.
+0–3 saniye: Sessiz şehirde yankılanan ayak sesleriyle boş bir fütüristik bulvarda yavaşça yürürken arkadan çekilmiş geniş sinematik takip çekimi.
+3–6 saniye: Aniden durur ve yukarı bakar. Bir gökdelenin üzerinde bir holografik reklam yanıp söner, ardından bir başkası, ardından yüzlercesi.
+6–9 saniye: Şehrin her yerinde binlerce devasa holografik reklam aniden devreye girer —neon panolar, havada asılı arayüzler, animasyonlu ürünler ve gizemli mesajlar— etrafındaki terk edilmiş sokakları aydınlatır. Şok içinde etrafına bakınırken adamın yüzüne holografik ışık yansır.
+9–10 saniye: Her holografik ekranın aynı anda ona doğru dönmesiyle yüzünün dramatik bir yakın plan çekimi, aslında yalnız olmayabileceğine dair ürpertici bir farkındalık yaratır.
+Fotogerçekçi insan hareketi, gerçekçi kumaş fiziği, sinematik hacimsel sis, ıslak yansıtıcı sokaklar, ayrıntılı fütüristik mimari, atmosferik derinlik, ince lens parlaması, gerçekçi hologram ışıltısı, dramatik kamera hareketi, yüksek kontrast, 8K HDR, anamorfik sinematik görünüm, gerilim dolu fütüristik atmosfer, çizgi film yok, yapay zekâ görünümlü yüz yok, metin hataları yok, bozuk eller yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

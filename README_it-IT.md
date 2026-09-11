@@ -35,20 +35,25 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2098277089749463207"></a>
 
-### Traduzione in corso
+### Scena cinematografica di fantascienza di un giovane uomo che cammina attraverso una città futuristica abbandonata mentre cartelloni olografici si attivano intorno a lui.
 
 Autore：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Post originale](https://x.com/MohdAdnanA86218/status/2098277089749463207)
 
 Fermo immagine cinematografico / Still fotografico · Cyberpunk / Sci-Fi · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scena cinematografica di fantascienza di un giovane uomo che cammina attraverso una città futuristica abbandonata mentre cartelloni olografici si attivano intorno a lui.
 
 <img src="covers/2098277089749463207.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Cortometraggio cinematografico fantascientifico ultra-realistico, 10 secondi, 16:9. Un giovane uomo straordinariamente affascinante, sui vent'anni, cammina da solo attraverso una megalopoli futuristica abbandonata nell'anno 2050. Ha folti capelli nero corvino naturalmente mossi, profondi occhi castano scuro, una mascella maschile e scolpita, zigomi pronunciati e una barba incolta leggera e naturale. Indossa un elegante cappotto futuristico nero, pantaloni scuri e stivali minimalisti. La massiccia città intorno a lui è completamente deserta: imponenti grattacieli di vetro, autostrade sopraelevate vuote, veicoli a guida autonoma abbandonati, nebbia fluttuante, detriti sparsi e tenui luci d'atmosfera blu.
+0–3 secondi: Carrellata cinematografica ampia da dietro mentre cammina lentamente lungo un viale futuristico deserto, con i suoi passi che echeggiano nella città silenziosa.
+3–6 secondi: Si ferma improvvisamente e guarda verso l'alto. Una pubblicità olografica si accende a intermittenza sopra un grattacielo, poi un'altra, poi centinaia.
+6–9 secondi: Migliaia di gigantesche pubblicità olografiche si attivano improvvisamente in tutta la città: cartelloni al neon, interfacce fluttuanti, prodotti animati e messaggi misteriosi, illuminando le strade abbandonate intorno a lui. Il volto dell'uomo riflette la luce olografica mentre si guarda intorno sotto shock.
+9–10 secondi: Primo piano drammatico del suo volto mentre ogni schermo olografico si gira simultaneamente verso di lui, creando l'inquietante consapevolezza che potrebbe non essere davvero solo.
+Movimento umano fotorealistico, fisica dei tessuti realistica, nebbia volumetrica cinematografica, strade bagnate e riflettenti, architettura futuristica dettagliata, profondità atmosferica, sottile bagliore della lente, bagliore olografico realistico, movimento di camera drammatico, alto contrasto, 8K HDR, look cinematografico anamorfico, atmosfera futuristica ricca di suspense, nessun cartone animato, nessun volto con aspetto da IA, nessun errore nei testi, nessuna mano distorta.
 ```
 
 [↑ Torna alle categorie](#catalog)
