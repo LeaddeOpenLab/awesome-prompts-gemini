@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T16:23:25.788Z",
+  "model": "gemini",
+  "prompt": "Ultra-realistic cinematic macro miniature world, 10-second video. A bustling grocery store where tiny ant-sized human shoppers move through enormous aisles of oversized food products. Tiny shoppers push miniature shopping carts between giant tomatoes, massive strawberries, towering cereal boxes, huge milk bottles, and enormous bread loaves. One tiny shopper struggles to push a cart carrying a single giant blueberry, while another climbs a gigantic loaf of bread. Smooth cinematic tracking camera at ground level, shallow depth of field, realistic miniature textures, detailed tiny people and carts, warm supermarket lighting, subtle ambient grocery-store sounds, natural movement, playful sense of scale, photorealistic, 8K detail, cinematic realism, seamless action, no text, no subtitles, no logos. Vertical 9:16, exactly 10 seconds.",
+  "promptTranslations": {
+    "en": "Ultra-realistic cinematic macro miniature world, 10-second video. A bustling grocery store where tiny ant-sized human shoppers move through enormous aisles of oversized food products. Tiny shoppers push miniature shopping carts between giant tomatoes, massive strawberries, towering cereal boxes, huge milk bottles, and enormous bread loaves. One tiny shopper struggles to push a cart carrying a single giant blueberry, while another climbs a gigantic loaf of bread. Smooth cinematic tracking camera at ground level, shallow depth of field, realistic miniature textures, detailed tiny people and carts, warm supermarket lighting, subtle ambient grocery-store sounds, natural movement, playful sense of scale, photorealistic, 8K detail, cinematic realism, seamless action, no text, no subtitles, no logos. Vertical 9:16, exactly 10 seconds."
+  },
+  "summaryTranslations": {
+    "en": "Miniature supermarket scene with tiny humans navigating among giant foods to shop and climb."
+  },
+  "translationVersion": 2,
+  "summary": "微缩超市场景，微型人类穿行于巨型食品间购物攀爬。",
+  "summaryEn": "Macro miniature grocery store featuring ant-sized humans shopping among giant foods.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2097964006187372912",
+      "canonicalUrl": "https://x.com/AiwithBloodline/status/2097964006187372912",
+      "author": {
+        "username": "AiwithBloodline",
+        "displayName": "Dr Bloodline | AI",
+        "profileUrl": "https://x.com/AiwithBloodline"
+      },
+      "originalText": "Old-school martial arts energy, cinematic choreography, and pure movie magic. 🥋🔥\nMade with Seedance 2.5 on @Anyfilmai .\n\n #AIVideo #CinematicAI #MartialArts https://t.co/UVB1vWNsDH"
+    },
+    "id": "2098390370854002711",
+    "canonicalUrl": "https://x.com/AiwithBloodline/status/2098390370854002711",
+    "author": {
+      "username": "AiwithBloodline",
+      "displayName": "Dr Bloodline | AI",
+      "profileUrl": "https://x.com/AiwithBloodline"
+    },
+    "publishedAt": "2026-09-11T12:37:05.000Z",
+    "collectedAt": "2026-09-11T16:16:29.553Z",
+    "language": "en",
+    "originalText": "Generated with Gemini Flash Lite on Gemini App \n\n\"Ant Sized Factory 🏭 \"\n\nPrompt ⤵️; \n\n🎬 10-Second Video Prompt — 🐜 Ant-Sized Grocery Store\n\nPrompt:\n\n> Ultra-realistic cinematic macro miniature world, 10-second video. A bustling grocery store where tiny ant-sized human shoppers move through enormous aisles of oversized food products. Tiny shoppers push miniature shopping carts between giant tomatoes, massive strawberries, towering cereal boxes, huge milk bottles, and enormous bread loaves. One tiny shopper struggles to push a cart carrying a single giant blueberry, while another climbs a gigantic loaf of bread. Smooth cinematic tracking camera at ground level, shallow depth of field, realistic miniature textures, detailed tiny people and carts, warm supermarket lighting, subtle ambient grocery-store sounds, natural movement, playful sense of scale, photorealistic, 8K detail, cinematic realism, seamless action, no text, no subtitles, no logos. Vertical 9:16, exactly 10 seconds.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AiwithBloodline/status/2098390370854002711",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098390331763179521/img/IKy6qiB1hS96RCv4.jpg",
+        "analysisUrl": "https://x.com/AiwithBloodline/status/2098390370854002711"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/AiwithBloodline/status/2098390370854002711",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097963796908367872/img/0dgab83XIEpCsXRZ.jpg",
+        "analysisUrl": "https://x.com/AiwithBloodline/status/2098390370854002711",
+        "sourcePostId": "2097964006187372912"
+      }
+    ],
+    "metrics": {
+      "likeCount": 35,
+      "repostCount": 2,
+      "replyCount": 25,
+      "quoteCount": 0,
+      "viewCount": 478
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AiwithBloodline/status/2098390370854002711",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098390331763179521/img/IKy6qiB1hS96RCv4.jpg",
+  "coverPath": "covers/2098390370854002711.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098390331763179521",
+    "x-video:2097963796908367872",
+    "x-post:2098390370854002711",
+    "x-post:2097964006187372912"
+  ],
+  "analysis": {
+    "summary": "微缩超市场景，微型人类穿行于巨型食品间购物攀爬。",
+    "summaryEn": "Macro miniature grocery store featuring ant-sized humans shopping among giant foods.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面准确呈现巨型蓝莓购物车与攀爬面包等核心动作细节。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-realistic cinematic macro miniature world, 10-second video. A bustling grocery store where tiny ant-sized human shoppers move through enormous aisles of oversized food products. Tiny shoppers push miniature shopping carts between giant tomatoes, massive strawberries, towering cereal boxes, huge milk bottles, and enormous bread loaves. One tiny shopper struggles to push a cart carrying a single giant blueberry, while another climbs a gigantic loaf of bread. Smooth cinematic tracking camera at ground level, shallow depth of field, realistic miniature textures, detailed tiny people and carts, warm supermarket lighting, subtle ambient grocery-store sounds, natural movement, playful sense of scale, photorealistic, 8K detail, cinematic realism, seamless action, no text, no subtitles, no logos. Vertical 9:16, exactly 10 seconds.",
+    "sourceRange": {
+      "start": 151,
+      "end": 990
+    },
+    "translations": {
+      "zh": "超逼真电影感微缩世界，10秒视频。繁忙的杂货店内，蚂蚁般大小的人类顾客穿行在巨大食品货架间。微型购物车穿梭于巨型番茄、草莓、麦片盒与面包之间。一名顾客推着装有巨型蓝莓的小车，另一名攀爬巨型面包。地面平滑运镜、浅景深、微缩质感、写实光影，无文字字幕，9:16竖屏。",
+      "en": "Ultra-realistic cinematic macro miniature world, 10-second video. A bustling grocery store where tiny ant-sized human shoppers move through enormous aisles of oversized food products. Tiny shoppers push miniature shopping carts between giant tomatoes, massive strawberries, towering cereal boxes, huge milk bottles, and enormous bread loaves. One tiny shopper struggles to push a cart carrying a single giant blueberry, while another climbs a gigantic loaf of bread. Smooth cinematic tracking camera at ground level, shallow depth of field, realistic miniature textures, detailed tiny people and carts, warm supermarket lighting, subtle ambient grocery-store sounds, natural movement, playful sense of scale, photorealistic, 8K detail, cinematic realism, seamless action, no text, no subtitles, no logos. Vertical 9:16, exactly 10 seconds."
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "text-to-video",
+    "useCase": "concept_art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
