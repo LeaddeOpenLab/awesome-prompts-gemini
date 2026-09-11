@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**8** Prompts · Latest addition: **2026-09-10**
+**9** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098277089749463207"></a>
+
+### Cinematic sci-fi scene of a young man walking through an abandoned futuristic city as holographic billboards activate around him.
+
+Author：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Source](https://x.com/MohdAdnanA86218/status/2098277089749463207)
+
+Cinematic / Film Still · Cyberpunk / Sci-Fi · Character · Published
+
+**Summary:** Cinematic sci-fi scene of a young man walking through an abandoned futuristic city as holographic billboards activate around him.
+
+<img src="covers/2098277089749463207.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic cinematic sci-fi short film, 10 seconds, 16:9. A strikingly handsome young man in his early 20s walks alone through an abandoned futuristic megacity in the year 2050. He has thick naturally wavy jet-black hair, deep dark-brown eyes, sharp masculine jawline, prominent cheekbones, and subtle natural stubble. He wears a sleek black futuristic coat, dark trousers, and minimalist boots. The massive city around him is completely deserted—towering glass skyscrapers, empty elevated highways, abandoned autonomous vehicles, drifting mist, scattered debris, and faint blue atmospheric lights.\n0–3 seconds: Wide cinematic tracking shot from behind as he walks slowly down an empty futuristic boulevard, his footsteps echoing through the silent city.\n3–6 seconds: He suddenly stops and looks upward. One holographic advertisement flickers on above a skyscraper, then another, then hundreds.\n6–9 seconds: Thousands of gigantic holographic advertisements suddenly activate across the entire city—neon billboards, floating interfaces, animated products and mysterious messages—illuminating the abandoned streets around him. The man's face reflects the holographic light as he looks around in shock.\n9–10 seconds: Dramatic close-up of his face as every holographic screen simultaneously turns toward him, creating an eerie realization that he may not actually be alone.\nPhotorealistic human movement, realistic fabric physics, cinematic volumetric fog, wet reflective streets, detailed futuristic architecture, atmospheric depth, subtle lens flare, realistic hologram glow, dramatic camera movement, high contrast, 8K HDR, anamorphic cinematic look, suspenseful futuristic atmosphere, no cartoon, no AI-looking face, no text glitches, no distorted hands.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097929264158945776"></a>
 

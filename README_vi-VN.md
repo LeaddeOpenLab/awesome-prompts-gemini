@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**8** Prompt · Bổ sung mới nhất: **2026-09-10**
+**9** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2098277089749463207"></a>
+
+### Đang dịch
+
+Tác giả：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Bài gốc](https://x.com/MohdAdnanA86218/status/2098277089749463207)
+
+Điện ảnh / Ảnh tĩnh từ phim · Cyberpunk / Khoa học viễn tưởng · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098277089749463207.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097929264158945776"></a>
 
