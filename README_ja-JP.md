@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**9** 件 · 最新の追加: **2026-09-11**
+**10** 件 · 最新の追加: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -398,6 +398,30 @@ HDRスタイルのダイナミックレンジ。
 <a name="category-other"></a>
 
 ## その他
+
+<a name="prompt-2098390370854002711"></a>
+
+### 翻訳中
+
+作者：[@AiwithBloodline](https://x.com/AiwithBloodline) · [元の投稿](https://x.com/AiwithBloodline/status/2098390370854002711)
+
+食品・飲料 · 配信済み
+
+元の投稿：[@AiwithBloodline](https://x.com/AiwithBloodline) · [元の投稿](https://x.com/AiwithBloodline/status/2097964006187372912)
+
+**概要:** 翻訳中
+
+<img src="covers/2098390370854002711.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2097693389672394895"></a>
 

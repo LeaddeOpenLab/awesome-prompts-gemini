@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**9** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**10** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -403,6 +403,30 @@ Originalbeitrag：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Original
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2098390370854002711"></a>
+
+### Übersetzung läuft
+
+Autor：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Originalbeitrag](https://x.com/AiwithBloodline/status/2098390370854002711)
+
+Essen / Trinken · Veröffentlicht
+
+Originalbeitrag：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Originalbeitrag](https://x.com/AiwithBloodline/status/2097964006187372912)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098390370854002711.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097693389672394895"></a>
 

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**9** Prompts · Adição mais recente: **2026-09-11**
+**10** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -328,6 +328,30 @@ Publicação original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098390370854002711"></a>
+
+### Tradução em curso
+
+Autor：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publicação original](https://x.com/AiwithBloodline/status/2098390370854002711)
+
+Comida / Bebida · Publicado
+
+Publicação original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publicação original](https://x.com/AiwithBloodline/status/2097964006187372912)
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098390370854002711.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097693389672394895"></a>
 

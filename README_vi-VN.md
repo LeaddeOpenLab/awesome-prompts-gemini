@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**9** Prompt · Bổ sung mới nhất: **2026-09-11**
+**10** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -398,6 +398,30 @@ Bài gốc：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](h
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2098390370854002711"></a>
+
+### Đang dịch
+
+Tác giả：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](https://x.com/AiwithBloodline/status/2098390370854002711)
+
+Thực phẩm / Đồ uống · Đã xuất bản
+
+Bài gốc：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](https://x.com/AiwithBloodline/status/2097964006187372912)
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098390370854002711.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097693389672394895"></a>
 

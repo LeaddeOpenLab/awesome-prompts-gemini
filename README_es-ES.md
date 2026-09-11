@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**9** Prompts · Última incorporación: **2026-09-11**
+**10** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -398,6 +398,30 @@ Publicación original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2098390370854002711"></a>
+
+### Traducción en curso
+
+Autor：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publicación original](https://x.com/AiwithBloodline/status/2098390370854002711)
+
+Comida / Bebida · Publicado
+
+Publicación original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publicación original](https://x.com/AiwithBloodline/status/2097964006187372912)
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098390370854002711.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097693389672394895"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**9** Prompt · Son eklenen: **2026-09-11**
+**10** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -328,6 +328,30 @@ Orijinal gönderi：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijin
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098390370854002711"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi](https://x.com/AiwithBloodline/status/2098390370854002711)
+
+Yiyecek / İçecek · Yayımlandı
+
+Orijinal gönderi：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijinal gönderi](https://x.com/AiwithBloodline/status/2097964006187372912)
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098390370854002711.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097693389672394895"></a>
 

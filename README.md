@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**9** Prompts · Latest addition: **2026-09-11**
+**10** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -398,6 +398,30 @@ Source：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098390370854002711"></a>
+
+### Miniature supermarket scene with tiny humans navigating among giant foods to shop and climb.
+
+Author：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x.com/AiwithBloodline/status/2098390370854002711)
+
+Food / Drink · Published
+
+Source：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x.com/AiwithBloodline/status/2097964006187372912)
+
+**Summary:** Miniature supermarket scene with tiny humans navigating among giant foods to shop and climb.
+
+<img src="covers/2098390370854002711.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic cinematic macro miniature world, 10-second video. A bustling grocery store where tiny ant-sized human shoppers move through enormous aisles of oversized food products. Tiny shoppers push miniature shopping carts between giant tomatoes, massive strawberries, towering cereal boxes, huge milk bottles, and enormous bread loaves. One tiny shopper struggles to push a cart carrying a single giant blueberry, while another climbs a gigantic loaf of bread. Smooth cinematic tracking camera at ground level, shallow depth of field, realistic miniature textures, detailed tiny people and carts, warm supermarket lighting, subtle ambient grocery-store sounds, natural movement, playful sense of scale, photorealistic, 8K detail, cinematic realism, seamless action, no text, no subtitles, no logos. Vertical 9:16, exactly 10 seconds.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097693389672394895"></a>
 
