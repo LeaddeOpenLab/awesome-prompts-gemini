@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**10** Prompts · Latest addition: **2026-09-11**
+**11** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -398,6 +398,30 @@ Source：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099127037352972426"></a>
+
+### Vertical split-screen comparing a finished jungle jaguar standoff with its mocap blue-screen counterpart.
+
+Author：[@abs\_uiux](https://x.com/abs_uiux) · [Source](https://x.com/abs_uiux/status/2099127037352972426)
+
+Other · Published
+
+**Summary:** Vertical split-screen comparing a finished jungle jaguar standoff with its mocap blue-screen counterpart.
+
+<img src="covers/2099127037352972426.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+*VFX Breakdown: Jungle Standoff*
+
+A vertical split-screen video comparing a cinematic VFX shot with its behind-the-scenes production. Top Half: A photorealistic, high-resolution movie scene featuring a fit woman in a black tank top and cargo pants standing defensively on a thick, mossy wooden log. Facing her on the left is a massive, realistic jaguar walking slowly towards her on all fours. The background is a majestic, blurred waterfall with mist. Lighting is dramatic and cinematic. Bottom Half: The exact same scene filmed on a blue screen soundstage. The same actress stands on the same physical log prop. Instead of a jaguar, a male motion capture performer in a black suit with white markers and a helmet camera crawls on all fours, perfectly mimicking the jaguar's movement. Film crew, cameras, tripods, and monitors are visible in the foreground. The blue background has red tracking markers. Action: Both the jaguar and the mocap actor perform a slow, tense, synchronized stalk forward along the log. The woman tracks their movement with alert tension. Technical: Static camera, eye-level side profile, deep focus on bottom, shallow depth of field on top. Perfect alignment between the CGI render and the practical footage. Photorealistic style, 4k resolution.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098390370854002711"></a>
 

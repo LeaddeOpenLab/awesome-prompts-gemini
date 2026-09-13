@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**10** Prompts · Última adição: **2026-09-11**
+**11** Prompts · Última adição: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -328,6 +328,28 @@ Publicação original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2099127037352972426"></a>
+
+### Tradução em andamento
+
+Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicação original](https://x.com/abs_uiux/status/2099127037352972426)
+
+Outros · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2099127037352972426.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098390370854002711"></a>
 
