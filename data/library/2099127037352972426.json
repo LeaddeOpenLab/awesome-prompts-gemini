@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T16:29:14.501Z",
+  "model": "gemini",
+  "prompt": "*VFX Breakdown: Jungle Standoff*\n\nA vertical split-screen video comparing a cinematic VFX shot with its behind-the-scenes production. Top Half: A photorealistic, high-resolution movie scene featuring a fit woman in a black tank top and cargo pants standing defensively on a thick, mossy wooden log. Facing her on the left is a massive, realistic jaguar walking slowly towards her on all fours. The background is a majestic, blurred waterfall with mist. Lighting is dramatic and cinematic. Bottom Half: The exact same scene filmed on a blue screen soundstage. The same actress stands on the same physical log prop. Instead of a jaguar, a male motion capture performer in a black suit with white markers and a helmet camera crawls on all fours, perfectly mimicking the jaguar's movement. Film crew, cameras, tripods, and monitors are visible in the foreground. The blue background has red tracking markers. Action: Both the jaguar and the mocap actor perform a slow, tense, synchronized stalk forward along the log. The woman tracks their movement with alert tension. Technical: Static camera, eye-level side profile, deep focus on bottom, shallow depth of field on top. Perfect alignment between the CGI render and the practical footage. Photorealistic style, 4k resolution.",
+  "promptTranslations": {
+    "en": "*VFX Breakdown: Jungle Standoff*\n\nA vertical split-screen video comparing a cinematic VFX shot with its behind-the-scenes production. Top Half: A photorealistic, high-resolution movie scene featuring a fit woman in a black tank top and cargo pants standing defensively on a thick, mossy wooden log. Facing her on the left is a massive, realistic jaguar walking slowly towards her on all fours. The background is a majestic, blurred waterfall with mist. Lighting is dramatic and cinematic. Bottom Half: The exact same scene filmed on a blue screen soundstage. The same actress stands on the same physical log prop. Instead of a jaguar, a male motion capture performer in a black suit with white markers and a helmet camera crawls on all fours, perfectly mimicking the jaguar's movement. Film crew, cameras, tripods, and monitors are visible in the foreground. The blue background has red tracking markers. Action: Both the jaguar and the mocap actor perform a slow, tense, synchronized stalk forward along the log. The woman tracks their movement with alert tension. Technical: Static camera, eye-level side profile, deep focus on bottom, shallow depth of field on top. Perfect alignment between the CGI render and the practical footage. Photorealistic style, 4k resolution."
+  },
+  "summaryTranslations": {
+    "en": "Vertical split-screen comparing a finished jungle jaguar standoff with its mocap blue-screen counterpart."
+  },
+  "translationVersion": 2,
+  "summary": "Vertical split-screen comparing a finished jungle jaguar standoff with its mocap blue-screen counterpart.",
+  "summaryEn": "Vertical split-screen comparing a finished jungle jaguar standoff with its mocap blue-screen counterpart.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099127037352972426",
+    "canonicalUrl": "https://x.com/abs_uiux/status/2099127037352972426",
+    "author": {
+      "username": "abs_uiux",
+      "displayName": "Abkr Sadiq | AI",
+      "profileUrl": "https://x.com/abs_uiux"
+    },
+    "publishedAt": "2026-09-13T13:24:20.000Z",
+    "collectedAt": "2026-09-13T16:16:58.485Z",
+    "language": "en",
+    "originalText": "CGI vs. Reality!   Wait until you see how this epic jungle standoff was actually filmed. The mocap actor absolutely nailed that jaguar walk! \n\n Created this with Veo 3.1 on Gemini \n\nPrompt:\n\n*VFX Breakdown: Jungle Standoff*\n\nA vertical split-screen video comparing a cinematic VFX shot with its behind-the-scenes production. Top Half: A photorealistic, high-resolution movie scene featuring a fit woman in a black tank top and cargo pants standing defensively on a thick, mossy wooden log. Facing her on the left is a massive, realistic jaguar walking slowly towards her on all fours. The background is a majestic, blurred waterfall with mist. Lighting is dramatic and cinematic. Bottom Half: The exact same scene filmed on a blue screen soundstage. The same actress stands on the same physical log prop. Instead of a jaguar, a male motion capture performer in a black suit with white markers and a helmet camera crawls on all fours, perfectly mimicking the jaguar's movement. Film crew, cameras, tripods, and monitors are visible in the foreground. The blue background has red tracking markers. Action: Both the jaguar and the mocap actor perform a slow, tense, synchronized stalk forward along the log. The woman tracks their movement with alert tension. Technical: Static camera, eye-level side profile, deep focus on bottom, shallow depth of field on top. Perfect alignment between the CGI render and the practical footage. Photorealistic style, 4k resolution.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/abs_uiux/status/2099127037352972426",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099126857299836939/img/ZNh34K_NkJIOVB03.jpg",
+        "analysisUrl": "https://x.com/abs_uiux/status/2099127037352972426"
+      }
+    ],
+    "metrics": {
+      "likeCount": 24,
+      "repostCount": 0,
+      "replyCount": 18,
+      "quoteCount": 0,
+      "viewCount": 692
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/abs_uiux/status/2099127037352972426",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099126857299836939/img/ZNh34K_NkJIOVB03.jpg",
+  "coverPath": "covers/2099127037352972426.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099126857299836939",
+    "x-post:2099127037352972426"
+  ],
+  "analysis": {
+    "summary": "Vertical split-screen comparing a finished jungle jaguar standoff with its mocap blue-screen counterpart.",
+    "summaryEn": "Vertical split-screen comparing a finished jungle jaguar standoff with its mocap blue-screen counterpart.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely depicts the split-screen comparison: the top section displays the rendered jaguar and woman facing off near a waterfall, while the bottom section shows the blue screen setup with the mocap actor crawling in sync."
+    },
+    "videoQuality": null,
+    "originalPrompt": "*VFX Breakdown: Jungle Standoff*\n\nA vertical split-screen video comparing a cinematic VFX shot with its behind-the-scenes production. Top Half: A photorealistic, high-resolution movie scene featuring a fit woman in a black tank top and cargo pants standing defensively on a thick, mossy wooden log. Facing her on the left is a massive, realistic jaguar walking slowly towards her on all fours. The background is a majestic, blurred waterfall with mist. Lighting is dramatic and cinematic. Bottom Half: The exact same scene filmed on a blue screen soundstage. The same actress stands on the same physical log prop. Instead of a jaguar, a male motion capture performer in a black suit with white markers and a helmet camera crawls on all fours, perfectly mimicking the jaguar's movement. Film crew, cameras, tripods, and monitors are visible in the foreground. The blue background has red tracking markers. Action: Both the jaguar and the mocap actor perform a slow, tense, synchronized stalk forward along the log. The woman tracks their movement with alert tension. Technical: Static camera, eye-level side profile, deep focus on bottom, shallow depth of field on top. Perfect alignment between the CGI render and the practical footage. Photorealistic style, 4k resolution.",
+    "sourceRange": {
+      "start": 191,
+      "end": 1464
+    },
+    "translations": {
+      "zh": "【视效解析：丛林对峙】\n\n一段垂直分屏视频，对比电影级视效镜头与幕后制作。上半部分：逼真高分辨率电影场景，一名身穿黑色背心和工装裤的健美女性戒备地站在长满青苔的粗木原木上。左侧面对她的是一只逼真的巨型美洲豹，正四足缓慢向她走来。背景是带薄雾的壮观模糊瀑布，戏剧化电影光影。下半部分：同一场景在蓝幕摄影棚拍摄，同一位女演员站在同样的实体原木道具上。美洲豹替换为身穿带白色标记黑服、头戴摄像头的男性动捕演员，正四足爬行并完美模仿美洲豹动作。前景可见摄制组、摄像机、三脚架和监视器。蓝色背景带有红色追踪标记。动作：美洲豹与动捕演员沿着原木同步缓慢潜行，女子警惕观察。技术细节：固定镜头、侧面对平视、底部深景深且顶部浅景深，CG渲染与实拍完美对齐。逼真写实风格，4k分辨率。",
+      "en": "*VFX Breakdown: Jungle Standoff*\n\nA vertical split-screen video comparing a cinematic VFX shot with its behind-the-scenes production. Top Half: A photorealistic, high-resolution movie scene featuring a fit woman in a black tank top and cargo pants standing defensively on a thick, mossy wooden log. Facing her on the left is a massive, realistic jaguar walking slowly towards her on all fours. The background is a majestic, blurred waterfall with mist. Lighting is dramatic and cinematic. Bottom Half: The exact same scene filmed on a blue screen soundstage. The same actress stands on the same physical log prop. Instead of a jaguar, a male motion capture performer in a black suit with white markers and a helmet camera crawls on all fours, perfectly mimicking the jaguar's movement. Film crew, cameras, tripods, and monitors are visible in the foreground. The blue background has red tracking markers. Action: Both the jaguar and the mocap actor perform a slow, tense, synchronized stalk forward along the log. The woman tracks their movement with alert tension. Technical: Static camera, eye-level side profile, deep focus on bottom, shallow depth of field on top. Perfect alignment between the CGI render and the practical footage. Photorealistic style, 4k resolution."
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "text-to-video",
+    "useCase": "VFX comparison split-screen generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
