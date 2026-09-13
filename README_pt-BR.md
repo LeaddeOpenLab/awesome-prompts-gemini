@@ -331,20 +331,22 @@ Publicação original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 
 <a name="prompt-2099127037352972426"></a>
 
-### Tradução em andamento
+### Tela dividida vertical comparando um confronto finalizado com uma onça na selva com seu equivalente em captura de movimento com fundo azul.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicação original](https://x.com/abs_uiux/status/2099127037352972426)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Tela dividida vertical comparando um confronto finalizado com uma onça na selva com seu equivalente em captura de movimento com fundo azul.
 
 <img src="covers/2099127037352972426.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+*Breakdown de VFX: Confronto na Selva*
+
+Um vídeo com tela dividida vertical comparando uma tomada cinematográfica de efeitos visuais com sua produção nos bastidores. Metade superior: Uma cena de filme fotorrealista e em alta resolução apresentando uma mulher em boa forma vestindo uma regata preta e calças cargo parada defensivamente sobre um tronco de madeira espesso e coberto de musgo. De frente para ela, à esquerda, há uma onça-pintada enorme e realista caminhando lentamente em sua direção de quatro. O fundo é uma cachoeira majestosa e desfocada com névoa. A iluminação é dramática e cinematográfica. Metade inferior: Exatamente a mesma cena filmada em um estúdio com tela azul. A mesma atriz está parada sobre o mesmo tronco cenográfico físico. Em vez de uma onça, um ator de captura de movimento masculino em um traje preto com marcadores brancos e uma câmera de capacete rasteja de quatro, imitando com perfeição o movimento do felino. A equipe de filmagem, câmeras, tripés e monitores estão visíveis em primeiro plano. O fundo azul tem marcadores de rastreamento vermelhos. Ação: Tanto a onça quanto o ator de mocap executam uma aproximação lenta, tensa e sincronizada para a frente ao longo do tronco. A mulher acompanha o movimento deles com uma tensão alerta. Aspectos técnicos: Câmera estática, perfil lateral na altura dos olhos, foco profundo na parte inferior, profundidade de campo reduzida na parte superior. Alinhamento perfeito entre a renderização CGI e as filmagens práticas. Estilo fotorrealista, resolução 4k.
 ```
 
 [↑ Voltar às categorias](#catalog)

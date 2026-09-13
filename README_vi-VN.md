@@ -401,20 +401,22 @@ Bài gốc：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](h
 
 <a name="prompt-2099127037352972426"></a>
 
-### Đang dịch
+### Màn hình chia đôi trên dưới so sánh cuộc chạm trán với báo đốm trong rừng đã hoàn thiện với cảnh phông xanh mocap tương ứng.
 
 Tác giả：[@abs\_uiux](https://x.com/abs_uiux) · [Bài gốc](https://x.com/abs_uiux/status/2099127037352972426)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Màn hình chia đôi trên dưới so sánh cuộc chạm trán với báo đốm trong rừng đã hoàn thiện với cảnh phông xanh mocap tương ứng.
 
 <img src="covers/2099127037352972426.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+*Phân tích kỹ xảo VFX: Cuộc chạm trán nơi rừng rậm*
+
+Một video chia màn hình trên dưới so sánh cảnh quay kỹ xảo điện ảnh với quá trình sản xuất hậu trường. Nửa trên: Cảnh phim chân thực, độ phân giải cao với một người phụ nữ vóc dáng cân đối mặc áo ba lỗ đen và quần túi hộp đang đứng ở tư thế phòng thủ trên một khúc gỗ dày phủ đầy rêu. Đối diện với cô ở bên trái là một con báo đốm khổng lồ, sống động như thật đang chậm rãi bước đi bằng bốn chân về phía cô. Hậu cảnh là một thác nước hùng vĩ bị làm mờ mịt mù sương. Ánh sáng mang tính kịch tính và đậm chất điện ảnh. Nửa dưới: Cảnh quay giống hệt được ghi hình trên phim trường phông xanh dương. Cùng một nữ diễn viên đứng trên cùng một khúc gỗ đạo cụ thực tế. Thay vì báo đốm, một nam diễn viên ghi hình chuyển động trong bộ đồ đen có gắn các điểm đánh dấu màu trắng và mũ bảo hiểm gắn camera đang bò bằng bốn chân, bắt chước hoàn hảo chuyển động của báo đốm. Có thể nhìn thấy đoàn làm phim, máy quay, chân máy và màn hình ở tiền cảnh. Phông nền màu xanh dương có các điểm đánh dấu theo dõi màu đỏ. Hành động: Cả báo đốm và diễn viên mocap đều thực hiện động tác rình rập tiến về phía trước dọc theo khúc gỗ một cách chậm rãi, căng thẳng và đồng bộ. Người phụ nữ dõi theo chuyển động của họ với sự căng thẳng và cảnh giác cao độ. Kỹ thuật: Máy quay tĩnh, góc nhìn ngang tầm mắt từ bên cạnh, nửa dưới có độ sâu trường ảnh sâu, nửa trên có độ sâu trường ảnh nông. Căn chỉnh hoàn hảo giữa bản kết xuất CGI và cảnh quay thực tế. Phong cách chân thực như ảnh chụp, độ phân giải 4k.
 ```
 
 [↑ Về danh mục](#catalog)

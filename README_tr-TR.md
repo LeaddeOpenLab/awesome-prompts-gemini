@@ -331,20 +331,22 @@ Orijinal gönderi：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijin
 
 <a name="prompt-2099127037352972426"></a>
 
-### Çeviri sürüyor
+### Ormanda tamamlanmış bir jaguar yüzleşmesini mavi ekranlı hareket yakalama versiyonuyla karşılaştıran dikey bölünmüş ekran.
 
 Yazar：[@abs\_uiux](https://x.com/abs_uiux) · [Orijinal gönderi](https://x.com/abs_uiux/status/2099127037352972426)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Ormanda tamamlanmış bir jaguar yüzleşmesini mavi ekranlı hareket yakalama versiyonuyla karşılaştıran dikey bölünmüş ekran.
 
 <img src="covers/2099127037352972426.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+*VFX Breakdown: Ormanda Yüzleşme*
+
+Sinematik bir VFX çekimini kamera arkası prodüksiyonuyla karşılaştıran dikey bölünmüş ekranlı bir video. Üst Yarı: Siyah atlet ve kargo pantolon giymiş formda bir kadının kalın, yosunlu bir kütük üzerinde savunma pozisyonunda durduğu fotogerçekçi, yüksek çözünürlüklü bir film sahnesi. Sol tarafında onunla yüzleşen devasa, gerçekçi bir jaguar dört ayak üzerinde yavaşça ona doğru yürüyor. Arka planda sisli, görkemli ve bulanık bir şelale var. Aydınlatma dramatik ve sinematik. Alt Yarı: Mavi ekran ses stüdyosunda çekilmiş birebir aynı sahne. Aynı aktris, aynı fiziksel kütük dekoru üzerinde duruyor. Jaguar yerine, beyaz işaretleyicilere sahip siyah bir tulum ve kask kamerası takmış bir erkek hareket yakalama (mocap) oyuncusu dört ayak üzerinde emekleyerek jaguarın hareketlerini mükemmel şekilde taklit ediyor. Ön planda film ekibi, kameralar, tripodlar ve monitörler görünüyor. Mavi arka planda kırmızı takip işaretçileri var. Aksiyon: Hem jaguar hem de mocap oyuncusu kütük boyunca ileriye doğru yavaş, gergin ve senkronize bir takip yürüyüşü gerçekleştiriyor. Kadın onların hareketlerini tetikte bir gerginlikle izliyor. Teknik: Sabit kamera, göz hizasında yan profil, altta derin odak, üstte sığ alan derinliği. CGI görselleştirmesi ile pratik çekim arasında kusursuz hizalama. Fotogerçekçi tarz, 4k çözünürlük.
 ```
 
 [↑ Kategorilere dön](#catalog)

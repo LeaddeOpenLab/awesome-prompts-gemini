@@ -331,20 +331,22 @@ Post originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Post orig
 
 <a name="prompt-2099127037352972426"></a>
 
-### Traduzione in corso
+### Schermo diviso verticalmente che mette a confronto una resa dei conti finita con un giaguaro nella giungla con la sua controparte in motion capture su schermo blu.
 
 Autore：[@abs\_uiux](https://x.com/abs_uiux) · [Post originale](https://x.com/abs_uiux/status/2099127037352972426)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Schermo diviso verticalmente che mette a confronto una resa dei conti finita con un giaguaro nella giungla con la sua controparte in motion capture su schermo blu.
 
 <img src="covers/2099127037352972426.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+*Breakdown VFX: Resa dei conti nella giungla*
+
+Un video a schermo diviso verticalmente che confronta una ripresa cinematografica con VFX con la sua produzione dietro le quinte. Metà superiore: Una scena di film fotorealistica ad alta risoluzione con una donna atletica in canottiera nera e pantaloni cargo in posizione difensiva su un tronco di legno spesso e coperto di muschio. Di fronte a lei, sulla sinistra, c'è un enorme e realistico giaguaro che cammina lentamente verso di lei a quattro zampe. Lo sfondo è una maestosa cascata sfocata con nebbiolina. L'illuminazione è drammatica e cinematografica. Metà inferiore: L'esatta stessa scena girata su un palcoscenico con schermo blu. La stessa attrice si trova sullo stesso tronco di scena fisico. Al posto del giaguaro, un attore di motion capture in tuta nera con marcatori bianchi e una telecamera montata sul casco striscia a quattro zampe, imitando perfettamente il movimento del giaguaro. Troupe cinematografica, telecamere, treppiedi e monitor sono visibili in primo piano. Lo sfondo blu ha marcatori di tracciamento rossi. Azione: Sia il giaguaro che l'attore mocap avanzano cautamente con un movimento lento, teso e sincronizzato lungo il tronco. La donna segue il loro movimento con vigile tensione. Aspetti tecnici: Telecamera fissa, profilo laterale ad altezza occhi, messa a fuoco profonda in basso, ridotta profondità di campo in alto. Allineamento perfetto tra il rendering CGI e le riprese dal vivo. Stile fotorealistico, risoluzione 4k.
 ```
 
 [↑ Torna alle categorie](#catalog)

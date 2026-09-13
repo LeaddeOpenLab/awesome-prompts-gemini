@@ -406,20 +406,22 @@ Originalbeitrag：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Original
 
 <a name="prompt-2099127037352972426"></a>
 
-### Übersetzung läuft
+### Vertikal geteilter Bildschirm, der eine fertige Dschungel-Jaguar-Konfrontation mit ihrem Bluescreen-Mocap-Gegenstück vergleicht.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Originalbeitrag](https://x.com/abs_uiux/status/2099127037352972426)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Vertikal geteilter Bildschirm, der eine fertige Dschungel-Jaguar-Konfrontation mit ihrem Bluescreen-Mocap-Gegenstück vergleicht.
 
 <img src="covers/2099127037352972426.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+*VFX Breakdown: Dschungel-Konfrontation*
+
+Ein Video mit vertikal geteiltem Bildschirm, das eine filmische VFX-Einstellung mit ihrer Produktion hinter den Kulissen vergleicht. Obere Hälfte: Eine fotorealistische, hochauflösende Filmszene mit einer fitten Frau in einem schwarzen Tanktop und Cargohosen, die abwehrend auf einem dicken, moosigen Holzstamm steht. Ihr gegenüber steht links ein gewaltiger, realistischer Jaguar, der langsam auf allen vieren auf sie zugeht. Der Hintergrund ist ein majestätischer, verschwommener Wasserfall mit Dunst. Die Beleuchtung ist dramatisch und filmisch. Untere Hälfte: Genau dieselbe Szene, gefilmt auf einer Bluescreen-Tonbühne. Dieselbe Schauspielerin steht auf derselben physischen Baumstamm-Requisite. Anstelle eines Jaguars kriecht ein männlicher Motion-Capture-Darsteller in einem schwarzen Anzug mit weißen Markern und einer Helmkamera auf allen vieren und ahmt die Bewegung des Jaguars perfekt nach. Filmcrew, Kameras, Stative und Monitore sind im Vordergrund sichtbar. Der blaue Hintergrund hat rote Tracking-Marker. Handlung: Sowohl der Jaguar als auch der Mocap-Schauspieler führen ein langsames, angespanntes, synchronisiertes Vorwärtspirschen entlang des Stammes aus. Die Frau verfolgt ihre Bewegung mit wachsamer Anspannung. Technik: Statische Kamera, Augenhöhe-Seitenprofil, große Tiefenschärfe unten, geringe Tiefenschärfe oben. Perfekte Ausrichtung zwischen dem CGI-Rendering und dem praktischen Filmmaterial. Fotorealistischer Stil, 4k-Auflösung.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -406,20 +406,22 @@ Publication originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 
 <a name="prompt-2099127037352972426"></a>
 
-### Traduction en cours
+### Écran partagé vertical comparant un face-à-face finalisé avec un jaguar dans la jungle avec son pendant en capture de mouvement sur fond bleu.
 
 Auteur：[@abs\_uiux](https://x.com/abs_uiux) · [Publication originale](https://x.com/abs_uiux/status/2099127037352972426)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Écran partagé vertical comparant un face-à-face finalisé avec un jaguar dans la jungle avec son pendant en capture de mouvement sur fond bleu.
 
 <img src="covers/2099127037352972426.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+*Décomposition VFX : Face-à-face dans la jungle*
+
+Une vidéo en écran partagé vertical comparant un plan cinématique d'effets visuels (VFX) avec sa production dans les coulisses. Moitié supérieure : Une scène de film photoréaliste en haute résolution mettant en scène une femme athlétique vêtue d'un débardeur noir et d'un pantalon cargo, se tenant sur la défensive sur un tronc d'arbre épais et moussu. Face à elle sur la gauche, un jaguar massif et réaliste avance lentement vers elle à quatre pattes. L'arrière-plan est une cascade majestueuse et floue avec de la brume. L'éclairage est dramatique et cinématographique. Moitié inférieure : Exactement la même scène filmée sur un plateau de tournage sur fond bleu. La même actrice se tient sur le même tronc d'accessoire physique. Au lieu d'un jaguar, un acteur de capture de mouvement masculin vêtu d'une combinaison noire avec des marqueurs blancs et d'une caméra de casque rampe à quatre pattes, imitant parfaitement les mouvements du jaguar. L'équipe de tournage, les caméras, les trépieds et les moniteurs sont visibles au premier plan. Le fond bleu comporte des marqueurs de suivi rouges. Action : Le jaguar et l'acteur de mocap effectuent une traque lente, tendue et synchronisée vers l'avant le long du tronc. La femme suit leur mouvement avec une tension vigilante. Technique : Caméra statique, profil latéral à hauteur des yeux, grande profondeur de champ en bas, faible profondeur de champ en haut. Alignement parfait entre le rendu CGI et les prises de vues réelles. Style photoréaliste, résolution 4k.
 ```
 
 [↑ Retour aux catégories](#catalog)

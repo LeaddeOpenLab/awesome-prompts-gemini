@@ -401,20 +401,22 @@ Publicación original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 
 <a name="prompt-2099127037352972426"></a>
 
-### Traducción en curso
+### Pantalla dividida vertical que compara un enfrentamiento final con un jaguar en la selva con su versión en pantalla azul de captura de movimiento.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicación original](https://x.com/abs_uiux/status/2099127037352972426)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Pantalla dividida vertical que compara un enfrentamiento final con un jaguar en la selva con su versión en pantalla azul de captura de movimiento.
 
 <img src="covers/2099127037352972426.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+*Desglose de VFX: Enfrentamiento en la selva*
+
+Un video de pantalla dividida vertical que compara una toma cinematográfica de VFX con su producción detrás de cámaras. Mitad superior: Una escena de película fotorrealista y de alta resolución que muestra a una mujer en buena forma física con una camiseta de tirantes negra y pantalones cargo, de pie a la defensiva sobre un tronco de madera grueso y cubierto de musgo. Frente a ella, a la izquierda, un jaguar enorme y realista camina lentamente hacia ella a cuatro patas. El fondo es una cascada majestuosa y desenfocada con neblina. La iluminación es dramática y cinematográfica. Mitad inferior: Exactamente la misma escena filmada en un plató con pantalla azul. La misma actriz se encuentra sobre el mismo tronco de utilería física. En lugar de un jaguar, un actor de captura de movimiento con un traje negro con marcadores blancos y una cámara en el casco se arrastra a cuatro patas, imitando a la perfección el movimiento del jaguar. El equipo de filmación, las cámaras, los trípodes y los monitores son visibles en primer plano. El fondo azul tiene marcadores de seguimiento rojos. Acción: Tanto el jaguar como el actor de mocap realizan un acecho sincronizado, lento y tenso hacia adelante a lo largo del tronco. La mujer sigue su movimiento con alerta y tensión. Aspectos técnicos: Cámara estática, perfil lateral a la altura de los ojos, enfoque profundo en la parte inferior, profundidad de campo reducida en la superior. Alineación perfecta entre el renderizado CGI y el metraje real. Estilo fotorrealista, resolución 4k.
 ```
 
 [↑ Volver a categorías](#catalog)

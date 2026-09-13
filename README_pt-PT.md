@@ -331,20 +331,22 @@ Publicação original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 
 <a name="prompt-2099127037352972426"></a>
 
-### Tradução em curso
+### Ecrã dividido verticalmente comparando um confronto finalizado com um jaguar na selva com o seu equivalente de captura de movimentos em ecrã azul.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicação original](https://x.com/abs_uiux/status/2099127037352972426)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Ecrã dividido verticalmente comparando um confronto finalizado com um jaguar na selva com o seu equivalente de captura de movimentos em ecrã azul.
 
 <img src="covers/2099127037352972426.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+*Breakdown de VFX: Confronto na Selva*
+
+Um vídeo em ecrã dividido verticalmente que compara um plano cinematográfico de efeitos visuais com a sua produção nos bastidores. Metade superior: Uma cena de filme fotorrealista e em alta resolução com uma mulher em boa forma, vestida com um top preto e calças cargo, parada defensivamente sobre um tronco de madeira grosso e coberto de musgo. À sua frente, à esquerda, surge um jaguar enorme e realista que caminha lentamente na sua direção de quatro. O fundo é uma cascata majestosa e desfocada com névoa. A iluminação é dramática e cinematográfica. Metade inferior: Exatamente a mesma cena filmada num estúdio com ecrã azul. A mesma atriz está de pé sobre o mesmo tronco físico do cenário. Em vez de um jaguar, um ator de captura de movimentos masculino, com um fato preto com marcadores brancos e uma câmara no capacete, rasteja de quatro, imitando na perfeição o movimento do jaguar. A equipa de filmagem, câmaras, tripés e monitores são visíveis em primeiro plano. O fundo azul tem marcadores de rastreio vermelhos. Ação: Tanto o jaguar como o ator de mocap executam uma aproximação lenta, tensa e sincronizada em frente ao longo do tronco. A mulher segue o movimento deles com uma tensão vigilante. Aspetos técnicos: Câmara estática, perfil lateral ao nível dos olhos, grande profundidade de campo em baixo, profundidade de campo reduzida em cima. Alinhamento perfeito entre a renderização CGI e a filmagem real. Estilo fotorrealista, resolução 4k.
 ```
 
 [↑ Voltar às categorias](#catalog)
