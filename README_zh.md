@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**12** 条内容 · 最新收录: **2026-09-14**
+**13** 条内容 · 最新收录: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-cinematic-film-still"></a>
 
 ## 电影 / 电影剧照
+
+<a name="prompt-2099517007934919019"></a>
+
+### 翻译中
+
+作者：[@MrDasCreates](https://x.com/MrDasCreates) · [查看 X 原帖](https://x.com/MrDasCreates/status/2099517007934919019)
+
+电影 / 电影剧照 · 风景 / 自然 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2099517007934919019.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2099370488342647240"></a>
 

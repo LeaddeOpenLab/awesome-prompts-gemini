@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**12** Prompts · Latest addition: **2026-09-14**
+**13** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,75 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2099517007934919019"></a>
+
+### 10s JSON prompt directing lightning and carbon shards to assemble into a Lamborghini Aventador on a stormy mountain pass.
+
+Author：[@MrDasCreates](https://x.com/MrDasCreates) · [Source](https://x.com/MrDasCreates/status/2099517007934919019)
+
+Cinematic / Film Still · Landscape / Nature · Published
+
+**Summary:** 10s JSON prompt directing lightning and carbon shards to assemble into a Lamborghini Aventador on a stormy mountain pass.
+
+<img src="covers/2099517007934919019.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "single continuous unbroken shot, no scene cuts",
+    "composition": "starts ultra-wide on a storm-lashed mountain pass at dusk, follows carbon-fiber shards and lightning energy swirling into form, ends on a centered roaring Lamborghini Aventador close-up",
+    "lens": "wide-angle for the epic landscape, then 35mm for the product reveal",
+    "frame_rate": "24fps cinematic",
+    "camera_movement": "slow dramatic push-in through the storm following the rising fragments, then a low aggressive dolly as they lock into the car, hold steady as it settles and revs"
+  },
+  "timeline": {
+    "0-3s": "Vast stormy Italian mountain pass at dusk. Jagged peaks, winding wet asphalt, dark clouds splitting with distant lightning. Wind-whipped rain and mist over rocky cliffs.",
+    "3-7s": "Hundreds of sharp carbon-fiber shards, glowing metal panels and electric-blue energy streaks lift from the road and spin in violent, precise orbits. They interlock mid-air into the exact angular silhouette of a Lamborghini Aventador. Sparks, rain refraction and crackling energy edges.",
+    "7-10s": "The form pulses with a surge of light and materializes into a real matte-black Lamborghini Aventador hovering then dropping onto the wet road. Headlights flare, scissor doors slightly lift, engine bellows. Hold on the beast as rain streaks across the body."
+  },
+  "subject": {
+    "description": "hundreds of carbon-fiber shards and energy fragments rising and colliding in aggressive orbits to form a supercar silhouette",
+    "props": "final Lamborghini Aventador formed from swirling fragments, then transitioning into real branded supercar while settling on the road"
+  },
+  "scene": {
+    "location": "dramatic high-mountain pass with wet winding road",
+    "time_of_day": "stormy dusk, last golden light breaking through dark clouds, lightning flashes",
+    "environment": "raw alpine weather, rain-slicked asphalt, jagged rocks, howling wind"
+  },
+  "visual_details": {
+    "action": "fragments lift, rotate in violent organized paths, lock into car outline, pulse with energy, then morph into finished Aventador that drops and revs",
+    "special_effects": "carbon-particle animation, lightning energy trails, mid-air material morph, rain interaction, engine heat distortion and tire spray"
+  },
+  "cinematography": {
+    "lighting": "dramatic storm lighting with golden-hour breaks, electric-blue energy glows, sharp rim light on the wet carbon body",
+    "color_palette": "matte blacks, storm greys, electric blues, wet asphalt reflections, warm dusk gold",
+    "tone": "raw power, Italian rage, epic luxury"
+  },
+  "audio": {
+    "music": "deep cinematic drums and aggressive orchestral hits with rising tension",
+    "ambient": "howling mountain wind, distant thunder, rain on road",
+    "sound_effects": "sharp metallic and carbon snaps as parts lock, massive V12 roar when the form completes, tire growl and rain hiss",
+    "mix": "powerful, thunderous, nature-versus-machine with a driving musical center"
+  },
+  "constraints": {
+    "dialogue": "none",
+    "voiceover": "none",
+    "on_screen_text": "none",
+    "captions": "none",
+    "subtitles": false
+  }
+}
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099370488342647240"></a>
 
