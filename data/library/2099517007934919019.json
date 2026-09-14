@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T16:34:05.036Z",
+  "model": "gemini",
+  "prompt": "{\n  \"model\": \"gemini-omni-1.1-flash\",\n  \"duration\": \"10s\",\n  \"aspect_ratio\": \"16:9\",\n  \"shot\": {\n    \"structure\": \"single continuous unbroken shot, no scene cuts\",\n    \"composition\": \"starts ultra-wide on a storm-lashed mountain pass at dusk, follows carbon-fiber shards and lightning energy swirling into form, ends on a centered roaring Lamborghini Aventador close-up\",\n    \"lens\": \"wide-angle for the epic landscape, then 35mm for the product reveal\",\n    \"frame_rate\": \"24fps cinematic\",\n    \"camera_movement\": \"slow dramatic push-in through the storm following the rising fragments, then a low aggressive dolly as they lock into the car, hold steady as it settles and revs\"\n  },\n  \"timeline\": {\n    \"0-3s\": \"Vast stormy Italian mountain pass at dusk. Jagged peaks, winding wet asphalt, dark clouds splitting with distant lightning. Wind-whipped rain and mist over rocky cliffs.\",\n    \"3-7s\": \"Hundreds of sharp carbon-fiber shards, glowing metal panels and electric-blue energy streaks lift from the road and spin in violent, precise orbits. They interlock mid-air into the exact angular silhouette of a Lamborghini Aventador. Sparks, rain refraction and crackling energy edges.\",\n    \"7-10s\": \"The form pulses with a surge of light and materializes into a real matte-black Lamborghini Aventador hovering then dropping onto the wet road. Headlights flare, scissor doors slightly lift, engine bellows. Hold on the beast as rain streaks across the body.\"\n  },\n  \"subject\": {\n    \"description\": \"hundreds of carbon-fiber shards and energy fragments rising and colliding in aggressive orbits to form a supercar silhouette\",\n    \"props\": \"final Lamborghini Aventador formed from swirling fragments, then transitioning into real branded supercar while settling on the road\"\n  },\n  \"scene\": {\n    \"location\": \"dramatic high-mountain pass with wet winding road\",\n    \"time_of_day\": \"stormy dusk, last golden light breaking through dark clouds, lightning flashes\",\n    \"environment\": \"raw alpine weather, rain-slicked asphalt, jagged rocks, howling wind\"\n  },\n  \"visual_details\": {\n    \"action\": \"fragments lift, rotate in violent organized paths, lock into car outline, pulse with energy, then morph into finished Aventador that drops and revs\",\n    \"special_effects\": \"carbon-particle animation, lightning energy trails, mid-air material morph, rain interaction, engine heat distortion and tire spray\"\n  },\n  \"cinematography\": {\n    \"lighting\": \"dramatic storm lighting with golden-hour breaks, electric-blue energy glows, sharp rim light on the wet carbon body\",\n    \"color_palette\": \"matte blacks, storm greys, electric blues, wet asphalt reflections, warm dusk gold\",\n    \"tone\": \"raw power, Italian rage, epic luxury\"\n  },\n  \"audio\": {\n    \"music\": \"deep cinematic drums and aggressive orchestral hits with rising tension\",\n    \"ambient\": \"howling mountain wind, distant thunder, rain on road\",\n    \"sound_effects\": \"sharp metallic and carbon snaps as parts lock, massive V12 roar when the form completes, tire growl and rain hiss\",\n    \"mix\": \"powerful, thunderous, nature-versus-machine with a driving musical center\"\n  },\n  \"constraints\": {\n    \"dialogue\": \"none\",\n    \"voiceover\": \"none\",\n    \"on_screen_text\": \"none\",\n    \"captions\": \"none\",\n    \"subtitles\": false\n  }\n}",
+  "promptTranslations": {
+    "en": "{\n  \"model\": \"gemini-omni-1.1-flash\",\n  \"duration\": \"10s\",\n  \"aspect_ratio\": \"16:9\",\n  \"shot\": {\n    \"structure\": \"single continuous unbroken shot, no scene cuts\",\n    \"composition\": \"starts ultra-wide on a storm-lashed mountain pass at dusk, follows carbon-fiber shards and lightning energy swirling into form, ends on a centered roaring Lamborghini Aventador close-up\",\n    \"lens\": \"wide-angle for the epic landscape, then 35mm for the product reveal\",\n    \"frame_rate\": \"24fps cinematic\",\n    \"camera_movement\": \"slow dramatic push-in through the storm following the rising fragments, then a low aggressive dolly as they lock into the car, hold steady as it settles and revs\"\n  },\n  \"timeline\": {\n    \"0-3s\": \"Vast stormy Italian mountain pass at dusk. Jagged peaks, winding wet asphalt, dark clouds splitting with distant lightning. Wind-whipped rain and mist over rocky cliffs.\",\n    \"3-7s\": \"Hundreds of sharp carbon-fiber shards, glowing metal panels and electric-blue energy streaks lift from the road and spin in violent, precise orbits. They interlock mid-air into the exact angular silhouette of a Lamborghini Aventador. Sparks, rain refraction and crackling energy edges.\",\n    \"7-10s\": \"The form pulses with a surge of light and materializes into a real matte-black Lamborghini Aventador hovering then dropping onto the wet road. Headlights flare, scissor doors slightly lift, engine bellows. Hold on the beast as rain streaks across the body.\"\n  },\n  \"subject\": {\n    \"description\": \"hundreds of carbon-fiber shards and energy fragments rising and colliding in aggressive orbits to form a supercar silhouette\",\n    \"props\": \"final Lamborghini Aventador formed from swirling fragments, then transitioning into real branded supercar while settling on the road\"\n  },\n  \"scene\": {\n    \"location\": \"dramatic high-mountain pass with wet winding road\",\n    \"time_of_day\": \"stormy dusk, last golden light breaking through dark clouds, lightning flashes\",\n    \"environment\": \"raw alpine weather, rain-slicked asphalt, jagged rocks, howling wind\"\n  },\n  \"visual_details\": {\n    \"action\": \"fragments lift, rotate in violent organized paths, lock into car outline, pulse with energy, then morph into finished Aventador that drops and revs\",\n    \"special_effects\": \"carbon-particle animation, lightning energy trails, mid-air material morph, rain interaction, engine heat distortion and tire spray\"\n  },\n  \"cinematography\": {\n    \"lighting\": \"dramatic storm lighting with golden-hour breaks, electric-blue energy glows, sharp rim light on the wet carbon body\",\n    \"color_palette\": \"matte blacks, storm greys, electric blues, wet asphalt reflections, warm dusk gold\",\n    \"tone\": \"raw power, Italian rage, epic luxury\"\n  },\n  \"audio\": {\n    \"music\": \"deep cinematic drums and aggressive orchestral hits with rising tension\",\n    \"ambient\": \"howling mountain wind, distant thunder, rain on road\",\n    \"sound_effects\": \"sharp metallic and carbon snaps as parts lock, massive V12 roar when the form completes, tire growl and rain hiss\",\n    \"mix\": \"powerful, thunderous, nature-versus-machine with a driving musical center\"\n  },\n  \"constraints\": {\n    \"dialogue\": \"none\",\n    \"voiceover\": \"none\",\n    \"on_screen_text\": \"none\",\n    \"captions\": \"none\",\n    \"subtitles\": false\n  }\n}"
+  },
+  "summaryTranslations": {
+    "en": "10s JSON prompt directing lightning and carbon shards to assemble into a Lamborghini Aventador on a stormy mountain pass."
+  },
+  "translationVersion": 2,
+  "summary": "10s JSON prompt directing lightning and carbon shards to assemble into a Lamborghini Aventador on a stormy mountain pass.",
+  "summaryEn": "10s JSON prompt directing lightning and carbon shards to assemble into a Lamborghini Aventador on a stormy mountain pass.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099517007934919019",
+    "canonicalUrl": "https://x.com/MrDasCreates/status/2099517007934919019",
+    "author": {
+      "username": "MrDasCreates",
+      "displayName": "Mr Das",
+      "profileUrl": "https://x.com/MrDasCreates"
+    },
+    "publishedAt": "2026-09-14T15:13:56.000Z",
+    "collectedAt": "2026-09-14T16:17:15.720Z",
+    "language": "en",
+    "originalText": "The Lamborghini wasn’t built. It was summoned by the storm.\n\nGemini Omni 1.1 Flash JSON Prompt:\n\n{\n  \"model\": \"gemini-omni-1.1-flash\",\n  \"duration\": \"10s\",\n  \"aspect_ratio\": \"16:9\",\n  \"shot\": {\n    \"structure\": \"single continuous unbroken shot, no scene cuts\",\n    \"composition\": \"starts ultra-wide on a storm-lashed mountain pass at dusk, follows carbon-fiber shards and lightning energy swirling into form, ends on a centered roaring Lamborghini Aventador close-up\",\n    \"lens\": \"wide-angle for the epic landscape, then 35mm for the product reveal\",\n    \"frame_rate\": \"24fps cinematic\",\n    \"camera_movement\": \"slow dramatic push-in through the storm following the rising fragments, then a low aggressive dolly as they lock into the car, hold steady as it settles and revs\"\n  },\n  \"timeline\": {\n    \"0-3s\": \"Vast stormy Italian mountain pass at dusk. Jagged peaks, winding wet asphalt, dark clouds splitting with distant lightning. Wind-whipped rain and mist over rocky cliffs.\",\n    \"3-7s\": \"Hundreds of sharp carbon-fiber shards, glowing metal panels and electric-blue energy streaks lift from the road and spin in violent, precise orbits. They interlock mid-air into the exact angular silhouette of a Lamborghini Aventador. Sparks, rain refraction and crackling energy edges.\",\n    \"7-10s\": \"The form pulses with a surge of light and materializes into a real matte-black Lamborghini Aventador hovering then dropping onto the wet road. Headlights flare, scissor doors slightly lift, engine bellows. Hold on the beast as rain streaks across the body.\"\n  },\n  \"subject\": {\n    \"description\": \"hundreds of carbon-fiber shards and energy fragments rising and colliding in aggressive orbits to form a supercar silhouette\",\n    \"props\": \"final Lamborghini Aventador formed from swirling fragments, then transitioning into real branded supercar while settling on the road\"\n  },\n  \"scene\": {\n    \"location\": \"dramatic high-mountain pass with wet winding road\",\n    \"time_of_day\": \"stormy dusk, last golden light breaking through dark clouds, lightning flashes\",\n    \"environment\": \"raw alpine weather, rain-slicked asphalt, jagged rocks, howling wind\"\n  },\n  \"visual_details\": {\n    \"action\": \"fragments lift, rotate in violent organized paths, lock into car outline, pulse with energy, then morph into finished Aventador that drops and revs\",\n    \"special_effects\": \"carbon-particle animation, lightning energy trails, mid-air material morph, rain interaction, engine heat distortion and tire spray\"\n  },\n  \"cinematography\": {\n    \"lighting\": \"dramatic storm lighting with golden-hour breaks, electric-blue energy glows, sharp rim light on the wet carbon body\",\n    \"color_palette\": \"matte blacks, storm greys, electric blues, wet asphalt reflections, warm dusk gold\",\n    \"tone\": \"raw power, Italian rage, epic luxury\"\n  },\n  \"audio\": {\n    \"music\": \"deep cinematic drums and aggressive orchestral hits with rising tension\",\n    \"ambient\": \"howling mountain wind, distant thunder, rain on road\",\n    \"sound_effects\": \"sharp metallic and carbon snaps as parts lock, massive V12 roar when the form completes, tire growl and rain hiss\",\n    \"mix\": \"powerful, thunderous, nature-versus-machine with a driving musical center\"\n  },\n  \"constraints\": {\n    \"dialogue\": \"none\",\n    \"voiceover\": \"none\",\n    \"on_screen_text\": \"none\",\n    \"captions\": \"none\",\n    \"subtitles\": false\n  }\n}",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/MrDasCreates/status/2099517007934919019",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099516800019156992/img/lOdmKiPZSp8rt_pN.jpg",
+        "analysisUrl": "https://x.com/MrDasCreates/status/2099517007934919019"
+      }
+    ],
+    "metrics": {
+      "likeCount": 9,
+      "repostCount": 1,
+      "replyCount": 6,
+      "quoteCount": 0,
+      "viewCount": 294
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/MrDasCreates/status/2099517007934919019",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099516800019156992/img/lOdmKiPZSp8rt_pN.jpg",
+  "coverPath": "covers/2099517007934919019.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099516800019156992",
+    "x-post:2099517007934919019"
+  ],
+  "analysis": {
+    "summary": "10s JSON prompt directing lightning and carbon shards to assemble into a Lamborghini Aventador on a stormy mountain pass.",
+    "summaryEn": "10s JSON prompt directing lightning and carbon shards to assemble into a Lamborghini Aventador on a stormy mountain pass.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached video faithfully depicts the stormy pass, assembling shards, blue lightning energy, and the finalized matte-black Lamborghini with scissor doors."
+    },
+    "videoQuality": null,
+    "originalPrompt": "{\n  \"model\": \"gemini-omni-1.1-flash\",\n  \"duration\": \"10s\",\n  \"aspect_ratio\": \"16:9\",\n  \"shot\": {\n    \"structure\": \"single continuous unbroken shot, no scene cuts\",\n    \"composition\": \"starts ultra-wide on a storm-lashed mountain pass at dusk, follows carbon-fiber shards and lightning energy swirling into form, ends on a centered roaring Lamborghini Aventador close-up\",\n    \"lens\": \"wide-angle for the epic landscape, then 35mm for the product reveal\",\n    \"frame_rate\": \"24fps cinematic\",\n    \"camera_movement\": \"slow dramatic push-in through the storm following the rising fragments, then a low aggressive dolly as they lock into the car, hold steady as it settles and revs\"\n  },\n  \"timeline\": {\n    \"0-3s\": \"Vast stormy Italian mountain pass at dusk. Jagged peaks, winding wet asphalt, dark clouds splitting with distant lightning. Wind-whipped rain and mist over rocky cliffs.\",\n    \"3-7s\": \"Hundreds of sharp carbon-fiber shards, glowing metal panels and electric-blue energy streaks lift from the road and spin in violent, precise orbits. They interlock mid-air into the exact angular silhouette of a Lamborghini Aventador. Sparks, rain refraction and crackling energy edges.\",\n    \"7-10s\": \"The form pulses with a surge of light and materializes into a real matte-black Lamborghini Aventador hovering then dropping onto the wet road. Headlights flare, scissor doors slightly lift, engine bellows. Hold on the beast as rain streaks across the body.\"\n  },\n  \"subject\": {\n    \"description\": \"hundreds of carbon-fiber shards and energy fragments rising and colliding in aggressive orbits to form a supercar silhouette\",\n    \"props\": \"final Lamborghini Aventador formed from swirling fragments, then transitioning into real branded supercar while settling on the road\"\n  },\n  \"scene\": {\n    \"location\": \"dramatic high-mountain pass with wet winding road\",\n    \"time_of_day\": \"stormy dusk, last golden light breaking through dark clouds, lightning flashes\",\n    \"environment\": \"raw alpine weather, rain-slicked asphalt, jagged rocks, howling wind\"\n  },\n  \"visual_details\": {\n    \"action\": \"fragments lift, rotate in violent organized paths, lock into car outline, pulse with energy, then morph into finished Aventador that drops and revs\",\n    \"special_effects\": \"carbon-particle animation, lightning energy trails, mid-air material morph, rain interaction, engine heat distortion and tire spray\"\n  },\n  \"cinematography\": {\n    \"lighting\": \"dramatic storm lighting with golden-hour breaks, electric-blue energy glows, sharp rim light on the wet carbon body\",\n    \"color_palette\": \"matte blacks, storm greys, electric blues, wet asphalt reflections, warm dusk gold\",\n    \"tone\": \"raw power, Italian rage, epic luxury\"\n  },\n  \"audio\": {\n    \"music\": \"deep cinematic drums and aggressive orchestral hits with rising tension\",\n    \"ambient\": \"howling mountain wind, distant thunder, rain on road\",\n    \"sound_effects\": \"sharp metallic and carbon snaps as parts lock, massive V12 roar when the form completes, tire growl and rain hiss\",\n    \"mix\": \"powerful, thunderous, nature-versus-machine with a driving musical center\"\n  },\n  \"constraints\": {\n    \"dialogue\": \"none\",\n    \"voiceover\": \"none\",\n    \"on_screen_text\": \"none\",\n    \"captions\": \"none\",\n    \"subtitles\": false\n  }\n}",
+    "sourceRange": {
+      "start": 97,
+      "end": 3374
+    },
+    "translations": {
+      "zh": "结构化JSON视频生成提示词，定义了一段10秒一镜到底运镜：暴风雨中的高山隘口，碳纤维碎片与闪电能量升空聚合成哑光黑兰博基尼Aventador，随后落于湿滑路面咆哮。",
+      "en": "Structured JSON video prompt detailing a 10s continuous shot: storm-lashed mountain pass at dusk where carbon-fiber shards and lightning assemble into a roaring matte-black Lamborghini Aventador."
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic automotive commercial visualization",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Lamborghini Aventador trademark/design"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
