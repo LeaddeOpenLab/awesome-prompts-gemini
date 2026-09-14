@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**11** Prompts · Latest addition: **2026-09-13**
+**12** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2099370488342647240"></a>
+
+### A continuous shot following a man opening a portal door that transitions through Paris, futuristic Tokyo, ancient Rome, and an alien planet before merging.
+
+Author：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Source](https://x.com/MohdAdnanA86218/status/2099370488342647240)
+
+Cinematic / Film Still · Character · Published
+
+**Summary:** A continuous shot following a man opening a portal door that transitions through Paris, futuristic Tokyo, ancient Rome, and an alien planet before merging.
+
+<img src="covers/2099370488342647240.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 10-second ultra-realistic cinematic fantasy video in a single continuous shot. A handsome young man in his early 20s, with thick naturally wavy jet-black hair, dark-brown eyes, sharp masculine jawline, subtle stubble, and wearing a sophisticated dark long coat, stands in a mysterious dimly lit corridor facing an ordinary old wooden door. 0–2 sec: He slowly reaches for the brass handle, opens the door, and reveals romantic Paris at golden hour — Eiffel Tower, elegant Haussmann buildings, glowing cafés, warm atmospheric light. 2–4 sec: Without cutting, the doorway instantly transforms into futuristic Tokyo at night — towering neon skyscrapers, holographic advertisements, flying vehicles, rain-soaked streets, vibrant reflections. 4–6 sec: The world changes again into ancient Rome — massive Colosseum, marble columns, Roman architecture, torchlight, distant crowds and subtle dust floating through the air. 6–8 sec: The doorway transforms into a breathtaking alien planet — purple skies, enormous moons, glowing alien vegetation, strange mountains and distant futuristic structures. 8–10 sec: The man steps toward the doorway as all four worlds rapidly blend and swirl together inside the door, creating a spectacular infinite-world portal. He looks amazed as the camera slowly pushes forward toward the glowing doorway. Style: photorealistic, cinematic blockbuster quality, seamless magical transitions, realistic physics, volumetric lighting, atmospheric depth, detailed environments, natural human movement, dramatic camera movement, 8K HDR, high dynamic range, realistic skin and fabric, cinematic depth of field, epic scale, no text, no subtitles, no watermark, no glitches, no distorted face, no extra limbs. Perfectly paced for exactly 10 seconds, with each world clearly visible for approximately 2 seconds.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098277089749463207"></a>
 
