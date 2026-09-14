@@ -35,20 +35,20 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2099517007934919019"></a>
 
-### Đang dịch
+### Lời nhắc JSON 10 giây chỉ đạo các tia sét và mảnh carbon ráp lại thành một chiếc Lamborghini Aventador trên đèo núi bão bùng.
 
 Tác giả：[@MrDasCreates](https://x.com/MrDasCreates) · [Bài gốc](https://x.com/MrDasCreates/status/2099517007934919019)
 
 Điện ảnh / Ảnh tĩnh từ phim · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc JSON 10 giây chỉ đạo các tia sét và mảnh carbon ráp lại thành một chiếc Lamborghini Aventador trên đèo núi bão bùng.
 
 <img src="covers/2099517007934919019.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+{"model": "gemini-omni-1.1-flash", "duration": "10s", "aspect_ratio": "16:9", "shot": {"structure": "một cảnh quay liền mạch duy nhất, không cắt cảnh", "composition": "bắt đầu ở góc siêu rộng trên một con đèo núi ngập trong bão lúc hoàng hôn, theo dõi các mảnh sợi carbon và năng lượng sét xoáy thành hình, kết thúc ở cận cảnh chính giữa chiếc Lamborghini Aventador gầm rú", "lens": "góc rộng cho cảnh quan hùng vĩ, sau đó là 35mm cho màn ra mắt sản phẩm", "frame_rate": "24fps chuẩn điện ảnh", "camera_movement": "chậm rãi đẩy máy quay đầy kịch tính xuyên qua cơn bão theo các mảnh vỡ đang bay lên, sau đó dolly góc thấp mạnh mẽ khi chúng khóa khớp vào xe, giữ yên khi xe đáp xuống và rồ ga"}, "timeline": {"0-3s": "Đèo núi nước Ý rộng lớn trong bão lúc hoàng hôn. Những đỉnh núi lởm chởm, đường nhựa ướt uốn lượn, mây đen xé rách bởi những tia sét xa xăm. Mưa gió quất mạnh và sương mù bao phủ các vách đá.", "3-7s": "Hàng trăm mảnh sợi carbon sắc nhọn, các tấm kim loại phát sáng và vệt năng lượng màu xanh điện nhấc bổng khỏi mặt đường và quay cuồng trong các quỹ đạo bạo liệt, chuẩn xác. Chúng lồng vào nhau giữa không trung thành hình bóng góc cạnh chính xác của một chiếc Lamborghini Aventador. Tia lửa, khúc xạ nước mưa và các cạnh năng lượng nổ tanh tách.", "7-10s": "Hình dạng đó rung lên với luồng ánh sáng dâng trào và hiện thực hóa thành một chiếc Lamborghini Aventador màu đen mờ thực sự đang lơ lửng rồi hạ xuống mặt đường ướt. Đèn pha lóe sáng, cửa cắt kéo hơi nhấc lên, động cơ gầm vang. Giữ nguyên khung hình về cỗ quái thú khi những vệt mưa chảy dọc thân xe."}, "subject": {"description": "hàng trăm mảnh sợi carbon và mảnh vỡ năng lượng trỗi dậy và va chạm trong các quỹ đạo mạnh mẽ để tạo thành hình bóng siêu xe", "props": "chiếc Lamborghini Aventador cuối cùng được tạo thành từ các mảnh vỡ xoáy tròn, sau đó chuyển đổi thành siêu xe có thương hiệu thực sự trong khi đáp xuống đường"}, "scene": {"location": "đèo núi cao đầy kịch tính với con đường quanh co ướt át", "time_of_day": "hoàng hôn giông bão, ánh sáng vàng le lói cuối cùng xuyên qua những đám mây đen, tia sét lóe lên", "environment": "thời tiết núi cao khắc nghiệt, mặt đường nhựa trơn trượt vì mưa, vách đá lởm chởm, gió rít từng cơn"}, "visual_details": {"action": "các mảnh vỡ bay lên, xoay theo những quỹ đạo trật tự đầy uy lực, khóa khớp vào đường nét ô tô, rung lên cùng năng lượng, sau đó biến hình thành chiếc Aventador hoàn chỉnh đáp xuống và rồ ga", "special_effects": "hoạt ảnh hạt carbon, vệt năng lượng sét, biến hình vật chất giữa không trung, tương tác với mưa, biến dạng do nhiệt từ động cơ và bụi nước bắn ra từ lốp xe"}, "cinematography": {"lighting": "ánh sáng bão kịch tính xen lẫn những khoảng sáng giờ vàng, ánh sáng xanh điện phát ra, ánh sáng viền sắc nét trên thân xe carbon ướt", "color_palette": "đen mờ, xám bão, xanh điện, phản chiếu mặt đường ướt, vàng hoàng hôn ấm áp", "tone": "sức mạnh nguyên bản, cơn thịnh nộ nước Ý, sự sang trọng mang tính sử thi"}, "audio": {"music": "tiếng trống điện ảnh trầm vang và các nhịp hòa tấu dàn nhạc dồn dập với sự căng thẳng dâng trào", "ambient": "gió núi rít gào, sấm sét xa xa, mưa rơi trên mặt đường", "sound_effects": "tiếng kim loại và carbon khớp vào nhau sắc lẹm, tiếng gầm V12 dữ dội khi hình hài hoàn thiện, tiếng gầm của lốp xe và tiếng mưa rào rào", "mix": "mạnh mẽ, như sấm rền, thiên nhiên đối đầu cỗ máy với tâm điểm là âm nhạc dồn dập"}, "constraints": {"dialogue": "none", "voiceover": "none", "on_screen_text": "none", "captions": "none", "subtitles": false}}
 ```
 
 [↑ Về danh mục](#catalog)

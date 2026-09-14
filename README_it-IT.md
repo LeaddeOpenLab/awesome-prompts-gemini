@@ -35,20 +35,67 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2099517007934919019"></a>
 
-### Traduzione in corso
+### Prompt JSON di 10s che dirige fulmini e frammenti di carbonio ad assemblarsi in una Lamborghini Aventador su un valico di montagna tempestoso.
 
 Autore：[@MrDasCreates](https://x.com/MrDasCreates) · [Post originale](https://x.com/MrDasCreates/status/2099517007934919019)
 
 Fermo immagine cinematografico / Still fotografico · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt JSON di 10s che dirige fulmini e frammenti di carbonio ad assemblarsi in una Lamborghini Aventador su un valico di montagna tempestoso.
 
 <img src="covers/2099517007934919019.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "singola ripresa continua e ininterrotta, nessun taglio di scena",
+    "composition": "inizia in campo ultra-largo su un valico di montagna sferzato dalla tempesta al tramonto, segue schegge di fibra di carbonio ed energia di fulmini che turbinano prendendo forma, termina con un primo piano centrato su una ruggente Lamborghini Aventador",
+    "lens": "grandangolo per il paesaggio epico, poi 35 mm per la presentazione del prodotto",
+    "frame_rate": "24fps cinematografico",
+    "camera_movement": "lento avvicinamento drammatico attraverso la tempesta seguendo i frammenti che si sollevano, poi una carrellata dal basso e aggressiva mentre si incastrano nella vettura, mantenendo l'inquadratura ferma mentre si assesta e sale di giri"
+  },
+  "timeline": {
+    "0-3s": "Vasto e tempestoso valico montano italiano al tramonto. Vette frastagliate, asfalto bagnato e tortuoso, nuvole scure squarciate da fulmini lontani. Pioggia sferzata dal vento e nebbia su scogliere rocciose.",
+    "3-7s": "Centinaia di affilate schegge di fibra di carbonio, pannelli metallici incandescenti e scie di energia blu elettrico si sollevano dalla strada e ruotano in orbite violente e precise. Si incastrano a mezz'aria nell'esatta silhouette spigolosa di una Lamborghini Aventador. Scintille, rifrazione della pioggia e bordi di energia crepitante.",
+    "7-10s": "La sagoma pulsa con un'ondata di luce e si materializza in una vera Lamborghini Aventador nero opaco che fluttua e poi atterra sulla strada bagnata. I fari abbagliano, le portiere a forbice si sollevano leggermente, il motore ruggisce. Fermo sulla bestia mentre la pioggia scorre sulla carrozzeria."
+  },
+  "subject": {
+    "description": "centinaia di frammenti di energia e schegge di fibra di carbonio che si sollevano e collidono in orbite aggressive per formare la silhouette di una supercar",
+    "props": "Lamborghini Aventador finale formata da frammenti vorticosi, che poi si trasforma in una vera supercar di serie assestandosi sulla strada"
+  },
+  "scene": {
+    "location": "spettacolare valico di alta montagna con strada tortuosa e bagnata",
+    "time_of_day": "tramonto tempestoso, ultimi bagliori di luce dorata che filtrano tra nuvole scure, lampi di fulmini",
+    "environment": "clima alpino rigido, asfalto reso scivoloso dalla pioggia, rocce frastagliate, vento ululante"
+  },
+  "visual_details": {
+    "action": "i frammenti si sollevano, ruotano seguendo traiettorie violente ma organizzate, si bloccano nella sagoma dell'auto, pulsano di energia, per poi trasformarsi nell'Aventador completata che tocca terra e romba",
+    "special_effects": "animazione di particelle di carbonio, scie energetiche di fulmini, metamorfosi della materia a mezz'aria, interazione con la pioggia, distorsione termica del motore e scia d'acqua sollevata dagli pneumatici"
+  },
+  "cinematography": {
+    "lighting": "illuminazione drammatica da tempesta con squarci di ora dorata, bagliori di energia blu elettrico, netta luce di taglio sulla carrozzeria bagnata in carbonio",
+    "color_palette": "neri opachi, grigi tempesta, blu elettrici, riflessi sull'asfalto bagnato, oro caldo del tramonto",
+    "tone": "potenza pura, rabbia italiana, lusso epico"
+  },
+  "audio": {
+    "music": "profondi tamburi cinematografici e aggressivi colpi orchestrali con tensione crescente",
+    "ambient": "vento di montagna ululante, tuoni in lontananza, pioggia sulla strada",
+    "sound_effects": "secchi scatti metallici e di carbonio mentre i pezzi si incastrano, possente ruggito del V12 al completamento della forma, rombo degli pneumatici e sibilo della pioggia",
+    "mix": "potente, fragoroso, natura contro macchina con un incalzante fulcro musicale"
+  },
+  "constraints": {
+    "dialogue": "nessuno",
+    "voiceover": "nessuna",
+    "on_screen_text": "nessuno",
+    "captions": "nessuno",
+    "subtitles": false
+  }
+}
 ```
 
 [↑ Torna alle categorie](#catalog)

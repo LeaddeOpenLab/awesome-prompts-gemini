@@ -35,20 +35,67 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2099517007934919019"></a>
 
-### Tradução em andamento
+### Prompt JSON de 10s direcionando raios e fragmentos de carbono para se montarem em um Lamborghini Aventador em uma passagem montanhosa tempestuosa.
 
 Autor：[@MrDasCreates](https://x.com/MrDasCreates) · [Publicação original](https://x.com/MrDasCreates/status/2099517007934919019)
 
 Cinematográfico / Imagem de Filme · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt JSON de 10s direcionando raios e fragmentos de carbono para se montarem em um Lamborghini Aventador em uma passagem montanhosa tempestuosa.
 
 <img src="covers/2099517007934919019.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "plano único contínuo e ininterrupto, sem cortes de cena",
+    "composition": "começa em plano ultra-aberto em uma passagem de montanha açoitada pela tempestade ao entardecer, segue fragmentos de fibra de carbono e energia de relâmpagos girando até tomar forma, termina em um close-up centralizado de um Lamborghini Aventador rugindo",
+    "lens": "grande-angular para a paisagem épica, depois 35mm para a revelação do produto",
+    "frame_rate": "cinematográfico a 24fps",
+    "camera_movement": "lento e dramático avanço através da tempestade seguindo os fragmentos que sobem, depois um dolly baixo e agressivo enquanto eles se encaixam no carro, mantendo-se estável enquanto ele se assenta e acelera"
+  },
+  "timeline": {
+    "0-3s": "Vasta passagem montanhosa italiana sob tempestade ao entardecer. Picos escarpados, asfalto molhado e sinuoso, nuvens escuras rasgadas por relâmpagos distantes. Chuva fustigada pelo vento e névoa sobre penhascos rochosos.",
+    "3-7s": "Centenas de fragmentos afiados de fibra de carbono, painéis metálicos brilhantes e feixes de energia azul-elétrica erguem-se da estrada e giram em órbitas violentas e precisas. Eles se interligam no ar na silhueta angular exata de um Lamborghini Aventador. Faíscas, refração da chuva e bordas crepitantes de energia.",
+    "7-10s": "A forma pulsa com uma onda de luz e se materializa em um Lamborghini Aventador preto-fosco real, pairando e depois pousando sobre a pista molhada. Faróis acendem intensamente, portas tesoura se erguem ligeiramente, motor ruge. Fixa na fera enquanto a chuva escorre pela carroceria."
+  },
+  "subject": {
+    "description": "centenas de fragmentos de fibra de carbono e estilhaços de energia subindo e colidindo em órbitas agressivas para formar a silhueta de um supercarro",
+    "props": "Lamborghini Aventador final formado a partir de fragmentos em turbilhão, depois fazendo a transição para um supercarro de marca real enquanto se assenta na estrada"
+  },
+  "scene": {
+    "location": "passagem dramática em alta montanha com estrada sinuosa e molhada",
+    "time_of_day": "entardecer tempestuoso, última luz dourada rompendo as nuvens escuras, clarões de relâmpagos",
+    "environment": "clima alpino implacável, asfalto escorregadio pela chuva, rochas pontiagudas, vento uivante"
+  },
+  "visual_details": {
+    "action": "fragmentos se erguem, giram em trajetórias violentas e organizadas, encaixam-se no contorno do carro, pulsam com energia, e então se transformam no Aventador finalizado que cai e acelera",
+    "special_effects": "animação de partículas de carbono, rastros de energia de relâmpagos, metamorfose de material no ar, interação com a chuva, distorção de calor do motor e spray dos pneus"
+  },
+  "cinematography": {
+    "lighting": "iluminação dramática de tempestade com frestas da hora dourada, brilhos de energia azul-elétrica, luz de contorno nítida na carroceria de carbono molhada",
+    "color_palette": "pretos foscos, cinzas de tempestade, azuis elétricos, reflexos no asfalto molhado, dourado quente do entardecer",
+    "tone": "força bruta, fúria italiana, luxo épico"
+  },
+  "audio": {
+    "music": "tambores cinematográficos profundos e golpes orquestrais agressivos com tensão crescente",
+    "ambient": "vento de montanha uivante, trovão distante, chuva na estrada",
+    "sound_effects": "estalos metálicos e de carbono afiados conforme as peças se encaixam, estrondo massivo do V12 quando a forma se completa, rosnado dos pneus e chiado da chuva",
+    "mix": "poderosa, trovejante, natureza contra máquina com um centro musical dinâmico"
+  },
+  "constraints": {
+    "dialogue": "none",
+    "voiceover": "none",
+    "on_screen_text": "none",
+    "captions": "none",
+    "subtitles": false
+  }
+}
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -35,20 +35,67 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2099517007934919019"></a>
 
-### Traduction en cours
+### Prompt JSON de 10 s ordonnant aux éclairs et aux fragments de carbone de s'assembler en une Lamborghini Aventador sur un col de montagne orageux.
 
 Auteur：[@MrDasCreates](https://x.com/MrDasCreates) · [Publication originale](https://x.com/MrDasCreates/status/2099517007934919019)
 
 Image cinématographique / Photogramme de film · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt JSON de 10 s ordonnant aux éclairs et aux fragments de carbone de s'assembler en une Lamborghini Aventador sur un col de montagne orageux.
 
 <img src="covers/2099517007934919019.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "plan continu unique et ininterrompu, aucune coupe de scène",
+    "composition": "commence en plan ultra-large sur un col de montagne battu par la tempête au crépuscule, suit des éclats de fibre de carbone et de l'énergie d'éclairs tourbillonnant pour prendre forme, se termine sur un gros plan centré d'une Lamborghini Aventador rugissante",
+    "lens": "grand-angle pour le paysage épique, puis 35 mm pour la révélation du produit",
+    "frame_rate": "24fps cinématique",
+    "camera_movement": "mouvement d'approche lent et dramatique à travers la tempête en suivant les fragments qui s'élèvent, puis un travelling avant bas et agressif au moment où ils s'enclenchent dans la voiture, plan fixe stabilisé pendant qu'elle se pose et monte dans les tours"
+  },
+  "timeline": {
+    "0-3s": "Vaste col de montagne italien orageux au crépuscule. Pics déchiquetés, asphalte humide et sinueux, nuages sombres déchirés par des éclairs lointains. Pluie et brume fouettées par le vent sur des falaises rocheuses.",
+    "3-7s": "Des centaines d'éclats tranchants de fibre de carbone, des panneaux métalliques incandescents et des traînées d'énergie bleu électrique s'élèvent de la route et tournoient en orbites violentes et précises. Ils s'emboîtent dans les airs pour former la silhouette anguleuse exacte d'une Lamborghini Aventador. Étincelles, réfraction de la pluie et contours d'énergie crépitante.",
+    "7-10s": "La forme pulse avec une explosion de lumière et se matérialise en une véritable Lamborghini Aventador noir mat, en lévitation puis se posant sur la route mouillée. Les phares s'embrasent, les portes en élytre se soulèvent légèrement, le moteur rugit. Plan maintenu sur la bête alors que la pluie ruisselle sur la carrosserie."
+  },
+  "subject": {
+    "description": "des centaines d'éclats de fibre de carbone et de fragments d'énergie qui s'élèvent et entrent en collision dans des orbites agressives pour former la silhouette d'une supercar",
+    "props": "Lamborghini Aventador finale formée de fragments tourbillonnants, puis transition vers une véritable supercar de marque se posant sur la route"
+  },
+  "scene": {
+    "location": "col de haute montagne spectaculaire avec route sinueuse et mouillée",
+    "time_of_day": "crépuscule orageux, dernière lumière dorée perçant à travers les nuages sombres, éclairs",
+    "environment": "météo alpine brute, asphalte glissant sous la pluie, roches déchiquetées, vent hurlant"
+  },
+  "visual_details": {
+    "action": "les fragments s'élèvent, tournent selon des trajectoires violentes mais organisées, s'enclenchent dans le contour de la voiture, pulsent d'énergie, puis se transforment en l'Aventador terminée qui retombe et monte en régime",
+    "special_effects": "animation de particules de carbone, traînées d'énergie d'éclairs, morphing de matière en plein vol, interaction avec la pluie, distorsion thermique du moteur et projections d'eau des pneus"
+  },
+  "cinematography": {
+    "lighting": "éclairage de tempête dramatique avec percées d'heure dorée, lueurs d'énergie bleu électrique, lumière rasante nette sur la carrosserie en carbone humide",
+    "color_palette": "noirs mats, gris orage, bleus électriques, reflets sur asphalte mouillé, or chaud du crépuscule",
+    "tone": "puissance brute, rage italienne, luxe épique"
+  },
+  "audio": {
+    "music": "percussions cinématographiques profondes et frappes orchestrales agressives avec une tension croissante",
+    "ambient": "vent de montagne hurlant, tonnerre lointain, pluie sur la route",
+    "sound_effects": "claquements métalliques et de carbone nets lors du verrouillage des pièces, rugissement massif du V12 à la complétion de la forme, grondement des pneus et sifflement de la pluie",
+    "mix": "puissant, tonitruant, nature contre machine avec un axe musical entraînant"
+  },
+  "constraints": {
+    "dialogue": "aucun",
+    "voiceover": "aucune",
+    "on_screen_text": "aucun",
+    "captions": "aucun",
+    "subtitles": false
+  }
+}
 ```
 
 [↑ Retour aux catégories](#catalog)

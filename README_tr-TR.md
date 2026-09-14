@@ -35,20 +35,67 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2099517007934919019"></a>
 
-### Çeviri sürüyor
+### Fırtınalı bir dağ geçidinde şimşeklerin ve karbon parçacıklarının birleşerek bir Lamborghini Aventador oluşturmasını yöneten 10 saniyelik JSON istemi.
 
 Yazar：[@MrDasCreates](https://x.com/MrDasCreates) · [Orijinal gönderi](https://x.com/MrDasCreates/status/2099517007934919019)
 
 Sinematik / Film Karesi · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Fırtınalı bir dağ geçidinde şimşeklerin ve karbon parçacıklarının birleşerek bir Lamborghini Aventador oluşturmasını yöneten 10 saniyelik JSON istemi.
 
 <img src="covers/2099517007934919019.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "tek, kesintisiz ve bölünmemiş çekim, sahne geçişi yok",
+    "composition": "alacakaranlıkta fırtınanın vurduğu bir dağ geçidinde ultra geniş açıyla başlar, girdap gibi dönerek şekil alan karbon fiber parçalarını ve şimşek enerjisini takip eder, kükreyen bir Lamborghini Aventador'un ortalanmış yakın çekimiyle sona erer",
+    "lens": "epik manzara için geniş açı, ardından ürünün ortaya çıkışı için 35mm",
+    "frame_rate": "24fps sinematik",
+    "camera_movement": "yükselen parçaları takip ederek fırtınanın içinden yavaş ve dramatik bir itme, ardından parçalar araca kilitlenirken alçak ve agresif bir dolly hareketi, araç yere oturup gaz verirken sabit kalış"
+  },
+  "timeline": {
+    "0-3s": "Alacakaranlıkta fırtınalı devasa bir İtalyan dağ geçidi. Sarp zirveler, kıvrımlı ıslak asfalt, uzaktaki şimşeklerle yarılan koyu bulutlar. Kayalık uçurumların üzerinde rüzgarın savurduğu yağmur ve sis.",
+    "3-7s": "Yüzlerce keskin karbon fiber parçası, parıldayan metal paneller ve elektrik mavisi enerji çizgileri yoldan yükselir ve şiddetli, hassas yörüngelerde döner. Havada kenetlenerek bir Lamborghini Aventador'un tam köşeli siluetini oluştururlar. Kıvılcımlar, yağmur kırılmaları ve çatırdayan enerji kenarları.",
+    "7-10s": "Şekil bir ışık dalgasıyla titreşir ve havada asılı durup ardından ıslak yola inen gerçek mat siyah bir Lamborghini Aventador'a dönüşür. Farlar parlar, makas kapılar hafifçe yükselir, motor kükrer. Yağmur gövde boyunca süzülürken canavarın üzerinde sabit kalınır."
+  },
+  "subject": {
+    "description": "bir süper araba silueti oluşturmak için agresif yörüngelerde yükselen ve çarpışan yüzlerce karbon fiber parçası ve enerji kırıntısı",
+    "props": "girdap gibi dönen parçalardan oluşan ve ardından yola yerleşirken gerçek markalı süper arabaya dönüşen nihai Lamborghini Aventador"
+  },
+  "scene": {
+    "location": "ıslak kıvrımlı yolu olan dramatik yüksek dağ geçidi",
+    "time_of_day": "fırtınalı alacakaranlık, koyu bulutların arasından sızan son altın ışık, şimşek çakmaları",
+    "environment": "sert dağ havası, yağmurdan kayganlaşmış asfalt, pürüzlü kayalar, uğuldayan rüzgar"
+  },
+  "visual_details": {
+    "action": "parçalar yükselir, şiddetli ve düzenli yollarda döner, araba hatlarına kilitlenir, enerjiyle titreşir, ardından yere inip gaz veren tamamlanmış bir Aventador'a dönüşür",
+    "special_effects": "karbon parçacık animasyonu, şimşek enerjisi izleri, havada malzeme dönüşümü, yağmur etkileşimi, motor ısı bozulması ve lastik su püskürtmesi"
+  },
+  "cinematography": {
+    "lighting": "altın saat kırılmalarıyla dramatik fırtına aydınlatması, elektrik mavisi enerji ışıltıları, ıslak karbon gövde üzerinde keskin kenar ışığı",
+    "color_palette": "mat siyahlar, fırtına grileri, elektrik mavileri, ıslak asfalt yansımaları, sıcak alacakaranlık altını",
+    "tone": "saf güç, İtalyan öfkesi, epik lüks"
+  },
+  "audio": {
+    "music": "yükselen gerilimle derin sinematik davullar ve agresif orkestra vuruşları",
+    "ambient": "uğuldayan dağ rüzgarı, uzaktan gelen gök gürültüsü, yoldaki yağmur",
+    "sound_effects": "parçalar kilitlenirken keskin metalik ve karbon çıtırtıları, şekil tamamlandığında devasa V12 kükremesi, lastik homurtusu ve yağmur tıslaması",
+    "mix": "sürükleyici bir müzikal merkez ile güçlü, gök gürültülü, doğaya karşı makine"
+  },
+  "constraints": {
+    "dialogue": "none",
+    "voiceover": "none",
+    "on_screen_text": "none",
+    "captions": "none",
+    "subtitles": false
+  }
+}
 ```
 
 [↑ Kategorilere dön](#catalog)

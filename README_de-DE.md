@@ -35,20 +35,67 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2099517007934919019"></a>
 
-### Übersetzung läuft
+### 10-sekündiger JSON-Prompt, der Blitze und Karbonfaser-Splitter anweist, sich auf einem stürmischen Gebirgspass zu einem Lamborghini Aventador zusammenzufügen.
 
 Autor：[@MrDasCreates](https://x.com/MrDasCreates) · [Originalbeitrag](https://x.com/MrDasCreates/status/2099517007934919019)
 
 Kinematisch / Filmstill · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 10-sekündiger JSON-Prompt, der Blitze und Karbonfaser-Splitter anweist, sich auf einem stürmischen Gebirgspass zu einem Lamborghini Aventador zusammenzufügen.
 
 <img src="covers/2099517007934919019.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "einzelne, kontinuierliche, ununterbrochene Aufnahme, keine Szenenschnitte",
+    "composition": "beginnt in extremem Weitwinkel auf einem sturmgepeitschten Gebirgspass in der Dämmerung, folgt Karbonfasersplittern und Blitzenergie, die sich zu einer Form zusammenwirbeln, endet auf einer zentrierten Nahaufnahme eines brüllenden Lamborghini Aventador",
+    "lens": "Weitwinkel für die epische Landschaft, dann 35 mm für die Produktenthüllung",
+    "frame_rate": "24fps kinoreif",
+    "camera_movement": "langsamer, dramatischer Vorwärtsschub durch den Sturm den aufsteigenden Fragmenten folgend, dann eine tiefe, aggressive Kamerafahrt (Dolly), während sie im Auto einrasten, ruhig halten, während er aufsetzt und aufheult"
+  },
+  "timeline": {
+    "0-3s": "Weitläufiger, stürmischer italienischer Gebirgspass in der Dämmerung. Zerklüftete Gipfel, gewundener nasser Asphalt, dunkle Wolken, die von fernen Blitzen durchzuckt werden. Windgepeitschter Regen und Dunst über felsigen Klippen.",
+    "3-7s": "Hunderte scharfe Karbonfasersplitter, glühende Metallpaneele und elektrisch blaue Energiestreifen heben sich von der Straße ab und drehen sich in heftigen, präzisen Bahnen. Sie greifen in der Luft zur exakten kantigen Silhouette eines Lamborghini Aventador ineinander. Funken, Lichtbrechung im Regen und knisternde Energiekanten.",
+    "7-10s": "Die Form pulsiert mit einer Lichtwoge und materialisiert sich in einem echten mattschwarzen Lamborghini Aventador, der schwebt und dann auf die nasse Straße absinkt. Scheinwerfer flammen auf, Scherentüren heben sich leicht, der Motor brüllt auf. Auf der Bestie verweilen, während der Regen über die Karosserie rinnt."
+  },
+  "subject": {
+    "description": "Hunderte von Karbonfasersplittern und Energiefragmenten steigen auf und prallen in aggressiven Umlaufbahnen aufeinander, um die Silhouette eines Supersportwagens zu bilden",
+    "props": "finaler Lamborghini Aventador, geformt aus wirbelnden Fragmenten, der dann in einen echten Markensupersportwagen übergeht, während er sich auf der Straße absetzt"
+  },
+  "scene": {
+    "location": "dramatischer Hochgebirgspass mit nasser, kurvenreicher Straße",
+    "time_of_day": "stürmische Dämmerung, letztes goldenes Licht bricht durch dunkle Wolken, Blitze zucken",
+    "environment": "raues Alpenwetter, regennasser Asphalt, zerklüftete Felsen, heulender Wind"
+  },
+  "visual_details": {
+    "action": "Fragmente heben sich, rotieren in heftigen, organisierten Bahnen, rasten in den Umriss des Autos ein, pulsieren vor Energie, morphen dann in den fertigen Aventador, der aufsetzt und hochdreht",
+    "special_effects": "Karbon-Partikelanimation, Blitzenergiespuren, Materialumwandlung in der Luft, Regeninteraktion, Motorhitzeverzerrung und Reifengischt"
+  },
+  "cinematography": {
+    "lighting": "dramatisches Sturmlicht mit Durchbrüchen der goldenen Stunde, elektrisch blaues Energieglühen, scharfes Streiflicht auf der nassen Karbonkarosserie",
+    "color_palette": "Mattschwarz, Sturmgrau, elektrisches Blau, nasse Asphaltreflexionen, warmes Dämmerungsgold",
+    "tone": "rohe Kraft, italienischer Zorn, epischer Luxus"
+  },
+  "audio": {
+    "music": "tiefe cineastische Trommeln und aggressive Orchesterschläge mit steigender Spannung",
+    "ambient": "heulender Bergwind, fernes Grollen des Donners, Regen auf der Straße",
+    "sound_effects": "scharfe metallische und Karbon-Einrastgeräusche, wenn Teile verriegeln, massives V12-Brüllen bei Vollendung der Form, Reifengrollen und Zischen des Regens",
+    "mix": "kraftvoll, donnernd, Natur gegen Maschine mit treibendem musikalischem Zentrum"
+  },
+  "constraints": {
+    "dialogue": "keiner",
+    "voiceover": "keines",
+    "on_screen_text": "keiner",
+    "captions": "keine",
+    "subtitles": false
+  }
+}
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

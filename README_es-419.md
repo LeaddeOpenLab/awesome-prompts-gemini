@@ -35,20 +35,67 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2099517007934919019"></a>
 
-### Traducción en curso
+### Prompt en JSON de 10 s que dirige relámpagos y fragmentos de carbono para ensamblarse en un Lamborghini Aventador en un paso de montaña tormentoso.
 
 Autor：[@MrDasCreates](https://x.com/MrDasCreates) · [Publicación original](https://x.com/MrDasCreates/status/2099517007934919019)
 
 Cine / Fotograma · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt en JSON de 10 s que dirige relámpagos y fragmentos de carbono para ensamblarse en un Lamborghini Aventador en un paso de montaña tormentoso.
 
 <img src="covers/2099517007934919019.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "toma única continua e ininterrumpida, sin cortes de escena",
+    "composition": "comienza en plano ultra gran angular sobre un paso de montaña azotado por la tormenta al atardecer, sigue fragmentos de fibra de carbono y energía de relámpagos arremolinándose hasta tomar forma, termina en un primer plano centrado de un rugiente Lamborghini Aventador",
+    "lens": "gran angular para el paisaje épico, luego 35 mm para la revelación del producto",
+    "frame_rate": "24fps cinematográfico",
+    "camera_movement": "acercamiento lento y dramático a través de la tormenta siguiendo los fragmentos que se elevan, luego un dolly bajo y agresivo a medida que se encastran en el automóvil, manteniéndose firme mientras se asienta y revoluciona el motor"
+  },
+  "timeline": {
+    "0-3s": "Vasto y tormentoso paso de montaña italiano al atardecer. Picos escarpados, asfalto húmedo y sinuoso, nubes oscuras que se abren con relámpagos distantes. Lluvia y niebla azotadas por el viento sobre acantilados rocosos.",
+    "3-7s": "Cientos de afilados fragmentos de fibra de carbono, paneles metálicos brillantes y estelas de energía azul eléctrico se elevan del camino y giran en órbitas violentas y precisas. Se ensamblan en el aire en la silueta angular exacta de un Lamborghini Aventador. Chispas, refracción de lluvia y bordes de energía crepitante.",
+    "7-10s": "La forma pulsa con una oleada de luz y se materializa en un Lamborghini Aventador real negro mate que levita y luego cae sobre la carretera mojada. Los faros brillan con fuerza, las puertas de tijera se elevan ligeramente, el motor brama. Mantener la toma en la bestia mientras la lluvia resbala por la carrocería."
+  },
+  "subject": {
+    "description": "cientos de fragmentos de fibra de carbono y energía que se elevan y chocan en órbitas agresivas para formar la silueta de un superdeportivo",
+    "props": "Lamborghini Aventador final formado a partir de fragmentos en torbellino, luego transicionando a un superdeportivo de marca real mientras se asienta sobre la carretera"
+  },
+  "scene": {
+    "location": "dramático paso de alta montaña con carretera sinuosa y mojada",
+    "time_of_day": "atardecer tormentoso, última luz dorada filtrándose entre nubes oscuras, destellos de relámpagos",
+    "environment": "clima alpino implacable, asfalto resbaladizo por la lluvia, rocas escarpadas, viento aullante"
+  },
+  "visual_details": {
+    "action": "los fragmentos se elevan, rotan en trayectorias violentas y organizadas, encajan en la silueta del automóvil, pulsan con energía y luego se transforman en el Aventador terminado que cae y acelera",
+    "special_effects": "animación de partículas de carbono, estelas de energía de relámpagos, metamorfosis de material en el aire, interacción con la lluvia, distorsión térmica del motor y salpicaduras de neumáticos"
+  },
+  "cinematography": {
+    "lighting": "iluminación dramática de tormenta con destellos de la hora dorada, resplandores de energía azul eléctrico, luz de borde nítida sobre la carrocería de carbono húmeda",
+    "color_palette": "negros mate, grises tormenta, azules eléctricos, reflejos en asfalto mojado, dorado cálido del atardecer",
+    "tone": "potencia pura, furia italiana, lujo épico"
+  },
+  "audio": {
+    "music": "tambores cinematográficos profundos y golpes orquestales agresivos con tensión creciente",
+    "ambient": "viento aullante de montaña, truenos distantes, lluvia sobre la carretera",
+    "sound_effects": "chasquidos metálicos y de carbono secos cuando las piezas encastran, rugido masivo de motor V12 al completarse la forma, gruñido de neumáticos y siseo de lluvia",
+    "mix": "potente, atronador, naturaleza contra máquina con un eje musical dominante"
+  },
+  "constraints": {
+    "dialogue": "ninguno",
+    "voiceover": "ninguna",
+    "on_screen_text": "ninguno",
+    "captions": "ninguno",
+    "subtitles": false
+  }
+}
 ```
 
 [↑ Volver a categorías](#catalog)
