@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T02:25:23.104Z",
+  "model": "gemini",
+  "prompt": "# 命令\n- バレエ用品メーカーの高品質なカタログ写真を生成する  \n- フォトジェニックでエディトリアルなポートレートとして成立させる  \n- 非性的・芸術的・静謐な表現を維持する  \n- SFWとなるように構図・光・距離・衣装の描写をAIが自動調整する  \n\n# 文脈\n- これはバレエスタジオでの練習風景  \n- 静かなスタジオの空気が漂う  \n- 窓から強い日差しが差し込み、レオタードの生地にシャープな影とハイライトを作る  \n- 額には汗がにじみ、練習のリアリティがある  \n- 髪は自然な低い位置のポニーテール  \n- 色彩は鮮やかな高彩度トーンで、カタログ写真としての視認性を重視  \n\n# 入力\n- 参照対象：日本人女性のバレエダンサー  \n- 完璧な砂時計体型で豊かな胸周り  \n- 白色でベアバックのキャミソールレオタードと白いバレエシューズを着用  \n- 背中を斜めに向けて立つ  \n- 両手は腰の後ろで軽く組む  \n- 両足はポワントで立つ  \n- レオタードは最新テクノロジーによる伸縮性が強い極薄生地で立体的な張りと自然な着圧があり、肌の曲線にぴったりフィット  \n- 肌には自然な毛穴・質感・汗のにじみを含む（美化補正を行わない）  \n\n# 出力\n- 芸術性と機能性が共存するバレエ用品カタログ写真  \n- 強い日差しによる自然なハイライトと影が、レオタードの素材感を際立たせる  \n- バレエスタジオの静けさと練習の緊張感が伝わる構図  \n- SFWでありつつ、芸術的で洗練された印象を持つ写真作品として成立",
+  "promptTranslations": {
+    "en": "# Instructions\n- Generate a high-quality catalog photograph for a ballet wear manufacturer  \n- Establish as a photogenic and editorial portrait  \n- Maintain a non-sexual, artistic, and serene expression  \n- AI automatically adjusts composition, lighting, distance, and costume rendering to ensure SFW  \n\n# Context\n- This is a practice scene in a ballet studio  \n- The quiet atmosphere of the studio lingers  \n- Strong sunlight streams through the window, casting sharp shadows and highlights on the leotard fabric  \n- Sweat beads on the forehead, adding realism to the rehearsal  \n- Hair styled in a natural, low ponytail  \n- Colors feature vivid, high-saturation tones, prioritizing visibility for a catalog photograph  \n\n# Input\n- Reference subject: Japanese female ballet dancer  \n- Perfect hourglass figure with a full bust  \n- Wearing a white backless camisole leotard and white ballet shoes  \n- Standing with her back angled toward the viewer  \n- Both hands lightly clasped behind her lower back  \n- Standing on pointe on both feet  \n- The leotard is made of cutting-edge, highly elastic, ultra-thin fabric with three-dimensional tension and natural compression, fitting tightly against the curves of the skin  \n- Skin includes natural pores, texture, and beads of sweat (no beautification/airbrushing)  \n\n# Output\n- A ballet equipment catalog photograph where artistry and functionality coexist  \n- Natural highlights and shadows from strong sunlight accentuate the texture of the leotard's material  \n- A composition conveying the serenity of the ballet studio and the tension of practice  \n- Functions as an artistic and sophisticated photographic work while remaining SFW"
+  },
+  "summaryTranslations": {
+    "en": "Catalog-style portrait generation prompt of a Japanese female dancer standing on pointe in a white leotard in a ballet studio."
+  },
+  "translationVersion": 2,
+  "summary": "バレエスタジオで白色レオタードを着てポワントで立つ日本人女性ダンサーのカタログ風ポートレート生成プロンプト。",
+  "summaryEn": "Prompt for generating a catalog-style editorial portrait of a Japanese female ballet dancer standing en pointe in a white leotard inside a sunlit studio.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2099759874318184905",
+      "canonicalUrl": "https://x.com/CyberTotal2026/status/2099759874318184905",
+      "author": {
+        "username": "CyberTotal2026",
+        "displayName": "Prompt アトリエ｜AI画像プロンプト",
+        "profileUrl": "https://x.com/CyberTotal2026"
+      },
+      "originalText": "鏡前でつま先を伸ばす朝、黒と白だけの静かなバランス。🩰🖤🤍\n\n#AIart #AI写真 #バレエ\n\n【GPT Image2プロンプト】\n\n主題：\n鏡前の黒いバレエ\n\n主体：\n白いバレエスタジオの大鏡前で、成人女性がトウシューズのつま先立ちをする縦位置の全身写真。 人物は画面中央を基準に配置する。\n\n人物・表情：\n顎下の淡い茶色のストレートボブと薄い前髪。卵形輪郭、肩越しに見る茶色い目、自然な眉、小ぶりな鼻、淡桃色の唇。背筋を伸ばして静かにカメラを見る。\n\n服装・ポーズ：\n黒いスポーツブラは背中に細紐が交差し、黒いハイカットのバレエショーツ。淡い桃白色のサテン製トウシューズと足首を交差するリボン。背中を斜めに向け、両手を腰後ろで軽く組み、両足でポワント。 黒いトップとボトム。 背中で細いストラップが交差する。\n\n背景・光：\n床から天井までの鏡、木のバレエバー、白い壁と大窓、反射する灰白の床。左窓から強い昼光が長い矩形影を作る。 画面背景の主光は窓側からの柔らかな光。\n\n構図・カメラ：\n4:5の縦構図、カメラは目線より少し低い後方斜めの全身写真。人物を中央、頭頂からつま先まで余白を残し、鏡の縦継ぎ目を左へ置く。身体の線とトウシューズを鮮明にする。 人物を大きく収め、主役へ焦点を合わせ、背景は軽いボケ。\n\n質感・スタイル：\nフォトリアルなダンス写真。黒い伸縮布、サテンの靴とリボン、鏡、光沢床、筋肉の自然な陰影を清潔に写す。\n\nネガティブ：\n両足のポワントと交差背紐を省かない；通常の直立にしない"
+    },
+    "id": "2100038181538365752",
+    "canonicalUrl": "https://x.com/55hawks/status/2100038181538365752",
+    "author": {
+      "username": "55hawks",
+      "displayName": "ストップ!!さとしくん！",
+      "profileUrl": "https://x.com/55hawks"
+    },
+    "publishedAt": "2026-09-16T01:44:53.000Z",
+    "collectedAt": "2026-09-16T02:19:39.795Z",
+    "language": "ja",
+    "originalText": "ポーズだけお借りしました😊\nGeminiも通ります。\n\n#AIart #AI写真 #バレエ\n\nPrompt:\n# 命令\n- バレエ用品メーカーの高品質なカタログ写真を生成する  \n- フォトジェニックでエディトリアルなポートレートとして成立させる  \n- 非性的・芸術的・静謐な表現を維持する  \n- SFWとなるように構図・光・距離・衣装の描写をAIが自動調整する  \n\n# 文脈\n- これはバレエスタジオでの練習風景  \n- 静かなスタジオの空気が漂う  \n- 窓から強い日差しが差し込み、レオタードの生地にシャープな影とハイライトを作る  \n- 額には汗がにじみ、練習のリアリティがある  \n- 髪は自然な低い位置のポニーテール  \n- 色彩は鮮やかな高彩度トーンで、カタログ写真としての視認性を重視  \n\n# 入力\n- 参照対象：日本人女性のバレエダンサー  \n- 完璧な砂時計体型で豊かな胸周り  \n- 白色でベアバックのキャミソールレオタードと白いバレエシューズを着用  \n- 背中を斜めに向けて立つ  \n- 両手は腰の後ろで軽く組む  \n- 両足はポワントで立つ  \n- レオタードは最新テクノロジーによる伸縮性が強い極薄生地で立体的な張りと自然な着圧があり、肌の曲線にぴったりフィット  \n- 肌には自然な毛穴・質感・汗のにじみを含む（美化補正を行わない）  \n\n# 出力\n- 芸術性と機能性が共存するバレエ用品カタログ写真  \n- 強い日差しによる自然なハイライトと影が、レオタードの素材感を際立たせる  \n- バレエスタジオの静けさと練習の緊張感が伝わる構図  \n- SFWでありつつ、芸術的で洗練された印象を持つ写真作品として成立",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSTVjd3a4AEnQRh.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSTVjd3a4AEnQRh.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR1pWJqaYAESEv9.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR1pWJqaYAESEv9.jpg",
+        "sourcePostId": "2099759874318184905"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 1,
+      "viewCount": 432
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/55hawks/status/2100038181538365752",
+  "coverUrl": "https://pbs.twimg.com/media/HSTVjd3a4AEnQRh.jpg",
+  "coverPath": "images/2100038181538365752-1.jpg",
+  "imagePaths": [
+    "images/2100038181538365752-1.jpg",
+    "images/2100038181538365752-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSTVjd3a4AEnQRh",
+    "x-image:/media/HR1pWJqaYAESEv9",
+    "x-post:2100038181538365752",
+    "x-post:2099759874318184905"
+  ],
+  "analysis": {
+    "summary": "バレエスタジオで白色レオタードを着てポワントで立つ日本人女性ダンサーのカタログ風ポートレート生成プロンプト。",
+    "summaryEn": "Prompt for generating a catalog-style editorial portrait of a Japanese female ballet dancer standing en pointe in a white leotard inside a sunlit studio.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图第一张与Prompt描述完全一致：舞者身着白色露背连体服、双手于腰后轻握、双脚ポワント立起、采光来自侧窗并伴有练功房与低马尾发型。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "# 命令\n- バレエ用品メーカーの高品質なカタログ写真を生成する  \n- フォトジェニックでエディトリアルなポートレートとして成立させる  \n- 非性的・芸術的・静謐な表現を維持する  \n- SFWとなるように構図・光・距離・衣装の描写をAIが自動調整する  \n\n# 文脈\n- これはバレエスタジオでの練習風景  \n- 静かなスタジオの空気が漂う  \n- 窓から強い日差しが差し込み、レオタードの生地にシャープな影とハイライトを作る  \n- 額には汗がにじみ、練習のリアリティがある  \n- 髪は自然な低い位置のポニーテール  \n- 色彩は鮮やかな高彩度トーンで、カタログ写真としての視認性を重視  \n\n# 入力\n- 参照対象：日本人女性のバレエダンサー  \n- 完璧な砂時計体型で豊かな胸周り  \n- 白色でベアバックのキャミソールレオタードと白いバレエシューズを着用  \n- 背中を斜めに向けて立つ  \n- 両手は腰の後ろで軽く組む  \n- 両足はポワントで立つ  \n- レオタードは最新テクノロジーによる伸縮性が強い極薄生地で立体的な張りと自然な着圧があり、肌の曲線にぴったりフィット  \n- 肌には自然な毛穴・質感・汗のにじみを含む（美化補正を行わない）  \n\n# 出力\n- 芸術性と機能性が共存するバレエ用品カタログ写真  \n- 強い日差しによる自然なハイライトと影が、レオタードの素材感を際立たせる  \n- バレエスタジオの静けさと練習の緊張感が伝わる構図  \n- SFWでありつつ、芸術的で洗練された印象を持つ写真作品として成立",
+    "sourceRange": {
+      "start": 55,
+      "end": 726
+    },
+    "translations": {
+      "zh": "# 指令\n- 生成芭蕾用品品牌的高质量目录照片\n- 呈现为具有表现力的杂志写真风格肖像\n- 保持非性感、艺术且静谧的格调\n- AI自动调整构图、光影、距离和服装描写以确保符合SFW规范\n\n# 背景\n- 芭蕾舞室中的练习场景\n- 弥漫着静谧的排练室氛围\n- 阳光透过窗户强烈倾泻，在紧身连体服面料上留下鲜明的阴影与高光\n- 额头泛着汗珠，极具真实的练习感\n- 扎着自然的低马尾发型\n- 色彩鲜明高饱和，突出目录照片的视觉清晰度\n\n# 输入要素\n- 主体：日本女性芭蕾舞者\n- 沙漏形身段与丰满胸围\n- 身穿白色露背吊带紧身连体服与白色芭蕾足尖鞋\n- 背部呈侧角站立\n- 双手在后腰轻轻相握\n- 双脚以足尖鞋立起立地\n- 连体服采用贴合肌肤的高弹超薄面料，展现自然张力与曲线\n- 皮肤保留真实的毛孔、质感与微微汗液（不做虚假美颜磨皮）\n\n# 输出要求\n- 艺术性与功能性并存的芭蕾目录大片\n- 强烈日光与自然光影凸显面料质感\n- 展现舞室静谧与训练张力的画面\n- 具备高雅艺术感的摄影成品",
+      "en": "# Instructions\n- Generate a high-quality catalog photograph for a ballet brand\n- Create an editorial, photogenic portrait\n- Maintain a non-sexual, artistic, and tranquil atmosphere\n- Automatically adjust composition, light, distance, and costume for SFW\n\n# Context\n- Practice scene in a ballet dance studio\n- Quiet studio ambience\n- Strong sunlight enters from windows, creating sharp shadows and highlights\n- Sweat on forehead adding realistic training detail\n- Hair in a low ponytail\n- Vivid, high-saturation tones for catalog visibility\n\n# Input\n- Subject: Japanese female ballet dancer\n- Hourglass figure\n- White backless camisole leotard and white pointe shoes\n- Standing with back angled to camera\n- Hands clasped lightly behind waist\n- Standing en pointe on both feet\n- Realistic skin texture with pores and subtle sweat\n\n# Output\n- Aesthetic, functional ballet gear catalog portrait\n- Dramatic natural light emphasizing texture and form"
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "text-to-image",
+    "useCase": "芭蕾舞者目录写真生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
