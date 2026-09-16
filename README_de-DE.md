@@ -35,7 +35,7 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2100038181538365752"></a>
 
-### Übersetzung läuft
+### Prompt zur Erstellung eines Porträts im Katalogstil einer japanischen Tänzerin im weißen Trikot auf Spitze in einem Ballettstudio.
 
 Autor：[@55hawks](https://x.com/55hawks) · [Originalbeitrag](https://x.com/55hawks/status/2100038181538365752)
 
@@ -43,7 +43,7 @@ Fotografie · Porträt / Selfie · Veröffentlicht
 
 Originalbeitrag：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2099759874318184905)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Erstellung eines Porträts im Katalogstil einer japanischen Tänzerin im weißen Trikot auf Spitze in einem Ballettstudio.
 
 <img src="images/2100038181538365752-1.jpg" alt="Bild 1" width="480" />
 
@@ -52,7 +52,35 @@ Originalbeitrag：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbe
 **Prompt**
 
 ```text
-Übersetzung läuft
+# Anweisung
+- Ein hochwertiges Katalogfoto für einen Hersteller von Ballettbedarf erstellen  
+- Als fotogenes und redaktionelles Porträt realisieren  
+- Einen nicht-sexuellen, künstlerischen und ruhigen Ausdruck beibehalten  
+- Die KI passt Komposition, Licht, Distanz und Kostümdarstellung automatisch an, um SFW zu gewährleisten  
+
+# Kontext
+- Dies ist eine Übungsszene in einem Ballettstudio  
+- Die ruhige Atmosphäre des Studios liegt in der Luft  
+- Starkes Sonnenlicht fällt durch das Fenster und erzeugt scharfe Schatten und Glanzlichter auf dem Stoff des Trikots  
+- Schweiß perlt auf der Stirn und verleiht der Probe Realismus  
+- Das Haar ist zu einem natürlichen, tief sitzenden Pferdeschwanz gebunden  
+- Lebendige, hochgesättigte Farbtöne mit Fokus auf optimale Sichtbarkeit als Katalogfoto  
+
+# Eingabe
+- Referenzperson: japanische Balletttänzerin  
+- Perfekte Sanduhrfigur mit üppiger Oberweite  
+- Trägt ein weißes, rückenfreies Spaghettiträger-Trikot und weiße Ballettschuhe  
+- Steht mit schräg abgewandtem Rücken  
+- Beide Hände locker hinter der Taille verschränkt  
+- Steht mit beiden Füßen auf Spitze (en pointe)  
+- Das Trikot besteht aus hauchdünnem, hochelastischem Hightech-Gewebe mit dreidimensionaler Spannung und natürlicher Kompression, das sich perfekt an die Kurven der Haut anschmiegt  
+- Die Haut weist natürliche Poren, Textur und Schweißperlen auf (keine Schönheitsretusche)  
+
+# Ausgabe
+- Ein Ballettbedarfs-Katalogfoto, in dem Kunst und Funktionalität harmonieren  
+- Natürliche Glanzlichter und Schatten durch starkes Sonnenlicht heben die Materialbeschaffenheit des Trikots hervor  
+- Eine Komposition, die die Stille des Ballettstudios und die Anspannung der Probe spürbar macht  
+- Als fotografisches Kunstwerk mit künstlerischer und raffinierter Wirkung umgesetzt, das stets SFW bleibt
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

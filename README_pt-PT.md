@@ -35,7 +35,7 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2100038181538365752"></a>
 
-### Tradução em curso
+### Prompt de criação de retrato estilo catálogo de uma bailarina japonesa de maillot branco em pontas num estúdio de balé.
 
 Autor：[@55hawks](https://x.com/55hawks) · [Publicação original](https://x.com/55hawks/status/2100038181538365752)
 
@@ -43,7 +43,7 @@ Fotografia · Retrato / Selfie · Publicado
 
 Publicação original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2099759874318184905)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de criação de retrato estilo catálogo de uma bailarina japonesa de maillot branco em pontas num estúdio de balé.
 
 <img src="images/2100038181538365752-1.jpg" alt="Imagem 1" width="480" />
 
@@ -52,7 +52,35 @@ Publicação original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publ
 **Prompt**
 
 ```text
-Tradução em curso
+# Instruções
+- Gerar uma fotografia de catálogo de alta qualidade para um fabricante de artigos de balé  
+- Conceber como um retrato editorial e fotogénico  
+- Manter uma expressão não sexualizada, artística e serena  
+- A IA ajusta automaticamente a composição, iluminação, distância e representação do vestuário para assegurar que seja SFW  
+
+# Contexto
+- Esta é uma cena de ensaio num estúdio de balé  
+- Paira a atmosfera calma do estúdio  
+- A luz solar intensa entra pela janela, criando sombras nítidas e realces vincados no tecido do maillot  
+- O suor surge na testa, trazendo o realismo do treino  
+- Cabelo apanhado num rabo-de-cavalo baixo natural  
+- Cores em tons vívidos e de alta saturação, priorizando a visibilidade própria de uma fotografia de catálogo  
+
+# Entrada
+- Sujeito de referência: bailarina de balé japonesa  
+- Silhueta perfeita em ampulheta com busto generoso  
+- Envergando um maillot branco de alças com costas abertas e sapatilhas de pontas brancas  
+- De pé, com as costas voltadas em ângulo  
+- Ambas as mãos suavemente entrelaçadas atrás da cintura  
+- De pé nas pontas dos pés (en pointe)  
+- O maillot é feito de tecido ultrafino e altamente elástico de tecnologia de ponta, com tensão tridimensional e compressão natural, moldando-se na perfeição às curvas da pele  
+- A pele inclui poros naturais, textura e suor visível (sem retoques de embelezamento)  
+
+# Saída
+- Fotografia de catálogo de artigos de balé onde coexistem arte e funcionalidade  
+- Realces e sombras naturais criados pela forte luz solar que evidenciam a textura do maillot  
+- Composição que transmite a serenidade do estúdio de balé e a tensão do ensaio  
+- Apresenta-se como uma obra fotográfica de cariz artístico e sofisticado, mantendo a conformidade com SFW
 ```
 
 [↑ Voltar às categorias](#catalog)

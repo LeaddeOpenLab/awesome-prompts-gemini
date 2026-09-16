@@ -35,7 +35,7 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2100038181538365752"></a>
 
-### Traduction en cours
+### Prompt de génération d'un portrait style catalogue d'une danseuse japonaise en justaucorps blanc debout sur pointes dans un studio de danse.
 
 Auteur：[@55hawks](https://x.com/55hawks) · [Publication originale](https://x.com/55hawks/status/2100038181538365752)
 
@@ -43,7 +43,7 @@ Photographie · Portrait / Selfie · Publié
 
 Publication originale：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2099759874318184905)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de génération d'un portrait style catalogue d'une danseuse japonaise en justaucorps blanc debout sur pointes dans un studio de danse.
 
 <img src="images/2100038181538365752-1.jpg" alt="Image 1" width="480" />
 
@@ -52,7 +52,35 @@ Publication originale：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publ
 **Consigne**
 
 ```text
-Traduction en cours
+# Instructions
+- Générer une photo de catalogue de haute qualité pour un fabricant d'articles de danse classique  
+- Concevoir un portrait photogénique et éditorial  
+- Maintenir une expression asexuée, artistique et sereine  
+- L'IA ajuste automatiquement le cadrage, la lumière, la distance et le rendu du costume pour garantir un contenu SFW  
+
+# Contexte
+- Il s'agit d'une scène de répétition dans un studio de danse  
+- Une atmosphère de calme règne dans le studio  
+- Une vive lumière solaire traverse la fenêtre, créant des ombres nettes et des reflets éclatants sur le tissu du justaucorps  
+- Des perles de sueur perlent sur le front, apportant le réalisme de l'entraînement  
+- Cheveux coiffés en une queue-de-cheval basse naturelle  
+- Couleurs vives et très saturées, privilégiant la visibilité propre à une photo de catalogue  
+
+# Données d'entrée
+- Sujet de référence : danseuse classique japonaise  
+- Silhouette parfaite en sablier avec une poitrine généreuse  
+- Porte un justaucorps blanc à fines bretelles dos nu et des pointes de danse blanches  
+- Debout, le dos tourné de trois-quarts  
+- Les deux mains légèrement croisées derrière la taille  
+- Debout sur pointes (en pointe) des deux pieds  
+- Le justaucorps est taillé dans un tissu ultra-fin de haute technologie très extensible, offrant une tenue tridimensionnelle et une compression naturelle qui épouse parfaitement les courbes de la peau  
+- La peau présente des pores, une texture et une transpiration naturelles (sans retouche d'embellissement)  
+
+# Résultat attendu
+- Une photo de catalogue d'articles de danse où coexistent dimension artistique et fonctionnalité  
+- Des reflets et des ombres naturels créés par la forte lumière du soleil, mettant en valeur la matière du justaucorps  
+- Une composition traduisant la sérénité du studio de danse et la tension de l'exercice  
+- Une œuvre photographique réussie, à la fois artistique et raffinée, tout en restant strictement SFW
 ```
 
 [↑ Retour aux catégories](#catalog)

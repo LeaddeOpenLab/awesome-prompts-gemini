@@ -35,7 +35,7 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2100038181538365752"></a>
 
-### Traducción en curso
+### Prompt de generación para un retrato estilo catálogo de una bailarina japonesa en leotardo blanco de pie en puntas dentro de un estudio de ballet.
 
 Autor：[@55hawks](https://x.com/55hawks) · [Publicación original](https://x.com/55hawks/status/2100038181538365752)
 
@@ -43,7 +43,7 @@ Fotografía · Retrato / Selfie · Publicado
 
 Publicación original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2099759874318184905)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de generación para un retrato estilo catálogo de una bailarina japonesa en leotardo blanco de pie en puntas dentro de un estudio de ballet.
 
 <img src="images/2100038181538365752-1.jpg" alt="Imagen 1" width="480" />
 
@@ -52,7 +52,35 @@ Publicación original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publ
 **Prompt**
 
 ```text
-Traducción en curso
+# Instrucciones
+- Generar una fotografía de catálogo de alta calidad para un fabricante de artículos de ballet  
+- Lograr un retrato fotogénico y de estilo editorial  
+- Mantener una expresión no sexual, artística y serena  
+- La IA ajustará automáticamente la composición, la luz, la distancia y la representación del vestuario para garantizar que sea SFW  
+
+# Contexto
+- Es una escena de práctica en un estudio de ballet  
+- Se percibe la atmósfera tranquila del estudio  
+- La fuerte luz solar entra por la ventana, creando sombras y luces intensas y nítidas sobre la tela del leotardo  
+- El sudor brota en la frente, transmitiendo el realismo de la práctica  
+- Cabello recogido en una coleta baja natural  
+- Colores vivos de alta saturación, priorizando la claridad visual propia de una foto de catálogo  
+
+# Entrada
+- Sujeto de referencia: bailarina de ballet japonesa  
+- Figura perfecta de reloj de arena con busto amplio  
+- Lleva un leotardo camisola blanco de espalda descubierta y zapatillas de punta de ballet blancas  
+- De pie con la espalda colocada en ángulo  
+- Ambas manos entrelazadas suavemente detrás de la cintura  
+- De pie sobre ambas puntas (en pointe)  
+- El leotardo está fabricado con una tela ultradelgada y muy elástica de última tecnología, con tensión tridimensional y compresión natural, ajustándose perfectamente a las curvas de la piel  
+- La piel incluye poros naturales, textura y sudor visible (sin retoques estéticos artificiales)  
+
+# Salida
+- Fotografía de catálogo de artículos de ballet donde coexisten la estética artística y la funcionalidad  
+- Luces y sombras naturales generadas por la intensa luz solar que resaltan la textura del leotardo  
+- Composición que transmite la serenidad del estudio de ballet y la concentración de la práctica  
+- Obra fotográfica consolidada con una impresión artística y refinada, manteniéndose SFW
 ```
 
 [↑ Volver a categorías](#catalog)

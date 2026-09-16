@@ -35,7 +35,7 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2100038181538365752"></a>
 
-### Traduzione in corso
+### Prompt per la generazione di un ritratto in stile catalogo di una ballerina giapponese in body bianco sulle punte in uno studio di danza.
 
 Autore：[@55hawks](https://x.com/55hawks) · [Post originale](https://x.com/55hawks/status/2100038181538365752)
 
@@ -43,7 +43,7 @@ Fotografia · Ritratto / Selfie · Pubblicato
 
 Post originale：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2099759874318184905)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per la generazione di un ritratto in stile catalogo di una ballerina giapponese in body bianco sulle punte in uno studio di danza.
 
 <img src="images/2100038181538365752-1.jpg" alt="Immagine 1" width="480" />
 
@@ -52,7 +52,35 @@ Post originale：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post origin
 **Prompt**
 
 ```text
-Traduzione in corso
+# Istruzioni
+- Generare una fotografia di catalogo di alta qualità per un produttore di articoli di danza classica  
+- Realizzare un ritratto fotogenico ed editoriale  
+- Mantenere un'espressione non sessualizzata, artistica e serena  
+- L'IA regola automaticamente composizione, luce, distanza e resa del costume per garantire uno standard SFW  
+
+# Contesto
+- Questa è una scena di prova in uno studio di danza classica  
+- Si respira l'atmosfera quieta dello studio  
+- Una forte luce solare entra dalla finestra, creando ombre nette e riflessi luminosi sul tessuto del body  
+- Il sudore imperla la fronte, conferendo il realismo della prova  
+- Capelli raccolti in una naturale coda di cavallo bassa  
+- Colori vividi e ad alta saturazione, privilegiando la chiarezza visiva da fotografia di catalogo  
+
+# Input
+- Soggetto di riferimento: ballerina classica giapponese  
+- Perfetta figura a clessidra con décolleté generoso  
+- Indossa un body bianco a canotta con schiena scoperta e scarpette da punta bianche  
+- In piedi, con la schiena rivolta di tre quarti  
+- Entrambe le mani delicatamente congiunte dietro la vita  
+- In piedi sulle punte (en pointe) con entrambi i piedi  
+- Il body è realizzato in tessuto ultrasottile altamente elasticizzato di ultima tecnologia, con tensione tridimensionale e compressione naturale, aderendo perfettamente alle curve del corpo  
+- La pelle mostra pori naturali, texture e gocce di sudore (senza filtri di bellezza o ritocchi)  
+
+# Output
+- Fotografia per catalogo di articoli di danza in cui convivono arte e funzionalità  
+- Punti luce e ombre naturali generati dalla luce solare intensa che esaltano la texture del body  
+- Composizione che trasmette la quiete della sala da ballo e la concentrazione della prova  
+- Opera fotografica dal carattere artistico e sofisticato, rigorosamente SFW
 ```
 
 [↑ Torna alle categorie](#catalog)

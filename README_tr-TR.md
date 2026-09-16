@@ -35,7 +35,7 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2100038181538365752"></a>
 
-### Çeviri sürüyor
+### Bale stüdyosunda beyaz mayo giyen ve parmak ucunda duran Japon kadın dansçının katalog tarzı portre üretim istemi.
 
 Yazar：[@55hawks](https://x.com/55hawks) · [Orijinal gönderi](https://x.com/55hawks/status/2100038181538365752)
 
@@ -43,7 +43,7 @@ Fotoğrafçılık · Portre / Selfie · Yayımlandı
 
 Orijinal gönderi：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2099759874318184905)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bale stüdyosunda beyaz mayo giyen ve parmak ucunda duran Japon kadın dansçının katalog tarzı portre üretim istemi.
 
 <img src="images/2100038181538365752-1.jpg" alt="Görsel 1" width="480" />
 
@@ -52,7 +52,35 @@ Orijinal gönderi：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal
 **İstem**
 
 ```text
-Çeviri sürüyor
+# Talimatlar
+- Bir bale malzemeleri üreticisi için yüksek kaliteli bir katalog fotoğrafı oluşturun  
+- Fotojenik ve editoryal bir portre olarak hayata geçirin  
+- Cinsellikten uzak, sanatsal ve dingin bir ifadeyi koruyun  
+- SFW olmasını sağlamak için yapay zeka kompozisyonu, ışığı, mesafeyi ve kostüm tasvirini otomatik olarak ayarlar  
+
+# Bağlam
+- Bu bir bale stüdyosundaki pratik sahnesidir  
+- Stüdyonun sessiz ve sakin havası hissedilir  
+- Pencereden giren güçlü güneş ışığı, mayonun kumaşı üzerinde keskin gölgeler ve parlak noktalar oluşturur  
+- Alında beliren ter damlaları provanın gerçekçiliğini yansıtır  
+- Saçlar doğal ve alçak bir at kuyruğu şeklinde toplanmıştır  
+- Renkler, katalog fotoğrafı olarak görünürlüğü ön planda tutan canlı ve yüksek doygunluklu tonlardadır  
+
+# Girdi
+- Referans özne: Japon kadın bale dansçısı  
+- Dolgun göğüs hatlarına sahip mükemmel kum saati vücut  
+- Beyaz renkte, sırtı açık askılı bale mayosu ve beyaz bale point ayakkabıları giymiş  
+- Sırtı hafif çapraz dönük duruyor  
+- İki eli belinin arkasında hafifçe kavuşmuş  
+- Her iki ayağı üzerinde parmak ucunda (en pointe) duruyor  
+- Mayo, en son teknolojiye sahip son derece esnek ve ultra ince kumaştan üretilmiş olup üç boyutlu gerginliğe ve doğal bir sıkıştırma etkisine sahiptir, vücut kıvrımlarına kusursuzca oturur  
+- Cilt; doğal gözenekleri, dokuyu ve hafif teri içerir (güzelleştirme filtresi uygulanmaz)  
+
+# Çıktı
+- Sanatsallık ve işlevselliğin bir arada bulunduğu bir bale ürünleri katalog fotoğrafı  
+- Güçlü güneş ışığının oluşturduğu doğal ışıklar ve gölgeler, mayonun kumaş dokusunu öne çıkarır  
+- Bale stüdyosunun dinginliğini ve provanın konsantrasyonunu aktaran bir kompozisyon  
+- SFW standartlarına uygun, sanatsal ve sofistike bir izlenim bırakan bir fotoğraf çalışması
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -35,7 +35,7 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2100038181538365752"></a>
 
-### Traducción en curso
+### Prompt para generar un retrato estilo catálogo de una bailarina japonesa de pie en puntas con un maillot blanco en un estudio de ballet.
 
 Autor：[@55hawks](https://x.com/55hawks) · [Publicación original](https://x.com/55hawks/status/2100038181538365752)
 
@@ -43,7 +43,7 @@ Fotografía · Retrato / Selfie · Publicado
 
 Publicación original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2099759874318184905)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para generar un retrato estilo catálogo de una bailarina japonesa de pie en puntas con un maillot blanco en un estudio de ballet.
 
 <img src="images/2100038181538365752-1.jpg" alt="Imagen 1" width="480" />
 
@@ -52,7 +52,35 @@ Publicación original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publ
 **Prompt**
 
 ```text
-Traducción en curso
+# Instrucciones
+- Generar una fotografía de catálogo de alta calidad para un fabricante de artículos de ballet  
+- Lograr un retrato fotogénico y editorial  
+- Mantener una expresión no sexual, artística y serena  
+- La IA ajustará automáticamente el encuadre, la luz, la distancia y la representación del vestuario para que sea SFW  
+
+# Contexto
+- Esta es una escena de práctica en un estudio de ballet  
+- Se percibe la atmósfera tranquila del estudio  
+- La fuerte luz del sol entra por la ventana, creando sombras y reflejos nítidos en la tela del maillot  
+- El sudor perlado en la frente aporta el realismo del ensayo  
+- Cabello recogido en una coleta baja natural  
+- Colores en tonos vivos y de alta saturación, priorizando la visibilidad como fotografía de catálogo  
+
+# Entrada
+- Sujeto de referencia: bailarina de ballet japonesa  
+- Figura perfecta de reloj de arena con busto generoso  
+- Viste un maillot camisola blanco con la espalda al descubierto y zapatillas de punta de ballet blancas  
+- De pie con la espalda orientada en ángulo  
+- Ambas manos entrelazadas suavemente detrás de la cintura  
+- De pie en puntas (en pointe) con ambos pies  
+- El maillot está confeccionado con un tejido ultrafino de última tecnología altamente elástico, con firmeza tridimensional y compresión natural, adaptándose con precisión a las curvas de la piel  
+- La piel incluye poros naturales, textura y sudor visible (sin retoques de embellecimiento)  
+
+# Salida
+- Fotografía de catálogo de artículos de ballet donde conviven el arte y la funcionalidad  
+- Reflejos y sombras naturales provocados por la intensa luz solar que resaltan la textura del maillot  
+- Encuadre que transmite la serenidad del estudio de ballet y la tensión del ensayo  
+- Obra fotográfica que resulta artística y sofisticada manteniendo el estándar SFW
 ```
 
 [↑ Volver a categorías](#catalog)

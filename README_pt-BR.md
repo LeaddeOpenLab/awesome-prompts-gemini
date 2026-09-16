@@ -35,7 +35,7 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2100038181538365752"></a>
 
-### Tradução em andamento
+### Prompt para geração de retrato estilo catálogo de bailarina japonesa de collant branco na ponta dos pés em estúdio de balé.
 
 Autor：[@55hawks](https://x.com/55hawks) · [Publicação original](https://x.com/55hawks/status/2100038181538365752)
 
@@ -43,7 +43,7 @@ Fotografia · Retrato / Selfie · Publicado
 
 Publicação original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2099759874318184905)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt para geração de retrato estilo catálogo de bailarina japonesa de collant branco na ponta dos pés em estúdio de balé.
 
 <img src="images/2100038181538365752-1.jpg" alt="Imagem 1" width="480" />
 
@@ -52,7 +52,35 @@ Publicação original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publ
 **Prompt**
 
 ```text
-Tradução em andamento
+# Instruções
+- Gerar uma foto de catálogo de alta qualidade para um fabricante de artigos de balé  
+- Construir como um retrato editorial e fotogênico  
+- Manter uma expressão não sexualizada, artística e serena  
+- A IA deve ajustar automaticamente a composição, luz, distância e representação do traje para garantir que seja SFW  
+
+# Contexto
+- Esta é uma cena de ensaio em um estúdio de balé  
+- Paira a atmosfera tranquila do estúdio  
+- A luz solar intensa entra pela janela, criando sombras nítidas e realces marcantes no tecido do collant  
+- O suor brota na testa, conferindo o realismo do treino  
+- Cabelo preso em um rabo de cavalo baixo natural  
+- Cores em tons vívidos e de alta saturação, priorizando a visibilidade de uma foto de catálogo  
+
+# Entrada
+- Objeto de referência: dançarina de balé japonesa  
+- Corpo perfeito em ampulheta com busto farto  
+- Vestindo um collant regata branco com costas abertas e sapatilhas de ponta brancas  
+- Em pé, com as costas voltadas em ângulo  
+- Ambas as mãos suavemente cruzadas atrás da cintura  
+- Em pé nas pontas dos pés (en pointe)  
+- O collant é feito de tecido ultrafino e altamente elástico de última tecnologia, com sustentação tridimensional e compressão natural, ajustando-se com precisão às curvas da pele  
+- A pele inclui poros naturais, textura e suor visível (sem retoques de embelezamento)  
+
+# Saída
+- Foto de catálogo de produtos de balé onde coexistem arte e funcionalidade  
+- Realces e sombras naturais causados pela forte luz do sol que destacam a textura do collant  
+- Composição que transmite a tranquilidade do estúdio de balé e a intensidade da prática  
+- Estabelecida como uma obra fotográfica com impressão artística e sofisticada, mantendo o padrão SFW
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -35,7 +35,7 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2100038181538365752"></a>
 
-### Đang dịch
+### Lời nhắc tạo ảnh chân dung phong cách danh mục của nữ vũ công người Nhật mặc áo leotard trắng đứng kiễng ngón chân trong phòng tập múa ba lê.
 
 Tác giả：[@55hawks](https://x.com/55hawks) · [Bài gốc](https://x.com/55hawks/status/2100038181538365752)
 
@@ -43,7 +43,7 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Đã xuất bản
 
 Bài gốc：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2099759874318184905)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo ảnh chân dung phong cách danh mục của nữ vũ công người Nhật mặc áo leotard trắng đứng kiễng ngón chân trong phòng tập múa ba lê.
 
 <img src="images/2100038181538365752-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -52,7 +52,35 @@ Bài gốc：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](htt
 **Câu lệnh**
 
 ```text
-Đang dịch
+# Lệnh
+- Tạo một bức ảnh danh mục (catalog) chất lượng cao cho nhà sản xuất đồ múa ba lê  
+- Tạo dựng thành một bức chân dung biên tập (editorial) ăn ảnh  
+- Duy trì biểu đạt phi tình dục, nghệ thuật và tĩnh lặng  
+- AI tự động điều chỉnh bố cục, ánh sáng, khoảng cách và cách miêu tả trang phục để đảm bảo chuẩn SFW  
+
+# Bối cảnh
+- Đây là khung cảnh luyện tập trong một phòng tập múa ba lê  
+- Bầu không khí tĩnh lặng của phòng tập lan tỏa  
+- Ánh nắng mạnh chiếu qua cửa sổ, tạo nên bóng đổ sắc nét và điểm sáng nổi bật trên chất liệu vải leotard  
+- Mồ hôi rịn trên trán, mang lại tính chân thực của buổi tập luyện  
+- Mái tóc buộc đuôi ngựa thấp tự nhiên  
+- Màu sắc tươi sáng với tông độ bão hòa cao, chú trọng khả năng hiển thị rõ nét như một bức ảnh danh mục  
+
+# Đầu vào
+- Đối tượng tham chiếu: Nữ vũ công ba lê người Nhật Bản  
+- Vóc dáng đồng hồ cát hoàn hảo với vòng một đầy đặn  
+- Mặc áo leotard hai dây hở lưng màu trắng và giày múa ba lê màu trắng  
+- Đứng quay lưng chếch về phía góc nhìn  
+- Hai tay khẽ đan vào nhau phía sau eo  
+- Đứng kiễng ngón chân (en pointe) bằng cả hai chân  
+- Áo leotard làm bằng chất liệu vải siêu mỏng co giãn mạnh theo công nghệ mới nhất, có độ căng 3D và lực nén tự nhiên, ôm khít theo đường cong cơ thể  
+- Làn da có lỗ chân lông, kết cấu và mồ hôi rịn tự nhiên (không chỉnh sửa làm đẹp)  
+
+# Đầu ra
+- Ảnh danh mục sản phẩm múa ba lê dung hòa giữa tính nghệ thuật và tính năng sử dụng  
+- Ánh nắng mạnh tạo điểm sáng và bóng đổ tự nhiên, làm nổi bật chất liệu của áo leotard  
+- Bố cục truyền tải sự tĩnh lặng của phòng tập ba lê và cảm giác căng thẳng của buổi luyện tập  
+- Tạo thành một tác phẩm nhiếp ảnh nghệ thuật, tinh tế và đảm bảo chuẩn SFW
 ```
 
 [↑ Về danh mục](#catalog)
