@@ -19,15 +19,45 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**13** Prompts · Última adição: **2026-09-14**
+**14** Prompts · Última adição: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Cinematográfico / Imagem de Filme](#category-cinematic-film-still) · [Ilustração](#category-illustration) · [Renderização 3D](#category-3d-render) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cinematográfico / Imagem de Filme](#category-cinematic-film-still) · [Ilustração](#category-illustration) · [Renderização 3D](#category-3d-render) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## Fotografia
+
+<a name="prompt-2100038181538365752"></a>
+
+### Tradução em andamento
+
+Autor：[@55hawks](https://x.com/55hawks) · [Publicação original](https://x.com/55hawks/status/2100038181538365752)
+
+Fotografia · Retrato / Selfie · Publicado
+
+Publicação original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2099759874318184905)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2100038181538365752-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2100038181538365752-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="category-cinematic-film-still"></a>
 

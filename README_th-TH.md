@@ -19,15 +19,45 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 กดดาวให้คลังนี้เพื่อติดตามพรอมต์ที่คัดสรรทุกวันและค้นหาแนวคิดสร้างสรรค์ใหม่ ๆ
 
-**13** รายการ · เพิ่มล่าสุด: **2026-09-14**
+**14** รายการ · เพิ่มล่าสุด: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## เรียกดูตามหมวดหมู่
 
-[ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [ภาพประกอบ](#category-illustration) · [ภาพเรนเดอร์ 3 มิติ](#category-3d-render) · [อื่น ๆ](#category-other)
+[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [ภาพประกอบ](#category-illustration) · [ภาพเรนเดอร์ 3 มิติ](#category-3d-render) · [อื่น ๆ](#category-other)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## การถ่ายภาพ
+
+<a name="prompt-2100038181538365752"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@55hawks](https://x.com/55hawks) · [โพสต์ต้นฉบับ](https://x.com/55hawks/status/2100038181538365752)
+
+การถ่ายภาพ · ภาพบุคคล / เซลฟี่ · เผยแพร่แล้ว
+
+โพสต์ต้นฉบับ：[@CyberTotal2026](https://x.com/CyberTotal2026) · [โพสต์ต้นฉบับ](https://x.com/CyberTotal2026/status/2099759874318184905)
+
+**สรุป:** กำลังแปล
+
+<img src="images/2100038181538365752-1.jpg" alt="รูปภาพ 1" width="480" />
+
+<img src="images/2100038181538365752-2.jpg" alt="รูปภาพ 2" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
 
 <a name="category-cinematic-film-still"></a>
 

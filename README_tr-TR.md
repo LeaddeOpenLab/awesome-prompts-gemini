@@ -19,15 +19,45 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**13** Prompt · Son eklenen: **2026-09-14**
+**14** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Sinematik / Film Karesi](#category-cinematic-film-still) · [İllüstrasyon](#category-illustration) · [3D Modelleme](#category-3d-render) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [İllüstrasyon](#category-illustration) · [3D Modelleme](#category-3d-render) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## Fotoğrafçılık
+
+<a name="prompt-2100038181538365752"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@55hawks](https://x.com/55hawks) · [Orijinal gönderi](https://x.com/55hawks/status/2100038181538365752)
+
+Fotoğrafçılık · Portre / Selfie · Yayımlandı
+
+Orijinal gönderi：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2099759874318184905)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100038181538365752-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100038181538365752-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="category-cinematic-film-still"></a>
 

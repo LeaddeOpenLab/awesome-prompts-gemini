@@ -19,15 +19,45 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**13** 件 · 最新の追加: **2026-09-14**
+**14** 件 · 最新の追加: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[シネマティック / フィルムスチル](#category-cinematic-film-still) · [イラスト](#category-illustration) · [3D レンダリング](#category-3d-render) · [その他](#category-other)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [イラスト](#category-illustration) · [3D レンダリング](#category-3d-render) · [その他](#category-other)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## 写真撮影
+
+<a name="prompt-2100038181538365752"></a>
+
+### 翻訳中
+
+作者：[@55hawks](https://x.com/55hawks) · [元の投稿](https://x.com/55hawks/status/2100038181538365752)
+
+写真撮影 · ポートレート / セルフィー · 配信済み
+
+元の投稿：[@CyberTotal2026](https://x.com/CyberTotal2026) · [元の投稿](https://x.com/CyberTotal2026/status/2099759874318184905)
+
+**概要:** 翻訳中
+
+<img src="images/2100038181538365752-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2100038181538365752-2.jpg" alt="画像 2" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="category-cinematic-film-still"></a>
 

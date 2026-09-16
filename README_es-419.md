@@ -19,15 +19,45 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**13** Prompts · Última incorporación: **2026-09-14**
+**14** Prompts · Última incorporación: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Cine / Fotograma](#category-cinematic-film-still) · [Ilustración](#category-illustration) · [Renderizado 3D](#category-3d-render) · [Otros](#category-other)
+[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Ilustración](#category-illustration) · [Renderizado 3D](#category-3d-render) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## Fotografía
+
+<a name="prompt-2100038181538365752"></a>
+
+### Traducción en curso
+
+Autor：[@55hawks](https://x.com/55hawks) · [Publicación original](https://x.com/55hawks/status/2100038181538365752)
+
+Fotografía · Retrato / Selfie · Publicado
+
+Publicación original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2099759874318184905)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100038181538365752-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2100038181538365752-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="category-cinematic-film-still"></a>
 

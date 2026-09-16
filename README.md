@@ -19,15 +19,73 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**13** Prompts · Latest addition: **2026-09-14**
+**14** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [3D Render](#category-3d-render) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [3D Render](#category-3d-render) · [Other](#category-other)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## Photography
+
+<a name="prompt-2100038181538365752"></a>
+
+### Catalog-style portrait generation prompt of a Japanese female dancer standing on pointe in a white leotard in a ballet studio.
+
+Author：[@55hawks](https://x.com/55hawks) · [Source](https://x.com/55hawks/status/2100038181538365752)
+
+Photography · Portrait / Selfie · Published
+
+Source：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2099759874318184905)
+
+**Summary:** Catalog-style portrait generation prompt of a Japanese female dancer standing on pointe in a white leotard in a ballet studio.
+
+<img src="images/2100038181538365752-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100038181538365752-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+# Instructions
+- Generate a high-quality catalog photograph for a ballet wear manufacturer  
+- Establish as a photogenic and editorial portrait  
+- Maintain a non-sexual, artistic, and serene expression  
+- AI automatically adjusts composition, lighting, distance, and costume rendering to ensure SFW  
+
+# Context
+- This is a practice scene in a ballet studio  
+- The quiet atmosphere of the studio lingers  
+- Strong sunlight streams through the window, casting sharp shadows and highlights on the leotard fabric  
+- Sweat beads on the forehead, adding realism to the rehearsal  
+- Hair styled in a natural, low ponytail  
+- Colors feature vivid, high-saturation tones, prioritizing visibility for a catalog photograph  
+
+# Input
+- Reference subject: Japanese female ballet dancer  
+- Perfect hourglass figure with a full bust  
+- Wearing a white backless camisole leotard and white ballet shoes  
+- Standing with her back angled toward the viewer  
+- Both hands lightly clasped behind her lower back  
+- Standing on pointe on both feet  
+- The leotard is made of cutting-edge, highly elastic, ultra-thin fabric with three-dimensional tension and natural compression, fitting tightly against the curves of the skin  
+- Skin includes natural pores, texture, and beads of sweat (no beautification/airbrushing)  
+
+# Output
+- A ballet equipment catalog photograph where artistry and functionality coexist  
+- Natural highlights and shadows from strong sunlight accentuate the texture of the leotard's material  
+- A composition conveying the serenity of the ballet studio and the tension of practice  
+- Functions as an artistic and sophisticated photographic work while remaining SFW
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="category-cinematic-film-still"></a>
 

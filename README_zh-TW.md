@@ -19,15 +19,45 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**13** 筆內容 · 最新收錄: **2026-09-14**
+**14** 筆內容 · 最新收錄: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[電影感 / 電影劇照](#category-cinematic-film-still) · [插圖](#category-illustration) · [3D 渲染](#category-3d-render) · [其他](#category-other)
+[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [插圖](#category-illustration) · [3D 渲染](#category-3d-render) · [其他](#category-other)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## 攝影
+
+<a name="prompt-2100038181538365752"></a>
+
+### 翻譯中
+
+作者：[@55hawks](https://x.com/55hawks) · [查看 X 原帖](https://x.com/55hawks/status/2100038181538365752)
+
+攝影 · 人像 / 自拍 · 已推流
+
+查看 X 原帖：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2099759874318184905)
+
+**概括:** 翻譯中
+
+<img src="images/2100038181538365752-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2100038181538365752-2.jpg" alt="圖片 2" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="category-cinematic-film-still"></a>
 

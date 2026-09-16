@@ -19,15 +19,45 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**13** 개 · 최근 추가: **2026-09-14**
+**14** 개 · 최근 추가: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [일러스트레이션](#category-illustration) · [3D 렌더링](#category-3d-render) · [기타](#category-other)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [일러스트레이션](#category-illustration) · [3D 렌더링](#category-3d-render) · [기타](#category-other)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## 사진술
+
+<a name="prompt-2100038181538365752"></a>
+
+### 번역 중
+
+작성자：[@55hawks](https://x.com/55hawks) · [원본 게시물](https://x.com/55hawks/status/2100038181538365752)
+
+사진술 · 인물 사진 / 셀카 · 배포 완료
+
+원본 게시물：[@CyberTotal2026](https://x.com/CyberTotal2026) · [원본 게시물](https://x.com/CyberTotal2026/status/2099759874318184905)
+
+**요약:** 번역 중
+
+<img src="images/2100038181538365752-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2100038181538365752-2.jpg" alt="이미지 2" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="category-cinematic-film-still"></a>
 

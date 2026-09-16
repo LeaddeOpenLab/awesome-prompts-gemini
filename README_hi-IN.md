@@ -19,15 +19,45 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 दैनिक चुने हुए प्रॉम्प्ट और नई रचनात्मक प्रेरणा के लिए इस रिपॉज़िटरी को स्टार दें।
 
-**13** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-14**
+**14** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## श्रेणी के अनुसार देखें
 
-[सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [चित्रण](#category-illustration) · [3D रेंडर](#category-3d-render) · [अन्य](#category-other)
+[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [चित्रण](#category-illustration) · [3D रेंडर](#category-3d-render) · [अन्य](#category-other)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## फोटोग्राफी
+
+<a name="prompt-2100038181538365752"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@55hawks](https://x.com/55hawks) · [मूल पोस्ट](https://x.com/55hawks/status/2100038181538365752)
+
+फोटोग्राफी · पोर्ट्रेट / सेल्फ़ी · प्रकाशित
+
+मूल पोस्ट：[@CyberTotal2026](https://x.com/CyberTotal2026) · [मूल पोस्ट](https://x.com/CyberTotal2026/status/2099759874318184905)
+
+**सारांश:** अनुवाद जारी है
+
+<img src="images/2100038181538365752-1.jpg" alt="चित्र 1" width="480" />
+
+<img src="images/2100038181538365752-2.jpg" alt="चित्र 2" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
 
 <a name="category-cinematic-film-still"></a>
 
