@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**14** Prompt · Bổ sung mới nhất: **2026-09-16**
+**15** Prompt · Bổ sung mới nhất: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -115,20 +115,26 @@ Tác giả：[@MrDasCreates](https://x.com/MrDasCreates) · [Bài gốc](https:/
 
 <a name="prompt-2099370488342647240"></a>
 
-### Đang dịch
+### Một cú máy liền mạch theo chân một người đàn ông mở cánh cửa cổng không gian chuyển tiếp qua Paris, Tokyo tương lai, Rome cổ đại và một hành tinh ngoài hành tinh trước khi hòa quyện vào nhau.
 
 Tác giả：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Bài gốc](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một cú máy liền mạch theo chân một người đàn ông mở cánh cửa cổng không gian chuyển tiếp qua Paris, Tokyo tương lai, Rome cổ đại và một hành tinh ngoài hành tinh trước khi hòa quyện vào nhau.
 
 <img src="covers/2099370488342647240.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video giả tưởng điện ảnh siêu thực dài 10 giây trong một cú máy liền mạch duy nhất. Một chàng trai trẻ đẹp trai ở độ tuổi đầu 20, với mái tóc đen tuyền gợn sóng tự nhiên dày dặn, đôi mắt nâu sẫm, quai hàm nam tính sắc nét, râu lởm chởm nhẹ, và mặc chiếc áo khoác dài tối màu lịch lãm, đứng trong một hành lang mờ ảo bí ẩn đối diện với một cánh cửa gỗ cũ kỹ bình thường.
+0–2 giây: Anh từ từ đưa tay nắm lấy tay nắm bằng đồng, mở cửa và để lộ khung cảnh Paris lãng mạn vào giờ vàng — Tháp Eiffel, các tòa nhà Haussmann thanh lịch, các quán cà phê lung linh, ánh sáng khí quyển ấm áp.
+2–4 giây: Không hề cắt cảnh, khung cửa lập tức biến thành Tokyo tương lai về đêm — những tòa nhà chọc trời neon cao vút, quảng cáo ba chiều holographic, các phương tiện bay, đường phố ướt sũng nước mưa, những ánh phản chiếu rực rỡ.
+4–6 giây: Thế giới lại thay đổi thành Rome cổ đại — Đấu trường La Mã đồ sộ, các cột đá cẩm thạch, kiến trúc La Mã, ánh đuốc, đám đông phía xa và bụi mờ trôi nổi trong không khí.
+6–8 giây: Khung cửa biến thành một hành tinh ngoài hành tinh ngoạn mục — bầu trời tím, những mặt trăng khổng lồ, thảm thực vật ngoài hành tinh phát sáng, những ngọn núi kỳ lạ và các công trình tương lai xa xăm.
+8–10 giây: Người đàn ông bước về phía khung cửa khi cả bốn thế giới nhanh chóng hòa quyện và xoáy vào nhau bên trong cánh cửa, tạo nên một cánh cổng thế giới vô tận ngoạn mục. Anh nhìn đầy kinh ngạc khi máy quay từ từ tiến tới gần khung cửa phát sáng.
+Phong cách: chân thực như ảnh chụp, chất lượng phim bom tấn điện ảnh, các chuyển cảnh ma thuật liền mạch, vật lý thực tế, ánh sáng thể tích, chiều sâu khí quyển, môi trường chi tiết, chuyển động con người tự nhiên, chuyển động máy quay ấn tượng, 8K HDR, dải tương phản động cao, da và vải chân thực, độ sâu trường ảnh điện ảnh, quy mô sử thi, không có văn bản, không có phụ đề, không có watermark, không bị lỗi hình ảnh, không méo mặt, không thừa chi. Nhịp độ hoàn hảo trong chính xác 10 giây, với mỗi thế giới hiển thị rõ ràng trong khoảng 2 giây.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -500,6 +506,28 @@ Bài gốc：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](h
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2100092223094399132"></a>
+
+### Đang dịch
+
+Tác giả：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Bài gốc](https://x.com/MohdAdnanA86218/status/2100092223094399132)
+
+Kiến trúc / Nội thất · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2100092223094399132.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099127037352972426"></a>
 

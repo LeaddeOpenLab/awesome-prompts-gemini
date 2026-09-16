@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**14** Prompts · Latest addition: **2026-09-16**
+**15** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -547,6 +547,28 @@ Source：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2100092223094399132"></a>
+
+### Time-lapse transformation of an empty plot into a luxury modern mansion with an infinity pool under changing lighting.
+
+Author：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Source](https://x.com/MohdAdnanA86218/status/2100092223094399132)
+
+Architecture / Interior · Published
+
+**Summary:** Time-lapse transformation of an empty plot into a luxury modern mansion with an infinity pool under changing lighting.
+
+<img src="covers/2100092223094399132.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 10-second ultra-realistic cinematic time-lapse video showing an empty luxury construction site rapidly transforming into a breathtaking ultra-modern mansion. Start with a completely empty piece of landscaped land under dramatic golden-hour lighting. In an incredibly fast, seamless construction sequence, the foundation forms from the ground, reinforced structures rise upward, elegant walls assemble, massive floor-to-ceiling glass windows slide perfectly into place, and a sophisticated flat roof completes itself. A stunning infinity swimming pool materializes beside the house as stone pathways and a large terrace form around it. Lush green lawns, perfectly trimmed trees, ornamental plants, and subtle landscape lighting rapidly appear. Finally, the entire property becomes a finished ultra-luxury architectural mansion, featuring warm interior lighting, panoramic glass walls, an infinity pool reflecting the sunset, elegant landscaping, and a premium modern driveway. End with a slow cinematic camera push-in toward the completed mansion. Photorealistic materials, realistic construction physics, smooth object assembly, seamless transformations, dramatic volumetric sunlight, realistic reflections, architectural visualization quality, 4K, HDR, cinematic depth of field, no people, no text, no logos, no watermark. Fast-paced but visually smooth, perfectly continuous transformation from empty land to completed mansion.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099127037352972426"></a>
 

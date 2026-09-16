@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T08:43:28.956Z",
+  "model": "gemini",
+  "prompt": "Create a 10-second ultra-realistic cinematic time-lapse video showing an empty luxury construction site rapidly transforming into a breathtaking ultra-modern mansion. Start with a completely empty piece of landscaped land under dramatic golden-hour lighting. In an incredibly fast, seamless construction sequence, the foundation forms from the ground, reinforced structures rise upward, elegant walls assemble, massive floor-to-ceiling glass windows slide perfectly into place, and a sophisticated flat roof completes itself. A stunning infinity swimming pool materializes beside the house as stone pathways and a large terrace form around it. Lush green lawns, perfectly trimmed trees, ornamental plants, and subtle landscape lighting rapidly appear. Finally, the entire property becomes a finished ultra-luxury architectural mansion, featuring warm interior lighting, panoramic glass walls, an infinity pool reflecting the sunset, elegant landscaping, and a premium modern driveway. End with a slow cinematic camera push-in toward the completed mansion. Photorealistic materials, realistic construction physics, smooth object assembly, seamless transformations, dramatic volumetric sunlight, realistic reflections, architectural visualization quality, 4K, HDR, cinematic depth of field, no people, no text, no logos, no watermark. Fast-paced but visually smooth, perfectly continuous transformation from empty land to completed mansion.",
+  "promptTranslations": {
+    "en": "Create a 10-second ultra-realistic cinematic time-lapse video showing an empty luxury construction site rapidly transforming into a breathtaking ultra-modern mansion. Start with a completely empty piece of landscaped land under dramatic golden-hour lighting. In an incredibly fast, seamless construction sequence, the foundation forms from the ground, reinforced structures rise upward, elegant walls assemble, massive floor-to-ceiling glass windows slide perfectly into place, and a sophisticated flat roof completes itself. A stunning infinity swimming pool materializes beside the house as stone pathways and a large terrace form around it. Lush green lawns, perfectly trimmed trees, ornamental plants, and subtle landscape lighting rapidly appear. Finally, the entire property becomes a finished ultra-luxury architectural mansion, featuring warm interior lighting, panoramic glass walls, an infinity pool reflecting the sunset, elegant landscaping, and a premium modern driveway. End with a slow cinematic camera push-in toward the completed mansion. Photorealistic materials, realistic construction physics, smooth object assembly, seamless transformations, dramatic volumetric sunlight, realistic reflections, architectural visualization quality, 4K, HDR, cinematic depth of field, no people, no text, no logos, no watermark. Fast-paced but visually smooth, perfectly continuous transformation from empty land to completed mansion."
+  },
+  "summaryTranslations": {
+    "en": "Time-lapse transformation of an empty plot into a luxury modern mansion with an infinity pool under changing lighting."
+  },
+  "translationVersion": 2,
+  "summary": "Time-lapse transformation of an empty plot into a luxury modern mansion with an infinity pool under changing lighting.",
+  "summaryEn": "Time-lapse transformation of an empty plot into a luxury modern mansion with an infinity pool under changing lighting.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100092223094399132",
+    "canonicalUrl": "https://x.com/MohdAdnanA86218/status/2100092223094399132",
+    "author": {
+      "username": "MohdAdnanA86218",
+      "displayName": "HeisenLegacy",
+      "profileUrl": "https://x.com/MohdAdnanA86218"
+    },
+    "publishedAt": "2026-09-16T05:19:38.000Z",
+    "collectedAt": "2026-09-16T08:24:57.587Z",
+    "language": "en",
+    "originalText": "Generated with Gemini Flash on @GeminiApp\n\nVedio prompt ⤵️⤵️:\n\nCreate a 10-second ultra-realistic cinematic time-lapse video showing an empty luxury construction site rapidly transforming into a breathtaking ultra-modern mansion. Start with a completely empty piece of landscaped land under dramatic golden-hour lighting. In an incredibly fast, seamless construction sequence, the foundation forms from the ground, reinforced structures rise upward, elegant walls assemble, massive floor-to-ceiling glass windows slide perfectly into place, and a sophisticated flat roof completes itself. A stunning infinity swimming pool materializes beside the house as stone pathways and a large terrace form around it. Lush green lawns, perfectly trimmed trees, ornamental plants, and subtle landscape lighting rapidly appear. Finally, the entire property becomes a finished ultra-luxury architectural mansion, featuring warm interior lighting, panoramic glass walls, an infinity pool reflecting the sunset, elegant landscaping, and a premium modern driveway. End with a slow cinematic camera push-in toward the completed mansion. Photorealistic materials, realistic construction physics, smooth object assembly, seamless transformations, dramatic volumetric sunlight, realistic reflections, architectural visualization quality, 4K, HDR, cinematic depth of field, no people, no text, no logos, no watermark. Fast-paced but visually smooth, perfectly continuous transformation from empty land to completed mansion.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/MohdAdnanA86218/status/2100092223094399132",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100092174830620672/img/Yh6s2BmohEmyMVRy.jpg",
+        "analysisUrl": "https://x.com/MohdAdnanA86218/status/2100092223094399132"
+      }
+    ],
+    "metrics": {
+      "likeCount": 22,
+      "repostCount": 0,
+      "replyCount": 17,
+      "quoteCount": 0,
+      "viewCount": 387
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/MohdAdnanA86218/status/2100092223094399132",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100092174830620672/img/Yh6s2BmohEmyMVRy.jpg",
+  "coverPath": "covers/2100092223094399132.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100092174830620672",
+    "x-post:2100092223094399132"
+  ],
+  "analysis": {
+    "summary": "Time-lapse transformation of an empty plot into a luxury modern mansion with an infinity pool under changing lighting.",
+    "summaryEn": "Time-lapse transformation of an empty plot into a luxury modern mansion with an infinity pool under changing lighting.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows the step-by-step time-lapse construction matching the prompt: empty ground, foundation, framework, glass walls, roof, pool, and final evening lighting."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 10-second ultra-realistic cinematic time-lapse video showing an empty luxury construction site rapidly transforming into a breathtaking ultra-modern mansion. Start with a completely empty piece of landscaped land under dramatic golden-hour lighting. In an incredibly fast, seamless construction sequence, the foundation forms from the ground, reinforced structures rise upward, elegant walls assemble, massive floor-to-ceiling glass windows slide perfectly into place, and a sophisticated flat roof completes itself. A stunning infinity swimming pool materializes beside the house as stone pathways and a large terrace form around it. Lush green lawns, perfectly trimmed trees, ornamental plants, and subtle landscape lighting rapidly appear. Finally, the entire property becomes a finished ultra-luxury architectural mansion, featuring warm interior lighting, panoramic glass walls, an infinity pool reflecting the sunset, elegant landscaping, and a premium modern driveway. End with a slow cinematic camera push-in toward the completed mansion. Photorealistic materials, realistic construction physics, smooth object assembly, seamless transformations, dramatic volumetric sunlight, realistic reflections, architectural visualization quality, 4K, HDR, cinematic depth of field, no people, no text, no logos, no watermark. Fast-paced but visually smooth, perfectly continuous transformation from empty land to completed mansion.",
+    "sourceRange": {
+      "start": 63,
+      "end": 1501
+    },
+    "translations": {
+      "zh": "制作一段10秒的超逼真电影级延时视频，展现空置的豪华施工现场迅速转变为壮观超现代豪宅的过程。以戏剧性黄金时刻光照下的空地开始。在无缝快速建造中，地基成型、结构升起、墙壁与落地玻璃窗到位并封顶。无边泳池、石径、草坪、树木与景观灯光迅速显现。最终呈现带温暖室内照明和日落倒影的完工豪宅，镜头慢速推近。逼真材质、建筑物理效果、4K、HDR。",
+      "en": "Create a 10-second ultra-realistic cinematic time-lapse video showing an empty luxury construction site rapidly transforming into a breathtaking ultra-modern mansion. Start with a completely empty piece of landscaped land under dramatic golden-hour lighting. In an incredibly fast, seamless construction sequence, the foundation forms from the ground, reinforced structures rise upward, elegant walls assemble, massive floor-to-ceiling glass windows slide perfectly into place, and a sophisticated flat roof completes itself. A stunning infinity swimming pool materializes beside the house as stone pathways and a large terrace form around it. Lush green lawns, perfectly trimmed trees, ornamental plants, and subtle landscape lighting rapidly appear. Finally, the entire property becomes a finished ultra-luxury architectural mansion, featuring warm interior lighting, panoramic glass walls, an infinity pool reflecting the sunset, elegant landscaping, and a premium modern driveway. End with a slow cinematic camera push-in toward the completed mansion. Photorealistic materials, realistic construction physics, smooth object assembly, seamless transformations, dramatic volumetric sunlight, realistic reflections, architectural visualization quality, 4K, HDR, cinematic depth of field, no people, no text, no logos, no watermark. Fast-paced but visually smooth, perfectly continuous transformation from empty land to completed mansion."
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "text-to-video",
+    "useCase": "architectural visualization time-lapse generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
