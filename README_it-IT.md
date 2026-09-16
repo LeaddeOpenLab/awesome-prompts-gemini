@@ -162,26 +162,20 @@ Fermo immagine cinematografico / Still fotografico · Paesaggio / Natura · Pubb
 
 <a name="prompt-2099370488342647240"></a>
 
-### Un piano sequenza continuo che segue un uomo che apre una porta-portale che compie una transizione attraverso Parigi, una Tokyo futuristica, l'antica Roma e un pianeta alieno prima di fondersi.
+### Traduzione in corso
 
 Autore：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Post originale](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Fermo immagine cinematografico / Still fotografico · Personaggio · Pubblicato
 
-**Riepilogo:** Un piano sequenza continuo che segue un uomo che apre una porta-portale che compie una transizione attraverso Parigi, una Tokyo futuristica, l'antica Roma e un pianeta alieno prima di fondersi.
+**Riepilogo:** Traduzione in corso
 
 <img src="covers/2099370488342647240.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Crea un video fantasy cinematografico ultra-realistico di 10 secondi in un unico piano sequenza continuo. Un bel giovane poco più che ventenne, con folti capelli corvini naturalmente ondulati, occhi marrone scuro, mascella maschile scolpita, una leggera barba incolta e con indosso un sofisticato cappotto lungo scuro, si trova in un misterioso corridoio debolmente illuminato di fronte a una vecchia porta di legno ordinaria.
-0–2 sec: Allunga lentamente la mano verso la maniglia di ottone, apre la porta e rivela una Parigi romantica durante la golden hour: la Torre Eiffel, eleganti edifici haussmanniani, caffè luminosi, una luce d'atmosfera calda.
-2–4 sec: Senza stacchi, il vano della porta si trasforma istantaneamente in una Tokyo futuristica di notte: imponenti grattacieli al neon, pubblicità olografiche, veicoli volanti, strade bagnate di pioggia, riflessi vivaci.
-4–6 sec: Il mondo cambia di nuovo trasformandosi nell'antica Roma: il maestoso Colosseo, colonne di marmo, architettura romana, luce di torce, folle distanti e una sottile polvere che fluttua nell'aria.
-6–8 sec: Il vano della porta si trasforma in un pianeta alieno mozzafiato: cieli viola, lune enormi, vegetazione aliena luminescente, strane montagne e distanti strutture futuristiche.
-8–10 sec: L'uomo si fa avanti verso la soglia mentre tutti e quattro i mondi si fondono e vorticano rapidamente insieme all'interno della porta, creando uno spettacolare portale di mondi infiniti. Ha un'espressione stupita mentre la telecamera avanza lentamente verso la soglia luminosa.
-Stile: fotorealistico, qualità da blockbuster cinematografico, transizioni magiche senza soluzione di continuità, fisica realistica, illuminazione volumetrica, profondità atmosferica, ambienti dettagliati, movimenti umani naturali, movimenti di camera drammatici, 8K HDR, alta gamma dinamica, pelle e tessuti realistici, profondità di campo cinematografica, scala epica, nessun testo, nessun sottotitolo, nessun watermark, nessun glitch, nessun volto distorto, nessun arto extra. Ritmo perfetto per esattamente 10 secondi, con ogni mondo chiaramente visibile per circa 2 secondi.
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -486,20 +480,20 @@ Post originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Post orig
 
 <a name="prompt-2100092223094399132"></a>
 
-### Traduzione in corso
+### Trasformazione in time-lapse di un terreno vuoto in una lussuosa villa moderna con piscina a sfioro sotto una luce cangiante.
 
 Autore：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Post originale](https://x.com/MohdAdnanA86218/status/2100092223094399132)
 
 Architettura / Interni · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Trasformazione in time-lapse di un terreno vuoto in una lussuosa villa moderna con piscina a sfioro sotto una luce cangiante.
 
 <img src="covers/2100092223094399132.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video cinematografico in time-lapse ultra-realistico di 10 secondi che mostri un cantiere di lusso vuoto trasformarsi rapidamente in una splendida villa ultramoderna. Inizia con un pezzo di terreno paesaggistico completamente vuoto sotto una spettacolare illuminazione dell'ora d'oro. In una sequenza di costruzione incredibilmente rapida e senza interruzioni, le fondamenta si formano dal terreno, le strutture rinforzate si innalzano, pareti eleganti si assemblano, enormi vetrate a tutta altezza scivolano perfettamente al loro posto e un sofisticato tetto piatto si completa da solo. Una splendida piscina a sfioro si materializza accanto alla casa mentre vialetti in pietra e un'ampia terrazza prendono forma intorno ad essa. Prati verdi e rigogliosi, alberi potati alla perfezione, piante ornamentali e una delicata illuminazione del paesaggio compaiono rapidamente. Infine, l'intera proprietà diventa una villa architettonica di ultra-lusso ultimata, caratterizzata da una calda illuminazione interna, pareti panoramiche in vetro, una piscina a sfioro che riflette il tramonto, un elegante paesaggio e un vialetto d'accesso moderno e raffinato. Concludi con un lento avvicinamento cinematografico della telecamera verso la villa completata. Materiali fotorealistici, fisica di costruzione realistica, assemblaggio fluido degli oggetti, trasformazioni senza interruzioni, drammatica luce solare volumetrica, riflessi realistici, qualità di visualizzazione architettonica, 4K, HDR, profondità di campo cinematografica, nessuna persona, nessun testo, nessun logo, nessun watermark. Dal ritmo incalzante ma visivamente fluido, una trasformazione perfettamente continua da terreno vuoto a villa completata.
 ```
 
 [↑ Torna alle categorie](#catalog)

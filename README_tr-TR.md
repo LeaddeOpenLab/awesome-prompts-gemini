@@ -162,26 +162,20 @@ Sinematik / Film Karesi · Manzara / Doğa · Yayımlandı
 
 <a name="prompt-2099370488342647240"></a>
 
-### Birbirine karışmadan önce Paris, fütüristik Tokyo, antik Roma ve bir uzaylı gezegeni arasında geçiş yapan bir portal kapısını açan bir adamı takip eden kesintisiz bir çekim.
+### Çeviri sürüyor
 
 Yazar：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Orijinal gönderi](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Sinematik / Film Karesi · Karakter · Yayımlandı
 
-**Özet:** Birbirine karışmadan önce Paris, fütüristik Tokyo, antik Roma ve bir uzaylı gezegeni arasında geçiş yapan bir portal kapısını açan bir adamı takip eden kesintisiz bir çekim.
+**Özet:** Çeviri sürüyor
 
 <img src="covers/2099370488342647240.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Tek bir kesintisiz çekimde 10 saniyelik ultra gerçekçi, sinematik bir fantastik video oluşturun. 20'li yaşlarının başında, gür ve doğal dalgalı simsiyah saçlı, koyu kahverengi gözlü, keskin erkeksi çene hatlarına sahip, hafif kirli sakallı ve sofistike, koyu renk uzun bir palto giymiş yakışıklı bir genç adam, loş ve gizemli bir koridorda sıradan eski ahşap bir kapının önünde duruyor.
-0–2 sn: Pirinç kapı koluna doğru yavaşça uzanır, kapıyı açar ve altın saatteki romantik Paris'i gözler önüne serer — Eyfel Kulesi, zarif Haussmann binaları, ışıldayan kafeler, sıcak atmosferik ışık.
-2–4 sn: Hiçbir kesme olmadan, kapı aralığı anında fütüristik bir gece Tokyo'suna dönüşür — yükselen neon gökdelenler, holografik reklamlar, uçan araçlar, yağmurla ıslanmış sokaklar, canlı yansımalar.
-4–6 sn: Dünya tekrar antik Roma'ya dönüşür — devasa Kolezyum, mermer sütunlar, Roma mimarisi, meşale ışığı, uzaktaki kalabalıklar ve havada usulca süzülen toz zerreleri.
-6–8 sn: Kapı aralığı nefes kesici bir uzaylı gezegenine dönüşür — mor gökyüzü, devasa aylar, parlayan uzaylı bitki örtüsü, tuhaf dağlar ve uzaktaki fütüristik yapılar.
-8–10 sn: Dört dünyanın tümü kapının içinde hızla karışıp girdap gibi dönerek muhteşem bir sonsuz dünya portalı oluştururken, adam kapı eşiğine doğru bir adım atar. Kamera yavaşça parlayan kapı aralığına doğru ilerlerken adam hayranlık içinde görünür.
-Stil: fotogerçekçi, sinematik gişe filmi kalitesi, kusursuz büyülü geçişler, gerçekçi fizik, hacimsel aydınlatma, atmosferik derinlik, ayrıntılı ortamlar, doğal insan hareketi, dramatik kamera hareketi, 8K HDR, yüksek dinamik aralık, gerçekçi ten ve kumaş dokusu, sinematik alan derinliği, epik ölçek, metin yok, altyazı yok, filigran yok, görsel bozulma yok, çarpık yüz yok, fazladan uzuv yok. Her bir dünya yaklaşık 2 saniye boyunca net şekilde görünecek biçimde, tam olarak 10 saniye için kusursuzca tempolanmış.
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -486,20 +480,20 @@ Orijinal gönderi：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijin
 
 <a name="prompt-2100092223094399132"></a>
 
-### Çeviri sürüyor
+### Boş bir arsanın değişen ışık altında sonsuzluk havuzuna sahip lüks modern bir malikaneye zaman atlamalı dönüşümü.
 
 Yazar：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Orijinal gönderi](https://x.com/MohdAdnanA86218/status/2100092223094399132)
 
 Mimari / İç Mekan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Boş bir arsanın değişen ışık altında sonsuzluk havuzuna sahip lüks modern bir malikaneye zaman atlamalı dönüşümü.
 
 <img src="covers/2100092223094399132.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Boş bir lüks inşaat alanının nefes kesici, ultra modern bir malikaneye hızla dönüşmesini gösteren 10 saniyelik, ultra gerçekçi sinematik bir zaman atlamalı (time-lapse) video oluşturun. Dramatik altın saat ışığı altındaki tamamen boş bir peyzajlı arsa ile başlayın. İnanılmaz derecede hızlı ve kesintisiz bir inşaat sekansında, temel zeminden yükselir, güçlendirilmiş yapılar yukarı doğru çıkar, zarif duvarlar bir araya gelir, tavandan tabana uzanan devasa cam pencereler kusursuzca yerine oturur ve sofistike düz bir çatı tamamlanır. Evin etrafında taş patikalar ve geniş bir teras şekillenirken, evin yanında çarpıcı bir sonsuzluk havuzu belirir. Yemyeşil çimenler, kusursuzca budanmış ağaçlar, süs bitkileri ve zarif peyzaj aydınlatması hızla ortaya çıkar. Sonunda, tüm mülk; sıcak iç aydınlatması, panoramik cam duvarları, gün batımını yansıtan sonsuzluk havuzu, zarif peyzajı ve birinci sınıf modern araba yolu ile tamamlanmış ultra lüks mimari bir malikaneye dönüşür. Tamamlanan malikaneye doğru yavaş, sinematik bir kamera yaklaşmasıyla sona erdirin. Fotogerçekçi malzemeler, gerçekçi inşaat fiziği, akıcı nesne birleşimi, kesintisiz dönüşümler, dramatik hacimsel güneş ışığı, gerçekçi yansımalar, mimari görselleştirme kalitesi, 4K, HDR, sinematik alan derinliği, insan yok, metin yok, logo yok, filigran yok. Hızlı tempolu ancak görsel olarak akıcı, boş arsadan tamamlanmış malikaneye kusursuzca sürekli bir dönüşüm.
 ```
 
 [↑ Kategorilere dön](#catalog)

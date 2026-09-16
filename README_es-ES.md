@@ -115,26 +115,20 @@ Cine / Fotograma de película · Paisaje / Naturaleza · Publicado
 
 <a name="prompt-2099370488342647240"></a>
 
-### Una toma continua que sigue a un hombre abriendo una puerta portal que transiciona a través de París, un Tokio futurista, la antigua Roma y un planeta alienígena antes de fusionarse.
+### Traducción en curso
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicación original](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Cine / Fotograma de película · Personaje · Publicado
 
-**Resumen:** Una toma continua que sigue a un hombre abriendo una puerta portal que transiciona a través de París, un Tokio futurista, la antigua Roma y un planeta alienígena antes de fusionarse.
+**Resumen:** Traducción en curso
 
 <img src="covers/2099370488342647240.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Crea un video de fantasía cinematográfica ultrarrealista de 10 segundos en una sola toma continua. Un apuesto joven de poco más de 20 años, con cabello negro azabache grueso y naturalmente ondulado, ojos marrón oscuro, mandíbula masculina definida, barba sutil de tres días, y vestido con un sofisticado abrigo largo oscuro, se encuentra en un misterioso pasillo tenuemente iluminado frente a una vieja puerta de madera ordinaria.
-0–2 seg: Extiende lentamente la mano hacia la manija de latón, abre la puerta y revela el París romántico en la hora dorada: la Torre Eiffel, elegantes edificios de estilo Haussmann, cafés resplandecientes, una luz atmosférica cálida.
-2–4 seg: Sin cortes, el umbral se transforma instantáneamente en el Tokio futurista de noche: rascacielos imponentes de neón, anuncios holográficos, vehículos voladores, calles empapadas por la lluvia, reflejos vibrantes.
-4–6 seg: El mundo vuelve a cambiar a la antigua Roma: el colosal Coliseo, columnas de mármol, arquitectura romana, luz de antorchas, multitudes lejanas y polvo sutil flotando en el aire.
-6–8 seg: El umbral se transforma en un impresionante planeta alienígena: cielos púrpuras, lunas enormes, vegetación alienígena brillante, montañas extrañas y estructuras futuristas distantes.
-8–10 seg: El hombre da un paso hacia el umbral mientras los cuatro mundos se mezclan y arremolinan rápidamente en el interior de la puerta, creando un espectacular portal de mundos infinitos. Se le ve asombrado mientras la cámara avanza lentamente hacia el umbral resplandeciente.
-Estilo: fotorrealista, calidad de superproducción cinematográfica, transiciones mágicas fluidas, física realista, iluminación volumétrica, profundidad atmosférica, entornos detallados, movimiento humano natural, movimiento de cámara dramático, 8K HDR, alto rango dinámico, piel y telas realistas, profundidad de campo cinematográfica, escala épica, sin texto, sin subtítulos, sin marcas de agua, sin fallos técnicos, sin rostros distorsionados, sin extremidades adicionales. Con un ritmo perfecto para exactamente 10 segundos, con cada mundo claramente visible durante aproximadamente 2 segundos.
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -509,20 +503,20 @@ Publicación original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 
 <a name="prompt-2100092223094399132"></a>
 
-### Traducción en curso
+### Transformación en time-lapse de una parcela vacía en una mansión moderna de lujo con piscina infinita bajo una iluminación cambiante.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicación original](https://x.com/MohdAdnanA86218/status/2100092223094399132)
 
 Arquitectura / Interiorismo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Transformación en time-lapse de una parcela vacía en una mansión moderna de lujo con piscina infinita bajo una iluminación cambiante.
 
 <img src="covers/2100092223094399132.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video time-lapse cinematográfico ultrarrealista de 10 segundos que muestre una obra de construcción de lujo vacía transformándose rápidamente en una impresionante mansión ultramoderna. Comienza con una parcela de terreno ajardinado completamente vacía bajo una dramática iluminación de hora dorada. En una secuencia de construcción increíblemente rápida y fluida, los cimientos emergen del suelo, las estructuras reforzadas se alzan hacia arriba, elegantes paredes se ensamblan, enormes ventanales de piso a techo se deslizan perfectamente en su lugar y un sofisticado tejado plano se completa a sí mismo. Una impresionante piscina infinita se materializa junto a la casa mientras caminos de piedra y una gran terraza se forman a su alrededor. Céspedes verdes exuberantes, árboles perfectamente podados, plantas ornamentales y una sutil iluminación paisajística aparecen rápidamente. Finalmente, toda la propiedad se convierte en una mansión arquitectónica de ultralujo terminada, con una cálida iluminación interior, paredes de cristal panorámicas, una piscina infinita que refleja el atardecer, un paisaje elegante y una entrada moderna de primera calidad. Finaliza con un lento acercamiento cinematográfico de la cámara hacia la mansión completada. Materiales fotorrealistas, física de construcción realista, ensamblaje de objetos suave, transformaciones fluidas, dramática luz solar volumétrica, reflejos realistas, calidad de visualización arquitectónica, 4K, HDR, profundidad de campo cinematográfica, sin personas, sin texto, sin logotipos, sin marcas de agua. De ritmo rápido pero visualmente suave, una transformación perfectamente continua desde el terreno vacío hasta la mansión terminada.
 ```
 
 [↑ Volver a categorías](#catalog)

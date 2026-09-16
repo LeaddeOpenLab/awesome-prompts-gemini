@@ -162,26 +162,20 @@ Kinematisch / Filmstill · Landschaft / Natur · Veröffentlicht
 
 <a name="prompt-2099370488342647240"></a>
 
-### Eine kontinuierliche Kamerafahrt, die einem Mann folgt, der eine Portaltür öffnet, die durch Paris, ein futuristisches Tokio, das antike Rom und einen fremden Planeten wechselt, bevor sie verschmelzen.
+### Übersetzung läuft
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Originalbeitrag](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Kinematisch / Filmstill · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Eine kontinuierliche Kamerafahrt, die einem Mann folgt, der eine Portaltür öffnet, die durch Paris, ein futuristisches Tokio, das antike Rom und einen fremden Planeten wechselt, bevor sie verschmelzen.
+**Zusammenfassung:** Übersetzung läuft
 
 <img src="covers/2099370488342647240.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Erstelle ein 10-sekündiges, ultra-realistisches cineastisches Fantasy-Video in einer einzigen kontinuierlichen Kamerafahrt. Ein gut aussehender junger Mann Anfang 20 mit dichtem, natürlich gewelltem, pechschwarzem Haar, dunkelbraunen Augen, einer markanten männlichen Kinnpartie, dezenten Stoppeln und einem eleganten, dunklen langen Mantel steht in einem geheimnisvollen, schwach beleuchteten Korridor vor einer gewöhnlichen alten Holztür.
-0–2 Sek.: Er greift langsam nach der Messingklinke, öffnet die Tür und offenbart ein romantisches Paris zur goldenen Stunde – den Eiffelturm, elegante Haussmann-Gebäude, leuchtende Cafés, warmes atmosphärisches Licht.
-2–4 Sek.: Ohne Schnitt verwandelt sich der Türrahmen augenblicklich in ein futuristisches Tokio bei Nacht – hoch aufragende Neon-Wolkenkratzer, holografische Werbung, fliegende Fahrzeuge, regennasse Straßen, lebendige Reflexionen.
-4–6 Sek.: Die Welt verwandelt sich erneut in das antike Rom – massives Kolosseum, Marmorsäulen, römische Architektur, Fackellicht, ferne Menschenmengen und feiner Staub, der durch die Luft schwebt.
-6–8 Sek.: Der Türrahmen verwandelt sich in einen atemberaubenden fremden Planeten – lila Himmel, riesige Monde, leuchtende außerirdische Vegetation, seltsame Berge und ferne futuristische Strukturen.
-8–10 Sek.: Der Mann tritt auf den Türrahmen zu, während alle vier Welten im Inneren der Tür rasch ineinander übergehen und verschmelzen, wodurch ein spektakuläres Portal zu unendlichen Welten entsteht. Er blickt erstaunt drein, während die Kamera langsam auf die leuchtende Türzufahrt zufährt.
-Stil: fotorealistisch, Blockbuster-Kinoqualität, nahtlose magische Übergänge, realistische Physik, volumetrische Beleuchtung, atmosphärische Tiefe, detaillierte Umgebungen, natürliche menschliche Bewegung, dramatische Kamerabewegung, 8K HDR, hoher Dynamikbereich, realistische Haut und Stoffe, cineastische Schärfentiefe, episches Ausmaß, kein Text, keine Untertitel, kein Wasserzeichen, keine Glitches, kein verzerrtes Gesicht, keine zusätzlichen Gliedmaßen. Perfekt getaktet auf genau 10 Sekunden, wobei jede Welt etwa 2 Sekunden lang deutlich sichtbar ist.
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -561,20 +555,20 @@ Originalbeitrag：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Original
 
 <a name="prompt-2100092223094399132"></a>
 
-### Übersetzung läuft
+### Zeitraffer-Verwandlung eines leeren Grundstücks in eine moderne Luxusvilla mit Infinity-Pool unter wechselnder Beleuchtung.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Originalbeitrag](https://x.com/MohdAdnanA86218/status/2100092223094399132)
 
 Architektur / Interieur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Zeitraffer-Verwandlung eines leeren Grundstücks in eine moderne Luxusvilla mit Infinity-Pool unter wechselnder Beleuchtung.
 
 <img src="covers/2100092223094399132.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 10-sekündiges, ultrarealistisches, filmisches Zeitraffervideo, das zeigt, wie sich eine leere Luxusbaustelle rasch in eine atemberaubende, ultramoderne Villa verwandelt. Beginne mit einem völlig leeren Stück landschaftlich gestalteten Landes unter dramatischer Beleuchtung der goldenen Stunde. In einer unglaublich schnellen, nahtlosen Bauabfolge bildet sich das Fundament aus dem Boden, verstärkte Strukturen ragen empor, elegante Wände setzen sich zusammen, massive bodentiefe Glasfenster gleiten perfekt an ihren Platz und ein anspruchsvolles Flachdach vollendet sich selbst. Ein atemberaubender Infinity-Pool materialisiert sich neben dem Haus, während sich Steinpfade und eine große Terrasse darum herum formen. Üppige grüne Rasenflächen, perfekt gestutzte Bäume, Zierpflanzen und eine dezente Landschaftsbeleuchtung erscheinen im Nu. Schließlich wird das gesamte Anwesen zu einer vollendeten architektonischen Ultra-Luxus-Villa mit warmer Innenbeleuchtung, Panorama-Glaswänden, einem den Sonnenuntergang spiegelnden Infinity-Pool, eleganter Landschaftsgestaltung und einer erstklassigen modernen Einfahrt. Schließe mit einer langsamen, filmischen Kamerafahrt auf die fertige Villa ab. Fotorealistische Materialien, realistische Bauphysik, reibungsloser Zusammenbau der Objekte, nahtlose Übergänge, dramatisches volumetrisches Sonnenlicht, realistische Reflexionen, Qualität architektonischer Visualisierungen, 4K, HDR, filmische Tiefenschärfe, keine Personen, kein Text, keine Logos, kein Wasserzeichen. Schnelllebig, aber visuell flüssig, perfekt kontinuierliche Verwandlung von unbebautem Land zur vollendeten Villa.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
