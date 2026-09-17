@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T08:28:15.621Z",
+  "model": "gemini",
+  "prompt": "A photorealistic cinematic macro shot of a steaming cup of rich black coffee sitting on a sleek modern café table. 0–2 sec: The camera slowly pushes toward the coffee surface, capturing realistic steam, reflections, and tiny ripples. 2–5 sec: The camera dramatically zooms straight into the coffee, passing through the glossy liquid surface in one seamless transition. 5–8 sec: Reveal an astonishing tiny futuristic city hidden inside the coffee cup—towering illuminated skyscrapers, miniature streets, moving cars, tiny pedestrians, glowing signs, and elevated highways. 8–10 sec: The camera flies between the miniature buildings as sleek flying vehicles cruise through the futuristic skyline, with tiny aircraft leaving subtle light trails.\nUltra-realistic miniature scale, cinematic depth of field, volumetric lighting, realistic reflections, detailed architecture, dynamic camera movement, seamless macro-to-wide transition, 8K detail, photorealistic textures, futuristic atmosphere, smooth motion, no cuts, no text, no watermark, visually spectacular.",
+  "promptTranslations": {
+    "en": "A photorealistic cinematic macro shot of a steaming cup of rich black coffee sitting on a sleek modern café table. 0–2 sec: The camera slowly pushes toward the coffee surface, capturing realistic steam, reflections, and tiny ripples. 2–5 sec: The camera dramatically zooms straight into the coffee, passing through the glossy liquid surface in one seamless transition. 5–8 sec: Reveal an astonishing tiny futuristic city hidden inside the coffee cup—towering illuminated skyscrapers, miniature streets, moving cars, tiny pedestrians, glowing signs, and elevated highways. 8–10 sec: The camera flies between the miniature buildings as sleek flying vehicles cruise through the futuristic skyline, with tiny aircraft leaving subtle light trails. Ultra-realistic miniature scale, cinematic depth of field, volumetric lighting, realistic reflections, detailed architecture, dynamic camera movement, seamless macro-to-wide transition, 8K detail, photorealistic textures, futuristic atmosphere, smooth motion, no cuts, no text, no watermark, visually spectacular."
+  },
+  "summaryTranslations": {
+    "en": "The camera smoothly pushes in from a macro shot of a coffee cup, piercing the liquid surface into a miniature futuristic tech city inside the cup."
+  },
+  "translationVersion": 2,
+  "summary": "镜头由咖啡杯微距平滑推进，穿透液面进入杯中微型未来科技城市。",
+  "summaryEn": "A macro shot pushes smoothly into a coffee cup, revealing a miniature sci-fi city inside.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100486977456095594",
+    "canonicalUrl": "https://x.com/MohdAdnanA86218/status/2100486977456095594",
+    "author": {
+      "username": "MohdAdnanA86218",
+      "displayName": "HeisenLegacy",
+      "profileUrl": "https://x.com/MohdAdnanA86218"
+    },
+    "publishedAt": "2026-09-17T07:28:15.000Z",
+    "collectedAt": "2026-09-17T08:16:24.265Z",
+    "language": "en",
+    "originalText": "Generated with Gemini Flash on @GeminiApp\n\nVedio prompt ⤵️⤵️:\n\nA photorealistic cinematic macro shot of a steaming cup of rich black coffee sitting on a sleek modern café table. 0–2 sec: The camera slowly pushes toward the coffee surface, capturing realistic steam, reflections, and tiny ripples. 2–5 sec: The camera dramatically zooms straight into the coffee, passing through the glossy liquid surface in one seamless transition. 5–8 sec: Reveal an astonishing tiny futuristic city hidden inside the coffee cup—towering illuminated skyscrapers, miniature streets, moving cars, tiny pedestrians, glowing signs, and elevated highways. 8–10 sec: The camera flies between the miniature buildings as sleek flying vehicles cruise through the futuristic skyline, with tiny aircraft leaving subtle light trails.\nUltra-realistic miniature scale, cinematic depth of field, volumetric lighting, realistic reflections, detailed architecture, dynamic camera movement, seamless macro-to-wide transition, 8K detail, photorealistic textures, futuristic atmosphere, smooth motion, no cuts, no text, no watermark, visually spectacular.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/MohdAdnanA86218/status/2100486977456095594",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100486936540717056/img/-hIZxBpxA40RQKd1.jpg",
+        "analysisUrl": "https://x.com/MohdAdnanA86218/status/2100486977456095594"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 1,
+      "replyCount": 6,
+      "quoteCount": 0,
+      "viewCount": 192
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/MohdAdnanA86218/status/2100486977456095594",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100486936540717056/img/-hIZxBpxA40RQKd1.jpg",
+  "coverPath": "covers/2100486977456095594.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100486936540717056",
+    "x-post:2100486977456095594"
+  ],
+  "analysis": {
+    "summary": "镜头由咖啡杯微距平滑推进，穿透液面进入杯中微型未来科技城市。",
+    "summaryEn": "A macro shot pushes smoothly into a coffee cup, revealing a miniature sci-fi city inside.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video accurately demonstrates the zoom from coffee liquid into a miniature futuristic city."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A photorealistic cinematic macro shot of a steaming cup of rich black coffee sitting on a sleek modern café table. 0–2 sec: The camera slowly pushes toward the coffee surface, capturing realistic steam, reflections, and tiny ripples. 2–5 sec: The camera dramatically zooms straight into the coffee, passing through the glossy liquid surface in one seamless transition. 5–8 sec: Reveal an astonishing tiny futuristic city hidden inside the coffee cup—towering illuminated skyscrapers, miniature streets, moving cars, tiny pedestrians, glowing signs, and elevated highways. 8–10 sec: The camera flies between the miniature buildings as sleek flying vehicles cruise through the futuristic skyline, with tiny aircraft leaving subtle light trails.\nUltra-realistic miniature scale, cinematic depth of field, volumetric lighting, realistic reflections, detailed architecture, dynamic camera movement, seamless macro-to-wide transition, 8K detail, photorealistic textures, futuristic atmosphere, smooth motion, no cuts, no text, no watermark, visually spectacular.",
+    "sourceRange": {
+      "start": 63,
+      "end": 1119
+    },
+    "translations": {
+      "zh": "超逼真电影感微距镜头：一杯冒着热气的浓郁黑咖啡放在时尚现代的咖啡桌上。0–2秒：镜头缓慢推向咖啡表面，捕捉真实的蒸汽、倒影和微小波纹。2–5秒：镜头大幅向咖啡内部推进，无缝穿过光滑的液体表面。5–8秒：揭示隐藏在咖啡杯内令人惊叹的微型未来城市——耸立的发光摩天大楼、微型街道、行驶的汽车、细小的行人、发光的招牌和高架公路。8–10秒：镜头在微型建筑群中穿梭，流畅的飞行载具在未来天际线中巡航，小型飞行器拖出微光轨迹。超逼真微缩比例、电影景深、体积光、真实反射、细致建筑、动态运镜、无缝微距转全景、8K细节、未来氛围、平滑运动、无剪辑无文字水印、视觉惊艳。",
+      "en": "A photorealistic cinematic macro shot of a steaming cup of rich black coffee sitting on a sleek modern café table. 0–2 sec: The camera slowly pushes toward the coffee surface, capturing realistic steam, reflections, and tiny ripples. 2–5 sec: The camera dramatically zooms straight into the coffee, passing through the glossy liquid surface in one seamless transition. 5–8 sec: Reveal an astonishing tiny futuristic city hidden inside the coffee cup—towering illuminated skyscrapers, miniature streets, moving cars, tiny pedestrians, glowing signs, and elevated highways. 8–10 sec: The camera flies between the miniature buildings as sleek flying vehicles cruise through the futuristic skyline, with tiny aircraft leaving subtle light trails.\nUltra-realistic miniature scale, cinematic depth of field, volumetric lighting, realistic reflections, detailed architecture, dynamic camera movement, seamless macro-to-wide transition, 8K detail, photorealistic textures, futuristic atmosphere, smooth motion, no cuts, no text, no watermark, visually spectacular."
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic transition video from coffee macro into miniature sci-fi city",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

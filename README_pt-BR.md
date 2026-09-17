@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**16** Prompts · Última adição: **2026-09-17**
+**17** Prompts · Última adição: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -129,6 +129,28 @@ Publicação original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publ
 
 ## Cinematográfico / Imagem de Filme
 
+<a name="prompt-2100486977456095594"></a>
+
+### Tradução em andamento
+
+Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicação original](https://x.com/MohdAdnanA86218/status/2100486977456095594)
+
+Cinematográfico / Imagem de Filme · Cyberpunk / Ficção Científica · Alimentos / Bebidas · Paisagem Urbana / Rua · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2100486977456095594.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2099517007934919019"></a>
 
 ### Prompt JSON de 10s direcionando raios e fragmentos de carbono para se montarem em um Lamborghini Aventador em uma passagem montanhosa tempestuosa.
@@ -200,20 +222,26 @@ Cinematográfico / Imagem de Filme · Paisagem / Natureza · Publicado
 
 <a name="prompt-2099370488342647240"></a>
 
-### Tradução em andamento
+### Um plano contínuo acompanhando um homem abrindo uma porta-portal que transita por Paris, Tóquio futurista, Roma antiga e um planeta alienígena antes de se fundirem.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicação original](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Cinematográfico / Imagem de Filme · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um plano contínuo acompanhando um homem abrindo uma porta-portal que transita por Paris, Tóquio futurista, Roma antiga e um planeta alienígena antes de se fundirem.
 
 <img src="covers/2099370488342647240.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vídeo de fantasia cinematográfico ultrarrealista de 10 segundos em um único plano-sequência contínuo. Um belo jovem no início dos seus 20 anos, com cabelo preto-azeviche naturalmente ondulado e espesso, olhos castanho-escuros, maxilar masculino marcante, barba por fazer sutil e vestindo um casaco comprido escuro sofisticado, está em um corredor misterioso e mal iluminado de frente para uma porta de madeira antiga e comum.
+0–2 seg: Ele lentamente estende a mão para a maçaneta de latão, abre a porta e revela uma Paris romântica na hora de ouro — Torre Eiffel, elegantes edifícios Haussmann, cafés iluminados, luz atmosférica quente.
+2–4 seg: Sem cortes, o vão da porta se transforma instantaneamente na Tóquio futurista à noite — arranha-céus imponentes de neon, anúncios holográficos, veículos voadores, ruas encharcadas de chuva, reflexos vibrantes.
+4–6 seg: O mundo muda novamente para a Roma antiga — Coliseu colossal, colunas de mármore, arquitetura romana, luz de tochas, multidões distantes e poeira sutil flutuando no ar.
+6–8 seg: O vão da porta se transforma em um planeta alienígena de tirar o fôlego — céus roxos, luas enormes, vegetação alienígena brilhante, montanhas estranhas e estruturas futuristas distantes.
+8–10 seg: O homem dá um passo em direção ao vão da porta enquanto todos os quatro mundos se misturam e giram rapidamente dentro da porta, criando um espetacular portal de mundos infinitos. Ele parece maravilhado enquanto a câmera avança lentamente em direção ao vão iluminado da porta.
+Estilo: fotorrealista, qualidade cinematográfica de blockbuster, transições mágicas fluidas, física realista, iluminação volumétrica, profundidade atmosférica, ambientes detalhados, movimento humano natural, movimento de câmera dramático, 8K HDR, alta faixa dinâmica, pele e tecido realistas, profundidade de campo cinematográfica, escala épica, sem texto, sem legendas, sem marca d'água, sem falhas, sem rosto distorcido, sem membros extras. Ritmo perfeitamente ajustado para exatamente 10 segundos, com cada mundo claramente visível por aproximadamente 2 segundos.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**16** Prompts · Latest addition: **2026-09-17**
+**17** Prompts · Latest addition: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -128,6 +128,28 @@ Source：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.c
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2100486977456095594"></a>
+
+### The camera smoothly pushes in from a macro shot of a coffee cup, piercing the liquid surface into a miniature futuristic tech city inside the cup.
+
+Author：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Source](https://x.com/MohdAdnanA86218/status/2100486977456095594)
+
+Cinematic / Film Still · Cyberpunk / Sci-Fi · Food / Drink · Cityscape / Street · Published
+
+**Summary:** The camera smoothly pushes in from a macro shot of a coffee cup, piercing the liquid surface into a miniature futuristic tech city inside the cup.
+
+<img src="covers/2100486977456095594.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A photorealistic cinematic macro shot of a steaming cup of rich black coffee sitting on a sleek modern café table. 0–2 sec: The camera slowly pushes toward the coffee surface, capturing realistic steam, reflections, and tiny ripples. 2–5 sec: The camera dramatically zooms straight into the coffee, passing through the glossy liquid surface in one seamless transition. 5–8 sec: Reveal an astonishing tiny futuristic city hidden inside the coffee cup—towering illuminated skyscrapers, miniature streets, moving cars, tiny pedestrians, glowing signs, and elevated highways. 8–10 sec: The camera flies between the miniature buildings as sleek flying vehicles cruise through the futuristic skyline, with tiny aircraft leaving subtle light trails. Ultra-realistic miniature scale, cinematic depth of field, volumetric lighting, realistic reflections, detailed architecture, dynamic camera movement, seamless macro-to-wide transition, 8K detail, photorealistic textures, futuristic atmosphere, smooth motion, no cuts, no text, no watermark, visually spectacular.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099517007934919019"></a>
 
