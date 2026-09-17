@@ -131,20 +131,21 @@ Originalbeitrag：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbe
 
 <a name="prompt-2100486977456095594"></a>
 
-### Übersetzung läuft
+### Die Kamera bewegt sich per Makro sanft auf die Kaffeetasse zu, durchdringt die Flüssigkeitsoberfläche und dringt in eine Miniatur-Zukunftsstadt im Inneren der Tasse ein.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Originalbeitrag](https://x.com/MohdAdnanA86218/status/2100486977456095594)
 
 Kinematisch / Filmstill · Cyberpunk / Sci-Fi · Essen / Trinken · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Die Kamera bewegt sich per Makro sanft auf die Kaffeetasse zu, durchdringt die Flüssigkeitsoberfläche und dringt in eine Miniatur-Zukunftsstadt im Inneren der Tasse ein.
 
 <img src="covers/2100486977456095594.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine fotorealistische, filmreife Makroaufnahme einer dampfenden Tasse kräftigen schwarzen Kaffees auf einem eleganten, modernen Cafétisch. 0–2 Sek.: Die Kamera fährt langsam auf die Kaffeeoberfläche zu und fängt realistischen Dampf, Reflexionen und winzige Wellen ein. 2–5 Sek.: Die Kamera zoomt dramatisch direkt in den Kaffee hinein und durchdringt die glänzende Flüssigkeitsoberfläche in einem nahtlosen Übergang. 5–8 Sek.: Enthüllung einer erstaunlichen, winzigen futuristischen Stadt, die in der Kaffeetasse verborgen ist – hoch aufragende, beleuchtete Wolkenkratzer, Miniaturstraßen, fahrende Autos, winzige Fußgänger, leuchtende Schilder und Hochstraßen. 8–10 Sek.: Die Kamera fliegt zwischen den Miniaturgebäuden hindurch, während elegante fliegende Fahrzeuge durch die futuristische Skyline gleiten und winzige Fluggeräte feine Lichtspuren hinterlassen.
+Ultrarealistischer Miniaturmaßstab, filmreife Schärfentiefe, volumetrische Beleuchtung, realistische Reflexionen, detaillierte Architektur, dynamische Kamerabewegung, nahtloser Übergang von Makro zu Weitwinkel, 8K-Detail, fotorealistische Texturen, futuristische Atmosphäre, flüssige Bewegung, keine Schnitte, kein Text, kein Wasserzeichen, visuell spektakulär.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -222,26 +223,20 @@ Kinematisch / Filmstill · Landschaft / Natur · Veröffentlicht
 
 <a name="prompt-2099370488342647240"></a>
 
-### Eine kontinuierliche Kamerafahrt, die einem Mann folgt, der eine Portaltür öffnet, die durch Paris, ein futuristisches Tokio, das antike Rom und einen fremden Planeten wechselt, bevor sie verschmelzen.
+### Übersetzung läuft
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Originalbeitrag](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Kinematisch / Filmstill · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Eine kontinuierliche Kamerafahrt, die einem Mann folgt, der eine Portaltür öffnet, die durch Paris, ein futuristisches Tokio, das antike Rom und einen fremden Planeten wechselt, bevor sie verschmelzen.
+**Zusammenfassung:** Übersetzung läuft
 
 <img src="covers/2099370488342647240.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Erstelle ein 10-sekündiges, ultra-realistisches cineastisches Fantasy-Video in einer einzigen kontinuierlichen Kamerafahrt. Ein gut aussehender junger Mann Anfang 20 mit dichtem, natürlich gewelltem, pechschwarzem Haar, dunkelbraunen Augen, einer markanten männlichen Kinnpartie, dezenten Stoppeln und einem eleganten, dunklen langen Mantel steht in einem geheimnisvollen, schwach beleuchteten Korridor vor einer gewöhnlichen alten Holztür.
-0–2 Sek.: Er greift langsam nach der Messingklinke, öffnet die Tür und offenbart ein romantisches Paris zur goldenen Stunde – den Eiffelturm, elegante Haussmann-Gebäude, leuchtende Cafés, warmes atmosphärisches Licht.
-2–4 Sek.: Ohne Schnitt verwandelt sich der Türrahmen augenblicklich in ein futuristisches Tokio bei Nacht – hoch aufragende Neon-Wolkenkratzer, holografische Werbung, fliegende Fahrzeuge, regennasse Straßen, lebendige Reflexionen.
-4–6 Sek.: Die Welt verwandelt sich erneut in das antike Rom – massives Kolosseum, Marmorsäulen, römische Architektur, Fackellicht, ferne Menschenmengen und feiner Staub, der durch die Luft schwebt.
-6–8 Sek.: Der Türrahmen verwandelt sich in einen atemberaubenden fremden Planeten – lila Himmel, riesige Monde, leuchtende außerirdische Vegetation, seltsame Berge und ferne futuristische Strukturen.
-8–10 Sek.: Der Mann tritt auf den Türrahmen zu, während alle vier Welten im Inneren der Tür rasch ineinander übergehen und verschmelzen, wodurch ein spektakuläres Portal zu unendlichen Welten entsteht. Er blickt erstaunt drein, während die Kamera langsam auf die leuchtende Türzufahrt zufährt.
-Stil: fotorealistisch, Blockbuster-Kinoqualität, nahtlose magische Übergänge, realistische Physik, volumetrische Beleuchtung, atmosphärische Tiefe, detaillierte Umgebungen, natürliche menschliche Bewegung, dramatische Kamerabewegung, 8K HDR, hoher Dynamikbereich, realistische Haut und Stoffe, cineastische Schärfentiefe, episches Ausmaß, kein Text, keine Untertitel, kein Wasserzeichen, keine Glitches, kein verzerrtes Gesicht, keine zusätzlichen Gliedmaßen. Perfekt getaktet auf genau 10 Sekunden, wobei jede Welt etwa 2 Sekunden lang deutlich sichtbar ist.
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

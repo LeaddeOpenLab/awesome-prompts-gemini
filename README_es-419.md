@@ -131,20 +131,21 @@ Publicación original：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publ
 
 <a name="prompt-2100486977456095594"></a>
 
-### Traducción en curso
+### La cámara avanza suavemente en macro hacia la taza de café, atravesando la superficie líquida para entrar en una ciudad futurista en miniatura dentro de la taza.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicación original](https://x.com/MohdAdnanA86218/status/2100486977456095594)
 
 Cine / Fotograma · Cyberpunk / Ciencia ficción · Comida y bebida · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** La cámara avanza suavemente en macro hacia la taza de café, atravesando la superficie líquida para entrar en una ciudad futurista en miniatura dentro de la taza.
 
 <img src="covers/2100486977456095594.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una toma macro cinematográfica y fotorrealista de una taza humeante de intenso café negro sobre una elegante mesa de café moderno. 0–2 s: La cámara avanza lentamente hacia la superficie del café, capturando vapor realista, reflejos y diminutas ondas. 2–5 s: La cámara hace un zoom dramático directo hacia el café, atravesando la superficie líquida brillante en una transición fluida e imperceptible. 5–8 s: Se revela una asombrosa ciudad futurista diminuta oculta dentro de la taza de café: imponentes rascacielos iluminados, calles en miniatura, autos en movimiento, peatones diminutos, letreros brillantes y autopistas elevadas. 8–10 s: La cámara vuela entre los edificios en miniatura mientras elegantes vehículos voladores navegan por el horizonte futurista, con pequeñas aeronaves que dejan sutiles estelas de luz.
+Escala en miniatura ultrarrealista, profundidad de campo cinematográfica, iluminación volumétrica, reflejos realistas, arquitectura detallada, movimiento de cámara dinámico, transición fluida de macro a panorámica, detalle 8K, texturas fotorrealistas, atmósfera futurista, movimiento suave, sin cortes, sin texto, sin marcas de agua, visualmente espectacular.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -222,26 +223,20 @@ Cine / Fotograma · Paisaje / Naturaleza · Publicado
 
 <a name="prompt-2099370488342647240"></a>
 
-### Una toma continua que sigue a un hombre abriendo una puerta portal que transiciona por París, un Tokio futurista, la antigua Roma y un planeta alienígena antes de fusionarse.
+### Traducción en curso
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicación original](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Cine / Fotograma · Personaje · Publicado
 
-**Resumen:** Una toma continua que sigue a un hombre abriendo una puerta portal que transiciona por París, un Tokio futurista, la antigua Roma y un planeta alienígena antes de fusionarse.
+**Resumen:** Traducción en curso
 
 <img src="covers/2099370488342647240.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Crea un video de fantasía cinematográfico y ultrarrealista de 10 segundos en una sola toma continua. Un apuesto joven de unos 20 años, con cabello negro azabache, grueso y naturalmente ondulado, ojos marrón oscuro, mandíbula masculina y marcada, barba incipiente sutil, y vestido con un sofisticado abrigo largo oscuro, se encuentra en un misterioso pasillo tenuemente iluminado frente a una vieja puerta de madera ordinaria.
-0–2 s: Lentamente extiende la mano hacia la manija de latón, abre la puerta y revela un París romántico durante la hora dorada: la Torre Eiffel, elegantes edificios haussmannianos, cafés resplandecientes, luz atmosférica cálida.
-2–4 s: Sin cortes, el umbral de la puerta se transforma instantáneamente en un Tokio futurista de noche: imponentes rascacielos de neón, anuncios holográficos, vehículos voladores, calles empapadas de lluvia, reflejos vibrantes.
-4–6 s: El mundo cambia de nuevo hacia la antigua Roma: el imponente Coliseo, columnas de mármol, arquitectura romana, luz de antorchas, multitudes lejanas y polvo sutil flotando en el aire.
-6–8 s: El umbral se transforma en un impresionante planeta alienígena: cielos púrpuras, lunas enormes, vegetación alienígena brillante, montañas extrañas y estructuras futuristas distantes.
-8–10 s: El hombre da un paso hacia el umbral mientras los cuatro mundos se mezclan y giran rápidamente dentro de la puerta, creando un espectacular portal de mundos infinitos. Se ve asombrado mientras la cámara avanza lentamente hacia la puerta resplandeciente.
-Estilo: fotorrealista, calidad de superproducción cinematográfica, transiciones mágicas fluidas, física realista, iluminación volumétrica, profundidad atmosférica, entornos detallados, movimiento humano natural, movimiento de cámara dramático, 8K HDR, alto rango dinámico, piel y telas realistas, profundidad de campo cinematográfica, escala épica, sin texto, sin subtítulos, sin marcas de agua, sin errores técnicos, sin rostros distorsionados, sin extremidades adicionales. Con un ritmo perfecto para exactamente 10 segundos, mostrando cada mundo de forma claramente visible durante aproximadamente 2 segundos.
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

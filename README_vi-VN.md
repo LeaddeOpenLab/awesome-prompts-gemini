@@ -131,20 +131,20 @@ Bài gốc：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](htt
 
 <a name="prompt-2100486977456095594"></a>
 
-### Đang dịch
+### Máy quay chuyển động mượt mà từ cận cảnh tách cà phê, xuyên qua mặt nước để tiến vào thành phố công nghệ tương lai thu nhỏ bên trong tách.
 
 Tác giả：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Bài gốc](https://x.com/MohdAdnanA86218/status/2100486977456095594)
 
 Điện ảnh / Ảnh tĩnh từ phim · Cyberpunk / Khoa học viễn tưởng · Thực phẩm / Đồ uống · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Máy quay chuyển động mượt mà từ cận cảnh tách cà phê, xuyên qua mặt nước để tiến vào thành phố công nghệ tương lai thu nhỏ bên trong tách.
 
 <img src="covers/2100486977456095594.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Cú máy macro đậm chất điện ảnh, chân thực như ảnh chụp của một tách cà phê đen đậm đà bốc khói nghi ngút đặt trên bàn quán cà phê hiện đại bóng bẩy. 0–2 giây: Máy quay từ từ tiến về phía bề mặt cà phê, ghi lại làn khói chân thực, sự phản chiếu và những gợn sóng nhỏ. 2–5 giây: Máy quay phóng nhanh đầy kịch tính thẳng vào ly cà phê, xuyên qua bề mặt chất lỏng sáng bóng trong một chuyển cảnh liền mạch duy nhất. 5–8 giây: Hé lộ một thành phố tương lai tí hon đáng kinh ngạc ẩn giấu bên trong tách cà phê—những tòa nhà chọc trời phát sáng sừng sững, đường phố thu nhỏ, ô tô đang chạy, người đi bộ tí hon, biển hiệu rực rỡ và đường cao tốc trên cao. 8–10 giây: Máy quay lướt qua giữa các tòa nhà thu nhỏ khi các phương tiện bay bóng bẩy lướt qua đường chân trời tương lai, với những phi thuyền tí hon để lại vệt sáng mờ ảo. Tỷ lệ mô hình siêu thực, độ sâu trường ảnh điện ảnh, ánh sáng thể tích, hình ảnh phản chiếu chân thực, kiến trúc chi tiết, chuyển động máy quay sống động, chuyển cảnh macro sang góc rộng liền mạch, chi tiết 8K, kết cấu chân thực, bầu không khí tương lai, chuyển động mượt mà, không cắt cảnh, không có chữ, không có watermark, ấn tượng về mặt thị giác.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -175,26 +175,20 @@ Tác giả：[@MrDasCreates](https://x.com/MrDasCreates) · [Bài gốc](https:/
 
 <a name="prompt-2099370488342647240"></a>
 
-### Một cú máy liền mạch theo chân một người đàn ông mở cánh cửa cổng không gian chuyển tiếp qua Paris, Tokyo tương lai, Rome cổ đại và một hành tinh ngoài hành tinh trước khi hòa quyện vào nhau.
+### Đang dịch
 
 Tác giả：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Bài gốc](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Một cú máy liền mạch theo chân một người đàn ông mở cánh cửa cổng không gian chuyển tiếp qua Paris, Tokyo tương lai, Rome cổ đại và một hành tinh ngoài hành tinh trước khi hòa quyện vào nhau.
+**Tóm tắt:** Đang dịch
 
 <img src="covers/2099370488342647240.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Tạo một video giả tưởng điện ảnh siêu thực dài 10 giây trong một cú máy liền mạch duy nhất. Một chàng trai trẻ đẹp trai ở độ tuổi đầu 20, với mái tóc đen tuyền gợn sóng tự nhiên dày dặn, đôi mắt nâu sẫm, quai hàm nam tính sắc nét, râu lởm chởm nhẹ, và mặc chiếc áo khoác dài tối màu lịch lãm, đứng trong một hành lang mờ ảo bí ẩn đối diện với một cánh cửa gỗ cũ kỹ bình thường.
-0–2 giây: Anh từ từ đưa tay nắm lấy tay nắm bằng đồng, mở cửa và để lộ khung cảnh Paris lãng mạn vào giờ vàng — Tháp Eiffel, các tòa nhà Haussmann thanh lịch, các quán cà phê lung linh, ánh sáng khí quyển ấm áp.
-2–4 giây: Không hề cắt cảnh, khung cửa lập tức biến thành Tokyo tương lai về đêm — những tòa nhà chọc trời neon cao vút, quảng cáo ba chiều holographic, các phương tiện bay, đường phố ướt sũng nước mưa, những ánh phản chiếu rực rỡ.
-4–6 giây: Thế giới lại thay đổi thành Rome cổ đại — Đấu trường La Mã đồ sộ, các cột đá cẩm thạch, kiến trúc La Mã, ánh đuốc, đám đông phía xa và bụi mờ trôi nổi trong không khí.
-6–8 giây: Khung cửa biến thành một hành tinh ngoài hành tinh ngoạn mục — bầu trời tím, những mặt trăng khổng lồ, thảm thực vật ngoài hành tinh phát sáng, những ngọn núi kỳ lạ và các công trình tương lai xa xăm.
-8–10 giây: Người đàn ông bước về phía khung cửa khi cả bốn thế giới nhanh chóng hòa quyện và xoáy vào nhau bên trong cánh cửa, tạo nên một cánh cổng thế giới vô tận ngoạn mục. Anh nhìn đầy kinh ngạc khi máy quay từ từ tiến tới gần khung cửa phát sáng.
-Phong cách: chân thực như ảnh chụp, chất lượng phim bom tấn điện ảnh, các chuyển cảnh ma thuật liền mạch, vật lý thực tế, ánh sáng thể tích, chiều sâu khí quyển, môi trường chi tiết, chuyển động con người tự nhiên, chuyển động máy quay ấn tượng, 8K HDR, dải tương phản động cao, da và vải chân thực, độ sâu trường ảnh điện ảnh, quy mô sử thi, không có văn bản, không có phụ đề, không có watermark, không bị lỗi hình ảnh, không méo mặt, không thừa chi. Nhịp độ hoàn hảo trong chính xác 10 giây, với mỗi thế giới hiển thị rõ ràng trong khoảng 2 giây.
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

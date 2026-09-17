@@ -131,20 +131,21 @@ Orijinal gönderi：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal
 
 <a name="prompt-2100486977456095594"></a>
 
-### Çeviri sürüyor
+### Kamera kahve fincanından makro açıyla pürüzsüzce ilerler, sıvı yüzeyinden geçerek fincanın içindeki minyatür fütüristik teknoloji şehrine girer.
 
 Yazar：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Orijinal gönderi](https://x.com/MohdAdnanA86218/status/2100486977456095594)
 
 Sinematik / Film Karesi · Siberpunk / Bilim Kurgu · Yiyecek / İçecek · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kamera kahve fincanından makro açıyla pürüzsüzce ilerler, sıvı yüzeyinden geçerek fincanın içindeki minyatür fütüristik teknoloji şehrine girer.
 
 <img src="covers/2100486977456095594.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Şık ve modern bir kafe masasında duran, tütmekte olan zengin bir fincan siyah kahvenin fotogerçekçi, sinematik makro çekimi. 0–2 sn: Kamera kahve yüzeyine doğru yavaşça yaklaşarak gerçekçi buharı, yansımaları ve minik dalgalanmaları yakalar. 2–5 sn: Kamera dramatik bir şekilde doğrudan kahvenin içine doğru yakınlaşır ve parlak sıvı yüzeyini kesintisiz tek bir geçişle aşar. 5–8 sn: Kahve fincanının içine gizlenmiş şaşırtıcı, minik fütüristik bir şehir ortaya çıkar; ışıl ışıl yükselen gökdelenler, minyatür caddeler, hareket eden arabalar, minik yayalar, parlayan tabelalar ve yükseltilmiş otoyollar. 8–10 sn: Kamera minyatür binaların arasında süzülürken, zarif uçan araçlar fütüristik silüette ilerler ve minik hava araçları ardında ince ışık izleri bırakır.
+Ultra gerçekçi minyatür ölçek, sinematik alan derinliği, hacimsel ışıklandırma, gerçekçi yansımalar, ayrıntılı mimari, dinamik kamera hareketi, makrodan geniş açıya kesintisiz geçiş, 8K ayrıntı, fotogerçekçi dokular, fütüristik atmosfer, akıcı hareket, kesme yok, metin yok, filigran yok, görsel olarak muhteşem.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -222,26 +223,20 @@ Sinematik / Film Karesi · Manzara / Doğa · Yayımlandı
 
 <a name="prompt-2099370488342647240"></a>
 
-### Birbirine karışmadan önce Paris, fütüristik Tokyo, antik Roma ve bir uzaylı gezegeni arasında geçiş yapan bir portal kapısını açan bir adamı takip eden kesintisiz bir çekim.
+### Çeviri sürüyor
 
 Yazar：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Orijinal gönderi](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Sinematik / Film Karesi · Karakter · Yayımlandı
 
-**Özet:** Birbirine karışmadan önce Paris, fütüristik Tokyo, antik Roma ve bir uzaylı gezegeni arasında geçiş yapan bir portal kapısını açan bir adamı takip eden kesintisiz bir çekim.
+**Özet:** Çeviri sürüyor
 
 <img src="covers/2099370488342647240.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Tek bir kesintisiz çekimde 10 saniyelik ultra gerçekçi, sinematik bir fantastik video oluşturun. 20'li yaşlarının başında, gür ve doğal dalgalı simsiyah saçlı, koyu kahverengi gözlü, keskin erkeksi çene hatlarına sahip, hafif kirli sakallı ve sofistike, koyu renk uzun bir palto giymiş yakışıklı bir genç adam, loş ve gizemli bir koridorda sıradan eski ahşap bir kapının önünde duruyor.
-0–2 sn: Pirinç kapı koluna doğru yavaşça uzanır, kapıyı açar ve altın saatteki romantik Paris'i gözler önüne serer — Eyfel Kulesi, zarif Haussmann binaları, ışıldayan kafeler, sıcak atmosferik ışık.
-2–4 sn: Hiçbir kesme olmadan, kapı aralığı anında fütüristik bir gece Tokyo'suna dönüşür — yükselen neon gökdelenler, holografik reklamlar, uçan araçlar, yağmurla ıslanmış sokaklar, canlı yansımalar.
-4–6 sn: Dünya tekrar antik Roma'ya dönüşür — devasa Kolezyum, mermer sütunlar, Roma mimarisi, meşale ışığı, uzaktaki kalabalıklar ve havada usulca süzülen toz zerreleri.
-6–8 sn: Kapı aralığı nefes kesici bir uzaylı gezegenine dönüşür — mor gökyüzü, devasa aylar, parlayan uzaylı bitki örtüsü, tuhaf dağlar ve uzaktaki fütüristik yapılar.
-8–10 sn: Dört dünyanın tümü kapının içinde hızla karışıp girdap gibi dönerek muhteşem bir sonsuz dünya portalı oluştururken, adam kapı eşiğine doğru bir adım atar. Kamera yavaşça parlayan kapı aralığına doğru ilerlerken adam hayranlık içinde görünür.
-Stil: fotogerçekçi, sinematik gişe filmi kalitesi, kusursuz büyülü geçişler, gerçekçi fizik, hacimsel aydınlatma, atmosferik derinlik, ayrıntılı ortamlar, doğal insan hareketi, dramatik kamera hareketi, 8K HDR, yüksek dinamik aralık, gerçekçi ten ve kumaş dokusu, sinematik alan derinliği, epik ölçek, metin yok, altyazı yok, filigran yok, görsel bozulma yok, çarpık yüz yok, fazladan uzuv yok. Her bir dünya yaklaşık 2 saniye boyunca net şekilde görünecek biçimde, tam olarak 10 saniye için kusursuzca tempolanmış.
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
