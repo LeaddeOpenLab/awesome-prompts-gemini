@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**15** Prompts · Latest addition: **2026-09-16**
+**16** Prompts · Latest addition: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,44 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2100410821109293122"></a>
+
+### High-end fashion portrait on a Tokyo observation deck, woman in a cream suit pointing toward Tokyo Tower.
+
+Author：[@ZunairaSaeedAi](https://x.com/ZunairaSaeedAi) · [Source](https://x.com/ZunairaSaeedAi/status/2100410821109293122)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** High-end fashion portrait on a Tokyo observation deck, woman in a cream suit pointing toward Tokyo Tower.
+
+<img src="images/2100410821109293122-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create an ultra-realistic, high-end luxury fashion editorial photograph in Tokyo, Japan, in bright natural daytime.
+
+A sophisticated young woman is standing on a luxurious elevated rooftop observation deck with a glass railing, overlooking a breathtaking panoramic view of Tokyo. She is wearing an elegant cream-colored luxury outfit with a refined blazer and wide-leg trousers, styled like a premium fashion campaign.
+
+She is holding a luxury handbag in one hand and a modern Apple iPhone in the other hand. The iPhone-holding arm is naturally extended toward the city, with her index finger clearly pointing toward Tokyo Tower, as if she is elegantly showing the landmark and beautiful city to someone.
+
+The Tokyo skyline must remain highly visible, sharp, and detailed, including numerous skyscrapers, buildings, streets, greenery, and Tokyo Tower prominently positioned in the background. The city should NOT be heavily blurred. Keep both the woman and the distant cityscape visually clear.
+
+Bright clean daylight, blue sky with soft natural clouds, crisp atmospheric visibility, realistic sunlight and shadows, premium architectural details, realistic skin texture, natural hair, realistic hands and fingers, accurate body proportions, detailed clothing and handbag, sophisticated luxury travel aesthetic.
+
+Composition: vertical 9:16, full-body fashion portrait, slightly elevated viewpoint, balanced framing with the woman in the foreground and the enormous Tokyo skyline extending across the background.
+
+Photography style: high-end luxury advertising, cinematic editorial photography, professional full-frame camera, deep depth of field, sharp foreground and background, photorealistic, ultra-detailed, realistic textures, natural colors, premium commercial quality, 8K.
+
+Important: Make the Apple iPhone clearly visible in her hand, keep the pointing gesture natural and elegant, make Tokyo Tower clearly recognizable, and preserve maximum detail across the entire cityscape.
+
+No text, no watermark, no artificial blur, no distorted hands, no extra fingers, no duplicated objects, no deformed anatomy, no cartoon effect.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100038181538365752"></a>
 
