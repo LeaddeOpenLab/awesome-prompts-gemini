@@ -35,20 +35,36 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2100410821109293122"></a>
 
-### Übersetzung läuft
+### High-End-Modefotografie auf einer Aussichtsplattform in Tokio: Eine Frau im cremefarbenen Hosenanzug zeigt auf den Tokyo Tower.
 
 Autor：[@ZunairaSaeedAi](https://x.com/ZunairaSaeedAi) · [Originalbeitrag](https://x.com/ZunairaSaeedAi/status/2100410821109293122)
 
 Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** High-End-Modefotografie auf einer Aussichtsplattform in Tokio: Eine Frau im cremefarbenen Hosenanzug zeigt auf den Tokyo Tower.
 
 <img src="images/2100410821109293122-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein ultra-realistisches High-End-Luxusmode-Editorialfoto in Tokio, Japan, bei hellem, natürlichem Tageslicht.
+
+Eine anspruchsvolle junge Frau steht auf einer luxuriösen, erhöhten Dachterrassen-Aussichtsplattform mit Glasgeländer und blickt auf einen atemberaubenden Panoramablick über Tokio. Sie trägt ein elegantes, cremefarbenes Luxus-Outfit mit einem feinen Blazer und einer Hose mit weitem Bein, gestylt wie für eine erstklassige Modekampagne.
+
+Sie hält eine Luxushandtasche in der einen Hand und ein modernes Apple iPhone in der anderen Hand. Der Arm, der das iPhone hält, ist natürlich in Richtung der Stadt ausgestreckt, wobei ihr Zeigefinger deutlich auf den Tokyo Tower zeigt, als würde sie jemandem elegant das Wahrzeichen und die wunderschöne Stadt präsentieren.
+
+Die Skyline von Tokio muss hochgradig sichtbar, scharf und detailliert bleiben, einschließlich zahlreicher Wolkenkratzer, Gebäude, Straßen, Grünflächen und dem Tokyo Tower, der prominent im Hintergrund positioniert ist. Die Stadt sollte NICHT stark verschwommen sein. Halte sowohl die Frau als auch die ferne Stadtlandschaft visuell klar.
+
+Helles, sauberes Tageslicht, blauer Himmel mit sanften natürlichen Wolken, klare atmosphärische Sicht, realistisches Sonnenlicht und Schatten, erstklassige architektonische Details, realistische Hautstruktur, natürliches Haar, realistische Hände und Finger, präzise Körperproportionen, detaillierte Kleidung und Handtasche, anspruchsvolle Luxusreise-Ästhetik.
+
+Komposition: vertikal 9:16, Ganzkörper-Modeporträt, leicht erhöhter Blickwinkel, ausgewogener Bildausschnitt mit der Frau im Vordergrund und der riesigen Skyline von Tokio, die sich über den Hintergrund erstreckt.
+
+Fotografiestil: High-End-Luxuswerbung, filmische Editorial-Fotografie, professionelle Vollformatkamera, tiefe Schärfentiefe, scharfer Vorder- und Hintergrund, fotorealistisch, extrem detailliert, realistische Texturen, natürliche Farben, erstklassige kommerzielle Qualität, 8K.
+
+Wichtig: Das Apple iPhone in ihrer Hand muss deutlich sichtbar sein, die Zeigegeste muss natürlich und elegant wirken, der Tokyo Tower muss klar erkennbar sein und der maximale Detailgrad über die gesamte Stadtlandschaft muss erhalten bleiben.
+
+Kein Text, kein Wasserzeichen, keine künstliche Unschärfe, keine verzerrten Hände, keine zusätzlichen Finger, keine duplizierten Objekte, keine deformierte Anatomie, kein Cartoon-Effekt.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -184,26 +200,20 @@ Kinematisch / Filmstill · Landschaft / Natur · Veröffentlicht
 
 <a name="prompt-2099370488342647240"></a>
 
-### Eine kontinuierliche Kamerafahrt, die einem Mann folgt, der eine Portaltür öffnet, die durch Paris, ein futuristisches Tokio, das antike Rom und einen fremden Planeten wechselt, bevor sie verschmelzen.
+### Übersetzung läuft
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Originalbeitrag](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Kinematisch / Filmstill · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Eine kontinuierliche Kamerafahrt, die einem Mann folgt, der eine Portaltür öffnet, die durch Paris, ein futuristisches Tokio, das antike Rom und einen fremden Planeten wechselt, bevor sie verschmelzen.
+**Zusammenfassung:** Übersetzung läuft
 
 <img src="covers/2099370488342647240.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Erstelle ein 10-sekündiges, ultra-realistisches cineastisches Fantasy-Video in einer einzigen kontinuierlichen Kamerafahrt. Ein gut aussehender junger Mann Anfang 20 mit dichtem, natürlich gewelltem, pechschwarzem Haar, dunkelbraunen Augen, einer markanten männlichen Kinnpartie, dezenten Stoppeln und einem eleganten, dunklen langen Mantel steht in einem geheimnisvollen, schwach beleuchteten Korridor vor einer gewöhnlichen alten Holztür.
-0–2 Sek.: Er greift langsam nach der Messingklinke, öffnet die Tür und offenbart ein romantisches Paris zur goldenen Stunde – den Eiffelturm, elegante Haussmann-Gebäude, leuchtende Cafés, warmes atmosphärisches Licht.
-2–4 Sek.: Ohne Schnitt verwandelt sich der Türrahmen augenblicklich in ein futuristisches Tokio bei Nacht – hoch aufragende Neon-Wolkenkratzer, holografische Werbung, fliegende Fahrzeuge, regennasse Straßen, lebendige Reflexionen.
-4–6 Sek.: Die Welt verwandelt sich erneut in das antike Rom – massives Kolosseum, Marmorsäulen, römische Architektur, Fackellicht, ferne Menschenmengen und feiner Staub, der durch die Luft schwebt.
-6–8 Sek.: Der Türrahmen verwandelt sich in einen atemberaubenden fremden Planeten – lila Himmel, riesige Monde, leuchtende außerirdische Vegetation, seltsame Berge und ferne futuristische Strukturen.
-8–10 Sek.: Der Mann tritt auf den Türrahmen zu, während alle vier Welten im Inneren der Tür rasch ineinander übergehen und verschmelzen, wodurch ein spektakuläres Portal zu unendlichen Welten entsteht. Er blickt erstaunt drein, während die Kamera langsam auf die leuchtende Türzufahrt zufährt.
-Stil: fotorealistisch, Blockbuster-Kinoqualität, nahtlose magische Übergänge, realistische Physik, volumetrische Beleuchtung, atmosphärische Tiefe, detaillierte Umgebungen, natürliche menschliche Bewegung, dramatische Kamerabewegung, 8K HDR, hoher Dynamikbereich, realistische Haut und Stoffe, cineastische Schärfentiefe, episches Ausmaß, kein Text, keine Untertitel, kein Wasserzeichen, keine Glitches, kein verzerrtes Gesicht, keine zusätzlichen Gliedmaßen. Perfekt getaktet auf genau 10 Sekunden, wobei jede Welt etwa 2 Sekunden lang deutlich sichtbar ist.
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

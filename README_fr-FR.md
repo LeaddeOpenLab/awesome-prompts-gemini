@@ -35,20 +35,36 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2100410821109293122"></a>
 
-### Traduction en cours
+### Séance photo de mode haut de gamme sur une terrasse panoramique à Tokyo, une femme en tailleur beige pointant du doigt la tour de Tokyo.
 
 Auteur：[@ZunairaSaeedAi](https://x.com/ZunairaSaeedAi) · [Publication originale](https://x.com/ZunairaSaeedAi/status/2100410821109293122)
 
 Photographie · Portrait / Selfie · Personnage · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Séance photo de mode haut de gamme sur une terrasse panoramique à Tokyo, une femme en tailleur beige pointant du doigt la tour de Tokyo.
 
 <img src="images/2100410821109293122-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une photographie éditoriale de mode de luxe haut de gamme et ultra-réaliste à Tokyo, au Japon, en plein jour avec une lumière naturelle éclatante.
+
+Une jeune femme sophistiquée se tient sur une luxueuse terrasse d'observation surélevée sur un toit avec une balustrade en verre, surplombant une vue panoramique époustouflante de Tokyo. Elle porte une élégante tenue de luxe de couleur crème avec un blazer raffiné et un pantalon ample à jambes larges, dans le style d'une campagne de mode haut de gamme.
+
+Elle tient un sac à main de luxe dans une main et un Apple iPhone moderne dans l'autre. Le bras tenant l'iPhone est naturellement tendu vers la ville, son index pointant clairement en direction de la tour de Tokyo, comme si elle montrait élégamment ce monument emblématique et la magnifique ville à quelqu'un.
+
+La ligne d'horizon de Tokyo doit rester très visible, nette et détaillée, comprenant de nombreux gratte-ciel, bâtiments, rues, espaces verts et la tour de Tokyo bien en évidence à l'arrière-plan. La ville ne doit PAS être fortement floutée. Gardez la femme et le paysage urbain lointain visuellement nets.
+
+Lumière du jour vive et pure, ciel bleu avec de doux nuages naturels, visibilité atmosphérique limpide, soleil et ombres réalistes, détails architecturaux haut de gamme, texture de peau réaliste, cheveux naturels, mains et doigts réalistes, proportions corporelles précises, vêtements et sac à main détaillés, esthétique sophistiquée de voyage de luxe.
+
+Composition : format vertical 9:16, portrait de mode en pied, angle de vue légèrement surélevé, cadrage équilibré avec la femme au premier plan et l'immense skyline de Tokyo s'étendant à l'arrière-plan.
+
+Style photographique : publicité de luxe haut de gamme, photographie éditoriale cinématographique, appareil photo professionnel plein format, grande profondeur de champ, premier plan et arrière-plan nets, photoréaliste, ultra-détaillé, textures réalistes, couleurs naturelles, qualité commerciale premium, 8K.
+
+Important : rendez l'Apple iPhone clairement visible dans sa main, veillez à ce que le geste de pointer du doigt reste naturel et élégant, rendez la tour de Tokyo clairement reconnaissable et préservez un maximum de détails sur l'ensemble du paysage urbain.
+
+Pas de texte, pas de filigrane, pas de flou artificiel, pas de mains déformées, pas de doigts supplémentaires, pas d'objets dupliqués, pas d'anatomie déformée, pas d'effet dessin animé.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -184,26 +200,20 @@ Image cinématographique / Photogramme de film · Paysage / Nature · Publié
 
 <a name="prompt-2099370488342647240"></a>
 
-### Un plan continu suivant un homme qui ouvre une porte formant un portail qui passe successivement par Paris, un Tokyo futuriste, la Rome antique et une planète extraterrestre avant de fusionner.
+### Traduction en cours
 
 Auteur：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publication originale](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Image cinématographique / Photogramme de film · Personnage · Publié
 
-**Résumé:** Un plan continu suivant un homme qui ouvre une porte formant un portail qui passe successivement par Paris, un Tokyo futuriste, la Rome antique et une planète extraterrestre avant de fusionner.
+**Résumé:** Traduction en cours
 
 <img src="covers/2099370488342647240.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Créez une vidéo fantastique cinématographique ultra-réaliste de 10 secondes en un seul plan continu. Un bel homme jeune au début de la vingtaine, aux cheveux noir de jais naturellement ondulés et épais, aux yeux brun foncé, à la mâchoire masculine bien définie, avec une barbe de quelques jours subtile et vêtu d'un long manteau sombre sophistiqué, se tient dans un couloir mystérieux et faiblement éclairé face à une vieille porte en bois ordinaire.
-0–2 sec : Il tend lentement la main vers la poignée en laiton, ouvre la porte et dévoile un Paris romantique à l'heure dorée — la Tour Eiffel, d'élégants immeubles haussmanniens, des cafés illuminés, une lumière atmosphérique chaleureuse.
-2–4 sec : Sans coupe, l'encadrement de la porte se transforme instantanément en un Tokyo futuriste de nuit — des gratte-ciel néon imposants, des publicités holographiques, des véhicules volants, des rues trempées de pluie, des reflets éclatants.
-4–6 sec : Le monde change à nouveau pour devenir la Rome antique — un imposant Colisée, des colonnes de marbre, une architecture romaine, la lueur des flambeaux, des foules lointaines et une poussière subtile flottant dans l'air.
-6–8 sec : L'encadrement se transforme en une planète extraterrestre à couper le souffle — des ciels pourpres, d'immenses lunes, une végétation extraterrestre luminescente, d'étranges montagnes et de lointaines structures futuristes.
-8–10 sec : L'homme s'avance vers le pas de la porte alors que les quatre mondes fusionnent et tourbillonnent rapidement ensemble à l'intérieur de la porte, créant un spectaculaire portail de mondes infinis. Il a l'air émerveillé tandis que la caméra avance lentement vers la porte luminescente.
-Style : photoréaliste, qualité de blockbuster cinématographique, transitions magiques fluides, physique réaliste, éclairage volumétrique, profondeur atmosphérique, environnements détaillés, mouvements humains naturels, mouvements de caméra dramatiques, 8K HDR, plage dynamique élevée, peau et tissus réalistes, profondeur de champ cinématographique, échelle épique, pas de texte, pas de sous-titres, pas de filigrane, pas de bugs, pas de visage déformé, pas de membres supplémentaires. Parfaitement rythmé pour exactement 10 secondes, chaque monde étant clairement visible pendant environ 2 secondes.
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

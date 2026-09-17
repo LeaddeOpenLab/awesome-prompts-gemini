@@ -35,20 +35,36 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2100410821109293122"></a>
 
-### Tradução em andamento
+### Ensaio de moda de luxo sofisticado em um deque de observação em Tóquio, com mulher vestindo terno creme e apontando para a Torre de Tóquio.
 
 Autor：[@ZunairaSaeedAi](https://x.com/ZunairaSaeedAi) · [Publicação original](https://x.com/ZunairaSaeedAi/status/2100410821109293122)
 
 Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Ensaio de moda de luxo sofisticado em um deque de observação em Tóquio, com mulher vestindo terno creme e apontando para a Torre de Tóquio.
 
 <img src="images/2100410821109293122-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma fotografia editorial de moda de luxo sofisticada e ultrarrealista em Tóquio, Japão, sob luz natural brilhante do dia.
+
+Uma jovem sofisticada está em pé em um luxuoso deque de observação elevado na cobertura com guarda-corpo de vidro, contemplando uma vista panorâmica deslumbrante de Tóquio. Ela veste um traje de luxo elegante em tom creme com um blazer refinado e calças de pernas largas, com estilo de campanha de moda premium.
+
+Ela segura uma bolsa de luxo em uma mão e um Apple iPhone moderno na outra mão. O braço que segura o iPhone está naturalmente estendido em direção à cidade, com o dedo indicador apontando claramente para a Torre de Tóquio, como se estivesse mostrando elegantemente o ponto turístico e a bela cidade para alguém.
+
+O horizonte de Tóquio deve permanecer altamente visível, nítido e detalhado, incluindo inúmeros arranha-céus, edifícios, ruas, vegetação e a Torre de Tóquio posicionada com destaque ao fundo. A cidade NÃO deve ficar muito desfocada. Mantenha tanto a mulher quanto a paisagem urbana distante visualmente nítidas.
+
+Luz do dia limpa e brilhante, céu azul com nuvens suaves e naturais, visibilidade atmosférica cristalina, luz solar e sombras realistas, detalhes arquitetônicos premium, textura de pele realista, cabelos naturais, mãos e dedos realistas, proporções corporais precisas, roupas e bolsa detalhadas, estética sofisticada de viagem de luxo.
+
+Composição: vertical 9:16, retrato de moda de corpo inteiro, ponto de vista ligeiramente elevado, enquadramento equilibrado com a mulher em primeiro plano e a enorme linha do horizonte de Tóquio se estendendo ao fundo.
+
+Estilo de fotografia: publicidade de luxo sofisticada, fotografia editorial cinematográfica, câmera full-frame profissional, grande profundidade de campo, primeiro plano e fundo nítidos, fotorrealista, ultradetalhado, texturas realistas, cores naturais, qualidade comercial premium, 8K.
+
+Importante: torne o Apple iPhone claramente visível na mão dela, mantenha o gesto de apontar natural e elegante, torne a Torre de Tóquio claramente reconhecível e preserve o máximo de detalhes em toda a paisagem urbana.
+
+Sem texto, sem marca d'água, sem desfoque artificial, sem mãos distorcidas, sem dedos extras, sem objetos duplicados, sem anatomia deformada, sem efeito de desenho animado.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -184,26 +200,20 @@ Cinematográfico / Imagem de Filme · Paisagem / Natureza · Publicado
 
 <a name="prompt-2099370488342647240"></a>
 
-### Um plano contínuo acompanhando um homem abrindo uma porta-portal que transita por Paris, Tóquio futurista, Roma antiga e um planeta alienígena antes de se fundirem.
+### Tradução em andamento
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicação original](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Cinematográfico / Imagem de Filme · Personagem · Publicado
 
-**Resumo:** Um plano contínuo acompanhando um homem abrindo uma porta-portal que transita por Paris, Tóquio futurista, Roma antiga e um planeta alienígena antes de se fundirem.
+**Resumo:** Tradução em andamento
 
 <img src="covers/2099370488342647240.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Crie um vídeo de fantasia cinematográfico ultrarrealista de 10 segundos em um único plano-sequência contínuo. Um belo jovem no início dos seus 20 anos, com cabelo preto-azeviche naturalmente ondulado e espesso, olhos castanho-escuros, maxilar masculino marcante, barba por fazer sutil e vestindo um casaco comprido escuro sofisticado, está em um corredor misterioso e mal iluminado de frente para uma porta de madeira antiga e comum.
-0–2 seg: Ele lentamente estende a mão para a maçaneta de latão, abre a porta e revela uma Paris romântica na hora de ouro — Torre Eiffel, elegantes edifícios Haussmann, cafés iluminados, luz atmosférica quente.
-2–4 seg: Sem cortes, o vão da porta se transforma instantaneamente na Tóquio futurista à noite — arranha-céus imponentes de neon, anúncios holográficos, veículos voadores, ruas encharcadas de chuva, reflexos vibrantes.
-4–6 seg: O mundo muda novamente para a Roma antiga — Coliseu colossal, colunas de mármore, arquitetura romana, luz de tochas, multidões distantes e poeira sutil flutuando no ar.
-6–8 seg: O vão da porta se transforma em um planeta alienígena de tirar o fôlego — céus roxos, luas enormes, vegetação alienígena brilhante, montanhas estranhas e estruturas futuristas distantes.
-8–10 seg: O homem dá um passo em direção ao vão da porta enquanto todos os quatro mundos se misturam e giram rapidamente dentro da porta, criando um espetacular portal de mundos infinitos. Ele parece maravilhado enquanto a câmera avança lentamente em direção ao vão iluminado da porta.
-Estilo: fotorrealista, qualidade cinematográfica de blockbuster, transições mágicas fluidas, física realista, iluminação volumétrica, profundidade atmosférica, ambientes detalhados, movimento humano natural, movimento de câmera dramático, 8K HDR, alta faixa dinâmica, pele e tecido realistas, profundidade de campo cinematográfica, escala épica, sem texto, sem legendas, sem marca d'água, sem falhas, sem rosto distorcido, sem membros extras. Ritmo perfeitamente ajustado para exatamente 10 segundos, com cada mundo claramente visível por aproximadamente 2 segundos.
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

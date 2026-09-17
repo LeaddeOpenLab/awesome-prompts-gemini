@@ -35,20 +35,36 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2100410821109293122"></a>
 
-### Çeviri sürüyor
+### Tokyo gözlem terasında, krem rengi takım elbiseli kadının Tokyo Kulesi'ni gösterdiği üst düzey moda çekimi.
 
 Yazar：[@ZunairaSaeedAi](https://x.com/ZunairaSaeedAi) · [Orijinal gönderi](https://x.com/ZunairaSaeedAi/status/2100410821109293122)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Tokyo gözlem terasında, krem rengi takım elbiseli kadının Tokyo Kulesi'ni gösterdiği üst düzey moda çekimi.
 
 <img src="images/2100410821109293122-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tokyo, Japonya'da, parlak doğal gün ışığında, ultra gerçekçi, üst düzey bir lüks moda editoryal fotoğrafı oluşturun.
+
+Sofistike genç bir kadın, Tokyo'nun nefes kesici panoramik manzarasına bakan, cam korkuluklu, lüks ve yüksek bir çatı gözlem terasında duruyor. Seçkin bir moda kampanyası tarzında tasarlanmış, zarif bir blazer ceket ve bol paça pantolondan oluşan krem rengi zarif, lüks bir kıyafet giyiyor.
+
+Bir elinde lüks bir el çantası, diğer elinde ise modern bir Apple iPhone tutuyor. iPhone'u tutan kolu doğal bir şekilde şehre doğru uzatılmış ve işaret parmağı Tokyo Kulesi'ni net bir şekilde gösteriyor; sanki bu simge yapıyı ve güzel şehri zarifçe birine gösteriyormuş gibi.
+
+Tokyo silüeti; sayısız gökdelen, bina, cadde, yeşillik ve arka planda belirgin şekilde konumlandırılmış Tokyo Kulesi dahil olmak üzere son derece görünür, keskin ve ayrıntılı kalmalıdır. Şehir aşırı bulanık OLMAMALIDIR. Hem kadını hem de uzaktaki şehir manzarasını görsel olarak net tutun.
+
+Parlak temiz gün ışığı, yumuşak doğal bulutlarla bezeli mavi gökyüzü, berrak atmosferik görüş, gerçekçi güneş ışığı ve gölgeler, birinci sınıf mimari detaylar, gerçekçi cilt dokusu, doğal saçlar, gerçekçi eller ve parmaklar, doğru vücut oranları, detaylı kıyafetler ve el çantası, sofistike lüks seyahat estetiği.
+
+Kompozisyon: dikey 9:16, tam boy moda portresi, hafifçe yükseltilmiş bakış açısı, ön planda kadın ve arka planda boylu boyunca uzanan devasa Tokyo silüeti ile dengeli çerçeveleme.
+
+Fotoğraf stili: üst düzey lüks reklamcılık, sinematik editoryal fotoğrafçılık, profesyonel tam kare fotoğraf makinesi, derin alan derinliği, keskin ön plan ve arka plan, fotogerçekçi, ultra ayrıntılı, gerçekçi dokular, doğal renkler, birinci sınıf ticari kalite, 8K.
+
+Önemli: Apple iPhone'un elinde net bir şekilde görünmesini sağlayın, işaret etme hareketini doğal ve zarif tutun, Tokyo Kulesi'ni açıkça tanınabilir yapın ve tüm şehir manzarasında maksimum ayrıntıyı koruyun.
+
+Metin yok, filigran yok, yapay bulanıklık yok, bozuk eller yok, fazla parmaklar yok, yinelenen nesneler yok, deforme anatomi yok, çizgi film efekti yok.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -184,26 +200,20 @@ Sinematik / Film Karesi · Manzara / Doğa · Yayımlandı
 
 <a name="prompt-2099370488342647240"></a>
 
-### Birbirine karışmadan önce Paris, fütüristik Tokyo, antik Roma ve bir uzaylı gezegeni arasında geçiş yapan bir portal kapısını açan bir adamı takip eden kesintisiz bir çekim.
+### Çeviri sürüyor
 
 Yazar：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Orijinal gönderi](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Sinematik / Film Karesi · Karakter · Yayımlandı
 
-**Özet:** Birbirine karışmadan önce Paris, fütüristik Tokyo, antik Roma ve bir uzaylı gezegeni arasında geçiş yapan bir portal kapısını açan bir adamı takip eden kesintisiz bir çekim.
+**Özet:** Çeviri sürüyor
 
 <img src="covers/2099370488342647240.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Tek bir kesintisiz çekimde 10 saniyelik ultra gerçekçi, sinematik bir fantastik video oluşturun. 20'li yaşlarının başında, gür ve doğal dalgalı simsiyah saçlı, koyu kahverengi gözlü, keskin erkeksi çene hatlarına sahip, hafif kirli sakallı ve sofistike, koyu renk uzun bir palto giymiş yakışıklı bir genç adam, loş ve gizemli bir koridorda sıradan eski ahşap bir kapının önünde duruyor.
-0–2 sn: Pirinç kapı koluna doğru yavaşça uzanır, kapıyı açar ve altın saatteki romantik Paris'i gözler önüne serer — Eyfel Kulesi, zarif Haussmann binaları, ışıldayan kafeler, sıcak atmosferik ışık.
-2–4 sn: Hiçbir kesme olmadan, kapı aralığı anında fütüristik bir gece Tokyo'suna dönüşür — yükselen neon gökdelenler, holografik reklamlar, uçan araçlar, yağmurla ıslanmış sokaklar, canlı yansımalar.
-4–6 sn: Dünya tekrar antik Roma'ya dönüşür — devasa Kolezyum, mermer sütunlar, Roma mimarisi, meşale ışığı, uzaktaki kalabalıklar ve havada usulca süzülen toz zerreleri.
-6–8 sn: Kapı aralığı nefes kesici bir uzaylı gezegenine dönüşür — mor gökyüzü, devasa aylar, parlayan uzaylı bitki örtüsü, tuhaf dağlar ve uzaktaki fütüristik yapılar.
-8–10 sn: Dört dünyanın tümü kapının içinde hızla karışıp girdap gibi dönerek muhteşem bir sonsuz dünya portalı oluştururken, adam kapı eşiğine doğru bir adım atar. Kamera yavaşça parlayan kapı aralığına doğru ilerlerken adam hayranlık içinde görünür.
-Stil: fotogerçekçi, sinematik gişe filmi kalitesi, kusursuz büyülü geçişler, gerçekçi fizik, hacimsel aydınlatma, atmosferik derinlik, ayrıntılı ortamlar, doğal insan hareketi, dramatik kamera hareketi, 8K HDR, yüksek dinamik aralık, gerçekçi ten ve kumaş dokusu, sinematik alan derinliği, epik ölçek, metin yok, altyazı yok, filigran yok, görsel bozulma yok, çarpık yüz yok, fazladan uzuv yok. Her bir dünya yaklaşık 2 saniye boyunca net şekilde görünecek biçimde, tam olarak 10 saniye için kusursuzca tempolanmış.
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

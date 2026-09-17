@@ -35,20 +35,36 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2100410821109293122"></a>
 
-### Traduzione in corso
+### Servizio di alta moda su una piattaforma panoramica di Tokyo, con una donna in tailleur pantalone color crema che indica la Tokyo Tower.
 
 Autore：[@ZunairaSaeedAi](https://x.com/ZunairaSaeedAi) · [Post originale](https://x.com/ZunairaSaeedAi/status/2100410821109293122)
 
 Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Servizio di alta moda su una piattaforma panoramica di Tokyo, con una donna in tailleur pantalone color crema che indica la Tokyo Tower.
 
 <img src="images/2100410821109293122-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una fotografia editoriale di moda di lusso di alta gamma e ultra-realistica a Tokyo, in Giappone, in pieno giorno con luce naturale e brillante.
+
+Una giovane donna sofisticata si trova su un lussuoso ponte di osservazione sopraelevato sul tetto con una ringhiera di vetro, affacciata su una vista panoramica mozzafiato di Tokyo. Indossa un elegante completo di lusso color crema con un raffinato blazer e pantaloni a gamba larga, con lo stile di una campagna di moda esclusiva.
+
+Tiene una borsa di lusso in una mano e un moderno Apple iPhone nell'altra. Il braccio con l'iPhone è naturalmente proteso verso la città, con l'indice che punta chiaramente verso la Tokyo Tower, come se stesse mostrando con eleganza l'iconico monumento e la splendida città a qualcuno.
+
+Lo skyline di Tokyo deve rimanere altamente visibile, nitido e dettagliato, includendo numerosi grattacieli, edifici, strade, zone verdi e la Tokyo Tower posizionata in modo prominente sullo sfondo. La città NON deve essere pesantemente sfocata. Mantieni sia la donna che il paesaggio urbano distante visivamente nitidi.
+
+Luce diurna chiara e brillante, cielo blu con morbide nuvole naturali, nitida visibilità atmosferica, luce solare e ombre realistiche, dettagli architettonici di pregio, texture della pelle realistica, capelli naturali, mani e dita realistiche, proporzioni corporee accurate, abbigliamento e borsa dettagliati, estetica sofisticata da viaggio di lusso.
+
+Composizione: verticale 9:16, ritratto di moda a figura intera, punto di vista leggermente rialzato, inquadratura bilanciata con la donna in primo piano e l'enorme skyline di Tokyo che si estende sullo sfondo.
+
+Stile fotografico: pubblicità di lusso di alta gamma, fotografia editoriale cinematografica, fotocamera professionale full-frame, profonda profondità di campo, primo piano e sfondo nitidi, fotorealistico, ultra-dettagliato, texture realistiche, colori naturali, qualità commerciale premium, 8K.
+
+Importante: rendi l'Apple iPhone chiaramente visibile nella sua mano, mantieni il gesto di indicare naturale ed elegante, rendi la Tokyo Tower chiaramente riconoscibile e preserva il massimo dettaglio sull'intero paesaggio urbano.
+
+Nessun testo, nessun watermark, nessuna sfocatura artificiale, nessuna mano distorta, nessun dito in più, nessun oggetto duplicato, nessuna anatomia deformata, nessun effetto cartone animato.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -184,26 +200,20 @@ Fermo immagine cinematografico / Still fotografico · Paesaggio / Natura · Pubb
 
 <a name="prompt-2099370488342647240"></a>
 
-### Un piano sequenza continuo che segue un uomo che apre una porta-portale che compie una transizione attraverso Parigi, una Tokyo futuristica, l'antica Roma e un pianeta alieno prima di fondersi.
+### Traduzione in corso
 
 Autore：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Post originale](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Fermo immagine cinematografico / Still fotografico · Personaggio · Pubblicato
 
-**Riepilogo:** Un piano sequenza continuo che segue un uomo che apre una porta-portale che compie una transizione attraverso Parigi, una Tokyo futuristica, l'antica Roma e un pianeta alieno prima di fondersi.
+**Riepilogo:** Traduzione in corso
 
 <img src="covers/2099370488342647240.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Crea un video fantasy cinematografico ultra-realistico di 10 secondi in un unico piano sequenza continuo. Un bel giovane poco più che ventenne, con folti capelli corvini naturalmente ondulati, occhi marrone scuro, mascella maschile scolpita, una leggera barba incolta e con indosso un sofisticato cappotto lungo scuro, si trova in un misterioso corridoio debolmente illuminato di fronte a una vecchia porta di legno ordinaria.
-0–2 sec: Allunga lentamente la mano verso la maniglia di ottone, apre la porta e rivela una Parigi romantica durante la golden hour: la Torre Eiffel, eleganti edifici haussmanniani, caffè luminosi, una luce d'atmosfera calda.
-2–4 sec: Senza stacchi, il vano della porta si trasforma istantaneamente in una Tokyo futuristica di notte: imponenti grattacieli al neon, pubblicità olografiche, veicoli volanti, strade bagnate di pioggia, riflessi vivaci.
-4–6 sec: Il mondo cambia di nuovo trasformandosi nell'antica Roma: il maestoso Colosseo, colonne di marmo, architettura romana, luce di torce, folle distanti e una sottile polvere che fluttua nell'aria.
-6–8 sec: Il vano della porta si trasforma in un pianeta alieno mozzafiato: cieli viola, lune enormi, vegetazione aliena luminescente, strane montagne e distanti strutture futuristiche.
-8–10 sec: L'uomo si fa avanti verso la soglia mentre tutti e quattro i mondi si fondono e vorticano rapidamente insieme all'interno della porta, creando uno spettacolare portale di mondi infiniti. Ha un'espressione stupita mentre la telecamera avanza lentamente verso la soglia luminosa.
-Stile: fotorealistico, qualità da blockbuster cinematografico, transizioni magiche senza soluzione di continuità, fisica realistica, illuminazione volumetrica, profondità atmosferica, ambienti dettagliati, movimenti umani naturali, movimenti di camera drammatici, 8K HDR, alta gamma dinamica, pelle e tessuti realistici, profondità di campo cinematografica, scala epica, nessun testo, nessun sottotitolo, nessun watermark, nessun glitch, nessun volto distorto, nessun arto extra. Ritmo perfetto per esattamente 10 secondi, con ogni mondo chiaramente visibile per circa 2 secondi.
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

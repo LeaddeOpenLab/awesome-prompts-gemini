@@ -35,20 +35,36 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2100410821109293122"></a>
 
-### Đang dịch
+### Buổi chụp ảnh thời trang cao cấp trên đài quan sát Tokyo, người phụ nữ mặc bộ suit màu be chỉ tay về phía Tháp Tokyo.
 
 Tác giả：[@ZunairaSaeedAi](https://x.com/ZunairaSaeedAi) · [Bài gốc](https://x.com/ZunairaSaeedAi/status/2100410821109293122)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Buổi chụp ảnh thời trang cao cấp trên đài quan sát Tokyo, người phụ nữ mặc bộ suit màu be chỉ tay về phía Tháp Tokyo.
 
 <img src="images/2100410821109293122-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một bức ảnh thời trang cao cấp sang trọng, siêu thực tại Tokyo, Nhật Bản, trong ánh sáng ban ngày tự nhiên và rực rỡ.
+
+Một phụ nữ trẻ sành điệu đang đứng trên đài quan sát tầng thượng sang trọng có lan can kính, nhìn bao quát khung cảnh toàn cảnh ngoạn mục của Tokyo. Cô mặc một bộ trang phục cao cấp màu kem thanh lịch với áo blazer tinh tế và quần ống rộng, được tạo hình như trong một chiến dịch thời trang đẳng cấp.
+
+Một tay cô cầm chiếc túi xách sang trọng và tay kia cầm chiếc Apple iPhone hiện đại. Cánh tay cầm iPhone duỗi ra một cách tự nhiên về phía thành phố, với ngón trỏ chỉ rõ ràng về phía Tháp Tokyo, như thể cô đang giới thiệu thắng cảnh và thành phố xinh đẹp này cho ai đó một cách tao nhã.
+
+Đường chân trời Tokyo phải hiển thị cực kỳ rõ ràng, sắc nét và chi tiết, bao gồm vô số tòa nhà chọc trời, các công trình kiến trúc, đường phố, cây xanh và Tháp Tokyo nổi bật ở hậu cảnh. Thành phố KHÔNG được làm mờ quá nhiều. Giữ cho cả người phụ nữ lẫn cảnh quan thành phố ở phía xa đều rõ nét về mặt thị giác.
+
+Ánh sáng ban ngày trong trẻo rực rỡ, bầu trời xanh với những đám mây tự nhiên mềm mại, tầm nhìn khí quyển sắc nét, ánh nắng và bóng đổ chân thực, chi tiết kiến trúc cao cấp, kết cấu da chân thực, mái tóc tự nhiên, bàn tay và các ngón tay chân thực, tỷ lệ cơ thể chính xác, trang phục và túi xách chi tiết, thẩm mỹ du lịch sang trọng tinh tế.
+
+Bố cục: khung dọc 9:16, chân dung thời trang toàn thân, góc nhìn hơi nâng cao, bố cục cân đối với người phụ nữ ở tiền cảnh và đường chân trời Tokyo rộng lớn trải dài khắp hậu cảnh.
+
+Phong cách nhiếp ảnh: quảng cáo sang trọng cao cấp, nhiếp ảnh biên tập điện ảnh, máy ảnh full-frame chuyên nghiệp, độ sâu trường ảnh lớn (deep depth of field), sắc nét cả tiền cảnh và hậu cảnh, chân thực như ảnh chụp, siêu chi tiết, kết cấu chân thực, màu sắc tự nhiên, chất lượng thương mại cao cấp, 8K.
+
+Quan trọng: Hiển thị rõ chiếc Apple iPhone trên tay cô ấy, giữ cử chỉ chỉ tay tự nhiên và thanh lịch, làm cho Tháp Tokyo dễ nhận biết rõ ràng và giữ lại độ chi tiết tối đa trên toàn bộ cảnh quan thành phố.
+
+Không có chữ, không có hình mờ, không làm mờ nhân tạo, không có bàn tay bị biến dạng, không có ngón tay thừa, không có vật thể bị nhân đôi, không có giải phẫu méo mó, không có hiệu ứng hoạt hình.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -137,26 +153,20 @@ Tác giả：[@MrDasCreates](https://x.com/MrDasCreates) · [Bài gốc](https:/
 
 <a name="prompt-2099370488342647240"></a>
 
-### Một cú máy liền mạch theo chân một người đàn ông mở cánh cửa cổng không gian chuyển tiếp qua Paris, Tokyo tương lai, Rome cổ đại và một hành tinh ngoài hành tinh trước khi hòa quyện vào nhau.
+### Đang dịch
 
 Tác giả：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Bài gốc](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Một cú máy liền mạch theo chân một người đàn ông mở cánh cửa cổng không gian chuyển tiếp qua Paris, Tokyo tương lai, Rome cổ đại và một hành tinh ngoài hành tinh trước khi hòa quyện vào nhau.
+**Tóm tắt:** Đang dịch
 
 <img src="covers/2099370488342647240.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Tạo một video giả tưởng điện ảnh siêu thực dài 10 giây trong một cú máy liền mạch duy nhất. Một chàng trai trẻ đẹp trai ở độ tuổi đầu 20, với mái tóc đen tuyền gợn sóng tự nhiên dày dặn, đôi mắt nâu sẫm, quai hàm nam tính sắc nét, râu lởm chởm nhẹ, và mặc chiếc áo khoác dài tối màu lịch lãm, đứng trong một hành lang mờ ảo bí ẩn đối diện với một cánh cửa gỗ cũ kỹ bình thường.
-0–2 giây: Anh từ từ đưa tay nắm lấy tay nắm bằng đồng, mở cửa và để lộ khung cảnh Paris lãng mạn vào giờ vàng — Tháp Eiffel, các tòa nhà Haussmann thanh lịch, các quán cà phê lung linh, ánh sáng khí quyển ấm áp.
-2–4 giây: Không hề cắt cảnh, khung cửa lập tức biến thành Tokyo tương lai về đêm — những tòa nhà chọc trời neon cao vút, quảng cáo ba chiều holographic, các phương tiện bay, đường phố ướt sũng nước mưa, những ánh phản chiếu rực rỡ.
-4–6 giây: Thế giới lại thay đổi thành Rome cổ đại — Đấu trường La Mã đồ sộ, các cột đá cẩm thạch, kiến trúc La Mã, ánh đuốc, đám đông phía xa và bụi mờ trôi nổi trong không khí.
-6–8 giây: Khung cửa biến thành một hành tinh ngoài hành tinh ngoạn mục — bầu trời tím, những mặt trăng khổng lồ, thảm thực vật ngoài hành tinh phát sáng, những ngọn núi kỳ lạ và các công trình tương lai xa xăm.
-8–10 giây: Người đàn ông bước về phía khung cửa khi cả bốn thế giới nhanh chóng hòa quyện và xoáy vào nhau bên trong cánh cửa, tạo nên một cánh cổng thế giới vô tận ngoạn mục. Anh nhìn đầy kinh ngạc khi máy quay từ từ tiến tới gần khung cửa phát sáng.
-Phong cách: chân thực như ảnh chụp, chất lượng phim bom tấn điện ảnh, các chuyển cảnh ma thuật liền mạch, vật lý thực tế, ánh sáng thể tích, chiều sâu khí quyển, môi trường chi tiết, chuyển động con người tự nhiên, chuyển động máy quay ấn tượng, 8K HDR, dải tương phản động cao, da và vải chân thực, độ sâu trường ảnh điện ảnh, quy mô sử thi, không có văn bản, không có phụ đề, không có watermark, không bị lỗi hình ảnh, không méo mặt, không thừa chi. Nhịp độ hoàn hảo trong chính xác 10 giây, với mỗi thế giới hiển thị rõ ràng trong khoảng 2 giây.
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

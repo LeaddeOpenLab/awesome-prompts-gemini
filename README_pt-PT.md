@@ -35,20 +35,36 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2100410821109293122"></a>
 
-### Tradução em curso
+### Sessão fotográfica de moda de luxo num deque de observação em Tóquio, com mulher vestindo fato creme a apontar para a Torre de Tóquio.
 
 Autor：[@ZunairaSaeedAi](https://x.com/ZunairaSaeedAi) · [Publicação original](https://x.com/ZunairaSaeedAi/status/2100410821109293122)
 
 Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Sessão fotográfica de moda de luxo num deque de observação em Tóquio, com mulher vestindo fato creme a apontar para a Torre de Tóquio.
 
 <img src="images/2100410821109293122-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma fotografia editorial de moda de luxo topo de gama e ultrarrealista em Tóquio, Japão, sob luz natural brilhante de dia.
+
+Uma jovem sofisticada está de pé num luxuoso deque de observação elevado no terraço com parapeito de vidro, contemplando uma vista panorâmica deslumbrante de Tóquio. Veste um visual de luxo elegante em tom creme com um blazer requintado e calças largas, estilizada à imagem de uma campanha de moda premium.
+
+Segura uma mala de mão de luxo numa das mãos e um moderno Apple iPhone na outra mão. O braço que segura o iPhone está naturalmente estendido em direção à cidade, com o dedo indicador a apontar claramente para a Torre de Tóquio, como se estivesse a mostrar elegantemente o monumento e a bela cidade a alguém.
+
+O horizonte de Tóquio deve permanecer altamente visível, nítido e detalhado, incluindo inúmeros arranha-céus, edifícios, ruas, vegetação e a Torre de Tóquio em destaque no fundo. A cidade NÃO deve ficar excessivamente desfocada. Mantenha tanto a mulher como a paisagem urbana distante visualmente nítidas.
+
+Luz diurna limpa e brilhante, céu azul com nuvens suaves e naturais, visibilidade atmosférica nítida, luz solar e sombras realistas, pormenores arquitetónicos de topo, textura de pele realista, cabelo natural, mãos e dedos realistas, proporções corporais precisas, roupas e mala de mão detalhadas, estética sofisticada de viagens de luxo.
+
+Composição: vertical 9:16, retrato de moda de corpo inteiro, ponto de vista ligeiramente elevado, enquadramento equilibrado com a mulher em primeiro plano e o imenso horizonte de Tóquio a estender-se ao fundo.
+
+Estilo de fotografia: publicidade de luxo topo de gama, fotografia editorial cinematográfica, câmara full-frame profissional, grande profundidade de campo, primeiro plano e fundo nítidos, fotorrealista, ultradetalhado, texturas realistas, cores naturais, qualidade comercial premium, 8K.
+
+Importante: faça com que o Apple iPhone seja claramente visível na mão dela, mantenha o gesto de apontar natural e elegante, faça com que a Torre de Tóquio seja claramente reconhecível e preserve o máximo de detalhe em toda a paisagem urbana.
+
+Sem texto, sem marca de água, sem desfoque artificial, sem mãos distorcidas, sem dedos a mais, sem objetos duplicados, sem anatomia deformada, sem efeito de desenho animado.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -184,26 +200,20 @@ Cena de Cinema / Fotograma · Paisagem / Natureza · Publicado
 
 <a name="prompt-2099370488342647240"></a>
 
-### Um plano contínuo a seguir um homem que abre uma porta-portal que transita por Paris, Tóquio futurista, Roma antiga e um planeta alienígena antes de se fundirem.
+### Tradução em curso
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicação original](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Cena de Cinema / Fotograma · Personagem · Publicado
 
-**Resumo:** Um plano contínuo a seguir um homem que abre uma porta-portal que transita por Paris, Tóquio futurista, Roma antiga e um planeta alienígena antes de se fundirem.
+**Resumo:** Tradução em curso
 
 <img src="covers/2099370488342647240.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Crie um vídeo de fantasia cinematográfico ultrarrealista de 10 segundos num único plano-sequência contínuo. Um jovem atraente no início dos seus 20 anos, com cabelo preto-azeviche espesso e naturalmente ondulado, olhos castanho-escuros, maxilar masculino bem delineado, barba incipiente subtil e vestindo um sobretudo comprido escuro sofisticado, encontra-se num corredor misterioso e fracamente iluminado diante de uma porta de madeira antiga vulgar.
-0–2 seg: Ele estende lentamente a mão até ao puxador de latão, abre a porta e revela uma Paris romântica na hora dourada — Torre Eiffel, elegantes edifícios Haussmann, cafés iluminados, luz atmosférica quente.
-2–4 seg: Sem cortes, o vão da porta transforma-se instantaneamente numa Tóquio futurista à noite — arranha-céus imponentes em néon, anúncios holográficos, veículos voadores, ruas ensopadas pela chuva, reflexos vibrantes.
-4–6 seg: O mundo muda novamente para a Roma antiga — enorme Coliseu, colunas de mármore, arquitetura romana, luz de tochas, multidões distantes e poeira subtil a flutuar no ar.
-6–8 seg: O vão da porta transforma-se num planeta alienígena deslumbrante — céus púrpuras, luas enormes, vegetação alienígena reluzente, montanhas estranhas e estruturas futuristas distantes.
-8–10 seg: O homem dá um passo em direção ao vão da porta enquanto os quatro mundos se fundem e giram rapidamente no interior da porta, criando um espetacular portal de mundos infinitos. Ele parece fascinado enquanto a câmara avança lentamente em direção ao vão luminoso da porta.
-Estilo: fotorrealista, qualidade cinematográfica de blockbuster, transições mágicas fluidas, física realista, iluminação volumétrica, profundidade atmosférica, ambientes detalhados, movimento humano natural, movimento de câmara dramático, 8K HDR, elevada gama dinâmica, pele e tecido realistas, profundidade de campo cinematográfica, escala épica, sem texto, sem legendas, sem marcas de água, sem anomalias, sem rosto distorcido, sem membros adicionais. Ritmo perfeito para exatamente 10 segundos, com cada mundo claramente visível durante aproximadamente 2 segundos.
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)
