@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T08:30:11.805Z",
+  "model": "gemini",
+  "prompt": "Usa mi foto y conviérteme en una mascota virtual dentro de un dispositivo ovalado al estilo de los juguetes digitales de los años 90. Pantalla pequeña en el centro, marco grueso, pixel art, personaje adorable dentro de la pantalla, estética Y2K.",
+  "promptTranslations": {
+    "en": "Use my photo and turn me into a virtual pet inside an oval device in the style of 90s digital toys. Small screen in the center, thick frame, pixel art, adorable character inside the screen, Y2K aesthetic."
+  },
+  "summaryTranslations": {
+    "en": "Turn a photo into a 90s-style digital toy virtual pet and Y2K aesthetic."
+  },
+  "translationVersion": 2,
+  "summary": "Convierte una foto en una mascota virtual de juguete digital estilo años 90 y estética Y2K.",
+  "summaryEn": "Turns a photo into a 90s digital toy virtual pet in Y2K aesthetic.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100777289344585856",
+    "canonicalUrl": "https://x.com/catapatino/status/2100777289344585856",
+    "author": {
+      "username": "catapatino",
+      "displayName": "CataPatiño C.🇨🇴 🚀",
+      "profileUrl": "https://x.com/catapatino"
+    },
+    "publishedAt": "2026-09-18T02:41:50.000Z",
+    "collectedAt": "2026-09-18T08:16:23.885Z",
+    "language": "es",
+    "originalText": "Usé mi fotito y el siguiente prompt en #Gemini.\n\n\"Usa mi foto y conviérteme en una mascota virtual dentro de un dispositivo ovalado al estilo de los juguetes digitales de los años 90. Pantalla pequeña en el centro, marco grueso, pixel art, personaje adorable dentro de la pantalla, estética Y2K.\"\n\nEl resultado 👇🏻",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSd1yPRW4AA1Fp8.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSd1yPRW4AA1Fp8.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSd1y1PWsAAD-vg.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSd1y1PWsAAD-vg.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 57
+    },
+    "matchedRuleIds": [
+      "custom:es:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/catapatino/status/2100777289344585856",
+  "coverUrl": "https://pbs.twimg.com/media/HSd1yPRW4AA1Fp8.jpg",
+  "coverPath": "images/2100777289344585856-1.jpg",
+  "imagePaths": [
+    "images/2100777289344585856-1.jpg",
+    "images/2100777289344585856-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSd1yPRW4AA1Fp8",
+    "x-image:/media/HSd1y1PWsAAD-vg",
+    "x-post:2100777289344585856"
+  ],
+  "analysis": {
+    "summary": "Convierte una foto en una mascota virtual de juguete digital estilo años 90 y estética Y2K.",
+    "summaryEn": "Turns a photo into a 90s digital toy virtual pet in Y2K aesthetic.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generates a pink 90s virtual pet device showing a pixel art character based on the user's photo with a purple bandana."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Usa mi foto y conviérteme en una mascota virtual dentro de un dispositivo ovalado al estilo de los juguetes digitales de los años 90. Pantalla pequeña en el centro, marco grueso, pixel art, personaje adorable dentro de la pantalla, estética Y2K.",
+    "sourceRange": {
+      "start": 50,
+      "end": 295
+    },
+    "translations": {
+      "zh": "使用我的照片，将我变成一个90年代电子宠物玩具风格椭圆设备里的虚拟宠物。中央小屏幕，厚边框，像素风，屏幕内可爱的角色，Y2K美学。",
+      "en": "Use my photo and turn me into a virtual pet inside an oval device in the style of 90s digital toys. Small screen in the center, thick bezel, pixel art, cute character inside the screen, Y2K aesthetic."
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "text-to-image",
+    "useCase": "image-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

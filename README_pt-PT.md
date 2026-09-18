@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**17** Prompts · Adição mais recente: **2026-09-17**
+**19** Prompts · Adição mais recente: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -223,20 +223,26 @@ Cena de Cinema / Fotograma · Paisagem / Natureza · Publicado
 
 <a name="prompt-2099370488342647240"></a>
 
-### Tradução em curso
+### Um plano contínuo a seguir um homem que abre uma porta-portal que transita por Paris, Tóquio futurista, Roma antiga e um planeta alienígena antes de se fundirem.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicação original](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Cena de Cinema / Fotograma · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um plano contínuo a seguir um homem que abre uma porta-portal que transita por Paris, Tóquio futurista, Roma antiga e um planeta alienígena antes de se fundirem.
 
 <img src="covers/2099370488342647240.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vídeo de fantasia cinematográfico ultrarrealista de 10 segundos num único plano-sequência contínuo. Um jovem atraente no início dos seus 20 anos, com cabelo preto-azeviche espesso e naturalmente ondulado, olhos castanho-escuros, maxilar masculino bem delineado, barba incipiente subtil e vestindo um sobretudo comprido escuro sofisticado, encontra-se num corredor misterioso e fracamente iluminado diante de uma porta de madeira antiga vulgar.
+0–2 seg: Ele estende lentamente a mão até ao puxador de latão, abre a porta e revela uma Paris romântica na hora dourada — Torre Eiffel, elegantes edifícios Haussmann, cafés iluminados, luz atmosférica quente.
+2–4 seg: Sem cortes, o vão da porta transforma-se instantaneamente numa Tóquio futurista à noite — arranha-céus imponentes em néon, anúncios holográficos, veículos voadores, ruas ensopadas pela chuva, reflexos vibrantes.
+4–6 seg: O mundo muda novamente para a Roma antiga — enorme Coliseu, colunas de mármore, arquitetura romana, luz de tochas, multidões distantes e poeira subtil a flutuar no ar.
+6–8 seg: O vão da porta transforma-se num planeta alienígena deslumbrante — céus púrpuras, luas enormes, vegetação alienígena reluzente, montanhas estranhas e estruturas futuristas distantes.
+8–10 seg: O homem dá um passo em direção ao vão da porta enquanto os quatro mundos se fundem e giram rapidamente no interior da porta, criando um espetacular portal de mundos infinitos. Ele parece fascinado enquanto a câmara avança lentamente em direção ao vão luminoso da porta.
+Estilo: fotorrealista, qualidade cinematográfica de blockbuster, transições mágicas fluidas, física realista, iluminação volumétrica, profundidade atmosférica, ambientes detalhados, movimento humano natural, movimento de câmara dramático, 8K HDR, elevada gama dinâmica, pele e tecido realistas, profundidade de campo cinematográfica, escala épica, sem texto, sem legendas, sem marcas de água, sem anomalias, sem rosto distorcido, sem membros adicionais. Ritmo perfeito para exatamente 10 segundos, com cada mundo claramente visível durante aproximadamente 2 segundos.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -431,6 +437,30 @@ Escala em miniatura altamente detalhada, movimento humano realista, texturas cre
 
 ## Ilustração
 
+<a name="prompt-2100640510083997980"></a>
+
+### Tradução em curso
+
+Autor：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Publicação original](https://x.com/pankajkumar_dev/status/2100640510083997980)
+
+Ilustração · Publicado
+
+Publicação original：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Publicação original](https://x.com/pankajkumar_dev/status/2100638349296095561)
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2100640510083997980.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2097658031928705309"></a>
 
 ### Prompt de ilustração representando Aqua a chorar num prado
@@ -538,6 +568,30 @@ Publicação original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2100777289344585856"></a>
+
+### Tradução em curso
+
+Autor：[@catapatino](https://x.com/catapatino) · [Publicação original](https://x.com/catapatino/status/2100777289344585856)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100777289344585856-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2100777289344585856-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2100092223094399132"></a>
 

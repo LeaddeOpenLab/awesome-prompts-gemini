@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**17** Prompts · Latest addition: **2026-09-17**
+**19** Prompts · Latest addition: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -500,6 +500,30 @@ Highly detailed miniature scale, realistic human movement, creamy frosting textu
 
 ## Illustration
 
+<a name="prompt-2100640510083997980"></a>
+
+### Create SVG code of a whale flying through clouds.
+
+Author：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Source](https://x.com/pankajkumar_dev/status/2100640510083997980)
+
+Illustration · Published
+
+Source：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Source](https://x.com/pankajkumar_dev/status/2100638349296095561)
+
+**Summary:** Create SVG code of a whale flying through clouds.
+
+<img src="covers/2100640510083997980.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create code for an SVG of a whale flying through the clouds.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2097658031928705309"></a>
 
 ### Illustration prompt depicting Aqua crying in a grassy field
@@ -607,6 +631,30 @@ Source：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2100777289344585856"></a>
+
+### Turn a photo into a 90s-style digital toy virtual pet and Y2K aesthetic.
+
+Author：[@catapatino](https://x.com/catapatino) · [Source](https://x.com/catapatino/status/2100777289344585856)
+
+Other · Published
+
+**Summary:** Turn a photo into a 90s-style digital toy virtual pet and Y2K aesthetic.
+
+<img src="images/2100777289344585856-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100777289344585856-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Use my photo and turn me into a virtual pet inside an oval device in the style of 90s digital toys. Small screen in the center, thick frame, pixel art, adorable character inside the screen, Y2K aesthetic.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100092223094399132"></a>
 
