@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**19** Prompt · Son eklenen: **2026-09-18**
+**20** Prompt · Son eklenen: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -439,7 +439,7 @@ Yüksek derecede ayrıntılı minyatür ölçek, gerçekçi insan hareketi, krem
 
 <a name="prompt-2100640510083997980"></a>
 
-### Çeviri sürüyor
+### Bulutların arasında uçan bir balinanın SVG kodunu oluşturun.
 
 Yazar：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Orijinal gönderi](https://x.com/pankajkumar_dev/status/2100640510083997980)
 
@@ -447,14 +447,14 @@ Yazar：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Orijinal gönderi
 
 Orijinal gönderi：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Orijinal gönderi](https://x.com/pankajkumar_dev/status/2100638349296095561)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bulutların arasında uçan bir balinanın SVG kodunu oluşturun.
 
 <img src="covers/2100640510083997980.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bulutların arasında uçan bir balinanın SVG'si için kod oluşturun.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -490,6 +490,28 @@ Yazar：[@HopeAbsent](https://x.com/HopeAbsent) · [Orijinal gönderi](https://x
 <a name="category-3d-render"></a>
 
 ## 3D Modelleme
+
+<a name="prompt-2101024701044904074"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@TimJayas](https://x.com/TimJayas) · [Orijinal gönderi](https://x.com/TimJayas/status/2101024701044904074)
+
+3D Modelleme · Hayvan / Yaratık · Özet / Arka Plan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101024701044904074.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2096885269270237431"></a>
 
@@ -571,13 +593,13 @@ Orijinal gönderi：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Orijin
 
 <a name="prompt-2100777289344585856"></a>
 
-### Çeviri sürüyor
+### Bir fotoğrafı 90'lar tarzı dijital oyuncak ve Y2K estetiğine sahip sanal bir evcil hayvana dönüştürün.
 
 Yazar：[@catapatino](https://x.com/catapatino) · [Orijinal gönderi](https://x.com/catapatino/status/2100777289344585856)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir fotoğrafı 90'lar tarzı dijital oyuncak ve Y2K estetiğine sahip sanal bir evcil hayvana dönüştürün.
 
 <img src="images/2100777289344585856-1.jpg" alt="Görsel 1" width="480" />
 
@@ -586,7 +608,7 @@ Diğer · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Fotoğrafımı kullan ve beni 90'ların dijital oyuncakları tarzında oval bir cihazın içinde sanal bir evcil hayvana dönüştür. Ortada küçük ekran, kalın çerçeve, piksel sanatı, ekranın içinde sevimli bir karakter, Y2K estetiği.
 ```
 
 [↑ Kategorilere dön](#catalog)

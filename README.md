@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**19** Prompts · Latest addition: **2026-09-18**
+**20** Prompts · Latest addition: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -553,6 +553,28 @@ Aqua crying in a grassy field
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2101024701044904074"></a>
+
+### Prompt to generate an interactive 3D dragon on a white background using Three.js.
+
+Author：[@TimJayas](https://x.com/TimJayas) · [Source](https://x.com/TimJayas/status/2101024701044904074)
+
+3D Render · Animal / Creature · Abstract / Background · Published
+
+**Summary:** Prompt to generate an interactive 3D dragon on a white background using Three.js.
+
+<img src="covers/2101024701044904074.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+create a 3D dragon using three.js, use white theme background so main object is visible
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096885269270237431"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**19** Prompts · Zuletzt hinzugefügt: **2026-09-18**
+**20** Prompts · Zuletzt hinzugefügt: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -514,7 +514,7 @@ Höchst detaillierter Miniaturmaßstab, realistische menschliche Bewegungen, cre
 
 <a name="prompt-2100640510083997980"></a>
 
-### Übersetzung läuft
+### SVG-Code eines Wals erstellen, der durch Wolken fliegt.
 
 Autor：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Originalbeitrag](https://x.com/pankajkumar_dev/status/2100640510083997980)
 
@@ -522,14 +522,14 @@ Illustration · Veröffentlicht
 
 Originalbeitrag：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Originalbeitrag](https://x.com/pankajkumar_dev/status/2100638349296095561)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** SVG-Code eines Wals erstellen, der durch Wolken fliegt.
 
 <img src="covers/2100640510083997980.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle Code für ein SVG eines Wals, der durch die Wolken fliegt.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -565,6 +565,28 @@ Aqua weint auf einer Wiese
 <a name="category-3d-render"></a>
 
 ## 3D-Rendering
+
+<a name="prompt-2101024701044904074"></a>
+
+### Übersetzung läuft
+
+Autor：[@TimJayas](https://x.com/TimJayas) · [Originalbeitrag](https://x.com/TimJayas/status/2101024701044904074)
+
+3D-Rendering · Tier / Kreatur · Zusammenfassung / Hintergrund · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101024701044904074.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2096885269270237431"></a>
 
@@ -646,13 +668,13 @@ Originalbeitrag：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Original
 
 <a name="prompt-2100777289344585856"></a>
 
-### Übersetzung läuft
+### Verwandelt ein Foto in ein virtuelles Haustier im Stil eines digitalen Spielzeugs der 90er-Jahre und mit Y2K-Ästhetik.
 
 Autor：[@catapatino](https://x.com/catapatino) · [Originalbeitrag](https://x.com/catapatino/status/2100777289344585856)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Verwandelt ein Foto in ein virtuelles Haustier im Stil eines digitalen Spielzeugs der 90er-Jahre und mit Y2K-Ästhetik.
 
 <img src="images/2100777289344585856-1.jpg" alt="Bild 1" width="480" />
 
@@ -661,7 +683,7 @@ Sonstige · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwende mein Foto und verwandle mich in ein virtuelles Haustier in einem ovalen Gerät im Stil digitaler Spielzeuge der 90er Jahre. Kleiner Bildschirm in der Mitte, dicker Rahmen, Pixel-Art, bezaubernder Charakter auf dem Bildschirm, Y2K-Ästhetik.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

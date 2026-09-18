@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**19** Prompt · Bổ sung mới nhất: **2026-09-18**
+**20** Prompt · Bổ sung mới nhất: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -461,7 +461,7 @@ Tỷ lệ thu nhỏ cực kỳ chi tiết, chuyển động con người chân t
 
 <a name="prompt-2100640510083997980"></a>
 
-### Đang dịch
+### Tạo mã SVG về một chú cá voi đang bay qua những đám mây.
 
 Tác giả：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Bài gốc](https://x.com/pankajkumar_dev/status/2100640510083997980)
 
@@ -469,14 +469,14 @@ Minh họa · Đã xuất bản
 
 Bài gốc：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Bài gốc](https://x.com/pankajkumar_dev/status/2100638349296095561)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo mã SVG về một chú cá voi đang bay qua những đám mây.
 
 <img src="covers/2100640510083997980.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo mã cho một tệp SVG về một chú cá voi đang bay qua những đám mây.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -512,6 +512,28 @@ Aqua đang khóc trên đồng cỏ
 <a name="category-3d-render"></a>
 
 ## Kết xuất 3D
+
+<a name="prompt-2101024701044904074"></a>
+
+### Đang dịch
+
+Tác giả：[@TimJayas](https://x.com/TimJayas) · [Bài gốc](https://x.com/TimJayas/status/2101024701044904074)
+
+Kết xuất 3D · Động vật / Sinh vật · Tóm tắt / Bối cảnh · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101024701044904074.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2096885269270237431"></a>
 
@@ -593,13 +615,13 @@ Bài gốc：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Bài gốc](h
 
 <a name="prompt-2100777289344585856"></a>
 
-### Đang dịch
+### Chuyển đổi ảnh thành thú cưng ảo phong cách đồ chơi kỹ thuật số thập niên 90 và thẩm mỹ Y2K.
 
 Tác giả：[@catapatino](https://x.com/catapatino) · [Bài gốc](https://x.com/catapatino/status/2100777289344585856)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chuyển đổi ảnh thành thú cưng ảo phong cách đồ chơi kỹ thuật số thập niên 90 và thẩm mỹ Y2K.
 
 <img src="images/2100777289344585856-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -608,7 +630,7 @@ Khác · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng ảnh của tôi và biến tôi thành một thú cưng ảo bên trong một thiết bị hình bầu dục theo phong cách đồ chơi kỹ thuật số những năm 90. Màn hình nhỏ ở trung tâm, viền dày, nghệ thuật pixel, nhân vật đáng yêu bên trong màn hình, thẩm mỹ Y2K.
 ```
 
 [↑ Về danh mục](#catalog)

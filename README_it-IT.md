@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**19** Prompt · Ultima aggiunta: **2026-09-18**
+**20** Prompt · Ultima aggiunta: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -439,7 +439,7 @@ Scala in miniatura altamente dettagliata, movimento umano realistico, consistenz
 
 <a name="prompt-2100640510083997980"></a>
 
-### Traduzione in corso
+### Crea il codice SVG di una balena che vola tra le nuvole.
 
 Autore：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Post originale](https://x.com/pankajkumar_dev/status/2100640510083997980)
 
@@ -447,14 +447,14 @@ Illustrazione · Pubblicato
 
 Post originale：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Post originale](https://x.com/pankajkumar_dev/status/2100638349296095561)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea il codice SVG di una balena che vola tra le nuvole.
 
 <img src="covers/2100640510083997980.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea il codice per un SVG di una balena che vola tra le nuvole.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -490,6 +490,28 @@ Aqua che piange in un prato
 <a name="category-3d-render"></a>
 
 ## Rendering 3D
+
+<a name="prompt-2101024701044904074"></a>
+
+### Traduzione in corso
+
+Autore：[@TimJayas](https://x.com/TimJayas) · [Post originale](https://x.com/TimJayas/status/2101024701044904074)
+
+Rendering 3D · Animale / Creatura · Abstract / Contesto · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2101024701044904074.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2096885269270237431"></a>
 
@@ -571,13 +593,13 @@ Post originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Post orig
 
 <a name="prompt-2100777289344585856"></a>
 
-### Traduzione in corso
+### Trasforma una foto in un animale domestico virtuale in stile giocattolo digitale anni '90 ed estetica Y2K.
 
 Autore：[@catapatino](https://x.com/catapatino) · [Post originale](https://x.com/catapatino/status/2100777289344585856)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Trasforma una foto in un animale domestico virtuale in stile giocattolo digitale anni '90 ed estetica Y2K.
 
 <img src="images/2100777289344585856-1.jpg" alt="Immagine 1" width="480" />
 
@@ -586,7 +608,7 @@ Altro · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Usa la mia foto e trasformami in un animale virtuale all'interno di un dispositivo ovale nello stile dei giocattoli digitali degli anni '90. Piccolo schermo al centro, cornice spessa, pixel art, adorabile personaggio all'interno dello schermo, estetica Y2K.
 ```
 
 [↑ Torna alle categorie](#catalog)

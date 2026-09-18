@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**19** Prompts · Última incorporación: **2026-09-18**
+**20** Prompts · Última incorporación: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -514,7 +514,7 @@ Escala en miniatura sumamente detallada, movimiento humano realista, texturas cr
 
 <a name="prompt-2100640510083997980"></a>
 
-### Traducción en curso
+### Crear código SVG de una ballena volando a través de las nubes.
 
 Autor：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Publicación original](https://x.com/pankajkumar_dev/status/2100640510083997980)
 
@@ -522,14 +522,14 @@ Ilustración · Publicado
 
 Publicación original：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Publicación original](https://x.com/pankajkumar_dev/status/2100638349296095561)
 
-**Resumen:** Traducción en curso
+**Resumen:** Crear código SVG de una ballena volando a través de las nubes.
 
 <img src="covers/2100640510083997980.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea el código para un SVG de una ballena volando a través de las nubes.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -565,6 +565,28 @@ Aqua llorando en una pradera
 <a name="category-3d-render"></a>
 
 ## Renderizado 3D
+
+<a name="prompt-2101024701044904074"></a>
+
+### Traducción en curso
+
+Autor：[@TimJayas](https://x.com/TimJayas) · [Publicación original](https://x.com/TimJayas/status/2101024701044904074)
+
+Renderizado 3D · Animal / Criatura · Resumen / Antecedentes · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2101024701044904074.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2096885269270237431"></a>
 
@@ -646,13 +668,13 @@ Publicación original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 
 <a name="prompt-2100777289344585856"></a>
 
-### Traducción en curso
+### Convierte una foto en una mascota virtual de juguete digital estilo años 90 y estética Y2K.
 
 Autor：[@catapatino](https://x.com/catapatino) · [Publicación original](https://x.com/catapatino/status/2100777289344585856)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Convierte una foto en una mascota virtual de juguete digital estilo años 90 y estética Y2K.
 
 <img src="images/2100777289344585856-1.jpg" alt="Imagen 1" width="480" />
 
@@ -661,7 +683,7 @@ Otros · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Usa mi foto y conviérteme en una mascota virtual dentro de un dispositivo ovalado al estilo de los juguetes digitales de los años 90. Pantalla pequeña en el centro, marco grueso, pixel art, personaje adorable dentro de la pantalla, estética Y2K.
 ```
 
 [↑ Volver a categorías](#catalog)

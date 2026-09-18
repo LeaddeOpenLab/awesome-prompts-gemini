@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T20:25:38.231Z",
+  "model": "gemini",
+  "prompt": "create a 3D dragon using three.js, use white theme background so main object is visible",
+  "promptTranslations": {
+    "en": "create a 3D dragon using three.js, use white theme background so main object is visible"
+  },
+  "summaryTranslations": {
+    "en": "Prompt to generate an interactive 3D dragon on a white background using Three.js."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt to generate an interactive 3D dragon on a white background using Three.js.",
+  "summaryEn": "Prompt to generate an interactive 3D dragon on a white background using Three.js.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101024701044904074",
+    "canonicalUrl": "https://x.com/TimJayas/status/2101024701044904074",
+    "author": {
+      "username": "TimJayas",
+      "displayName": "Tim Jayas",
+      "profileUrl": "https://x.com/TimJayas"
+    },
+    "publishedAt": "2026-09-18T19:04:58.000Z",
+    "collectedAt": "2026-09-18T20:16:43.822Z",
+    "language": "en",
+    "originalText": "Gemini 4 Pro vs Opus 5 (max)\n\ni gave both models same prompt to build 3D dragon using three.js \n\nthe hype around Gemini 4 Pro is insane so here's a direct comparison against Opus 5 on max effort\n\ntbf Gemini does keeps up with Opus 5's performance which is on max effort and that's impressive in itself, who do you think better?\n\nprompt used: create a 3D dragon using three.js, use white theme background so main object is visible",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/TimJayas/status/2101024701044904074",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101022919698927616/img/yz2vrGSSs-_QC6xz.jpg",
+        "analysisUrl": "https://x.com/TimJayas/status/2101024701044904074"
+      }
+    ],
+    "metrics": {
+      "likeCount": 51,
+      "repostCount": 0,
+      "replyCount": 11,
+      "quoteCount": 0,
+      "viewCount": 5052
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/TimJayas/status/2101024701044904074",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101022919698927616/img/yz2vrGSSs-_QC6xz.jpg",
+  "coverPath": "covers/2101024701044904074.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101022919698927616",
+    "x-post:2101024701044904074"
+  ],
+  "analysis": {
+    "summary": "Prompt to generate an interactive 3D dragon on a white background using Three.js.",
+    "summaryEn": "Prompt to generate an interactive 3D dragon on a white background using Three.js.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video showcases two interactive 3D rendered dragons on white backgrounds generated with Three.js corresponding to both tested models."
+    },
+    "videoQuality": null,
+    "originalPrompt": "create a 3D dragon using three.js, use white theme background so main object is visible",
+    "sourceRange": {
+      "start": 342,
+      "end": 429
+    },
+    "translations": {
+      "zh": "使用 three.js 创建一条 3D 龙，使用白色主题背景以使主体清晰可见",
+      "en": "create a 3D dragon using three.js, use white theme background so main object is visible"
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "text-to-3d",
+    "useCase": "3D asset generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
