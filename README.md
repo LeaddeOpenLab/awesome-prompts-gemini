@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**20** Prompts · Latest addition: **2026-09-18**
+**21** Prompts · Latest addition: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2101199107914424604"></a>
+
+### Everyday-style portrait prompt of a young couple cuddling indoors.
+
+Author：[@55hawks](https://x.com/55hawks) · [Source](https://x.com/55hawks/status/2101199107914424604)
+
+Photography · Portrait / Selfie · Character · Group / Couple · Architecture / Interior · Published
+
+**Summary:** Everyday-style portrait prompt of a young couple cuddling indoors.
+
+<img src="images/2101199107914424604-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A young loving couple cuddling indoors, embraced from behind, both hands gently wrapping around the chest area. Soft natural light, realistic skin texture, smartphone photo style --ar 2:3
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100410821109293122"></a>
 

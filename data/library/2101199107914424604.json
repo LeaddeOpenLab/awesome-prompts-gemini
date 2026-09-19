@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T08:49:50.305Z",
+  "model": "gemini",
+  "prompt": "若い愛し合う男女が室内で寄り添う、背後から抱きしめられて、両手でやさしく胸周りを包まれている。柔らかい自然光、リアルな肌感、スマホ写真風 --ar 2:3",
+  "promptTranslations": {
+    "en": "A young loving couple cuddling indoors, embraced from behind, both hands gently wrapping around the chest area. Soft natural light, realistic skin texture, smartphone photo style --ar 2:3"
+  },
+  "summaryTranslations": {
+    "en": "Everyday-style portrait prompt of a young couple cuddling indoors."
+  },
+  "translationVersion": 2,
+  "summary": "室内で寄り添う若いカップルの日常風ポートレートプロンプト。",
+  "summaryEn": "Prompt for an indoor casual portrait of a young couple embracing.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101199107914424604",
+    "canonicalUrl": "https://x.com/55hawks/status/2101199107914424604",
+    "author": {
+      "username": "55hawks",
+      "displayName": "ストップ!!さとしくん！",
+      "profileUrl": "https://x.com/55hawks"
+    },
+    "publishedAt": "2026-09-19T06:38:00.000Z",
+    "collectedAt": "2026-09-19T08:16:04.286Z",
+    "language": "ja",
+    "originalText": "ChatGPTだと結構攻めた画像を生成します。上手く言葉を足せば更に…😅\n#AIart \nImage generated with Gemini\nPrompt:\n若い愛し合う男女が室内で寄り添う、背後から抱きしめられて、両手でやさしく胸周りを包まれている。柔らかい自然光、リアルな肌感、スマホ写真風 --ar 2:3 https://t.co/r5NUhoFo4q",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSj06coaEAAX3Mq.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSj06coaEAAX3Mq.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 717
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/55hawks/status/2101199107914424604",
+  "coverUrl": "https://pbs.twimg.com/media/HSj06coaEAAX3Mq.jpg",
+  "coverPath": "images/2101199107914424604-1.jpg",
+  "imagePaths": [
+    "images/2101199107914424604-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSj06coaEAAX3Mq",
+    "x-post:2101199107914424604"
+  ],
+  "analysis": {
+    "summary": "室内で寄り添う若いカップルの日常風ポートレートプロンプト。",
+    "summaryEn": "Prompt for an indoor casual portrait of a young couple embracing.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画像は室内で男性が女性を背後から抱きしめている構図であり、自然光やリアルな質感を含めプロンプトの描写と完全に一致している。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "若い愛し合う男女が室内で寄り添う、背後から抱きしめられて、両手でやさしく胸周りを包まれている。柔らかい自然光、リアルな肌感、スマホ写真風 --ar 2:3",
+    "sourceRange": {
+      "start": 81,
+      "end": 158
+    },
+    "translations": {
+      "zh": "一对年轻相爱的情侣在室内相依，男方从背后温柔抱住女方，双手环拥胸前。柔和自然光，逼真肌肤质感，手机抓拍风 --ar 2:3",
+      "en": "A young, loving couple snuggling indoors, hugged from behind with hands gently wrapped around the chest area. Soft natural light, realistic skin texture, smartphone photo style --ar 2:3"
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "text-to-image",
+    "useCase": "日常人物情侣摄影",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
