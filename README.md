@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**21** Prompts · Latest addition: **2026-09-19**
+**22** Prompts · Latest addition: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -575,6 +575,28 @@ Aqua crying in a grassy field
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2101304547876700627"></a>
+
+### Generate an exquisite interactive mechanical butterfly 3D model in Three.js.
+
+Author：[@thtbee\_](https://x.com/thtbee_) · [Source](https://x.com/thtbee_/status/2101304547876700627)
+
+3D Render · Published
+
+**Summary:** Generate an exquisite interactive mechanical butterfly 3D model in Three.js.
+
+<img src="covers/2101304547876700627.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+create a beautiful mechanical butterfly in three.js
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101024701044904074"></a>
 
