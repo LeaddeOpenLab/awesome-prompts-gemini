@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**22** Prompts · Latest addition: **2026-09-19**
+**23** Prompts · Latest addition: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -697,6 +697,28 @@ Source：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2101393659115503783"></a>
+
+### A surreal digital artwork of a young man in a yellow hoodie sitting on a cloud.
+
+Author：[@richardvictor82](https://x.com/richardvictor82) · [Source](https://x.com/richardvictor82/status/2101393659115503783)
+
+Portrait / Selfie · Character · Published
+
+**Summary:** A surreal digital artwork of a young man in a yellow hoodie sitting on a cloud.
+
+<img src="images/2101393659115503783-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A surreal digital artwork of a young man sitting comfortably on a fluffy white cloud high in the sky, wearing a yellow hoodie, blue joggers, red and white sneakers, and a pastel-colored cap.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100777289344585856"></a>
 

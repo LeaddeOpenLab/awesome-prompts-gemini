@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**22** Prompt · Ultima aggiunta: **2026-09-19**
+**23** Prompt · Ultima aggiunta: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -245,20 +245,26 @@ Fermo immagine cinematografico / Still fotografico · Paesaggio / Natura · Pubb
 
 <a name="prompt-2099370488342647240"></a>
 
-### Traduzione in corso
+### Un piano sequenza continuo che segue un uomo che apre una porta-portale che compie una transizione attraverso Parigi, una Tokyo futuristica, l'antica Roma e un pianeta alieno prima di fondersi.
 
 Autore：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Post originale](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Fermo immagine cinematografico / Still fotografico · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un piano sequenza continuo che segue un uomo che apre una porta-portale che compie una transizione attraverso Parigi, una Tokyo futuristica, l'antica Roma e un pianeta alieno prima di fondersi.
 
 <img src="covers/2099370488342647240.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video fantasy cinematografico ultra-realistico di 10 secondi in un unico piano sequenza continuo. Un bel giovane poco più che ventenne, con folti capelli corvini naturalmente ondulati, occhi marrone scuro, mascella maschile scolpita, una leggera barba incolta e con indosso un sofisticato cappotto lungo scuro, si trova in un misterioso corridoio debolmente illuminato di fronte a una vecchia porta di legno ordinaria.
+0–2 sec: Allunga lentamente la mano verso la maniglia di ottone, apre la porta e rivela una Parigi romantica durante la golden hour: la Torre Eiffel, eleganti edifici haussmanniani, caffè luminosi, una luce d'atmosfera calda.
+2–4 sec: Senza stacchi, il vano della porta si trasforma istantaneamente in una Tokyo futuristica di notte: imponenti grattacieli al neon, pubblicità olografiche, veicoli volanti, strade bagnate di pioggia, riflessi vivaci.
+4–6 sec: Il mondo cambia di nuovo trasformandosi nell'antica Roma: il maestoso Colosseo, colonne di marmo, architettura romana, luce di torce, folle distanti e una sottile polvere che fluttua nell'aria.
+6–8 sec: Il vano della porta si trasforma in un pianeta alieno mozzafiato: cieli viola, lune enormi, vegetazione aliena luminescente, strane montagne e distanti strutture futuristiche.
+8–10 sec: L'uomo si fa avanti verso la soglia mentre tutti e quattro i mondi si fondono e vorticano rapidamente insieme all'interno della porta, creando uno spettacolare portale di mondi infiniti. Ha un'espressione stupita mentre la telecamera avanza lentamente verso la soglia luminosa.
+Stile: fotorealistico, qualità da blockbuster cinematografico, transizioni magiche senza soluzione di continuità, fisica realistica, illuminazione volumetrica, profondità atmosferica, ambienti dettagliati, movimenti umani naturali, movimenti di camera drammatici, 8K HDR, alta gamma dinamica, pelle e tessuti realistici, profondità di campo cinematografica, scala epica, nessun testo, nessun sottotitolo, nessun watermark, nessun glitch, nessun volto distorto, nessun arto extra. Ritmo perfetto per esattamente 10 secondi, con ogni mondo chiaramente visibile per circa 2 secondi.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -455,7 +461,7 @@ Scala in miniatura altamente dettagliata, movimento umano realistico, consistenz
 
 <a name="prompt-2100640510083997980"></a>
 
-### Traduzione in corso
+### Crea il codice SVG di una balena che vola tra le nuvole.
 
 Autore：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Post originale](https://x.com/pankajkumar_dev/status/2100640510083997980)
 
@@ -463,14 +469,14 @@ Illustrazione · Pubblicato
 
 Post originale：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Post originale](https://x.com/pankajkumar_dev/status/2100638349296095561)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea il codice SVG di una balena che vola tra le nuvole.
 
 <img src="covers/2100640510083997980.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea il codice per un SVG di una balena che vola tra le nuvole.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -629,15 +635,37 @@ Post originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Post orig
 
 ## Altro
 
-<a name="prompt-2100777289344585856"></a>
+<a name="prompt-2101393659115503783"></a>
 
 ### Traduzione in corso
+
+Autore：[@richardvictor82](https://x.com/richardvictor82) · [Post originale](https://x.com/richardvictor82/status/2101393659115503783)
+
+Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101393659115503783-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100777289344585856"></a>
+
+### Trasforma una foto in un animale domestico virtuale in stile giocattolo digitale anni '90 ed estetica Y2K.
 
 Autore：[@catapatino](https://x.com/catapatino) · [Post originale](https://x.com/catapatino/status/2100777289344585856)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Trasforma una foto in un animale domestico virtuale in stile giocattolo digitale anni '90 ed estetica Y2K.
 
 <img src="images/2100777289344585856-1.jpg" alt="Immagine 1" width="480" />
 
@@ -646,7 +674,7 @@ Altro · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Usa la mia foto e trasformami in un animale virtuale all'interno di un dispositivo ovale nello stile dei giocattoli digitali degli anni '90. Piccolo schermo al centro, cornice spessa, pixel art, adorabile personaggio all'interno dello schermo, estetica Y2K.
 ```
 
 [↑ Torna alle categorie](#catalog)

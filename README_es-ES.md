@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**22** Prompts · Última incorporación: **2026-09-19**
+**23** Prompts · Última incorporación: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -197,20 +197,26 @@ Cine / Fotograma de película · Paisaje / Naturaleza · Publicado
 
 <a name="prompt-2099370488342647240"></a>
 
-### Traducción en curso
+### Una toma continua que sigue a un hombre abriendo una puerta portal que transiciona a través de París, un Tokio futurista, la antigua Roma y un planeta alienígena antes de fusionarse.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicación original](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Cine / Fotograma de película · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una toma continua que sigue a un hombre abriendo una puerta portal que transiciona a través de París, un Tokio futurista, la antigua Roma y un planeta alienígena antes de fusionarse.
 
 <img src="covers/2099370488342647240.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video de fantasía cinematográfica ultrarrealista de 10 segundos en una sola toma continua. Un apuesto joven de poco más de 20 años, con cabello negro azabache grueso y naturalmente ondulado, ojos marrón oscuro, mandíbula masculina definida, barba sutil de tres días, y vestido con un sofisticado abrigo largo oscuro, se encuentra en un misterioso pasillo tenuemente iluminado frente a una vieja puerta de madera ordinaria.
+0–2 seg: Extiende lentamente la mano hacia la manija de latón, abre la puerta y revela el París romántico en la hora dorada: la Torre Eiffel, elegantes edificios de estilo Haussmann, cafés resplandecientes, una luz atmosférica cálida.
+2–4 seg: Sin cortes, el umbral se transforma instantáneamente en el Tokio futurista de noche: rascacielos imponentes de neón, anuncios holográficos, vehículos voladores, calles empapadas por la lluvia, reflejos vibrantes.
+4–6 seg: El mundo vuelve a cambiar a la antigua Roma: el colosal Coliseo, columnas de mármol, arquitectura romana, luz de antorchas, multitudes lejanas y polvo sutil flotando en el aire.
+6–8 seg: El umbral se transforma en un impresionante planeta alienígena: cielos púrpuras, lunas enormes, vegetación alienígena brillante, montañas extrañas y estructuras futuristas distantes.
+8–10 seg: El hombre da un paso hacia el umbral mientras los cuatro mundos se mezclan y arremolinan rápidamente en el interior de la puerta, creando un espectacular portal de mundos infinitos. Se le ve asombrado mientras la cámara avanza lentamente hacia el umbral resplandeciente.
+Estilo: fotorrealista, calidad de superproducción cinematográfica, transiciones mágicas fluidas, física realista, iluminación volumétrica, profundidad atmosférica, entornos detallados, movimiento humano natural, movimiento de cámara dramático, 8K HDR, alto rango dinámico, piel y telas realistas, profundidad de campo cinematográfica, escala épica, sin texto, sin subtítulos, sin marcas de agua, sin fallos técnicos, sin rostros distorsionados, sin extremidades adicionales. Con un ritmo perfecto para exactamente 10 segundos, con cada mundo claramente visible durante aproximadamente 2 segundos.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -477,7 +483,7 @@ Escala en miniatura sumamente detallada, movimiento humano realista, texturas cr
 
 <a name="prompt-2100640510083997980"></a>
 
-### Traducción en curso
+### Crear el código SVG de una ballena volando a través de las nubes.
 
 Autor：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Publicación original](https://x.com/pankajkumar_dev/status/2100640510083997980)
 
@@ -485,14 +491,14 @@ Ilustración · Publicado
 
 Publicación original：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Publicación original](https://x.com/pankajkumar_dev/status/2100638349296095561)
 
-**Resumen:** Traducción en curso
+**Resumen:** Crear el código SVG de una ballena volando a través de las nubes.
 
 <img src="covers/2100640510083997980.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea el código para un SVG de una ballena volando a través de las nubes.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -651,15 +657,37 @@ Publicación original：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 
 ## Otros
 
-<a name="prompt-2100777289344585856"></a>
+<a name="prompt-2101393659115503783"></a>
 
 ### Traducción en curso
+
+Autor：[@richardvictor82](https://x.com/richardvictor82) · [Publicación original](https://x.com/richardvictor82/status/2101393659115503783)
+
+Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2101393659115503783-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2100777289344585856"></a>
+
+### Convierte una foto en una mascota virtual de juguete digital estilo años 90 y estética Y2K.
 
 Autor：[@catapatino](https://x.com/catapatino) · [Publicación original](https://x.com/catapatino/status/2100777289344585856)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Convierte una foto en una mascota virtual de juguete digital estilo años 90 y estética Y2K.
 
 <img src="images/2100777289344585856-1.jpg" alt="Imagen 1" width="480" />
 
@@ -668,7 +696,7 @@ Otros · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Usa mi foto y conviérteme en una mascota virtual dentro de un dispositivo ovalado al estilo de los juguetes digitales de los años 90. Pantalla pequeña en el centro, marco grueso, pixel art, personaje adorable dentro de la pantalla, estética Y2K.
 ```
 
 [↑ Volver a categorías](#catalog)
