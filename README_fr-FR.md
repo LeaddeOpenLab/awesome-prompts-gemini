@@ -35,20 +35,20 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2101199107914424604"></a>
 
-### Traduction en cours
+### Prompt de portrait au style quotidien d'un jeune couple blotti à l'intérieur.
 
 Auteur：[@55hawks](https://x.com/55hawks) · [Publication originale](https://x.com/55hawks/status/2101199107914424604)
 
 Photographie · Portrait / Selfie · Personnage · Groupe / Couple · Architecture / Intérieur · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait au style quotidien d'un jeune couple blotti à l'intérieur.
 
 <img src="images/2101199107914424604-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Un jeune couple amoureux blotti l'un contre l'autre à l'intérieur, enlacé par derrière, les mains enveloppant doucement la poitrine. Lumière naturelle douce, texture de peau réaliste, style photo de smartphone --ar 2:3
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -245,26 +245,20 @@ Image cinématographique / Photogramme de film · Paysage / Nature · Publié
 
 <a name="prompt-2099370488342647240"></a>
 
-### Un plan continu suivant un homme qui ouvre une porte formant un portail qui passe successivement par Paris, un Tokyo futuriste, la Rome antique et une planète extraterrestre avant de fusionner.
+### Traduction en cours
 
 Auteur：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publication originale](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Image cinématographique / Photogramme de film · Personnage · Publié
 
-**Résumé:** Un plan continu suivant un homme qui ouvre une porte formant un portail qui passe successivement par Paris, un Tokyo futuriste, la Rome antique et une planète extraterrestre avant de fusionner.
+**Résumé:** Traduction en cours
 
 <img src="covers/2099370488342647240.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Créez une vidéo fantastique cinématographique ultra-réaliste de 10 secondes en un seul plan continu. Un bel homme jeune au début de la vingtaine, aux cheveux noir de jais naturellement ondulés et épais, aux yeux brun foncé, à la mâchoire masculine bien définie, avec une barbe de quelques jours subtile et vêtu d'un long manteau sombre sophistiqué, se tient dans un couloir mystérieux et faiblement éclairé face à une vieille porte en bois ordinaire.
-0–2 sec : Il tend lentement la main vers la poignée en laiton, ouvre la porte et dévoile un Paris romantique à l'heure dorée — la Tour Eiffel, d'élégants immeubles haussmanniens, des cafés illuminés, une lumière atmosphérique chaleureuse.
-2–4 sec : Sans coupe, l'encadrement de la porte se transforme instantanément en un Tokyo futuriste de nuit — des gratte-ciel néon imposants, des publicités holographiques, des véhicules volants, des rues trempées de pluie, des reflets éclatants.
-4–6 sec : Le monde change à nouveau pour devenir la Rome antique — un imposant Colisée, des colonnes de marbre, une architecture romaine, la lueur des flambeaux, des foules lointaines et une poussière subtile flottant dans l'air.
-6–8 sec : L'encadrement se transforme en une planète extraterrestre à couper le souffle — des ciels pourpres, d'immenses lunes, une végétation extraterrestre luminescente, d'étranges montagnes et de lointaines structures futuristes.
-8–10 sec : L'homme s'avance vers le pas de la porte alors que les quatre mondes fusionnent et tourbillonnent rapidement ensemble à l'intérieur de la porte, créant un spectaculaire portail de mondes infinis. Il a l'air émerveillé tandis que la caméra avance lentement vers la porte luminescente.
-Style : photoréaliste, qualité de blockbuster cinématographique, transitions magiques fluides, physique réaliste, éclairage volumétrique, profondeur atmosphérique, environnements détaillés, mouvements humains naturels, mouvements de caméra dramatiques, 8K HDR, plage dynamique élevée, peau et tissus réalistes, profondeur de champ cinématographique, échelle épique, pas de texte, pas de sous-titres, pas de filigrane, pas de bugs, pas de visage déformé, pas de membres supplémentaires. Parfaitement rythmé pour exactement 10 secondes, chaque monde étant clairement visible pendant environ 2 secondes.
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -536,7 +530,7 @@ Créez une vidéo cinématographique miniature ultra-réaliste de 10 secondes se
 
 <a name="prompt-2100640510083997980"></a>
 
-### Créer le code SVG d'une baleine volant à travers les nuages.
+### Traduction en cours
 
 Auteur：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Publication originale](https://x.com/pankajkumar_dev/status/2100640510083997980)
 
@@ -544,14 +538,14 @@ Illustration · Publié
 
 Publication originale：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Publication originale](https://x.com/pankajkumar_dev/status/2100638349296095561)
 
-**Résumé:** Créer le code SVG d'une baleine volant à travers les nuages.
+**Résumé:** Traduction en cours
 
 <img src="covers/2100640510083997980.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Créez le code pour un SVG d'une baleine volant à travers les nuages.
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -690,13 +684,13 @@ Publication originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Pu
 
 <a name="prompt-2100777289344585856"></a>
 
-### Transforme une photo en un animal virtuel de jouet numérique style années 90 et esthétique Y2K.
+### Traduction en cours
 
 Auteur：[@catapatino](https://x.com/catapatino) · [Publication originale](https://x.com/catapatino/status/2100777289344585856)
 
 Autres · Publié
 
-**Résumé:** Transforme une photo en un animal virtuel de jouet numérique style années 90 et esthétique Y2K.
+**Résumé:** Traduction en cours
 
 <img src="images/2100777289344585856-1.jpg" alt="Image 1" width="480" />
 
@@ -705,7 +699,7 @@ Autres · Publié
 **Consigne**
 
 ```text
-Utilise ma photo et transforme-moi en animal virtuel à l'intérieur d'un appareil ovale dans le style des jouets numériques des années 90. Petit écran au centre, cadre épais, pixel art, personnage adorable à l'intérieur de l'écran, esthétique Y2K.
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
