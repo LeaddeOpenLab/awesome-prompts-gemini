@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**24** Prompts · Última adição: **2026-09-20**
+**25** Prompts · Última adição: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -538,6 +538,30 @@ Aqua chorando em um campo de grama
 <a name="category-3d-render"></a>
 
 ## Renderização 3D
+
+<a name="prompt-2101687900723106104"></a>
+
+### Tradução em andamento
+
+Autor：[@marcthecreatorr](https://x.com/marcthecreatorr) · [Publicação original](https://x.com/marcthecreatorr/status/2101687900723106104)
+
+Renderização 3D · Publicado
+
+Publicação original：[@marcthecreatorr](https://x.com/marcthecreatorr) · [Publicação original](https://x.com/marcthecreatorr/status/2101589499943796896)
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2101687900723106104.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2101304547876700627"></a>
 

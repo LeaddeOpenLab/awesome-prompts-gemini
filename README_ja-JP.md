@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**24** 件 · 最新の追加: **2026-09-20**
+**25** 件 · 最新の追加: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -607,6 +607,30 @@ HDRスタイルのダイナミックレンジ。
 <a name="category-3d-render"></a>
 
 ## 3D レンダリング
+
+<a name="prompt-2101687900723106104"></a>
+
+### 翻訳中
+
+作者：[@marcthecreatorr](https://x.com/marcthecreatorr) · [元の投稿](https://x.com/marcthecreatorr/status/2101687900723106104)
+
+3D レンダリング · 配信済み
+
+元の投稿：[@marcthecreatorr](https://x.com/marcthecreatorr) · [元の投稿](https://x.com/marcthecreatorr/status/2101589499943796896)
+
+**概要:** 翻訳中
+
+<img src="covers/2101687900723106104.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2101304547876700627"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**24** Prompt · Ultima aggiunta: **2026-09-20**
+**25** Prompt · Ultima aggiunta: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -538,6 +538,30 @@ Aqua che piange in un prato
 <a name="category-3d-render"></a>
 
 ## Rendering 3D
+
+<a name="prompt-2101687900723106104"></a>
+
+### Traduzione in corso
+
+Autore：[@marcthecreatorr](https://x.com/marcthecreatorr) · [Post originale](https://x.com/marcthecreatorr/status/2101687900723106104)
+
+Rendering 3D · Pubblicato
+
+Post originale：[@marcthecreatorr](https://x.com/marcthecreatorr) · [Post originale](https://x.com/marcthecreatorr/status/2101589499943796896)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2101687900723106104.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2101304547876700627"></a>
 

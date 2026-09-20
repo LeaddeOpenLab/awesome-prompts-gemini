@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**24** 条内容 · 最新收录: **2026-09-20**
+**25** 条内容 · 最新收录: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -607,6 +607,30 @@ HDR风格的高动态范围。
 <a name="category-3d-render"></a>
 
 ## 3D 渲染
+
+<a name="prompt-2101687900723106104"></a>
+
+### 翻译中
+
+作者：[@marcthecreatorr](https://x.com/marcthecreatorr) · [查看 X 原帖](https://x.com/marcthecreatorr/status/2101687900723106104)
+
+3D 渲染 · 已推流
+
+查看 X 原帖：[@marcthecreatorr](https://x.com/marcthecreatorr) · [查看 X 原帖](https://x.com/marcthecreatorr/status/2101589499943796896)
+
+**概括:** 翻译中
+
+<img src="covers/2101687900723106104.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2101304547876700627"></a>
 

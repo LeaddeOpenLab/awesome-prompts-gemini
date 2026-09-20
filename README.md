@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**24** Prompts · Latest addition: **2026-09-20**
+**25** Prompts · Latest addition: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -602,6 +602,30 @@ Aqua crying in a grassy field
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2101687900723106104"></a>
+
+### Create a 3D asset of the WALL-E robot using Three.js.
+
+Author：[@marcthecreatorr](https://x.com/marcthecreatorr) · [Source](https://x.com/marcthecreatorr/status/2101687900723106104)
+
+3D Render · Published
+
+Source：[@marcthecreatorr](https://x.com/marcthecreatorr) · [Source](https://x.com/marcthecreatorr/status/2101589499943796896)
+
+**Summary:** Create a 3D asset of the WALL-E robot using Three.js.
+
+<img src="covers/2101687900723106104.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+create a 3d model of wall-e in three.js.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101304547876700627"></a>
 

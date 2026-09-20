@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**24** Prompts · Última incorporación: **2026-09-20**
+**25** Prompts · Última incorporación: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -613,6 +613,30 @@ Aqua llorando en una pradera
 <a name="category-3d-render"></a>
 
 ## Renderizado 3D
+
+<a name="prompt-2101687900723106104"></a>
+
+### Traducción en curso
+
+Autor：[@marcthecreatorr](https://x.com/marcthecreatorr) · [Publicación original](https://x.com/marcthecreatorr/status/2101687900723106104)
+
+Renderizado 3D · Publicado
+
+Publicación original：[@marcthecreatorr](https://x.com/marcthecreatorr) · [Publicación original](https://x.com/marcthecreatorr/status/2101589499943796896)
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2101687900723106104.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2101304547876700627"></a>
 

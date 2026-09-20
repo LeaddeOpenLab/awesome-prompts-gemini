@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**24** Prompt · Son eklenen: **2026-09-20**
+**25** Prompt · Son eklenen: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -538,6 +538,30 @@ Yazar：[@HopeAbsent](https://x.com/HopeAbsent) · [Orijinal gönderi](https://x
 <a name="category-3d-render"></a>
 
 ## 3D Modelleme
+
+<a name="prompt-2101687900723106104"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@marcthecreatorr](https://x.com/marcthecreatorr) · [Orijinal gönderi](https://x.com/marcthecreatorr/status/2101687900723106104)
+
+3D Modelleme · Yayımlandı
+
+Orijinal gönderi：[@marcthecreatorr](https://x.com/marcthecreatorr) · [Orijinal gönderi](https://x.com/marcthecreatorr/status/2101589499943796896)
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101687900723106104.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2101304547876700627"></a>
 

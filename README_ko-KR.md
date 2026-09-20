@@ -19,7 +19,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**24** 개 · 최근 추가: **2026-09-20**
+**25** 개 · 최근 추가: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -607,6 +607,30 @@ HDR 스타일의 다이내믹 레인지.
 <a name="category-3d-render"></a>
 
 ## 3D 렌더링
+
+<a name="prompt-2101687900723106104"></a>
+
+### 번역 중
+
+작성자：[@marcthecreatorr](https://x.com/marcthecreatorr) · [원본 게시물](https://x.com/marcthecreatorr/status/2101687900723106104)
+
+3D 렌더링 · 배포 완료
+
+원본 게시물：[@marcthecreatorr](https://x.com/marcthecreatorr) · [원본 게시물](https://x.com/marcthecreatorr/status/2101589499943796896)
+
+**요약:** 번역 중
+
+<img src="covers/2101687900723106104.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2101304547876700627"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**24** Prompt · Bổ sung mới nhất: **2026-09-20**
+**25** Prompt · Bổ sung mới nhất: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -560,6 +560,30 @@ Aqua đang khóc trên đồng cỏ
 <a name="category-3d-render"></a>
 
 ## Kết xuất 3D
+
+<a name="prompt-2101687900723106104"></a>
+
+### Đang dịch
+
+Tác giả：[@marcthecreatorr](https://x.com/marcthecreatorr) · [Bài gốc](https://x.com/marcthecreatorr/status/2101687900723106104)
+
+Kết xuất 3D · Đã xuất bản
+
+Bài gốc：[@marcthecreatorr](https://x.com/marcthecreatorr) · [Bài gốc](https://x.com/marcthecreatorr/status/2101589499943796896)
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101687900723106104.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2101304547876700627"></a>
 

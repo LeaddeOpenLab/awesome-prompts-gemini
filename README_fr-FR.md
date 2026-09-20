@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**24** Prompts · Dernier ajout: **2026-09-20**
+**25** Prompts · Dernier ajout: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -613,6 +613,30 @@ Aqua en train de pleurer dans une prairie
 <a name="category-3d-render"></a>
 
 ## Rendu 3D
+
+<a name="prompt-2101687900723106104"></a>
+
+### Traduction en cours
+
+Auteur：[@marcthecreatorr](https://x.com/marcthecreatorr) · [Publication originale](https://x.com/marcthecreatorr/status/2101687900723106104)
+
+Rendu 3D · Publié
+
+Publication originale：[@marcthecreatorr](https://x.com/marcthecreatorr) · [Publication originale](https://x.com/marcthecreatorr/status/2101589499943796896)
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2101687900723106104.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2101304547876700627"></a>
 

@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T16:28:09.250Z",
+  "model": "gemini",
+  "prompt": "create a 3d model of wall-e in three.js.",
+  "promptTranslations": {
+    "en": "create a 3d model of wall-e in three.js."
+  },
+  "summaryTranslations": {
+    "en": "Create a 3D asset of the WALL-E robot using Three.js."
+  },
+  "translationVersion": 2,
+  "summary": "使用 Three.js 创建 WALL-E 机器人的 3D 资产。",
+  "summaryEn": "Create a 3D model of WALL-E using Three.js.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2101589499943796896",
+      "canonicalUrl": "https://x.com/marcthecreatorr/status/2101589499943796896",
+      "author": {
+        "username": "marcthecreatorr",
+        "displayName": "Marcel",
+        "profileUrl": "https://x.com/marcthecreatorr"
+      },
+      "originalText": "🚨gemini 4 Pro leaks\n\nGoogle reportedly has its first pro checkpoint ready\n\ngemini 4 pro is already being tested on arena, possibly disguised as “gemini-3.8-flash”\n\nleaked benchmarks put it ahead of GPT 6 Astra and Fable 5.1\n\noctober is being floated for release but late september still possible\n\nnothing confirmed yet, but the early outputs look ridiculous (dropping some results soon) \n\ncould gemini 4 pro actually beat Astra?"
+    },
+    "id": "2101687900723106104",
+    "canonicalUrl": "https://x.com/marcthecreatorr/status/2101687900723106104",
+    "author": {
+      "username": "marcthecreatorr",
+      "displayName": "Marcel",
+      "profileUrl": "https://x.com/marcthecreatorr"
+    },
+    "publishedAt": "2026-09-20T15:00:17.000Z",
+    "collectedAt": "2026-09-20T16:16:34.155Z",
+    "language": "en",
+    "originalText": "Gemini 4 Pro might actually give GPT 6 Astra some competition on 3D\n\nthis output from Arena caught my attention, so i gave Astra the exact same prompt:\n\n- create a 3d model of wall-e in three.js.\n- Astra took around 15 minutes to make the full thing \n\nGemini’s tiny animations and interactions are really good but Astra held up surprisingly well.\n\nthis one is pretty close. \n\nbe honest which output do you prefer?",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/marcthecreatorr/status/2101687900723106104",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101687781894258688/img/xBMtUr40jLcHUxp7.jpg",
+        "analysisUrl": "https://x.com/marcthecreatorr/status/2101687900723106104"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSpYgeuWgAA0ZRy.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSpYgeuWgAA0ZRy.jpg",
+        "sourcePostId": "2101589499943796896"
+      }
+    ],
+    "metrics": {
+      "likeCount": 23,
+      "repostCount": 4,
+      "replyCount": 11,
+      "quoteCount": 0,
+      "viewCount": 579
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/marcthecreatorr/status/2101687900723106104",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101687781894258688/img/xBMtUr40jLcHUxp7.jpg",
+  "coverPath": "covers/2101687900723106104.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101687781894258688",
+    "x-image:/media/HSpYgeuWgAA0ZRy",
+    "x-post:2101687900723106104",
+    "x-post:2101589499943796896"
+  ],
+  "analysis": {
+    "summary": "使用 Three.js 创建 WALL-E 机器人的 3D 资产。",
+    "summaryEn": "Create a 3D model of WALL-E using Three.js.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频展示了由 Gemini 4 Pro 与 GPT 6 Astra 生成的交互式 WALL-E 3D 模型，与提示词完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "create a 3d model of wall-e in three.js.",
+    "sourceRange": {
+      "start": 155,
+      "end": 195
+    },
+    "translations": {
+      "zh": "在 Three.js 中创建一个 WALL-E 的 3D 模型。",
+      "en": "create a 3d model of wall-e in three.js."
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "text-to-3d",
+    "useCase": "3D 建模",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "WALL-E (Disney/Pixar)"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
