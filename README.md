@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**23** Prompts · Latest addition: **2026-09-19**
+**24** Prompts · Latest addition: **2026-09-20**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [3D Render](#category-3d-render) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [3D Render](#category-3d-render) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -512,6 +512,33 @@ Create a 10-second ultra-realistic cinematic miniature video set inside a gigant
 3–7 sec: Close-up tracking shot as the bakers pipe thick swirls of cream, add strawberries and sprinkles, and carefully place giant colorful candles.
 7–10 sec: Dramatic cinematic pull-back revealing the fully decorated birthday cake, glowing warmly under factory lights as the tiny bakers celebrate around it.
 Highly detailed miniature scale, realistic human movement, creamy frosting textures, colorful decorations, warm bakery lighting, shallow depth of field, cinematic camera movement, macro photography look, playful but photorealistic, 4K, 16:9, no text, no logos, no music, only natural ASMR bakery sounds such as frosting being piped, footsteps, tools clinking, and soft factory ambience.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2101472711335878834"></a>
+
+### Animation instructions in a 2D paper game style, maintaining the character from a child's drawing.
+
+Author：[@ikura\_no\_oyaji](https://x.com/ikura_no_oyaji) · [Source](https://x.com/ikura_no_oyaji/status/2101472711335878834)
+
+Anime / Manga · Character · Published
+
+**Summary:** Animation instructions in a 2D paper game style, maintaining the character from a child's drawing.
+
+<img src="covers/2101472711335878834.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Do not alter the attached character, keep it as is.
+2D paper game.
 ```
 
 [↑ Back to categories](#catalog)

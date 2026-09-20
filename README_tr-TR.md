@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**23** Prompt · Son eklenen: **2026-09-19**
+**24** Prompt · Son eklenen: **2026-09-20**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [İllüstrasyon](#category-illustration) · [3D Modelleme](#category-3d-render) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [İllüstrasyon](#category-illustration) · [3D Modelleme](#category-3d-render) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -245,20 +245,26 @@ Sinematik / Film Karesi · Manzara / Doğa · Yayımlandı
 
 <a name="prompt-2099370488342647240"></a>
 
-### Çeviri sürüyor
+### Birbirine karışmadan önce Paris, fütüristik Tokyo, antik Roma ve bir uzaylı gezegeni arasında geçiş yapan bir portal kapısını açan bir adamı takip eden kesintisiz bir çekim.
 
 Yazar：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Orijinal gönderi](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Sinematik / Film Karesi · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Birbirine karışmadan önce Paris, fütüristik Tokyo, antik Roma ve bir uzaylı gezegeni arasında geçiş yapan bir portal kapısını açan bir adamı takip eden kesintisiz bir çekim.
 
 <img src="covers/2099370488342647240.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tek bir kesintisiz çekimde 10 saniyelik ultra gerçekçi, sinematik bir fantastik video oluşturun. 20'li yaşlarının başında, gür ve doğal dalgalı simsiyah saçlı, koyu kahverengi gözlü, keskin erkeksi çene hatlarına sahip, hafif kirli sakallı ve sofistike, koyu renk uzun bir palto giymiş yakışıklı bir genç adam, loş ve gizemli bir koridorda sıradan eski ahşap bir kapının önünde duruyor.
+0–2 sn: Pirinç kapı koluna doğru yavaşça uzanır, kapıyı açar ve altın saatteki romantik Paris'i gözler önüne serer — Eyfel Kulesi, zarif Haussmann binaları, ışıldayan kafeler, sıcak atmosferik ışık.
+2–4 sn: Hiçbir kesme olmadan, kapı aralığı anında fütüristik bir gece Tokyo'suna dönüşür — yükselen neon gökdelenler, holografik reklamlar, uçan araçlar, yağmurla ıslanmış sokaklar, canlı yansımalar.
+4–6 sn: Dünya tekrar antik Roma'ya dönüşür — devasa Kolezyum, mermer sütunlar, Roma mimarisi, meşale ışığı, uzaktaki kalabalıklar ve havada usulca süzülen toz zerreleri.
+6–8 sn: Kapı aralığı nefes kesici bir uzaylı gezegenine dönüşür — mor gökyüzü, devasa aylar, parlayan uzaylı bitki örtüsü, tuhaf dağlar ve uzaktaki fütüristik yapılar.
+8–10 sn: Dört dünyanın tümü kapının içinde hızla karışıp girdap gibi dönerek muhteşem bir sonsuz dünya portalı oluştururken, adam kapı eşiğine doğru bir adım atar. Kamera yavaşça parlayan kapı aralığına doğru ilerlerken adam hayranlık içinde görünür.
+Stil: fotogerçekçi, sinematik gişe filmi kalitesi, kusursuz büyülü geçişler, gerçekçi fizik, hacimsel aydınlatma, atmosferik derinlik, ayrıntılı ortamlar, doğal insan hareketi, dramatik kamera hareketi, 8K HDR, yüksek dinamik aralık, gerçekçi ten ve kumaş dokusu, sinematik alan derinliği, epik ölçek, metin yok, altyazı yok, filigran yok, görsel bozulma yok, çarpık yüz yok, fazladan uzuv yok. Her bir dünya yaklaşık 2 saniye boyunca net şekilde görünecek biçimde, tam olarak 10 saniye için kusursuzca tempolanmış.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -449,13 +455,39 @@ Yüksek derecede ayrıntılı minyatür ölçek, gerçekçi insan hareketi, krem
 
 ---
 
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2101472711335878834"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@ikura\_no\_oyaji](https://x.com/ikura_no_oyaji) · [Orijinal gönderi](https://x.com/ikura_no_oyaji/status/2101472711335878834)
+
+Anime / Manga · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101472711335878834.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="category-illustration"></a>
 
 ## İllüstrasyon
 
 <a name="prompt-2100640510083997980"></a>
 
-### Çeviri sürüyor
+### Bulutların arasında uçan bir balinanın SVG kodunu oluşturun.
 
 Yazar：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Orijinal gönderi](https://x.com/pankajkumar_dev/status/2100640510083997980)
 
@@ -463,14 +495,14 @@ Yazar：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Orijinal gönderi
 
 Orijinal gönderi：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Orijinal gönderi](https://x.com/pankajkumar_dev/status/2100638349296095561)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bulutların arasında uçan bir balinanın SVG kodunu oluşturun.
 
 <img src="covers/2100640510083997980.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bulutların arasında uçan bir balinanın SVG'si için kod oluşturun.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -653,13 +685,13 @@ Gökyüzünün yükseklerinde, bembeyaz ve pofuduk bir bulutun üzerinde rahatç
 
 <a name="prompt-2100777289344585856"></a>
 
-### Çeviri sürüyor
+### Bir fotoğrafı 90'lar tarzı dijital oyuncak ve Y2K estetiğine sahip sanal bir evcil hayvana dönüştürün.
 
 Yazar：[@catapatino](https://x.com/catapatino) · [Orijinal gönderi](https://x.com/catapatino/status/2100777289344585856)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir fotoğrafı 90'lar tarzı dijital oyuncak ve Y2K estetiğine sahip sanal bir evcil hayvana dönüştürün.
 
 <img src="images/2100777289344585856-1.jpg" alt="Görsel 1" width="480" />
 
@@ -668,7 +700,7 @@ Diğer · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Fotoğrafımı kullan ve beni 90'ların dijital oyuncakları tarzında oval bir cihazın içinde sanal bir evcil hayvana dönüştür. Ortada küçük ekran, kalın çerçeve, piksel sanatı, ekranın içinde sevimli bir karakter, Y2K estetiği.
 ```
 
 [↑ Kategorilere dön](#catalog)

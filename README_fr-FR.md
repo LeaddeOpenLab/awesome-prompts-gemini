@@ -19,13 +19,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**23** Prompts · Dernier ajout: **2026-09-19**
+**24** Prompts · Dernier ajout: **2026-09-20**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Rendu 3D](#category-3d-render) · [Autres](#category-other)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Rendu 3D](#category-3d-render) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -245,20 +245,26 @@ Image cinématographique / Photogramme de film · Paysage / Nature · Publié
 
 <a name="prompt-2099370488342647240"></a>
 
-### Traduction en cours
+### Un plan continu suivant un homme qui ouvre une porte formant un portail qui passe successivement par Paris, un Tokyo futuriste, la Rome antique et une planète extraterrestre avant de fusionner.
 
 Auteur：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publication originale](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Image cinématographique / Photogramme de film · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un plan continu suivant un homme qui ouvre une porte formant un portail qui passe successivement par Paris, un Tokyo futuriste, la Rome antique et une planète extraterrestre avant de fusionner.
 
 <img src="covers/2099370488342647240.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo fantastique cinématographique ultra-réaliste de 10 secondes en un seul plan continu. Un bel homme jeune au début de la vingtaine, aux cheveux noir de jais naturellement ondulés et épais, aux yeux brun foncé, à la mâchoire masculine bien définie, avec une barbe de quelques jours subtile et vêtu d'un long manteau sombre sophistiqué, se tient dans un couloir mystérieux et faiblement éclairé face à une vieille porte en bois ordinaire.
+0–2 sec : Il tend lentement la main vers la poignée en laiton, ouvre la porte et dévoile un Paris romantique à l'heure dorée — la Tour Eiffel, d'élégants immeubles haussmanniens, des cafés illuminés, une lumière atmosphérique chaleureuse.
+2–4 sec : Sans coupe, l'encadrement de la porte se transforme instantanément en un Tokyo futuriste de nuit — des gratte-ciel néon imposants, des publicités holographiques, des véhicules volants, des rues trempées de pluie, des reflets éclatants.
+4–6 sec : Le monde change à nouveau pour devenir la Rome antique — un imposant Colisée, des colonnes de marbre, une architecture romaine, la lueur des flambeaux, des foules lointaines et une poussière subtile flottant dans l'air.
+6–8 sec : L'encadrement se transforme en une planète extraterrestre à couper le souffle — des ciels pourpres, d'immenses lunes, une végétation extraterrestre luminescente, d'étranges montagnes et de lointaines structures futuristes.
+8–10 sec : L'homme s'avance vers le pas de la porte alors que les quatre mondes fusionnent et tourbillonnent rapidement ensemble à l'intérieur de la porte, créant un spectaculaire portail de mondes infinis. Il a l'air émerveillé tandis que la caméra avance lentement vers la porte luminescente.
+Style : photoréaliste, qualité de blockbuster cinématographique, transitions magiques fluides, physique réaliste, éclairage volumétrique, profondeur atmosphérique, environnements détaillés, mouvements humains naturels, mouvements de caméra dramatiques, 8K HDR, plage dynamique élevée, peau et tissus réalistes, profondeur de champ cinématographique, échelle épique, pas de texte, pas de sous-titres, pas de filigrane, pas de bugs, pas de visage déformé, pas de membres supplémentaires. Parfaitement rythmé pour exactement 10 secondes, chaque monde étant clairement visible pendant environ 2 secondes.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -524,13 +530,39 @@ Créez une vidéo cinématographique miniature ultra-réaliste de 10 secondes se
 
 ---
 
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2101472711335878834"></a>
+
+### Traduction en cours
+
+Auteur：[@ikura\_no\_oyaji](https://x.com/ikura_no_oyaji) · [Publication originale](https://x.com/ikura_no_oyaji/status/2101472711335878834)
+
+Anime / Manga · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2101472711335878834.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="category-illustration"></a>
 
 ## Illustration
 
 <a name="prompt-2100640510083997980"></a>
 
-### Traduction en cours
+### Créer le code SVG d'une baleine volant à travers les nuages.
 
 Auteur：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Publication originale](https://x.com/pankajkumar_dev/status/2100640510083997980)
 
@@ -538,14 +570,14 @@ Illustration · Publié
 
 Publication originale：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Publication originale](https://x.com/pankajkumar_dev/status/2100638349296095561)
 
-**Résumé:** Traduction en cours
+**Résumé:** Créer le code SVG d'une baleine volant à travers les nuages.
 
 <img src="covers/2100640510083997980.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez le code pour un SVG d'une baleine volant à travers les nuages.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -728,13 +760,13 @@ Une œuvre d'art numérique surréaliste représentant un jeune homme assis conf
 
 <a name="prompt-2100777289344585856"></a>
 
-### Traduction en cours
+### Transforme une photo en un animal virtuel de jouet numérique style années 90 et esthétique Y2K.
 
 Auteur：[@catapatino](https://x.com/catapatino) · [Publication originale](https://x.com/catapatino/status/2100777289344585856)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Transforme une photo en un animal virtuel de jouet numérique style années 90 et esthétique Y2K.
 
 <img src="images/2100777289344585856-1.jpg" alt="Image 1" width="480" />
 
@@ -743,7 +775,7 @@ Autres · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Utilise ma photo et transforme-moi en animal virtuel à l'intérieur d'un appareil ovale dans le style des jouets numériques des années 90. Petit écran au centre, cadre épais, pixel art, personnage adorable à l'intérieur de l'écran, esthétique Y2K.
 ```
 
 [↑ Retour aux catégories](#catalog)

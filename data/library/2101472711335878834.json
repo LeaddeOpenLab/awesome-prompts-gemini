@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T05:00:50.210Z",
+  "model": "gemini",
+  "prompt": "添付のキャラクターをそのまま崩さないこと。\n2Dのペーパーゲーム。",
+  "promptTranslations": {
+    "en": "Do not alter the attached character, keep it as is.\n2D paper game."
+  },
+  "summaryTranslations": {
+    "en": "Animation instructions in a 2D paper game style, maintaining the character from a child's drawing."
+  },
+  "translationVersion": 2,
+  "summary": "子供の絵のキャラクターを維持した2Dペーパーゲーム風のアニメーション指示。",
+  "summaryEn": "Prompt for creating a 2D paper-game style animation while preserving the child's drawing character.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101472711335878834",
+    "canonicalUrl": "https://x.com/ikura_no_oyaji/status/2101472711335878834",
+    "author": {
+      "username": "ikura_no_oyaji",
+      "displayName": "いくら｜親子でAIを遊び倒す人",
+      "profileUrl": "https://x.com/ikura_no_oyaji"
+    },
+    "publishedAt": "2026-09-20T00:45:12.000Z",
+    "collectedAt": "2026-09-20T04:41:04.590Z",
+    "language": "ja",
+    "originalText": "こどもの絵から、画像作って動画にするとほっこり♪\n\n画像を添付し、GeminiかFlowにお願いするだけ😄\n\nprompt\n添付のキャラクターをそのまま崩さないこと。\n2Dのペーパーゲーム。 https://t.co/Py7itNEVLk",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ikura_no_oyaji/status/2101472711335878834",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101472691983372288/img/G-SkFOnkeRwJKYXZ.jpg",
+        "analysisUrl": "https://x.com/ikura_no_oyaji/status/2101472711335878834"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 39
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/ikura_no_oyaji/status/2101472711335878834",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101472691983372288/img/G-SkFOnkeRwJKYXZ.jpg",
+  "coverPath": "covers/2101472711335878834.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101472691983372288",
+    "x-post:2101472711335878834"
+  ],
+  "analysis": {
+    "summary": "子供の絵のキャラクターを維持した2Dペーパーゲーム風のアニメーション指示。",
+    "summaryEn": "Prompt for creating a 2D paper-game style animation while preserving the child's drawing character.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows paper cutout style characters (samurai and ninja) moving in a 2D paper craft environment matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "添付のキャラクターをそのまま崩さないこと。\n2Dのペーパーゲーム。",
+    "sourceRange": {
+      "start": 62,
+      "end": 95
+    },
+    "translations": {
+      "zh": "保持所附角色原样不变形。2D纸片游戏风格。",
+      "en": "Keep the attached character intact without distortion. 2D paper game style."
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "image-to-video",
+    "useCase": "Animation generation from drawing",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
