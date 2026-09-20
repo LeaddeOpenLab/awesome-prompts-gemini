@@ -245,26 +245,20 @@ Cinematográfico / Imagem de Filme · Paisagem / Natureza · Publicado
 
 <a name="prompt-2099370488342647240"></a>
 
-### Um plano contínuo acompanhando um homem abrindo uma porta-portal que transita por Paris, Tóquio futurista, Roma antiga e um planeta alienígena antes de se fundirem.
+### Tradução em andamento
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicação original](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Cinematográfico / Imagem de Filme · Personagem · Publicado
 
-**Resumo:** Um plano contínuo acompanhando um homem abrindo uma porta-portal que transita por Paris, Tóquio futurista, Roma antiga e um planeta alienígena antes de se fundirem.
+**Resumo:** Tradução em andamento
 
 <img src="covers/2099370488342647240.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Crie um vídeo de fantasia cinematográfico ultrarrealista de 10 segundos em um único plano-sequência contínuo. Um belo jovem no início dos seus 20 anos, com cabelo preto-azeviche naturalmente ondulado e espesso, olhos castanho-escuros, maxilar masculino marcante, barba por fazer sutil e vestindo um casaco comprido escuro sofisticado, está em um corredor misterioso e mal iluminado de frente para uma porta de madeira antiga e comum.
-0–2 seg: Ele lentamente estende a mão para a maçaneta de latão, abre a porta e revela uma Paris romântica na hora de ouro — Torre Eiffel, elegantes edifícios Haussmann, cafés iluminados, luz atmosférica quente.
-2–4 seg: Sem cortes, o vão da porta se transforma instantaneamente na Tóquio futurista à noite — arranha-céus imponentes de neon, anúncios holográficos, veículos voadores, ruas encharcadas de chuva, reflexos vibrantes.
-4–6 seg: O mundo muda novamente para a Roma antiga — Coliseu colossal, colunas de mármore, arquitetura romana, luz de tochas, multidões distantes e poeira sutil flutuando no ar.
-6–8 seg: O vão da porta se transforma em um planeta alienígena de tirar o fôlego — céus roxos, luas enormes, vegetação alienígena brilhante, montanhas estranhas e estruturas futuristas distantes.
-8–10 seg: O homem dá um passo em direção ao vão da porta enquanto todos os quatro mundos se misturam e giram rapidamente dentro da porta, criando um espetacular portal de mundos infinitos. Ele parece maravilhado enquanto a câmera avança lentamente em direção ao vão iluminado da porta.
-Estilo: fotorrealista, qualidade cinematográfica de blockbuster, transições mágicas fluidas, física realista, iluminação volumétrica, profundidade atmosférica, ambientes detalhados, movimento humano natural, movimento de câmera dramático, 8K HDR, alta faixa dinâmica, pele e tecido realistas, profundidade de campo cinematográfica, escala épica, sem texto, sem legendas, sem marca d'água, sem falhas, sem rosto distorcido, sem membros extras. Ritmo perfeitamente ajustado para exatamente 10 segundos, com cada mundo claramente visível por aproximadamente 2 segundos.
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -487,7 +481,7 @@ Não alterar nem descaracterizar o personagem anexado, mantê-lo exatamente como
 
 <a name="prompt-2100640510083997980"></a>
 
-### Criar código SVG de uma baleia voando pelas nuvens.
+### Tradução em andamento
 
 Autor：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Publicação original](https://x.com/pankajkumar_dev/status/2100640510083997980)
 
@@ -495,14 +489,14 @@ Ilustração · Publicado
 
 Publicação original：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Publicação original](https://x.com/pankajkumar_dev/status/2100638349296095561)
 
-**Resumo:** Criar código SVG de uma baleia voando pelas nuvens.
+**Resumo:** Tradução em andamento
 
 <img src="covers/2100640510083997980.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Crie o código para um SVG de uma baleia voando pelas nuvens.
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -541,7 +535,7 @@ Aqua chorando em um campo de grama
 
 <a name="prompt-2101687900723106104"></a>
 
-### Tradução em andamento
+### Criar um asset 3D do robô WALL-E usando o Three.js.
 
 Autor：[@marcthecreatorr](https://x.com/marcthecreatorr) · [Publicação original](https://x.com/marcthecreatorr/status/2101687900723106104)
 
@@ -549,14 +543,14 @@ Renderização 3D · Publicado
 
 Publicação original：[@marcthecreatorr](https://x.com/marcthecreatorr) · [Publicação original](https://x.com/marcthecreatorr/status/2101589499943796896)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Criar um asset 3D do robô WALL-E usando o Three.js.
 
 <img src="covers/2101687900723106104.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+crie um modelo 3d do wall-e no three.js.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -709,13 +703,13 @@ Uma obra de arte digital surrealista de um jovem sentado confortavelmente em uma
 
 <a name="prompt-2100777289344585856"></a>
 
-### Transforme uma foto em um bichinho virtual de brinquedo digital estilo anos 90 e estética Y2K.
+### Tradução em andamento
 
 Autor：[@catapatino](https://x.com/catapatino) · [Publicação original](https://x.com/catapatino/status/2100777289344585856)
 
 Outros · Publicado
 
-**Resumo:** Transforme uma foto em um bichinho virtual de brinquedo digital estilo anos 90 e estética Y2K.
+**Resumo:** Tradução em andamento
 
 <img src="images/2100777289344585856-1.jpg" alt="Imagem 1" width="480" />
 
@@ -724,7 +718,7 @@ Outros · Publicado
 **Prompt**
 
 ```text
-Use minha foto e me transforme em um animal de estimação virtual dentro de um dispositivo oval no estilo dos brinquedos digitais dos anos 90. Tela pequena no centro, borda grossa, pixel art, personagem adorável dentro da tela, estética Y2K.
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
