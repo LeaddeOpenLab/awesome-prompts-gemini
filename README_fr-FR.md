@@ -153,7 +153,7 @@ Publication originale：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publ
 
 <a name="prompt-2101892143560437894"></a>
 
-### Traduction en cours
+### Vidéo macro cinématographique ultraréaliste de chercheurs marins miniatures explorant l'intérieur d'un gigantesque conduit auditif humain.
 
 Auteur：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publication originale](https://x.com/AiwithBloodline/status/2101892143560437894)
 
@@ -161,14 +161,14 @@ Image cinématographique / Photogramme de film · Paysage / Nature · Publié
 
 Publication originale：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Publication originale](https://x.com/AiwithBloodline/status/2101618979118658038)
 
-**Résumé:** Traduction en cours
+**Résumé:** Vidéo macro cinématographique ultraréaliste de chercheurs marins miniatures explorant l'intérieur d'un gigantesque conduit auditif humain.
 
 <img src="covers/2101892143560437894.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Vidéo macro cinématographique ultraréaliste d'une expédition océanique miniature surréaliste se déroulant à l'intérieur d'une gigantesque oreille humaine. Une équipe de minuscules chercheurs marins professionnels vêtus de combinaisons d'exploration étanches navigue dans les courbes complexes du conduit auditif à l'aide de bateaux miniatures, de cordes d'escalade, de scanners portables et d'équipements scientifiques compacts. Les structures de l'oreille interne apparaissent gigantesques, comme une mystérieuse caverne sous-marine, avec une texture de peau réaliste, une subtile humidité, des poils fins et des détails anatomiques naturels. De minuscules chercheurs éclairent les parois avec de puissantes lampes frontales miniatures tandis qu'un autre pilote une petite sonde robotique collectant des particules microscopiques dans une flaque d'humidité peu profonde. Les gouttelettes en suspension se comportent comme d'immenses sphères suspendues, créant une étrange sensation d'échelle. Cinématographie macro extrême, profondeur de champ ultra-faible, anatomie humaine réaliste, éclairage de laboratoire bleu-blanc dramatique mélangé à des lumières d'exploration chaudes, détails miniatures complexes, reflets et ombres physiquement précis, mouvement de caméra cinématographique lent traversant le conduit auditif vers les structures internes, textures photoréalistes, surréaliste mais scientifiquement crédible, 8K, HDR, optique réaliste, sans texte, sans filigrane. 10 secondes, vertical 9:16.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -269,26 +269,20 @@ Image cinématographique / Photogramme de film · Paysage / Nature · Publié
 
 <a name="prompt-2099370488342647240"></a>
 
-### Un plan continu suivant un homme qui ouvre une porte formant un portail qui passe successivement par Paris, un Tokyo futuriste, la Rome antique et une planète extraterrestre avant de fusionner.
+### Traduction en cours
 
 Auteur：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publication originale](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Image cinématographique / Photogramme de film · Personnage · Publié
 
-**Résumé:** Un plan continu suivant un homme qui ouvre une porte formant un portail qui passe successivement par Paris, un Tokyo futuriste, la Rome antique et une planète extraterrestre avant de fusionner.
+**Résumé:** Traduction en cours
 
 <img src="covers/2099370488342647240.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Créez une vidéo fantastique cinématographique ultra-réaliste de 10 secondes en un seul plan continu. Un bel homme jeune au début de la vingtaine, aux cheveux noir de jais naturellement ondulés et épais, aux yeux brun foncé, à la mâchoire masculine bien définie, avec une barbe de quelques jours subtile et vêtu d'un long manteau sombre sophistiqué, se tient dans un couloir mystérieux et faiblement éclairé face à une vieille porte en bois ordinaire.
-0–2 sec : Il tend lentement la main vers la poignée en laiton, ouvre la porte et dévoile un Paris romantique à l'heure dorée — la Tour Eiffel, d'élégants immeubles haussmanniens, des cafés illuminés, une lumière atmosphérique chaleureuse.
-2–4 sec : Sans coupe, l'encadrement de la porte se transforme instantanément en un Tokyo futuriste de nuit — des gratte-ciel néon imposants, des publicités holographiques, des véhicules volants, des rues trempées de pluie, des reflets éclatants.
-4–6 sec : Le monde change à nouveau pour devenir la Rome antique — un imposant Colisée, des colonnes de marbre, une architecture romaine, la lueur des flambeaux, des foules lointaines et une poussière subtile flottant dans l'air.
-6–8 sec : L'encadrement se transforme en une planète extraterrestre à couper le souffle — des ciels pourpres, d'immenses lunes, une végétation extraterrestre luminescente, d'étranges montagnes et de lointaines structures futuristes.
-8–10 sec : L'homme s'avance vers le pas de la porte alors que les quatre mondes fusionnent et tourbillonnent rapidement ensemble à l'intérieur de la porte, créant un spectaculaire portail de mondes infinis. Il a l'air émerveillé tandis que la caméra avance lentement vers la porte luminescente.
-Style : photoréaliste, qualité de blockbuster cinématographique, transitions magiques fluides, physique réaliste, éclairage volumétrique, profondeur atmosphérique, environnements détaillés, mouvements humains naturels, mouvements de caméra dramatiques, 8K HDR, plage dynamique élevée, peau et tissus réalistes, profondeur de champ cinématographique, échelle épique, pas de texte, pas de sous-titres, pas de filigrane, pas de bugs, pas de visage déformé, pas de membres supplémentaires. Parfaitement rythmé pour exactement 10 secondes, chaque monde étant clairement visible pendant environ 2 secondes.
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -586,7 +580,7 @@ Ne pas altérer ni déformer le personnage joint, le conserver tel quel.\nJeu en
 
 <a name="prompt-2100640510083997980"></a>
 
-### Créer le code SVG d'une baleine volant à travers les nuages.
+### Traduction en cours
 
 Auteur：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Publication originale](https://x.com/pankajkumar_dev/status/2100640510083997980)
 
@@ -594,14 +588,14 @@ Illustration · Publié
 
 Publication originale：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Publication originale](https://x.com/pankajkumar_dev/status/2100638349296095561)
 
-**Résumé:** Créer le code SVG d'une baleine volant à travers les nuages.
+**Résumé:** Traduction en cours
 
 <img src="covers/2100640510083997980.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Créez le code pour un SVG d'une baleine volant à travers les nuages.
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -808,13 +802,13 @@ Une œuvre d'art numérique surréaliste représentant un jeune homme assis conf
 
 <a name="prompt-2100777289344585856"></a>
 
-### Transforme une photo en un animal virtuel de jouet numérique style années 90 et esthétique Y2K.
+### Traduction en cours
 
 Auteur：[@catapatino](https://x.com/catapatino) · [Publication originale](https://x.com/catapatino/status/2100777289344585856)
 
 Autres · Publié
 
-**Résumé:** Transforme une photo en un animal virtuel de jouet numérique style années 90 et esthétique Y2K.
+**Résumé:** Traduction en cours
 
 <img src="images/2100777289344585856-1.jpg" alt="Image 1" width="480" />
 
@@ -823,7 +817,7 @@ Autres · Publié
 **Consigne**
 
 ```text
-Utilise ma photo et transforme-moi en animal virtuel à l'intérieur d'un appareil ovale dans le style des jouets numériques des années 90. Petit écran au centre, cadre épais, pixel art, personnage adorable à l'intérieur de l'écran, esthétique Y2K.
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
