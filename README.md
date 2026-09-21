@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**25** Prompts · Latest addition: **2026-09-20**
+**26** Prompts · Latest addition: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -150,6 +150,30 @@ Source：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.c
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2101892143560437894"></a>
+
+### Ultra-realistic cinematic macro video of miniature marine researchers exploring inside a gigantic human ear canal.
+
+Author：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x.com/AiwithBloodline/status/2101892143560437894)
+
+Cinematic / Film Still · Landscape / Nature · Published
+
+Source：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Source](https://x.com/AiwithBloodline/status/2101618979118658038)
+
+**Summary:** Ultra-realistic cinematic macro video of miniature marine researchers exploring inside a gigantic human ear canal.
+
+<img src="covers/2101892143560437894.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic cinematic macro video of a surreal miniature ocean expedition taking place inside a gigantic human ear. A team of tiny professional marine researchers in waterproof exploration suits navigate the intricate curves of the ear canal using miniature boats, climbing ropes, portable scanners, and compact scientific equipment. The inner ear structures appear enormous like a mysterious underwater cavern, with realistic skin texture, subtle moisture, fine hairs, and natural anatomical details. Tiny researchers illuminate the walls with powerful miniature headlamps while another operates a small robotic probe collecting microscopic particles from a shallow pool of moisture. Floating droplets behave like massive suspended spheres, creating a strange sense of scale. Extreme macro cinematography, ultra-shallow depth of field, realistic human anatomy, dramatic blue-white laboratory lighting mixed with warm exploration lights, intricate miniature details, physically accurate reflections and shadows, slow cinematic camera movement traveling through the ear canal toward the inner structures, photorealistic textures, surreal yet scientifically believable, 8K, HDR, realistic optics, no text, no watermark. 10 seconds, vertical 9:16.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100486977456095594"></a>
 

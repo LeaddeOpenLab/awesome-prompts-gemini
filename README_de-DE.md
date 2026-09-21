@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**25** Prompts · Zuletzt hinzugefügt: **2026-09-20**
+**26** Prompts · Zuletzt hinzugefügt: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -151,6 +151,30 @@ Originalbeitrag：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbe
 
 ## Kinematisch / Filmstill
 
+<a name="prompt-2101892143560437894"></a>
+
+### Übersetzung läuft
+
+Autor：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Originalbeitrag](https://x.com/AiwithBloodline/status/2101892143560437894)
+
+Kinematisch / Filmstill · Landschaft / Natur · Veröffentlicht
+
+Originalbeitrag：[@AiwithBloodline](https://x.com/AiwithBloodline) · [Originalbeitrag](https://x.com/AiwithBloodline/status/2101618979118658038)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101892143560437894.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2100486977456095594"></a>
 
 ### Die Kamera bewegt sich per Makro sanft auf die Kaffeetasse zu, durchdringt die Flüssigkeitsoberfläche und dringt in eine Miniatur-Zukunftsstadt im Inneren der Tasse ein.
@@ -245,20 +269,26 @@ Kinematisch / Filmstill · Landschaft / Natur · Veröffentlicht
 
 <a name="prompt-2099370488342647240"></a>
 
-### Übersetzung läuft
+### Eine kontinuierliche Kamerafahrt, die einem Mann folgt, der eine Portaltür öffnet, die durch Paris, ein futuristisches Tokio, das antike Rom und einen fremden Planeten wechselt, bevor sie verschmelzen.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Originalbeitrag](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Kinematisch / Filmstill · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Eine kontinuierliche Kamerafahrt, die einem Mann folgt, der eine Portaltür öffnet, die durch Paris, ein futuristisches Tokio, das antike Rom und einen fremden Planeten wechselt, bevor sie verschmelzen.
 
 <img src="covers/2099370488342647240.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 10-sekündiges, ultra-realistisches cineastisches Fantasy-Video in einer einzigen kontinuierlichen Kamerafahrt. Ein gut aussehender junger Mann Anfang 20 mit dichtem, natürlich gewelltem, pechschwarzem Haar, dunkelbraunen Augen, einer markanten männlichen Kinnpartie, dezenten Stoppeln und einem eleganten, dunklen langen Mantel steht in einem geheimnisvollen, schwach beleuchteten Korridor vor einer gewöhnlichen alten Holztür.
+0–2 Sek.: Er greift langsam nach der Messingklinke, öffnet die Tür und offenbart ein romantisches Paris zur goldenen Stunde – den Eiffelturm, elegante Haussmann-Gebäude, leuchtende Cafés, warmes atmosphärisches Licht.
+2–4 Sek.: Ohne Schnitt verwandelt sich der Türrahmen augenblicklich in ein futuristisches Tokio bei Nacht – hoch aufragende Neon-Wolkenkratzer, holografische Werbung, fliegende Fahrzeuge, regennasse Straßen, lebendige Reflexionen.
+4–6 Sek.: Die Welt verwandelt sich erneut in das antike Rom – massives Kolosseum, Marmorsäulen, römische Architektur, Fackellicht, ferne Menschenmengen und feiner Staub, der durch die Luft schwebt.
+6–8 Sek.: Der Türrahmen verwandelt sich in einen atemberaubenden fremden Planeten – lila Himmel, riesige Monde, leuchtende außerirdische Vegetation, seltsame Berge und ferne futuristische Strukturen.
+8–10 Sek.: Der Mann tritt auf den Türrahmen zu, während alle vier Welten im Inneren der Tür rasch ineinander übergehen und verschmelzen, wodurch ein spektakuläres Portal zu unendlichen Welten entsteht. Er blickt erstaunt drein, während die Kamera langsam auf die leuchtende Türzufahrt zufährt.
+Stil: fotorealistisch, Blockbuster-Kinoqualität, nahtlose magische Übergänge, realistische Physik, volumetrische Beleuchtung, atmosphärische Tiefe, detaillierte Umgebungen, natürliche menschliche Bewegung, dramatische Kamerabewegung, 8K HDR, hoher Dynamikbereich, realistische Haut und Stoffe, cineastische Schärfentiefe, episches Ausmaß, kein Text, keine Untertitel, kein Wasserzeichen, keine Glitches, kein verzerrtes Gesicht, keine zusätzlichen Gliedmaßen. Perfekt getaktet auf genau 10 Sekunden, wobei jede Welt etwa 2 Sekunden lang deutlich sichtbar ist.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -556,7 +586,7 @@ Den angehängten Charakter nicht verändern oder verzerren, genau so beibehalten
 
 <a name="prompt-2100640510083997980"></a>
 
-### Übersetzung läuft
+### SVG-Code eines Wals erstellen, der durch Wolken fliegt.
 
 Autor：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Originalbeitrag](https://x.com/pankajkumar_dev/status/2100640510083997980)
 
@@ -564,14 +594,14 @@ Illustration · Veröffentlicht
 
 Originalbeitrag：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Originalbeitrag](https://x.com/pankajkumar_dev/status/2100638349296095561)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** SVG-Code eines Wals erstellen, der durch Wolken fliegt.
 
 <img src="covers/2100640510083997980.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle Code für ein SVG eines Wals, der durch die Wolken fliegt.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -778,13 +808,13 @@ Ein surreales digitales Kunstwerk eines jungen Mannes, der bequem auf einer flau
 
 <a name="prompt-2100777289344585856"></a>
 
-### Übersetzung läuft
+### Verwandelt ein Foto in ein virtuelles Haustier im Stil eines digitalen Spielzeugs der 90er-Jahre und mit Y2K-Ästhetik.
 
 Autor：[@catapatino](https://x.com/catapatino) · [Originalbeitrag](https://x.com/catapatino/status/2100777289344585856)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Verwandelt ein Foto in ein virtuelles Haustier im Stil eines digitalen Spielzeugs der 90er-Jahre und mit Y2K-Ästhetik.
 
 <img src="images/2100777289344585856-1.jpg" alt="Bild 1" width="480" />
 
@@ -793,7 +823,7 @@ Sonstige · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwende mein Foto und verwandle mich in ein virtuelles Haustier in einem ovalen Gerät im Stil digitaler Spielzeuge der 90er Jahre. Kleiner Bildschirm in der Mitte, dicker Rahmen, Pixel-Art, bezaubernder Charakter auf dem Bildschirm, Y2K-Ästhetik.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

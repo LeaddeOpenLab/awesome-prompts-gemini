@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T08:30:28.513Z",
+  "model": "gemini",
+  "prompt": "Ultra-realistic cinematic macro video of a surreal miniature ocean expedition taking place inside a gigantic human ear. A team of tiny professional marine researchers in waterproof exploration suits navigate the intricate curves of the ear canal using miniature boats, climbing ropes, portable scanners, and compact scientific equipment. The inner ear structures appear enormous like a mysterious underwater cavern, with realistic skin texture, subtle moisture, fine hairs, and natural anatomical details. Tiny researchers illuminate the walls with powerful miniature headlamps while another operates a small robotic probe collecting microscopic particles from a shallow pool of moisture. Floating droplets behave like massive suspended spheres, creating a strange sense of scale. Extreme macro cinematography, ultra-shallow depth of field, realistic human anatomy, dramatic blue-white laboratory lighting mixed with warm exploration lights, intricate miniature details, physically accurate reflections and shadows, slow cinematic camera movement traveling through the ear canal toward the inner structures, photorealistic textures, surreal yet scientifically believable, 8K, HDR, realistic optics, no text, no watermark. 10 seconds, vertical 9:16.",
+  "promptTranslations": {
+    "en": "Ultra-realistic cinematic macro video of a surreal miniature ocean expedition taking place inside a gigantic human ear. A team of tiny professional marine researchers in waterproof exploration suits navigate the intricate curves of the ear canal using miniature boats, climbing ropes, portable scanners, and compact scientific equipment. The inner ear structures appear enormous like a mysterious underwater cavern, with realistic skin texture, subtle moisture, fine hairs, and natural anatomical details. Tiny researchers illuminate the walls with powerful miniature headlamps while another operates a small robotic probe collecting microscopic particles from a shallow pool of moisture. Floating droplets behave like massive suspended spheres, creating a strange sense of scale. Extreme macro cinematography, ultra-shallow depth of field, realistic human anatomy, dramatic blue-white laboratory lighting mixed with warm exploration lights, intricate miniature details, physically accurate reflections and shadows, slow cinematic camera movement traveling through the ear canal toward the inner structures, photorealistic textures, surreal yet scientifically believable, 8K, HDR, realistic optics, no text, no watermark. 10 seconds, vertical 9:16."
+  },
+  "summaryTranslations": {
+    "en": "Ultra-realistic cinematic macro video of miniature marine researchers exploring inside a gigantic human ear canal."
+  },
+  "translationVersion": 2,
+  "summary": "微缩海洋研究员在巨大人类耳道内部探险的超逼真微距电影视频。",
+  "summaryEn": "Ultra-realistic macro video of miniature researchers exploring inside a giant human ear canal.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2101618979118658038",
+      "canonicalUrl": "https://x.com/AiwithBloodline/status/2101618979118658038",
+      "author": {
+        "username": "AiwithBloodline",
+        "displayName": "Dr Bloodline | AI",
+        "profileUrl": "https://x.com/AiwithBloodline"
+      },
+      "originalText": "\"Control isn’t given. It’s built through discipline, precision, and the ability to stay ten steps ahead.\"\n\n\"I don’t chase attention—I create moments that demand it, on my terms.\"\n\nCreated with Seedance 2.5 Flare on @Anyfilmai 🎥 https://t.co/BQFXjcTPPF"
+    },
+    "id": "2101892143560437894",
+    "canonicalUrl": "https://x.com/AiwithBloodline/status/2101892143560437894",
+    "author": {
+      "username": "AiwithBloodline",
+      "displayName": "Dr Bloodline | AI",
+      "profileUrl": "https://x.com/AiwithBloodline"
+    },
+    "publishedAt": "2026-09-21T04:31:52.000Z",
+    "collectedAt": "2026-09-21T08:16:47.517Z",
+    "language": "en",
+    "originalText": "Generated with Gemini Flash Lite on @GeminiApp\n\nPrompt ⤵️ ; \n\nUltra-realistic cinematic macro video of a surreal miniature ocean expedition taking place inside a gigantic human ear. A team of tiny professional marine researchers in waterproof exploration suits navigate the intricate curves of the ear canal using miniature boats, climbing ropes, portable scanners, and compact scientific equipment. The inner ear structures appear enormous like a mysterious underwater cavern, with realistic skin texture, subtle moisture, fine hairs, and natural anatomical details. Tiny researchers illuminate the walls with powerful miniature headlamps while another operates a small robotic probe collecting microscopic particles from a shallow pool of moisture. Floating droplets behave like massive suspended spheres, creating a strange sense of scale. Extreme macro cinematography, ultra-shallow depth of field, realistic human anatomy, dramatic blue-white laboratory lighting mixed with warm exploration lights, intricate miniature details, physically accurate reflections and shadows, slow cinematic camera movement traveling through the ear canal toward the inner structures, photorealistic textures, surreal yet scientifically believable, 8K, HDR, realistic optics, no text, no watermark. 10 seconds, vertical 9:16.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AiwithBloodline/status/2101892143560437894",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101892067496763392/img/wiK1Vn-21AXQklnu.jpg",
+        "analysisUrl": "https://x.com/AiwithBloodline/status/2101892143560437894"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/AiwithBloodline/status/2101892143560437894",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101618881127424000/img/pqE0SDsBpmpNh2YS.jpg",
+        "analysisUrl": "https://x.com/AiwithBloodline/status/2101892143560437894",
+        "sourcePostId": "2101618979118658038"
+      }
+    ],
+    "metrics": {
+      "likeCount": 27,
+      "repostCount": 2,
+      "replyCount": 18,
+      "quoteCount": 0,
+      "viewCount": 304
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AiwithBloodline/status/2101892143560437894",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101892067496763392/img/wiK1Vn-21AXQklnu.jpg",
+  "coverPath": "covers/2101892143560437894.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101892067496763392",
+    "x-video:2101618881127424000",
+    "x-post:2101892143560437894",
+    "x-post:2101618979118658038"
+  ],
+  "analysis": {
+    "summary": "微缩海洋研究员在巨大人类耳道内部探险的超逼真微距电影视频。",
+    "summaryEn": "Ultra-realistic macro video of miniature researchers exploring inside a giant human ear canal.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely visualizes miniature researchers in hazmat/exploration suits navigating an ear canal on boats, climbing walls, sampling fluid with a robotic probe, and floating water spheres under macro cinematic lighting."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-realistic cinematic macro video of a surreal miniature ocean expedition taking place inside a gigantic human ear. A team of tiny professional marine researchers in waterproof exploration suits navigate the intricate curves of the ear canal using miniature boats, climbing ropes, portable scanners, and compact scientific equipment. The inner ear structures appear enormous like a mysterious underwater cavern, with realistic skin texture, subtle moisture, fine hairs, and natural anatomical details. Tiny researchers illuminate the walls with powerful miniature headlamps while another operates a small robotic probe collecting microscopic particles from a shallow pool of moisture. Floating droplets behave like massive suspended spheres, creating a strange sense of scale. Extreme macro cinematography, ultra-shallow depth of field, realistic human anatomy, dramatic blue-white laboratory lighting mixed with warm exploration lights, intricate miniature details, physically accurate reflections and shadows, slow cinematic camera movement traveling through the ear canal toward the inner structures, photorealistic textures, surreal yet scientifically believable, 8K, HDR, realistic optics, no text, no watermark. 10 seconds, vertical 9:16.",
+    "sourceRange": {
+      "start": 62,
+      "end": 1310
+    },
+    "translations": {
+      "zh": "超逼真电影感微距视频，展现巨大人类耳朵内部超现实的微缩海洋探险。微型专业海洋研究员团队穿戴防水探险服，使用微型船只、攀爬绳索与便携扫描设备穿行在耳道曲面之间。内耳结构宛如神秘水下洞穴，伴有逼真皮肤纹理与细微绒毛，悬浮水滴如巨型球体漂浮，镜头缓慢推入。",
+      "en": "Ultra-realistic cinematic macro video of a surreal miniature ocean expedition taking place inside a gigantic human ear. A team of tiny professional marine researchers in waterproof exploration suits navigate the intricate curves of the ear canal using miniature boats, climbing ropes, portable scanners, and compact scientific equipment. The inner ear structures appear enormous like a mysterious underwater cavern, with realistic skin texture, subtle moisture, fine hairs, and natural anatomical details. Tiny researchers illuminate the walls with powerful miniature headlamps while another operates a small robotic probe collecting microscopic particles from a shallow pool of moisture. Floating droplets behave like massive suspended spheres, creating a strange sense of scale. Extreme macro cinematography, ultra-shallow depth of field, realistic human anatomy, dramatic blue-white laboratory lighting mixed with warm exploration lights, intricate miniature details, physically accurate reflections and shadows, slow cinematic camera movement traveling through the ear canal toward the inner structures, photorealistic textures, surreal yet scientifically believable, 8K, HDR, realistic optics, no text, no watermark. 10 seconds, vertical 9:16."
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "text-to-video",
+    "useCase": "concept_art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
