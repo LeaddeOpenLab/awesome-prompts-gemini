@@ -221,26 +221,20 @@ Tác giả：[@MrDasCreates](https://x.com/MrDasCreates) · [Bài gốc](https:/
 
 <a name="prompt-2099370488342647240"></a>
 
-### Một cú máy liền mạch theo chân một người đàn ông mở cánh cửa cổng không gian chuyển tiếp qua Paris, Tokyo tương lai, Rome cổ đại và một hành tinh ngoài hành tinh trước khi hòa quyện vào nhau.
+### Đang dịch
 
 Tác giả：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Bài gốc](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Một cú máy liền mạch theo chân một người đàn ông mở cánh cửa cổng không gian chuyển tiếp qua Paris, Tokyo tương lai, Rome cổ đại và một hành tinh ngoài hành tinh trước khi hòa quyện vào nhau.
+**Tóm tắt:** Đang dịch
 
 <img src="covers/2099370488342647240.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Tạo một video giả tưởng điện ảnh siêu thực dài 10 giây trong một cú máy liền mạch duy nhất. Một chàng trai trẻ đẹp trai ở độ tuổi đầu 20, với mái tóc đen tuyền gợn sóng tự nhiên dày dặn, đôi mắt nâu sẫm, quai hàm nam tính sắc nét, râu lởm chởm nhẹ, và mặc chiếc áo khoác dài tối màu lịch lãm, đứng trong một hành lang mờ ảo bí ẩn đối diện với một cánh cửa gỗ cũ kỹ bình thường.
-0–2 giây: Anh từ từ đưa tay nắm lấy tay nắm bằng đồng, mở cửa và để lộ khung cảnh Paris lãng mạn vào giờ vàng — Tháp Eiffel, các tòa nhà Haussmann thanh lịch, các quán cà phê lung linh, ánh sáng khí quyển ấm áp.
-2–4 giây: Không hề cắt cảnh, khung cửa lập tức biến thành Tokyo tương lai về đêm — những tòa nhà chọc trời neon cao vút, quảng cáo ba chiều holographic, các phương tiện bay, đường phố ướt sũng nước mưa, những ánh phản chiếu rực rỡ.
-4–6 giây: Thế giới lại thay đổi thành Rome cổ đại — Đấu trường La Mã đồ sộ, các cột đá cẩm thạch, kiến trúc La Mã, ánh đuốc, đám đông phía xa và bụi mờ trôi nổi trong không khí.
-6–8 giây: Khung cửa biến thành một hành tinh ngoài hành tinh ngoạn mục — bầu trời tím, những mặt trăng khổng lồ, thảm thực vật ngoài hành tinh phát sáng, những ngọn núi kỳ lạ và các công trình tương lai xa xăm.
-8–10 giây: Người đàn ông bước về phía khung cửa khi cả bốn thế giới nhanh chóng hòa quyện và xoáy vào nhau bên trong cánh cửa, tạo nên một cánh cổng thế giới vô tận ngoạn mục. Anh nhìn đầy kinh ngạc khi máy quay từ từ tiến tới gần khung cửa phát sáng.
-Phong cách: chân thực như ảnh chụp, chất lượng phim bom tấn điện ảnh, các chuyển cảnh ma thuật liền mạch, vật lý thực tế, ánh sáng thể tích, chiều sâu khí quyển, môi trường chi tiết, chuyển động con người tự nhiên, chuyển động máy quay ấn tượng, 8K HDR, dải tương phản động cao, da và vải chân thực, độ sâu trường ảnh điện ảnh, quy mô sử thi, không có văn bản, không có phụ đề, không có watermark, không bị lỗi hình ảnh, không méo mặt, không thừa chi. Nhịp độ hoàn hảo trong chính xác 10 giây, với mỗi thế giới hiển thị rõ ràng trong khoảng 2 giây.
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -533,7 +527,7 @@ Không được làm biến dạng nhân vật đính kèm, hãy giữ nguyên n
 
 <a name="prompt-2100640510083997980"></a>
 
-### Tạo mã SVG về một chú cá voi đang bay qua những đám mây.
+### Đang dịch
 
 Tác giả：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Bài gốc](https://x.com/pankajkumar_dev/status/2100640510083997980)
 
@@ -541,14 +535,14 @@ Minh họa · Đã xuất bản
 
 Bài gốc：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Bài gốc](https://x.com/pankajkumar_dev/status/2100638349296095561)
 
-**Tóm tắt:** Tạo mã SVG về một chú cá voi đang bay qua những đám mây.
+**Tóm tắt:** Đang dịch
 
 <img src="covers/2100640510083997980.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Tạo mã cho một tệp SVG về một chú cá voi đang bay qua những đám mây.
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -587,7 +581,7 @@ Aqua đang khóc trên đồng cỏ
 
 <a name="prompt-2102349105724846399"></a>
 
-### Đang dịch
+### Tạo một con bướm cơ khí tuyệt đẹp trong Three.js.
 
 Tác giả：[@AIBoticssq](https://x.com/AIBoticssq) · [Bài gốc](https://x.com/AIBoticssq/status/2102349105724846399)
 
@@ -595,14 +589,14 @@ Kết xuất 3D · Đã xuất bản
 
 Bài gốc：[@AIBoticssq](https://x.com/AIBoticssq) · [Bài gốc](https://x.com/AIBoticssq/status/2100916466694414727)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo một con bướm cơ khí tuyệt đẹp trong Three.js.
 
 <img src="covers/2102349105724846399.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+tạo một con bướm cơ khí tuyệt đẹp trong Three.js.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -779,13 +773,13 @@ Tác phẩm nghệ thuật kỹ thuật số siêu thực khắc họa một ch�
 
 <a name="prompt-2100777289344585856"></a>
 
-### Chuyển đổi ảnh thành thú cưng ảo phong cách đồ chơi kỹ thuật số thập niên 90 và thẩm mỹ Y2K.
+### Đang dịch
 
 Tác giả：[@catapatino](https://x.com/catapatino) · [Bài gốc](https://x.com/catapatino/status/2100777289344585856)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Chuyển đổi ảnh thành thú cưng ảo phong cách đồ chơi kỹ thuật số thập niên 90 và thẩm mỹ Y2K.
+**Tóm tắt:** Đang dịch
 
 <img src="images/2100777289344585856-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -794,7 +788,7 @@ Khác · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Sử dụng ảnh của tôi và biến tôi thành một thú cưng ảo bên trong một thiết bị hình bầu dục theo phong cách đồ chơi kỹ thuật số những năm 90. Màn hình nhỏ ở trung tâm, viền dày, nghệ thuật pixel, nhân vật đáng yêu bên trong màn hình, thẩm mỹ Y2K.
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

@@ -269,26 +269,20 @@ Cine / Fotograma · Paisaje / Naturaleza · Publicado
 
 <a name="prompt-2099370488342647240"></a>
 
-### Una toma continua que sigue a un hombre abriendo una puerta portal que transiciona por París, un Tokio futurista, la antigua Roma y un planeta alienígena antes de fusionarse.
+### Traducción en curso
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicación original](https://x.com/MohdAdnanA86218/status/2099370488342647240)
 
 Cine / Fotograma · Personaje · Publicado
 
-**Resumen:** Una toma continua que sigue a un hombre abriendo una puerta portal que transiciona por París, un Tokio futurista, la antigua Roma y un planeta alienígena antes de fusionarse.
+**Resumen:** Traducción en curso
 
 <img src="covers/2099370488342647240.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Crea un video de fantasía cinematográfico y ultrarrealista de 10 segundos en una sola toma continua. Un apuesto joven de unos 20 años, con cabello negro azabache, grueso y naturalmente ondulado, ojos marrón oscuro, mandíbula masculina y marcada, barba incipiente sutil, y vestido con un sofisticado abrigo largo oscuro, se encuentra en un misterioso pasillo tenuemente iluminado frente a una vieja puerta de madera ordinaria.
-0–2 s: Lentamente extiende la mano hacia la manija de latón, abre la puerta y revela un París romántico durante la hora dorada: la Torre Eiffel, elegantes edificios haussmannianos, cafés resplandecientes, luz atmosférica cálida.
-2–4 s: Sin cortes, el umbral de la puerta se transforma instantáneamente en un Tokio futurista de noche: imponentes rascacielos de neón, anuncios holográficos, vehículos voladores, calles empapadas de lluvia, reflejos vibrantes.
-4–6 s: El mundo cambia de nuevo hacia la antigua Roma: el imponente Coliseo, columnas de mármol, arquitectura romana, luz de antorchas, multitudes lejanas y polvo sutil flotando en el aire.
-6–8 s: El umbral se transforma en un impresionante planeta alienígena: cielos púrpuras, lunas enormes, vegetación alienígena brillante, montañas extrañas y estructuras futuristas distantes.
-8–10 s: El hombre da un paso hacia el umbral mientras los cuatro mundos se mezclan y giran rápidamente dentro de la puerta, creando un espectacular portal de mundos infinitos. Se ve asombrado mientras la cámara avanza lentamente hacia la puerta resplandeciente.
-Estilo: fotorrealista, calidad de superproducción cinematográfica, transiciones mágicas fluidas, física realista, iluminación volumétrica, profundidad atmosférica, entornos detallados, movimiento humano natural, movimiento de cámara dramático, 8K HDR, alto rango dinámico, piel y telas realistas, profundidad de campo cinematográfica, escala épica, sin texto, sin subtítulos, sin marcas de agua, sin errores técnicos, sin rostros distorsionados, sin extremidades adicionales. Con un ritmo perfecto para exactamente 10 segundos, mostrando cada mundo de forma claramente visible durante aproximadamente 2 segundos.
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -586,7 +580,7 @@ No distorsionar ni alterar el personaje adjunto, mantenerlo tal cual.\nJuego de 
 
 <a name="prompt-2100640510083997980"></a>
 
-### Crear código SVG de una ballena volando a través de las nubes.
+### Traducción en curso
 
 Autor：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Publicación original](https://x.com/pankajkumar_dev/status/2100640510083997980)
 
@@ -594,14 +588,14 @@ Ilustración · Publicado
 
 Publicación original：[@pankajkumar\_dev](https://x.com/pankajkumar_dev) · [Publicación original](https://x.com/pankajkumar_dev/status/2100638349296095561)
 
-**Resumen:** Crear código SVG de una ballena volando a través de las nubes.
+**Resumen:** Traducción en curso
 
 <img src="covers/2100640510083997980.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Crea el código para un SVG de una ballena volando a través de las nubes.
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -640,7 +634,7 @@ Aqua llorando en una pradera
 
 <a name="prompt-2102349105724846399"></a>
 
-### Traducción en curso
+### Construir una hermosa mariposa mecánica en Three.js.
 
 Autor：[@AIBoticssq](https://x.com/AIBoticssq) · [Publicación original](https://x.com/AIBoticssq/status/2102349105724846399)
 
@@ -648,14 +642,14 @@ Renderizado 3D · Publicado
 
 Publicación original：[@AIBoticssq](https://x.com/AIBoticssq) · [Publicación original](https://x.com/AIBoticssq/status/2100916466694414727)
 
-**Resumen:** Traducción en curso
+**Resumen:** Construir una hermosa mariposa mecánica en Three.js.
 
 <img src="covers/2102349105724846399.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+construir una hermosa mariposa mecánica en Three.js.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -832,13 +826,13 @@ Una obra de arte digital surrealista de un joven sentado cómodamente en una esp
 
 <a name="prompt-2100777289344585856"></a>
 
-### Convierte una foto en una mascota virtual de juguete digital estilo años 90 y estética Y2K.
+### Traducción en curso
 
 Autor：[@catapatino](https://x.com/catapatino) · [Publicación original](https://x.com/catapatino/status/2100777289344585856)
 
 Otros · Publicado
 
-**Resumen:** Convierte una foto en una mascota virtual de juguete digital estilo años 90 y estética Y2K.
+**Resumen:** Traducción en curso
 
 <img src="images/2100777289344585856-1.jpg" alt="Imagen 1" width="480" />
 
@@ -847,7 +841,7 @@ Otros · Publicado
 **Prompt**
 
 ```text
-Usa mi foto y conviérteme en una mascota virtual dentro de un dispositivo ovalado al estilo de los juguetes digitales de los años 90. Pantalla pequeña en el centro, marco grueso, pixel art, personaje adorable dentro de la pantalla, estética Y2K.
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
