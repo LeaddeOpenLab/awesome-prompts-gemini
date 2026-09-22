@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T12:27:45.715Z",
+  "model": "gemini",
+  "prompt": "build a beautiful mechanical butterfly in Three.js.",
+  "promptTranslations": {
+    "en": "build a beautiful mechanical butterfly in Three.js."
+  },
+  "summaryTranslations": {
+    "en": "Build a beautiful mechanical butterfly in Three.js."
+  },
+  "translationVersion": 2,
+  "summary": "在 Three.js 中构建一只精美的机械蝴蝶。",
+  "summaryEn": "build a beautiful mechanical butterfly in Three.js.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2100916466694414727",
+      "canonicalUrl": "https://x.com/AIBoticssq/status/2100916466694414727",
+      "author": {
+        "username": "AIBoticssq",
+        "displayName": "AIBotics",
+        "profileUrl": "https://x.com/AIBoticssq"
+      },
+      "originalText": "🚨 GEMINI 4 IS NOW SHOWING UP IN ARENA.\n\nAnd the first side-by-side with GPT-6 is already interesting.\n\nSame prompt.\nSame goal.\nTwo frontier models.\nGemini 4's result looks seriously impressive, especially in the way it handles the build and overall execution.\nGPT-6 still holds its own, but the gap may be getting a lot smaller than people expected.\n\nIf Gemini 4 can consistently match GPT-6 across different tasks, Google may have just entered the next phase of the AI model war.\n\nThis is only one comparison.\n\nMore tests needed."
+    },
+    "id": "2102349105724846399",
+    "canonicalUrl": "https://x.com/AIBoticssq/status/2102349105724846399",
+    "author": {
+      "username": "AIBoticssq",
+      "displayName": "AIBotics",
+      "profileUrl": "https://x.com/AIBoticssq"
+    },
+    "publishedAt": "2026-09-22T10:47:41.000Z",
+    "collectedAt": "2026-09-22T12:15:28.194Z",
+    "language": "en",
+    "originalText": "🚨 GEMINI 4 PRO SURPRISES AGAIN, AND THIS TIME IT'S A MECHANICAL BUTTERFLY\n\nPrompt was simple: build a beautiful mechanical butterfly in Three.js.\n\nWhat came back isn't a static render. It's a full interactive engineering study, \"Papilio Mechanica,\" brass and blued steel wings built from real mechanical gear clusters, an assembled/exploded toggle, material swaps between azure, gold and obsidian finishes, and hover tooltips that explain individual components.\n\nSpec sheet included: 6.2m wingspan, 2.4kg mass, 112° stroke, 2.3Hz beat rate. Orbit, zoom, pan, take flight, all built into the scene itself.\n\nThis is the same checkpoint pattern we've been tracking, an unlabeled model producing outputs well above what its listed tier should be capable of.\n\nWorth being precise here rather than just repeating the claim: the mystery checkpoint people have been catching in Arena has been showing up under the \"gemini-3.8-flash\" label specifically, not 3.7. Gemini 3.7 Flash is a fully public, already documented GA model with its own model card and benchmarks, so if a source says 3.7, that's worth double checking before repeating it.\n\nEither way, the actual output here speaks for itself regardless of which label it was hiding under.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AIBoticssq/status/2102349105724846399",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102348990222086144/img/VwIbdsVacIiuVkQE.jpg",
+        "analysisUrl": "https://x.com/AIBoticssq/status/2102349105724846399"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/AIBoticssq/status/2102349105724846399",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100916248347336704/img/ffhYkrWnXKHcxOxT.jpg",
+        "analysisUrl": "https://x.com/AIBoticssq/status/2102349105724846399",
+        "sourcePostId": "2100916466694414727"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 4,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 677
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/AIBoticssq/status/2102349105724846399",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102348990222086144/img/VwIbdsVacIiuVkQE.jpg",
+  "coverPath": "covers/2102349105724846399.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102348990222086144",
+    "x-video:2100916248347336704",
+    "x-post:2102349105724846399",
+    "x-post:2100916466694414727"
+  ],
+  "analysis": {
+    "summary": "在 Three.js 中构建一只精美的机械蝴蝶。",
+    "summaryEn": "build a beautiful mechanical butterfly in Three.js.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The prompt describes creating a mechanical butterfly in Three.js; the first video demonstrates an interactive 3D model titled 'Papilio Mechanica' with detailed mechanical gear wings, exploded view, and flight mechanics matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "build a beautiful mechanical butterfly in Three.js.",
+    "sourceRange": {
+      "start": 94,
+      "end": 145
+    },
+    "translations": {
+      "zh": "在 Three.js 中构建一只精美的机械蝴蝶。",
+      "en": "build a beautiful mechanical butterfly in Three.js."
+    },
+    "targetModels": [
+      "gemini"
+    ],
+    "category": "text-to-3d",
+    "useCase": "Interactive 3D model generation and engineering visualization",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

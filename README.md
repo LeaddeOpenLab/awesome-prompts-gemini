@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**26** Prompts · Latest addition: **2026-09-21**
+**27** Prompts · Latest addition: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -626,6 +626,30 @@ Aqua crying in a grassy field
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2102349105724846399"></a>
+
+### Build a beautiful mechanical butterfly in Three.js.
+
+Author：[@AIBoticssq](https://x.com/AIBoticssq) · [Source](https://x.com/AIBoticssq/status/2102349105724846399)
+
+3D Render · Published
+
+Source：[@AIBoticssq](https://x.com/AIBoticssq) · [Source](https://x.com/AIBoticssq/status/2100916466694414727)
+
+**Summary:** Build a beautiful mechanical butterfly in Three.js.
+
+<img src="covers/2102349105724846399.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+build a beautiful mechanical butterfly in Three.js.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101687900723106104"></a>
 
